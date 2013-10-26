@@ -25,6 +25,12 @@
 </template>
 
 <template name="sidebar">
-  <!-- <strong>Information:</strong> -->
-  <div id="information"> </div>
+  <div id="information">
+    {{#each items}}
+      <div class="item">
+        <p class="pubmed-link"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{get_id this}}">Pubmed Link</a> </p>
+        <p class="title"> {{Title}} </p>
+      </div>
+    {{/each}}
+  </div>
 </template>

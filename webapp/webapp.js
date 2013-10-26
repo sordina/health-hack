@@ -1,5 +1,10 @@
 if (Meteor.isClient) {
 
+  history = new Meteor.Collection()
+
+  Template.sidebar.items  = function() { return history.find().fetch().reverse() }
+  Template.sidebar.get_id = function(e) { return e["Pubmed id"] }
+
   Template.mapbar.rendered = function() {
     // set up the map
     map = new L.Map('map');
@@ -13,26 +18,17 @@ if (Meteor.isClient) {
     map.setView(new L.LatLng(51.3, 0.7),3);
     map.addLayer(osm);
 
-    for(var i = 0; i < geojson.length; i++) {
-      console.log(['Adding geojson point ', geojson[i]])
-      var circle = L.circle([ geojson[i].features[0].geometry.coordinates[0], geojson[i].features[0].geometry.coordinates[1] ], 100000, {
-        color: 'red',
-        fillColor: '#f03',
-        fillOpacity: 0.2
-      }).addTo(map);
-
-      (function(title, pubmed_id){
-        circle.bindPopup( title )
-
-        circle.on('click', function() {
-          console.log(["Circle clicked with paper: ", circle])
-          var item = $("<div class='item'> <p class='pubmed-link'> <a href=''> </a> </p> <p class='title'> </p> </div>")
-          item.find('p.pubmed-link a').attr('href', 'http://www.ncbi.nlm.nih.gov/pubmed/' + pubmed_id).text('PubMed Link')
-          item.find('p.title').text('"' + title + '"')
-          $("#information").prepend(item)
-        })
-      })(geojson[i].features[0].properties.title, geojson[i].features[0].properties.pubmed_id);
-    }
+    papers.find().forEach(function(p){
+      var res = p["Info"].location.results[0]
+      if(res) {
+        var loc = res.geometry.location
+        console.log(['Adding paper', p])
+        var circle = L.circle([loc.lat, loc.lng], 100000, { color: 'red', fillColor: '#f03', fillOpacity: 0.2 })
+        circle.addTo(map)
+        circle.bindPopup(p["Title"])
+        circle.on("click",function(){history.insert(p)})
+      }
+    })
   }
 }
 
@@ -41,3 +37,5 @@ if (Meteor.isServer) {
     // code to run on server at startup
   });
 }
+
+papers = new Meteor.Collection("papers")
