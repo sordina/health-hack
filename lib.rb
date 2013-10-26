@@ -18,6 +18,27 @@ def cache url
   end
 end
 
+def parse_citation c
+  title     = c.css('.title a').text
+  pubmed_id = c.css('.aux dd').first.text
+  authors   = c.css('.supp .desc').first.text.split(/\s*,\s*/)
+  {:title       => title,
+   :id          => pubmed_id,
+   :authors     => authors,
+   :last_author => authors.last}
+end
+
+def citations pubmed_id, page = 0
+  query_result = cache "http://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=#{pubmed_id}"
+  doc = Nokogiri::HTML.parse query_result
+  pages = doc.xpath '//*[@id="maincontent"]/div/div[3]/div[2]/h2'
+  pages.text =~ /Results: (\d+) to (\d+) of (\d+)/
+  f, l, t = $1.to_i, $2.to_i, $3.to_i
+
+  results = doc.css(".rslt")
+  {:results => t, :first => f, :last => l, :citations => results.map {|c| parse_citation c } }
+end
+
 def meta_search term
   query_result = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=0&usehistory=y&term=#{TERM}"
   parse1       = Nokogiri::XML.parse query_result
@@ -27,7 +48,7 @@ def meta_search term
   {:webenv => webenv, :querykey => querykey}
 end
 
-def search webenv querykey
+def search webenv, querykey
   query2_text = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=xml&query_key=#{querykey}&WebEnv=#{webenv}&retstart=0&retmax=#{RESULTS_MAX}"
   parse2      = Nokogiri::XML.parse(query2_text)
 
