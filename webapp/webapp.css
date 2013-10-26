@@ -5,8 +5,18 @@
 }
 
 body {
+	font-family: sans-serif;
   margin: 0;
   padding: 0;
+	background: #f2f6f8; /* Old browsers */
+background: -moz-linear-gradient(top,  #f2f6f8 0%, #d8e1e7 92%, #b5c6d0 94%, #e0eff9 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f6f8), color-stop(92%,#d8e1e7), color-stop(94%,#b5c6d0), color-stop(100%,#e0eff9)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=0 ); /* IE6-9 */
+
 }
 
 body table { width: 100%; }
@@ -15,11 +25,6 @@ body table * { vertical-align: top; }
 
 body table td { padding: 0; }
 
-#sidebar {
-  width: 30%;
-  background: url(paperboy.jpg) no-repeat center center;
-}
-
 #information .item {
   background: white;
   padding: 0 10px 20px 10px;
@@ -27,5 +32,62 @@ body table td { padding: 0; }
   border: 1px solid black;
 }
 
-h1 input {font-size: 150%;}
-h1 em {font-size: 80%;}
+header {
+		background: #f2f6f8; /* Old browsers */
+background: -moz-linear-gradient(top,  #f2f6f8 0%, #d8e1e7 92%, #b5c6d0 94%, #e0eff9 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f6f8), color-stop(92%,#d8e1e7), color-stop(94%,#b5c6d0), color-stop(100%,#e0eff9)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f2f6f8 0%,#d8e1e7 92%,#b5c6d0 94%,#e0eff9 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f6f8', endColorstr='#e0eff9',GradientType=0 ); /* IE6-9 */
+
+}
+header h1 {
+	font-family: 'Cutive'; font-size: 162%; font-weight: normal;
+	text-shadow: 1px 1px 2px #707070;
+        filter: dropshadow(color=#707070, offx=1, offy=1);
+	display: inline-block;
+	padding-right: 2em;
+}
+
+/*
+nice to have a logo, but it'll need to be the right size
+header h1:before {
+	content: url(paperboy.jpg);
+	width: 1em;
+	height: 1em;
+	display: inline-block;
+}
+*/
+
+header input[type="search"] {
+	font-size: 16px;
+}
+header h1 em {font-size: 80%;}
+
+aside {
+	display: inline-block;
+	width: 30%;
+	height: 400px;
+  vertical-align: top;
+}
+
+article {
+	display: inline-block;
+	width: 600px;
+	height: 400px;
+}
+
+footer {
+font-size: 60%;
+color: #5F575E;
+display: block;
+height: 64px;
+padding-top: 4em;
+padding-left: 60px;
+}
+
+footer p {
+	/* padding-left: 60px; */
+}
