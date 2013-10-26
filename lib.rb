@@ -120,7 +120,7 @@ def convert_geojson list
       { "type" => "FeatureCollection",
         "features" => [
           { "type" => "Feature",
-            "properties" => {"title" => h["Title"]},
+            "properties" => {"title" => h["Title"], "pubmed_id" => h["Pubmed id"] },
             "geometry" => {"type" => "Point", "coordinates" => [foo["lat"], foo["lng"]]},
           }
         ]

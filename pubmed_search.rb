@@ -18,3 +18,8 @@ text = JSON.pretty_generate(convert_geojson(doc_list).compact)
 File.open("json/geojson_#{term}__#{results_max}_results.geojson", "w") do |f|
   f.write text
 end
+
+File.open("webapp/geojson.js", "w") do |f|
+  f.write "geojson = "
+  f.write text
+end

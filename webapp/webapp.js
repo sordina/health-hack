@@ -1,17 +1,6 @@
 if (Meteor.isClient) {
-  Template.hello.greeting = function () {
-    return "Welcome to webapp.";
-  };
 
-  Template.hello.events({
-    'click input' : function () {
-      // template data, if any, is available in 'this'
-      if (typeof console !== 'undefined')
-        console.log("You pressed the button");
-    }
-  });
-
-  Template.hello.rendered = function() {
+  Template.mapbar.rendered = function() {
     // set up the map
     map = new L.Map('map');
 
@@ -26,14 +15,23 @@ if (Meteor.isClient) {
 
     for(var i = 0; i < geojson.length; i++) {
       console.log(['Adding geojson point ', geojson[i]])
-      var circle = L.circle([ geojson[i].features[0].geometry.coordinates[0], geojson[i].features[0].geometry.coordinates[1] ], 10000, {
+      var circle = L.circle([ geojson[i].features[0].geometry.coordinates[0], geojson[i].features[0].geometry.coordinates[1] ], 100000, {
         color: 'red',
         fillColor: '#f03',
-        fillOpacity: 0.8
+        fillOpacity: 0.5
       }).addTo(map);
-      circle.bindPopup( geojson[i].features[0].properties.title )
 
-      circle.onclick = function() {console.log('testing')}
+      (function(title, pubmed_id){
+        circle.bindPopup( title )
+
+        circle.on('click', function() {
+          console.log(["Circle clicked with paper: ", circle])
+          var item = $("<div class='item'> <p class='pubmed-link'> <a href=''> </a> </p> <p class='title'> </p> </div>")
+          item.find('p.pubmed-link a').attr('href', 'http://www.ncbi.nlm.nih.gov/pubmed/' + pubmed_id).text('PubMed Link')
+          item.find('p.title').text('"' + title + '"')
+          $("#information").prepend(item)
+        })
+      })(geojson[i].features[0].properties.title, geojson[i].features[0].properties.pubmed_id);
     }
   }
 }

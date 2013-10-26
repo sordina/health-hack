@@ -1,5 +1,24 @@
 /* CSS declarations go here */
 
 #map {
-  height: 500px;
+  height: 700px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body table { width: 100%; }
+
+body table * { vertical-align: top; }
+
+body table td { padding: 0; }
+
+#sidebar { width: 30%; }
+
+#information .item {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
 }
