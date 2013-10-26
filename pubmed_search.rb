@@ -15,6 +15,6 @@ end
 
 text = JSON.pretty_generate(convert_geojson(doc_list).compact)
 # puts text
-File.open("json/geojson_#{term}__#{results_max}_results.json", "w") do |f|
+File.open("json/geojson_#{term}__#{results_max}_results.geojson", "w") do |f|
   f.write text
 end
