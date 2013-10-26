@@ -10,6 +10,7 @@ def cache url
   if File.exists? filename
     open(filename).read
   else
+    puts "caching #{url}"
     text = open(url).read
     File.open(filename,'w') do |f|
       f.write text
@@ -48,11 +49,22 @@ def meta_search term
   {:webenv => webenv, :querykey => querykey}
 end
 
+def info_search pubmed_id
+  text = cache "http://www.ncbi.nlm.nih.gov/pubmed/#{pubmed_id}"
+  doc = Nokogiri::HTML.parse text
+  institution = doc.css('.aff p').text
+  abstract = doc.css('.abstr p').text
+  {:institution => institution, :abstract => abstract}
+end
+
 def search webenv, querykey, results_max
   query2_text = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=xml&query_key=#{querykey}&WebEnv=#{webenv}&retstart=0&retmax=#{results_max}"
   parse2      = Nokogiri::XML.parse(query2_text)
 
   doc_list = parse2.css("DocSum").map do |doc|
+
+    pubmed_id = doc.css("Id").text
+
     top_level = [
       "Title",
       doc.css("Item[Name=Title]").text,
@@ -72,7 +84,7 @@ def search webenv, querykey, results_max
       doc.css("Item[Name=FullJournalName]").text,
 
       "Pubmed id",
-      doc.css("Id").text,
+      pubmed_id,
 
       "Pubtypes",
       doc.css("Item[Name=PubType]").map { |pt|
@@ -83,7 +95,10 @@ def search webenv, querykey, results_max
       doc.css("Item[Name=DOI]").text,
 
       "Citations",
-      citations(doc.css("Id").text)
+      citations(pubmed_id),
+
+      "Info",
+      info_search(pubmed_id)
     ]
 
     Hash[*top_level]
