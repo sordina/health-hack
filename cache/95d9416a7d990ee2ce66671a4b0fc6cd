@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD eSummaryResult, 29 October 2004//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSummary_041029.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>24147035</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 17</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 17</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jin JO</Item>
+		<Item Name="Author" Type="String">Shinohara Y</Item>
+		<Item Name="Author" Type="String">Yu Q</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Yu Q</Item>
+	<Item Name="Title" Type="String">Innate Immune Signaling Induces Interleukin-7 Production from Salivary Gland Cells and Accelerates the Development of Primary Sjӧgren's Syndrome in a Mouse Model.</Item>
+	<Item Name="Volume" Type="String">8</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e77605</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.pone.0077605</Item>
+		<Item Name="pii" Type="String">PONE-D-13-16554</Item>
+		<Item Name="pubmed" Type="String">24147035</Item>
+		<Item Name="eid" Type="String">24147035</Item>
+		<Item Name="rid" Type="String">24147035</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0077605</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/04/19 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/10 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/10/17 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/23 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/23 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/23 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0077605</Item>
+	<Item Name="SO" Type="String">2013 Oct 17;8(10):e77605</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24129118</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 12</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 12</Item>
+	<Item Name="Source" Type="String">Antiviral Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zinzula L</Item>
+		<Item Name="Author" Type="String">Tramontano E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tramontano E</Item>
+	<Item Name="Title" Type="String">Strategies of highly pathogenic RNA viruses to block dsRNA detection by RIG-I-like receptors: Hide, mask, hit.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8109699</Item>
+	<Item Name="ISSN" Type="String">0166-3542</Item>
+	<Item Name="ESSN" Type="String">1872-9096</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24129118</Item>
+		<Item Name="pii" Type="String">S0166-3542(13)00292-1</Item>
+		<Item Name="doi" Type="String">10.1016/j.antiviral.2013.10.002</Item>
+		<Item Name="eid" Type="String">24129118</Item>
+		<Item Name="rid" Type="String">24129118</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.antiviral.2013.10.002</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/06/19 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/24 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/04 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/17 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/17 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Antiviral research</Item>
+	<Item Name="ELocationID" Type="String">pii: S0166-3542(13)00292-1. doi: 10.1016/j.antiviral.2013.10.002</Item>
+	<Item Name="SO" Type="String">2013 Oct 12;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24117221</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="Source" Type="String">Autoimmunity</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zouk H</Item>
+		<Item Name="Author" Type="String">Marchand L</Item>
+		<Item Name="Author" Type="String">Li Q</Item>
+		<Item Name="Author" Type="String">Polychronakos C</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Polychronakos C</Item>
+	<Item Name="Title" Type="String">Functional characterization of the Thr946Ala SNP at the type 1 diabetes IFIH1 locus.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8900070</Item>
+	<Item Name="ISSN" Type="String">0891-6934</Item>
+	<Item Name="ESSN" Type="String">1607-842X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.3109/08916934.2013.832758</Item>
+		<Item Name="pubmed" Type="String">24117221</Item>
+		<Item Name="eid" Type="String">24117221</Item>
+		<Item Name="rid" Type="String">24117221</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3109/08916934.2013.832758</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/15 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/15 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/15 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Autoimmunity</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 14;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24099962</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 5</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 5</Item>
+	<Item Name="Source" Type="String">Eur J Pharmacol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Chen X</Item>
+		<Item Name="Author" Type="String">Qian Y</Item>
+		<Item Name="Author" Type="String">Yan F</Item>
+		<Item Name="Author" Type="String">Tu J</Item>
+		<Item Name="Author" Type="String">Yang X</Item>
+		<Item Name="Author" Type="String">Xing Y</Item>
+		<Item Name="Author" Type="String">Chen Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chen Z</Item>
+	<Item Name="Title" Type="String">5'-Triphosphate-siRNA activates RIG-I-dependent type I interferon production and enhances inhibition of hepatitis B virus replication in HepG2.2.15 cells.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">1254354</Item>
+	<Item Name="ISSN" Type="String">0014-2999</Item>
+	<Item Name="ESSN" Type="String">1879-0712</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24099962</Item>
+		<Item Name="pii" Type="String">S0014-2999(13)00714-0</Item>
+		<Item Name="doi" Type="String">10.1016/j.ejphar.2013.09.050</Item>
+		<Item Name="eid" Type="String">24099962</Item>
+		<Item Name="rid" Type="String">24099962</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.ejphar.2013.09.050</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/03/25 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/06 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/09 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/09 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/09 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">European journal of pharmacology</Item>
+	<Item Name="ELocationID" Type="String">pii: S0014-2999(13)00714-0. doi: 10.1016/j.ejphar.2013.09.050</Item>
+	<Item Name="SO" Type="String">2013 Oct 5;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24096085</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 3</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 3</Item>
+	<Item Name="Source" Type="String">Mol Immunol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Takaki H</Item>
+		<Item Name="Author" Type="String">Honda K</Item>
+		<Item Name="Author" Type="String">Atarashi K</Item>
+		<Item Name="Author" Type="String">Kobayashi F</Item>
+		<Item Name="Author" Type="String">Ebihara T</Item>
+		<Item Name="Author" Type="String">Oshiumi H</Item>
+		<Item Name="Author" Type="String">Matsumoto M</Item>
+		<Item Name="Author" Type="String">Shingai M</Item>
+		<Item Name="Author" Type="String">Seya T</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Seya T</Item>
+	<Item Name="Title" Type="String">MAVS-dependent IRF3/7 bypass of interferon β-induction restricts the response to measles infection in CD150Tg mouse bone marrow-derived dendritic cells.</Item>
+	<Item Name="Volume" Type="String">57</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">100-110</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7905289</Item>
+	<Item Name="ISSN" Type="String">0161-5890</Item>
+	<Item Name="ESSN" Type="String">1872-9142</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S0161-5890(13)00489-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.molimm.2013.08.007</Item>
+		<Item Name="pubmed" Type="String">24096085</Item>
+		<Item Name="eid" Type="String">24096085</Item>
+		<Item Name="rid" Type="String">24096085</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.molimm.2013.08.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/06/07 00:00</Item>
+		<Item Name="revised" Type="Date">2013/08/07 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/08/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/08 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/08 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/08 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Molecular immunology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.molimm.2013.08.007</Item>
+	<Item Name="SO" Type="String">2013 Oct 3;57(2):100-110</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24075870</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 26</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 26</Item>
+	<Item Name="Source" Type="String">J Mol Biol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Koma T</Item>
+		<Item Name="Author" Type="String">Huang C</Item>
+		<Item Name="Author" Type="String">Kolokoltsova OA</Item>
+		<Item Name="Author" Type="String">Brasier AR</Item>
+		<Item Name="Author" Type="String">Paessler S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Paessler S</Item>
+	<Item Name="Title" Type="String">Innate Immune Response to Arenaviral Infection: A Focus on the Highly Pathogenic New World Hemorrhagic Arenaviruses.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985088R</Item>
+	<Item Name="ISSN" Type="String">0022-2836</Item>
+	<Item Name="ESSN" Type="String">1089-8638</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24075870</Item>
+		<Item Name="pii" Type="String">S0022-2836(13)00612-8</Item>
+		<Item Name="doi" Type="String">10.1016/j.jmb.2013.09.028</Item>
+		<Item Name="eid" Type="String">24075870</Item>
+		<Item Name="rid" Type="String">24075870</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jmb.2013.09.028</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/08/01 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/19 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/01 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/01 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/01 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of molecular biology</Item>
+	<Item Name="ELocationID" Type="String">pii: S0022-2836(13)00612-8. doi: 10.1016/j.jmb.2013.09.028</Item>
+	<Item Name="SO" Type="String">2013 Sep 26;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24049081</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 18</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 18</Item>
+	<Item Name="Source" Type="String">Nucleic Acids Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sui H</Item>
+		<Item Name="Author" Type="String">Zhou M</Item>
+		<Item Name="Author" Type="String">Chen Q</Item>
+		<Item Name="Author" Type="String">Lane HC</Item>
+		<Item Name="Author" Type="String">Imamichi T</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Imamichi T</Item>
+	<Item Name="Title" Type="String">siRNA enhances DNA-mediated interferon lambda-1 response through crosstalk between RIG-I and IFI16 signalling pathway.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0411011</Item>
+	<Item Name="ISSN" Type="String">0305-1048</Item>
+	<Item Name="ESSN" Type="String">1362-4962</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">gkt844</Item>
+		<Item Name="doi" Type="String">10.1093/nar/gkt844</Item>
+		<Item Name="pubmed" Type="String">24049081</Item>
+		<Item Name="eid" Type="String">24049081</Item>
+		<Item Name="rid" Type="String">24049081</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1093/nar/gkt844</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/09/20 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/21 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Nucleic acids research</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Sep 18;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24039580</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 5</Item>
+	<Item Name="Source" Type="String">PLoS Pathog</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nikonov A</Item>
+		<Item Name="Author" Type="String">Mölder T</Item>
+		<Item Name="Author" Type="String">Sikut R</Item>
+		<Item Name="Author" Type="String">Kiiver K</Item>
+		<Item Name="Author" Type="String">Männik A</Item>
+		<Item Name="Author" Type="String">Toots U</Item>
+		<Item Name="Author" Type="String">Lulla A</Item>
+		<Item Name="Author" Type="String">Lulla V</Item>
+		<Item Name="Author" Type="String">Utt A</Item>
+		<Item Name="Author" Type="String">Merits A</Item>
+		<Item Name="Author" Type="String">Ustav M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ustav M</Item>
+	<Item Name="Title" Type="String">RIG-I and MDA-5 Detection of Viral RNA-dependent RNA Polymerase Activity Restricts Positive-Strand RNA Virus Replication.</Item>
+	<Item Name="Volume" Type="String">9</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">e1003610</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101238921</Item>
+	<Item Name="ISSN" Type="String">1553-7366</Item>
+	<Item Name="ESSN" Type="String">1553-7374</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.ppat.1003610</Item>
+		<Item Name="pii" Type="String">PPATHOGENS-D-12-01792</Item>
+		<Item Name="pubmed" Type="String">24039580</Item>
+		<Item Name="pmc" Type="String">PMC3764220</Item>
+		<Item Name="eid" Type="String">24039580</Item>
+		<Item Name="rid" Type="String">24039580</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3764220;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.ppat.1003610</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/07/24 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/07/25 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/09/05 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/17 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/17 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PLoS pathogens</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.ppat.1003610</Item>
+	<Item Name="SO" Type="String">2013 Sep;9(9):e1003610</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24037184</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 16</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 16</Item>
+	<Item Name="Source" Type="String">Cell Mol Immunol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liu Y</Item>
+		<Item Name="Author" Type="String">Lu N</Item>
+		<Item Name="Author" Type="String">Yuan B</Item>
+		<Item Name="Author" Type="String">Weng L</Item>
+		<Item Name="Author" Type="String">Wang F</Item>
+		<Item Name="Author" Type="String">Liu YJ</Item>
+		<Item Name="Author" Type="String">Zhang Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang Z</Item>
+	<Item Name="Title" Type="String">The interaction between the helicase DHX33 and IPS-1 as a novel pathway to sense double-stranded RNA and RNA viruses in myeloid dendritic cells.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101242872</Item>
+	<Item Name="ISSN" Type="String">1672-7681</Item>
+	<Item Name="ESSN" Type="String">2042-0226</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">cmi201340</Item>
+		<Item Name="doi" Type="String">10.1038/cmi.2013.40</Item>
+		<Item Name="pubmed" Type="String">24037184</Item>
+		<Item Name="eid" Type="String">24037184</Item>
+		<Item Name="rid" Type="String">24037184</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/cmi.2013.40</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/05/31 00:00</Item>
+		<Item Name="revised" Type="Date">2013/07/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/07/17 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/17 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/17 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Cellular &amp; molecular immunology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/cmi.2013.40</Item>
+	<Item Name="SO" Type="String">2013 Sep 16;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24013068</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 5</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 5</Item>
+	<Item Name="Source" Type="String">J Mol Biol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Amsler L</Item>
+		<Item Name="Author" Type="String">Verweij MC</Item>
+		<Item Name="Author" Type="String">Defilippis VR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Defilippis VR</Item>
+	<Item Name="Title" Type="String">The Tiers and Dimensions of Evasion of the Type I Interferon Response by Human Cytomegalovirus.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985088R</Item>
+	<Item Name="ISSN" Type="String">0022-2836</Item>
+	<Item Name="ESSN" Type="String">1089-8638</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24013068</Item>
+		<Item Name="pii" Type="String">S0022-2836(13)00556-1</Item>
+		<Item Name="doi" Type="String">10.1016/j.jmb.2013.08.023</Item>
+		<Item Name="eid" Type="String">24013068</Item>
+		<Item Name="rid" Type="String">24013068</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jmb.2013.08.023</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/08/08 00:00</Item>
+		<Item Name="revised" Type="Date">2013/08/28 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/08/29 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/10 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/10 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of molecular biology</Item>
+	<Item Name="ELocationID" Type="String">pii: S0022-2836(13)00556-1. doi: 10.1016/j.jmb.2013.08.023</Item>
+	<Item Name="SO" Type="String">2013 Sep 5;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24008049</Id>
+	<Item Name="PubDate" Type="Date">2013 Aug-Sep</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 2</Item>
+	<Item Name="Source" Type="String">Rev Neurol (Paris)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Weiss JM</Item>
+		<Item Name="Author" Type="String">Cufi P</Item>
+		<Item Name="Author" Type="String">Le Panse R</Item>
+		<Item Name="Author" Type="String">Berrih-Aknin S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Berrih-Aknin S</Item>
+	<Item Name="Title" Type="String">The thymus in autoimmune Myasthenia Gravis: Paradigm for a tertiary lymphoid organ.</Item>
+	<Item Name="Volume" Type="String">169</Item>
+	<Item Name="Issue" Type="String">8-9</Item>
+	<Item Name="Pages" Type="String">640-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2984779R</Item>
+	<Item Name="ISSN" Type="String">0035-3787</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24008049</Item>
+		<Item Name="pii" Type="String">S0035-3787(13)00843-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.neurol.2013.02.005</Item>
+		<Item Name="eid" Type="String">24008049</Item>
+		<Item Name="rid" Type="String">24008049</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.neurol.2013.02.005</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/09/24 00:00</Item>
+		<Item Name="revised" Type="Date">2013/01/10 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/02/04 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/09/02 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2013/09/07 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Revue neurologique</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.neurol.2013.02.005</Item>
+	<Item Name="SO" Type="String">2013 Aug-Sep;169(8-9):640-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23990781</Id>
+	<Item Name="PubDate" Type="Date">2013 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2013 Aug 22</Item>
+	<Item Name="Source" Type="String">PLoS Pathog</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ogolla PS</Item>
+		<Item Name="Author" Type="String">Portillo JA</Item>
+		<Item Name="Author" Type="String">White CL</Item>
+		<Item Name="Author" Type="String">Patel K</Item>
+		<Item Name="Author" Type="String">Lamb B</Item>
+		<Item Name="Author" Type="String">Sen GC</Item>
+		<Item Name="Author" Type="String">Subauste CS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Subauste CS</Item>
+	<Item Name="Title" Type="String">The protein kinase double-stranded RNA-dependent (PKR) enhances protection against disease cause by a non-viral pathogen.</Item>
+	<Item Name="Volume" Type="String">9</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">e1003557</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101238921</Item>
+	<Item Name="ISSN" Type="String">1553-7366</Item>
+	<Item Name="ESSN" Type="String">1553-7374</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.ppat.1003557</Item>
+		<Item Name="pii" Type="String">PPATHOGENS-D-12-02663</Item>
+		<Item Name="pubmed" Type="String">23990781</Item>
+		<Item Name="pmc" Type="String">PMC3749959</Item>
+		<Item Name="eid" Type="String">23990781</Item>
+		<Item Name="rid" Type="String">23990781</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3749959;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.ppat.1003557</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/10/30 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/07/01 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/08/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/08/31 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/31 06:00</Item>
+		<Item Name="medline" Type="Date">2013/08/31 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PLoS pathogens</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.ppat.1003557</Item>
+	<Item Name="SO" Type="String">2013 Aug;9(8):e1003557</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23962476</Id>
+	<Item Name="PubDate" Type="Date">2013 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jul 29</Item>
+	<Item Name="Source" Type="String">Immunobiology</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Unterholzner L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Unterholzner L</Item>
+	<Item Name="Title" Type="String">The interferon response to intracellular DNA: Why so many receptors?</Item>
+	<Item Name="Volume" Type="String">218</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">1312-21</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8002742</Item>
+	<Item Name="ISSN" Type="String">0171-2985</Item>
+	<Item Name="ESSN" Type="String">1878-3279</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">23962476</Item>
+		<Item Name="pii" Type="String">S0171-2985(13)00142-3</Item>
+		<Item Name="doi" Type="String">10.1016/j.imbio.2013.07.007</Item>
+		<Item Name="eid" Type="String">23962476</Item>
+		<Item Name="rid" Type="String">23962476</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.imbio.2013.07.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/05/13 00:00</Item>
+		<Item Name="revised" Type="Date">2013/07/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/07/17 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/07/29 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/08/22 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/22 06:00</Item>
+		<Item Name="medline" Type="Date">2013/08/22 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Immunobiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.imbio.2013.07.007</Item>
+	<Item Name="SO" Type="String">2013 Nov;218(11):1312-21</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23956427</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 15</Item>
+	<Item Name="EPubDate" Type="Date">2013 Aug 16</Item>
+	<Item Name="Source" Type="String">J Immunol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Fang F</Item>
+		<Item Name="Author" Type="String">Ooka K</Item>
+		<Item Name="Author" Type="String">Sun X</Item>
+		<Item Name="Author" Type="String">Shah R</Item>
+		<Item Name="Author" Type="String">Bhattacharyya S</Item>
+		<Item Name="Author" Type="String">Wei J</Item>
+		<Item Name="Author" Type="String">Varga J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Varga J</Item>
+	<Item Name="Title" Type="String">A synthetic TLR3 ligand mitigates profibrotic fibroblast responses by inducing autocrine IFN signaling.</Item>
+	<Item Name="Volume" Type="String">191</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">2956-66</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985117R</Item>
+	<Item Name="ISSN" Type="String">0022-1767</Item>
+	<Item Name="ESSN" Type="String">1550-6606</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">jimmunol.1300376</Item>
+		<Item Name="doi" Type="String">10.4049/jimmunol.1300376</Item>
+		<Item Name="pubmed" Type="String">23956427</Item>
+		<Item Name="eid" Type="String">23956427</Item>
+		<Item Name="rid" Type="String">23956427</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.4049/jimmunol.1300376</Item>
+	<Item Name="History" Type="List">
+		<Item Name="aheadofprint" Type="Date">2013/08/16 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/08/20 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/21 06:00</Item>
+		<Item Name="medline" Type="Date">2013/08/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of immunology (Baltimore, Md. : 1950)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.4049/jimmunol.1300376</Item>
+	<Item Name="SO" Type="String">2013 Sep 15;191(6):2956-66</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23953819</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">J Heart Lung Transplant</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Miller HL</Item>
+		<Item Name="Author" Type="String">Shah PD</Item>
+		<Item Name="Author" Type="String">Orens JB</Item>
+		<Item Name="Author" Type="String">McDyer JF</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">McDyer JF</Item>
+	<Item Name="Title" Type="String">Prevention of airway allograft tolerance by polyinosinic:polycytidylic acid requires type I interferon responsiveness for mouse airway obliteration.</Item>
+	<Item Name="Volume" Type="String">32</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">914-24</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9102703</Item>
+	<Item Name="ISSN" Type="String">1053-2498</Item>
+	<Item Name="ESSN" Type="String">1557-3117</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1053-2498(13)01323-5</Item>
+		<Item Name="doi" Type="String">10.1016/j.healun.2013.06.017</Item>
+		<Item Name="pubmed" Type="String">23953819</Item>
+		<Item Name="eid" Type="String">23953819</Item>
+		<Item Name="rid" Type="String">23953819</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.healun.2013.06.017</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/15 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/24 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/20 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/08/20 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/21 06:00</Item>
+		<Item Name="medline" Type="Date">2013/08/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.healun.2013.06.017</Item>
+	<Item Name="SO" Type="String">2013 Sep;32(9):914-24</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23911868</Id>
+	<Item Name="PubDate" Type="Date">2013 Aug 2</Item>
+	<Item Name="EPubDate" Type="Date">2013 Aug 2</Item>
+	<Item Name="Source" Type="String">J Leukoc Biol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Mian MF</Item>
+		<Item Name="Author" Type="String">Ahmed AN</Item>
+		<Item Name="Author" Type="String">Rad M</Item>
+		<Item Name="Author" Type="String">Babaian A</Item>
+		<Item Name="Author" Type="String">Bowdish D</Item>
+		<Item Name="Author" Type="String">Ashkar AA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ashkar AA</Item>
+	<Item Name="Title" Type="String">Length of dsRNA (poly I:C) drives distinct innate immune responses, depending on the cell type.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8405628</Item>
+	<Item Name="ISSN" Type="String">0741-5400</Item>
+	<Item Name="ESSN" Type="String">1938-3673</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">jlb.0312125</Item>
+		<Item Name="doi" Type="String">10.1189/jlb.0312125</Item>
+		<Item Name="pubmed" Type="String">23911868</Item>
+		<Item Name="eid" Type="String">23911868</Item>
+		<Item Name="rid" Type="String">23911868</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1189/jlb.0312125</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/08/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/06 06:00</Item>
+		<Item Name="medline" Type="Date">2013/08/06 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of leukocyte biology</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Aug 2;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23894547</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jul 23</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Uzri D</Item>
+		<Item Name="Author" Type="String">Greenberg HB</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Greenberg HB</Item>
+	<Item Name="Title" Type="String">Characterization of rotavirus RNAs that activate innate immune signaling through the RIG-I-like receptors.</Item>
+	<Item Name="Volume" Type="String">8</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">e69825</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish+ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.pone.0069825</Item>
+		<Item Name="pii" Type="String">PONE-D-13-20056</Item>
+		<Item Name="pubmed" Type="String">23894547</Item>
+		<Item Name="pmc" Type="String">PMC3720929</Item>
+		<Item Name="eid" Type="String">23894547</Item>
+		<Item Name="rid" Type="String">23894547</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3720929;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0069825</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/05/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/17 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/07/23 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/07/30 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/07/31 06:00</Item>
+		<Item Name="medline" Type="Date">2013/07/31 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0069825</Item>
+	<Item Name="SO" Type="String">2013;8(7):e69825</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23870315</Id>
+	<Item Name="PubDate" Type="Date">2013 Jul 17</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Cell Host Microbe</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Luthra P</Item>
+		<Item Name="Author" Type="String">Ramanan P</Item>
+		<Item Name="Author" Type="String">Mire CE</Item>
+		<Item Name="Author" Type="String">Weisend C</Item>
+		<Item Name="Author" Type="String">Tsuda Y</Item>
+		<Item Name="Author" Type="String">Yen B</Item>
+		<Item Name="Author" Type="String">Liu G</Item>
+		<Item Name="Author" Type="String">Leung DW</Item>
+		<Item Name="Author" Type="String">Geisbert TW</Item>
+		<Item Name="Author" Type="String">Ebihara H</Item>
+		<Item Name="Author" Type="String">Amarasinghe GK</Item>
+		<Item Name="Author" Type="String">Basler CF</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Basler CF</Item>
+	<Item Name="Title" Type="String">Mutual antagonism between the Ebola virus VP35 protein and the RIG-I activator PACT determines infection outcome.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">74-84</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101302316</Item>
+	<Item Name="ISSN" Type="String">1931-3128</Item>
+	<Item Name="ESSN" Type="String">1934-6069</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1931-3128(13)00226-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.chom.2013.06.010</Item>
+		<Item Name="pubmed" Type="String">23870315</Item>
+		<Item Name="eid" Type="String">23870315</Item>
+		<Item Name="rid" Type="String">23870315</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.chom.2013.06.010</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/08 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/07/23 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/07/23 06:00</Item>
+		<Item Name="medline" Type="Date">2013/07/23 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Comment in" Type="String">Cell Host Microbe. 2013 Jul 17;14(1):5-6. PMID: 23870307</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Cell host &amp; microbe</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.chom.2013.06.010</Item>
+	<Item Name="SO" Type="String">2013 Jul 17;14(1):74-84</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23846310</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jul 12</Item>
+	<Item Name="Source" Type="String">EMBO Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Patel JR</Item>
+		<Item Name="Author" Type="String">Jain A</Item>
+		<Item Name="Author" Type="String">Chou YY</Item>
+		<Item Name="Author" Type="String">Baum A</Item>
+		<Item Name="Author" Type="String">Ha T</Item>
+		<Item Name="Author" Type="String">García-Sastre A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">García-Sastre A</Item>
+	<Item Name="Title" Type="String">ATPase-driven oligomerization of RIG-I on RNA allows optimal activation of type-I interferon.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">780-7</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100963049</Item>
+	<Item Name="ISSN" Type="String">1469-221X</Item>
+	<Item Name="ESSN" Type="String">1469-3178</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">embor2013102</Item>
+		<Item Name="doi" Type="String">10.1038/embor.2013.102</Item>
+		<Item Name="pubmed" Type="String">23846310</Item>
+		<Item Name="pmc" Type="String">PMC3790048</Item>
+		<Item Name="eid" Type="String">23846310</Item>
+		<Item Name="rid" Type="String">23846310</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3790048;embargo-date:2014/09/01;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/embor.2013.102</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/05/16 00:00</Item>
+		<Item Name="revised" Type="Date">2013/06/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/24 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/07/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/07/13 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/07/13 06:00</Item>
+		<Item Name="medline" Type="Date">2013/07/13 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2014/09/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Comment in" Type="String">EMBO Rep. 2013 Sep;14(9):751-2. PMID: 23917614</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">EMBO reports</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/embor.2013.102</Item>
+	<Item Name="SO" Type="String">2013 Sep;14(9):780-7</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23836176</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jul 8</Item>
+	<Item Name="Source" Type="String">Antimicrob Agents Chemother</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kalkeri G</Item>
+		<Item Name="Author" Type="String">Lin C</Item>
+		<Item Name="Author" Type="String">Gopilan J</Item>
+		<Item Name="Author" Type="String">Sloan K</Item>
+		<Item Name="Author" Type="String">Rijnbrand R</Item>
+		<Item Name="Author" Type="String">Kwong AD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kwong AD</Item>
+	<Item Name="Title" Type="String">Restoration of the activated Rig-I pathway in hepatitis C virus (HCV) replicon cells by HCV protease, polymerase, and NS5A inhibitors in vitro at clinically relevant concentrations.</Item>
+	<Item Name="Volume" Type="String">57</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">4417-26</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0315061</Item>
+	<Item Name="ISSN" Type="String">0066-4804</Item>
+	<Item Name="ESSN" Type="String">1098-6596</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">AAC.00399-13</Item>
+		<Item Name="doi" Type="String">10.1128/AAC.00399-13</Item>
+		<Item Name="pubmed" Type="String">23836176</Item>
+		<Item Name="pmc" Type="String">PMC3754339</Item>
+		<Item Name="eid" Type="String">23836176</Item>
+		<Item Name="rid" Type="String">23836176</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3754339;embargo-date:2014/03/01;</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1128/AAC.00399-13</Item>
+	<Item Name="History" Type="List">
+		<Item Name="aheadofprint" Type="Date">2013/07/08 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/07/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/07/10 06:00</Item>
+		<Item Name="medline" Type="Date">2013/07/10 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2014/03/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Antimicrobial agents and chemotherapy</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1128/AAC.00399-13</Item>
+	<Item Name="SO" Type="String">2013 Sep;57(9):4417-26</Item>
+</DocSum>
+
+</eSummaryResult>

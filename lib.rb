@@ -40,7 +40,7 @@ def citations pubmed_id, page = 0
 end
 
 def meta_search term
-  query_result = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=0&usehistory=y&term=#{TERM}"
+  query_result = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=0&usehistory=y&term=#{term}"
   parse1       = Nokogiri::XML.parse query_result
   webenv       = parse1.css("WebEnv").text
   querykey     = parse1.css("QueryKey").text
@@ -48,8 +48,8 @@ def meta_search term
   {:webenv => webenv, :querykey => querykey}
 end
 
-def search webenv, querykey
-  query2_text = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=xml&query_key=#{querykey}&WebEnv=#{webenv}&retstart=0&retmax=#{RESULTS_MAX}"
+def search webenv, querykey, results_max
+  query2_text = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&retmode=xml&query_key=#{querykey}&WebEnv=#{webenv}&retstart=0&retmax=#{results_max}"
   parse2      = Nokogiri::XML.parse(query2_text)
 
   doc_list = parse2.css("DocSum").map do |doc|
@@ -80,7 +80,10 @@ def search webenv, querykey
       },
 
       "DOI",
-      doc.css("Item[Name=DOI]").text
+      doc.css("Item[Name=DOI]").text,
+
+      "Citations",
+      citations(doc.css("Id").text)
     ]
 
     Hash[*top_level]

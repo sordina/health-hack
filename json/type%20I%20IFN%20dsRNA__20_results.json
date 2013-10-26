@@ -1,0 +1,5936 @@
+[
+  {
+    "Title": "Innate Immune Signaling Induces Interleukin-7 Production from Salivary Gland Cells and Accelerates the Development of Primary Sjӧgren's Syndrome in a Mouse Model.",
+    "Last Author": "Yu Q",
+    "authors": [
+      "Jin JO",
+      "Shinohara Y",
+      "Yu Q"
+    ],
+    "Date": "2013 Oct 17",
+    "Journal": "PloS one",
+    "Pubmed id": "24147035",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1371/journal.pone.0077605",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Innate Immune Signaling Induces Interleukin-7 Production from Salivary Gland Cells and Accelerates the Development of Primary Sjӧgren's Syndrome in a Mouse Model.",
+          "id": "24147035",
+          "authors": [
+            "Jin JO",
+            "Shinohara Y",
+            "Yu Q."
+          ],
+          "last_author": "Yu Q."
+        },
+        {
+          "title": "Interleukin-7 enhances the Th1 response to promote the development of Sjögren's syndrome-like autoimmune exocrinopathy in mice.",
+          "id": "23666710",
+          "authors": [
+            "Jin JO",
+            "Kawai T",
+            "Cha S",
+            "Yu Q."
+          ],
+          "last_author": "Yu Q."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Salivary gland tissue expression of interleukin-23 and interleukin-17 in Sjögren's syndrome: findings in humans and mice.",
+          "id": "18311793",
+          "authors": [
+            "Nguyen CQ",
+            "Hu MH",
+            "Li Y",
+            "Stewart C",
+            "Peck AB."
+          ],
+          "last_author": "Peck AB."
+        },
+        {
+          "title": "Systemic administration of TLR3 agonist induces IL-7 expression and IL-7-dependent CXCR3 ligand production in the lung.",
+          "id": "23271706",
+          "authors": [
+            "Jin JO",
+            "Yu Q."
+          ],
+          "last_author": "Yu Q."
+        },
+        {
+          "title": "Salivary gland hypofunction induced by activation of innate immunity is dependent on type I interferon signaling.",
+          "id": "22672212",
+          "authors": [
+            "Nandula SR",
+            "Dey P",
+            "Corbin KL",
+            "Nunemaker CS",
+            "Bagavant H",
+            "Deshmukh US."
+          ],
+          "last_author": "Deshmukh US."
+        },
+        {
+          "title": "Activation of innate immune responses through Toll-like receptor 3 causes a rapid loss of salivary gland function.",
+          "id": "19192049",
+          "authors": [
+            "Deshmukh US",
+            "Nandula SR",
+            "Thimmalapura PR",
+            "Scindia YM",
+            "Bagavant H."
+          ],
+          "last_author": "Bagavant H."
+        },
+        {
+          "title": "Cytokine mRNA expression in salivary gland biopsies of Sjögren's syndrome.",
+          "id": "8189070",
+          "authors": [
+            "Fox RI",
+            "Kang HI",
+            "Ando D",
+            "Abrams J",
+            "Pisa E."
+          ],
+          "last_author": "Pisa E."
+        },
+        {
+          "title": "Anti-120-kDa alpha-fodrin immune response with Th1-cytokine profile in the NOD mouse model of Sjögren's syndrome.",
+          "id": "9808203",
+          "authors": [
+            "Yanagi K",
+            "Ishimaru N",
+            "Haneji N",
+            "Saegusa K",
+            "Saito I",
+            "Hayashi Y."
+          ],
+          "last_author": "Hayashi Y."
+        },
+        {
+          "title": "Development of Sjogren's syndrome in nonobese diabetic-derived autoimmune-prone C57BL/6.NOD-Aec1Aec2 mice is dependent on complement component-3.",
+          "id": "17675493",
+          "authors": [
+            "Nguyen CQ",
+            "Kim H",
+            "Cornelius JG",
+            "Peck AB."
+          ],
+          "last_author": "Peck AB."
+        },
+        {
+          "title": "TLR2 ligation induces the production of IL-23/IL-17 via IL-6, STAT3 and NF-kB pathway in patients with primary Sjogren's syndrome.",
+          "id": "22417709",
+          "authors": [
+            "Kwok SK",
+            "Cho ML",
+            "Her YM",
+            "Oh HJ",
+            "Park MK",
+            "Lee SY",
+            "Woo YJ",
+            "Ju JH",
+            "Park KS",
+            "Kim HY",
+            "Park SH."
+          ],
+          "last_author": "Park SH."
+        },
+        {
+          "title": "Role of sphingosine 1-phosphate in the pathogenesis of Sjögren's syndrome.",
+          "id": "18209090",
+          "authors": [
+            "Sekiguchi M",
+            "Iwasaki T",
+            "Kitano M",
+            "Kuno H",
+            "Hashimoto N",
+            "Kawahito Y",
+            "Azuma M",
+            "Hla T",
+            "Sano H."
+          ],
+          "last_author": "Sano H."
+        },
+        {
+          "title": "Differential gene expression in the salivary gland during development and onset of xerostomia in Sjögren's syndrome-like disease of the C57BL/6.NOD-Aec1Aec2 mouse.",
+          "id": "19379516",
+          "authors": [
+            "Nguyen CQ",
+            "Sharma A",
+            "Lee BH",
+            "She JX",
+            "McIndoe RA",
+            "Peck AB."
+          ],
+          "last_author": "Peck AB."
+        },
+        {
+          "title": "A dual role for interferon-gamma in the pathogenesis of Sjogren's syndrome-like autoimmune exocrinopathy in the nonobese diabetic mouse.",
+          "id": "15584966",
+          "authors": [
+            "Cha S",
+            "Brayer J",
+            "Gao J",
+            "Brown V",
+            "Killedar S",
+            "Yasunari U",
+            "Peck AB."
+          ],
+          "last_author": "Peck AB."
+        },
+        {
+          "title": "Two NOD Idd-associated intervals contribute synergistically to the development of autoimmune exocrinopathy (Sjögren's syndrome) on a healthy murine background.",
+          "id": "12115247",
+          "authors": [
+            "Cha S",
+            "Nagashima H",
+            "Brown VB",
+            "Peck AB",
+            "Humphreys-Beher MG."
+          ],
+          "last_author": "Humphreys-Beher MG."
+        },
+        {
+          "title": "Early pathogenic events associated with Sjögren's syndrome (SjS)-like disease of the NOD mouse using microarray analysis.",
+          "id": "17075579",
+          "authors": [
+            "Killedar SJ",
+            "Eckenrode SE",
+            "McIndoe RA",
+            "She JX",
+            "Nguyen CQ",
+            "Peck AB",
+            "Cha S."
+          ],
+          "last_author": "Cha S."
+        },
+        {
+          "title": "Cytokine mRNA expression in the labial salivary gland tissues from patients with primary Sjögren's syndrome.",
+          "id": "7788146",
+          "authors": [
+            "Boumba D",
+            "Skopouli FN",
+            "Moutsopoulos HM."
+          ],
+          "last_author": "Moutsopoulos HM."
+        },
+        {
+          "title": "Involvement of the interferon-gamma-induced T cell-attracting chemokines, interferon-gamma-inducible 10-kd protein (CXCL10) and monokine induced by interferon-gamma (CXCL9), in the salivary gland lesions of patients with Sjögren's syndrome.",
+          "id": "12384933",
+          "authors": [
+            "Ogawa N",
+            "Ping L",
+            "Zhenjun L",
+            "Takada Y",
+            "Sugai S."
+          ],
+          "last_author": "Sugai S."
+        },
+        {
+          "title": "Increased expression of interleukin-7 in labial salivary glands of patients with primary Sjögren's syndrome correlates with increased inflammation.",
+          "id": "20131250",
+          "authors": [
+            "Bikker A",
+            "van Woerkom JM",
+            "Kruize AA",
+            "Wenting-van Wijk M",
+            "de Jager W",
+            "Bijlsma JW",
+            "Lafeber FP",
+            "van Roon JA."
+          ],
+          "last_author": "van Roon JA."
+        },
+        {
+          "title": "Inflammatory caspases are critical for enhanced cell death in the target tissue of Sjögren's syndrome before disease onset.",
+          "id": "18936772",
+          "authors": [
+            "Bulosan M",
+            "Pauley KM",
+            "Yo K",
+            "Chan EK",
+            "Katz J",
+            "Peck AB",
+            "Cha S."
+          ],
+          "last_author": "Cha S."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Strategies of highly pathogenic RNA viruses to block dsRNA detection by RIG-I-like receptors: Hide, mask, hit.",
+    "Last Author": "Tramontano E",
+    "authors": [
+      "Zinzula L",
+      "Tramontano E"
+    ],
+    "Date": "2013 Oct 12",
+    "Journal": "Antiviral research",
+    "Pubmed id": "24129118",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.antiviral.2013.10.002",
+    "Citations": {
+      "results": 103,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Strategies of highly pathogenic RNA viruses to block dsRNA detection by RIG-I-like receptors: Hide, mask, hit.",
+          "id": "24129118",
+          "authors": [
+            "Zinzula L",
+            "Tramontano E."
+          ],
+          "last_author": "Tramontano E."
+        },
+        {
+          "title": "Processing of genome 5' termini as a strategy of negative-strand RNA viruses to avoid RIG-I-dependent interferon induction.",
+          "id": "18446221",
+          "authors": [
+            "Habjan M",
+            "Andersson I",
+            "Klingström J",
+            "Schümann M",
+            "Martin A",
+            "Zimmermann P",
+            "Wagner V",
+            "Pichlmair A",
+            "Schneider U",
+            "Mühlberger E",
+            "Mirazimi A",
+            "Weber F."
+          ],
+          "last_author": "Weber F."
+        },
+        {
+          "title": "The RIG-I-like receptor LGP2 recognizes the termini of double-stranded RNA.",
+          "id": "19278996",
+          "authors": [
+            "Li X",
+            "Ranjith-Kumar CT",
+            "Brooks MT",
+            "Dharmaiah S",
+            "Herr AB",
+            "Kao C",
+            "Li P."
+          ],
+          "last_author": "Li P."
+        },
+        {
+          "title": "Structural basis for Marburg virus VP35-mediated immune evasion mechanisms.",
+          "id": "23185024",
+          "authors": [
+            "Ramanan P",
+            "Edwards MR",
+            "Shabman RS",
+            "Leung DW",
+            "Endlich-Frazier AC",
+            "Borek DM",
+            "Otwinowski Z",
+            "Liu G",
+            "Huh J",
+            "Basler CF",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "Differential roles of MDA5 and RIG-I helicases in the recognition of RNA viruses.",
+          "id": "16625202",
+          "authors": [
+            "Kato H",
+            "Takeuchi O",
+            "Sato S",
+            "Yoneyama M",
+            "Yamamoto M",
+            "Matsui K",
+            "Uematsu S",
+            "Jung A",
+            "Kawai T",
+            "Ishii KJ",
+            "Yamaguchi O",
+            "Otsu K",
+            "Tsujimura T",
+            "Koh CS",
+            "Reis e Sousa C",
+            "Matsuura Y",
+            "Fujita T",
+            "Akira S."
+          ],
+          "last_author": "Akira S."
+        },
+        {
+          "title": "LGP2 is a positive regulator of RIG-I- and MDA5-mediated antiviral responses.",
+          "id": "20080593",
+          "authors": [
+            "Satoh T",
+            "Kato H",
+            "Kumagai Y",
+            "Yoneyama M",
+            "Sato S",
+            "Matsushita K",
+            "Tsujimura T",
+            "Fujita T",
+            "Akira S",
+            "Takeuchi O."
+          ],
+          "last_author": "Takeuchi O."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Structural basis of double-stranded RNA recognition by the RIG-I like receptor MDA5.",
+          "id": "19531363",
+          "authors": [
+            "Li X",
+            "Lu C",
+            "Stewart M",
+            "Xu H",
+            "Strong RK",
+            "Igumenova T",
+            "Li P."
+          ],
+          "last_author": "Li P."
+        },
+        {
+          "title": "Expression and functional characterization of the RIG-I-like receptors MDA5 and LGP2 in Rainbow trout (Oncorhynchus mykiss).",
+          "id": "21680521",
+          "authors": [
+            "Chang M",
+            "Collet B",
+            "Nie P",
+            "Lester K",
+            "Campbell S",
+            "Secombes CJ",
+            "Zou J."
+          ],
+          "last_author": "Zou J."
+        },
+        {
+          "title": "Cytosolic antiviral RNA recognition pathway activates caspases 1 and 3.",
+          "id": "18209072",
+          "authors": [
+            "Rintahaka J",
+            "Wiik D",
+            "Kovanen PE",
+            "Alenius H",
+            "Matikainen S."
+          ],
+          "last_author": "Matikainen S."
+        },
+        {
+          "title": "Retinoic acid inducible gene-I and melanoma differentiation-associated gene 5 are induced but not essential for dengue virus induced type I interferon response.",
+          "id": "21113677",
+          "authors": [
+            "Qin CF",
+            "Zhao H",
+            "Liu ZY",
+            "Jiang T",
+            "Deng YQ",
+            "Yu XD",
+            "Yu M",
+            "Qin ED."
+          ],
+          "last_author": "Qin ED."
+        },
+        {
+          "title": "The C proteins of human parainfluenza virus type 1 limit double-stranded RNA accumulation that would otherwise trigger activation of MDA5 and protein kinase R.",
+          "id": "21123378",
+          "authors": [
+            "Boonyaratanakornkit J",
+            "Bartlett E",
+            "Schomacker H",
+            "Surman S",
+            "Akira S",
+            "Bae YS",
+            "Collins P",
+            "Murphy B",
+            "Schmidt A."
+          ],
+          "last_author": "Schmidt A."
+        },
+        {
+          "title": "Toll-like receptors and viruses: induction of innate antiviral immune responses.",
+          "id": "19088911",
+          "authors": [
+            "Xagorari A",
+            "Chlichlia K."
+          ],
+          "last_author": "Chlichlia K."
+        },
+        {
+          "title": "Signal regulatory protein alpha negatively regulates both TLR3 and cytoplasmic pathways in type I interferon induction.",
+          "id": "18471880",
+          "authors": [
+            "Dong LW",
+            "Kong XN",
+            "Yan HX",
+            "Yu LX",
+            "Chen L",
+            "Yang W",
+            "Liu Q",
+            "Huang DD",
+            "Wu MC",
+            "Wang HY."
+          ],
+          "last_author": "Wang HY."
+        },
+        {
+          "title": "Solution structures of cytosolic RNA sensor MDA5 and LGP2 C-terminal domains: identification of the RNA recognition loop in RIG-I-like receptors.",
+          "id": "19380577",
+          "authors": [
+            "Takahasi K",
+            "Kumeta H",
+            "Tsuduki N",
+            "Narita R",
+            "Shigemoto T",
+            "Hirai R",
+            "Yoneyama M",
+            "Horiuchi M",
+            "Ogura K",
+            "Fujita T",
+            "Inagaki F."
+          ],
+          "last_author": "Inagaki F."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "Inhibition of retinoic acid-inducible gene I-mediated induction of beta interferon by the NS1 protein of influenza A virus.",
+          "id": "17079289",
+          "authors": [
+            "Mibayashi M",
+            "Martínez-Sobrido L",
+            "Loo YM",
+            "Cárdenas WB",
+            "Gale M Jr",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "Protein kinase regulated by dsRNA downregulates the interferon production in dengue virus- and dsRNA-stimulated human lung epithelial cells.",
+          "id": "23372823",
+          "authors": [
+            "Li Y",
+            "Xie J",
+            "Wu S",
+            "Xia J",
+            "Zhang P",
+            "Liu C",
+            "Zhang P",
+            "Huang X."
+          ],
+          "last_author": "Huang X."
+        },
+        {
+          "title": "Rhinovirus and dsRNA induce RIG-I-like receptors and expression of interferon β and λ1 in human bronchial smooth muscle cells.",
+          "id": "23658644",
+          "authors": [
+            "Calvén J",
+            "Yudina Y",
+            "Uller L."
+          ],
+          "last_author": "Uller L."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Functional characterization of the Thr946Ala SNP at the type 1 diabetes IFIH1 locus.",
+    "Last Author": "Polychronakos C",
+    "authors": [
+      "Zouk H",
+      "Marchand L",
+      "Li Q",
+      "Polychronakos C"
+    ],
+    "Date": "2013 Oct 14",
+    "Journal": "Autoimmunity",
+    "Pubmed id": "24117221",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.3109/08916934.2013.832758",
+    "Citations": {
+      "results": 97,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Functional characterization of the Thr946Ala SNP at the type 1 diabetes IFIH1 locus.",
+          "id": "24117221",
+          "authors": [
+            "Zouk H",
+            "Marchand L",
+            "Li Q",
+            "Polychronakos C."
+          ],
+          "last_author": "Polychronakos C."
+        },
+        {
+          "title": "Study of transcriptional effects in Cis at the IFIH1 locus.",
+          "id": "20644636",
+          "authors": [
+            "Zouk H",
+            "Marchand L",
+            "Polychronakos C."
+          ],
+          "last_author": "Polychronakos C."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Reduced expression of IFIH1 is protective for type 1 diabetes.",
+          "id": "20844740",
+          "authors": [
+            "Downes K",
+            "Pekalski M",
+            "Angus KL",
+            "Hardy M",
+            "Nutland S",
+            "Smyth DJ",
+            "Walker NM",
+            "Wallace C",
+            "Todd JA."
+          ],
+          "last_author": "Todd JA."
+        },
+        {
+          "title": "Autoimmune disease risk variant of IFIH1 is associated with increased sensitivity to IFN-α and serologic autoimmunity in lupus patients.",
+          "id": "21705624",
+          "authors": [
+            "Robinson T",
+            "Kariuki SN",
+            "Franek BS",
+            "Kumabe M",
+            "Kumar AA",
+            "Badaracco M",
+            "Mikolaitis RA",
+            "Guerrero G",
+            "Utset TO",
+            "Drevlow BE",
+            "Zaacks LS",
+            "Grober JS",
+            "Cohen LM",
+            "Kirou KA",
+            "Crow MK",
+            "Jolly M",
+            "Niewold TB."
+          ],
+          "last_author": "Niewold TB."
+        },
+        {
+          "title": "Enterovirus RNA in peripheral blood may be associated with the variants of rs1990760, a common type 1 diabetes associated polymorphism in IFIH1.",
+          "id": "23144876",
+          "authors": [
+            "Cinek O",
+            "Tapia G",
+            "Witsø E",
+            "Kramna L",
+            "Holkova K",
+            "Rasmussen T",
+            "Stene LC",
+            "Rønningen KS."
+          ],
+          "last_author": "Rønningen KS."
+        },
+        {
+          "title": "Loss-of-function mutations E6 27X and I923V of IFIH1 are associated with lower poly(I:C)-induced interferon-β production in peripheral blood mononuclear cells of type 1 diabetes patients.",
+          "id": "20736039",
+          "authors": [
+            "Chistiakov DA",
+            "Voronova NV",
+            "Savost'Anov KV",
+            "Turakulov RI."
+          ],
+          "last_author": "Turakulov RI."
+        },
+        {
+          "title": "A genome-wide association study of nonsynonymous SNPs identifies a type 1 diabetes locus in the interferon-induced helicase (IFIH1) region.",
+          "id": "16699517",
+          "authors": [
+            "Smyth DJ",
+            "Cooper JD",
+            "Bailey R",
+            "Field S",
+            "Burren O",
+            "Smink LJ",
+            "Guja C",
+            "Ionescu-Tirgoviste C",
+            "Widmer B",
+            "Dunger DB",
+            "Savage DA",
+            "Walker NM",
+            "Clayton DG",
+            "Todd JA."
+          ],
+          "last_author": "Todd JA."
+        },
+        {
+          "title": "Polymorphisms in the interferon-induced helicase (IFIH1) locus and susceptibility to Addison's disease.",
+          "id": "22789000",
+          "authors": [
+            "Zurawek M",
+            "Fichna M",
+            "Januszkiewicz D",
+            "Fichna P",
+            "Nowak J."
+          ],
+          "last_author": "Nowak J."
+        },
+        {
+          "title": "No evidence of association of the rare nsSNP rs35667974 in IFIH1 with multiple sclerosis.",
+          "id": "20116863",
+          "authors": [
+            "Bergamaschi L",
+            "Ban M",
+            "Leone MA",
+            "Sawcer SJ",
+            "D'Alfonso S."
+          ],
+          "last_author": "D'Alfonso S."
+        },
+        {
+          "title": "IFIH1 polymorphisms are significantly associated with type 1 diabetes and IFIH1 gene expression in peripheral blood mononuclear cells.",
+          "id": "18927125",
+          "authors": [
+            "Liu S",
+            "Wang H",
+            "Jin Y",
+            "Podolsky R",
+            "Reddy MV",
+            "Pedersen J",
+            "Bode B",
+            "Reed J",
+            "Steed D",
+            "Anderson S",
+            "Yang P",
+            "Muir A",
+            "Steed L",
+            "Hopkins D",
+            "Huang Y",
+            "Purohit S",
+            "Wang CY",
+            "Steck AK",
+            "Montemari A",
+            "Eisenbarth G",
+            "Rewers M",
+            "She JX."
+          ],
+          "last_author": "She JX."
+        },
+        {
+          "title": "Association analysis of cytokine polymorphisms and plasma level in Northern Chinese Han patients with paroxysmal nocturnal hemoglobinuria.",
+          "id": "22800824",
+          "authors": [
+            "Wang SY",
+            "Yang XJ",
+            "Yang SS",
+            "Wang W",
+            "Tian YY",
+            "Cao FL",
+            "Zhou J."
+          ],
+          "last_author": "Zhou J."
+        },
+        {
+          "title": "The rs1990760 polymorphism within the IFIH1 locus is not associated with Graves' disease, Hashimoto's thyroiditis and Addison's disease.",
+          "id": "19961590",
+          "authors": [
+            "Penna-Martinez M",
+            "Ramos-Lopez E",
+            "Robbers I",
+            "Kahles H",
+            "Hahner S",
+            "Willenberg H",
+            "Reisch N",
+            "Seidl C",
+            "Segni M",
+            "Badenhoop K."
+          ],
+          "last_author": "Badenhoop K."
+        },
+        {
+          "title": "Population genetics of IFIH1: ancient population structure, local selection, and implications for susceptibility to type 1 diabetes.",
+          "id": "20538742",
+          "authors": [
+            "Fumagalli M",
+            "Cagliani R",
+            "Riva S",
+            "Pozzoli U",
+            "Biasin M",
+            "Piacentini L",
+            "Comi GP",
+            "Bresolin N",
+            "Clerici M",
+            "Sironi M."
+          ],
+          "last_author": "Sironi M."
+        },
+        {
+          "title": "Transcriptional induction by double-stranded RNA is mediated by interferon-stimulated response elements without activation of interferon-stimulated gene factor 3.",
+          "id": "7642650",
+          "authors": [
+            "Bandyopadhyay SK",
+            "Leonard GT Jr",
+            "Bandyopadhyay T",
+            "Stark GR",
+            "Sen GC."
+          ],
+          "last_author": "Sen GC."
+        },
+        {
+          "title": "Interferon-beta induction through toll-like receptor 3 depends on double-stranded RNA structure.",
+          "id": "16225392",
+          "authors": [
+            "Okahira S",
+            "Nishikawa F",
+            "Nishikawa S",
+            "Akazawa T",
+            "Seya T",
+            "Matsumoto M."
+          ],
+          "last_author": "Matsumoto M."
+        },
+        {
+          "title": "Analysis of 19 genes for association with type I diabetes in the Type I Diabetes Genetics Consortium families.",
+          "id": "19956106",
+          "authors": [
+            "Howson JM",
+            "Walker NM",
+            "Smyth DJ",
+            "Todd JA; Type I Diabetes Genetics Consortium."
+          ],
+          "last_author": "Todd JA; Type I Diabetes Genetics Consortium."
+        },
+        {
+          "title": "Interferon induced with helicase C domain 1 (IFIH1): trends on helicase domain and type 1 diabetes onset.",
+          "id": "23246693",
+          "authors": [
+            "Moura R",
+            "Araujo J",
+            "Guimarães R",
+            "Crovella S",
+            "Brandão L."
+          ],
+          "last_author": "Brandão L."
+        },
+        {
+          "title": "Double-stranded RNA-dependent protein kinase is not required for double-stranded RNA-induced nitric oxide synthase expression or nuclear factor-kappaB activation by islets.",
+          "id": "11272138",
+          "authors": [
+            "Blair LA",
+            "Heitmeier MR",
+            "Scarim AL",
+            "Maggi LB Jr",
+            "Corbett JA."
+          ],
+          "last_author": "Corbett JA."
+        },
+        {
+          "title": "Signal regulatory protein alpha negatively regulates both TLR3 and cytoplasmic pathways in type I interferon induction.",
+          "id": "18471880",
+          "authors": [
+            "Dong LW",
+            "Kong XN",
+            "Yan HX",
+            "Yu LX",
+            "Chen L",
+            "Yang W",
+            "Liu Q",
+            "Huang DD",
+            "Wu MC",
+            "Wang HY."
+          ],
+          "last_author": "Wang HY."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "5'-Triphosphate-siRNA activates RIG-I-dependent type I interferon production and enhances inhibition of hepatitis B virus replication in HepG2.2.15 cells.",
+    "Last Author": "Chen Z",
+    "authors": [
+      "Chen X",
+      "Qian Y",
+      "Yan F",
+      "Tu J",
+      "Yang X",
+      "Xing Y",
+      "Chen Z"
+    ],
+    "Date": "2013 Oct 5",
+    "Journal": "European journal of pharmacology",
+    "Pubmed id": "24099962",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.ejphar.2013.09.050",
+    "Citations": {
+      "results": 103,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "5'-Triphosphate-siRNA activates RIG-I-dependent type I interferon production and enhances inhibition of hepatitis B virus replication in HepG2.2.15 cells.",
+          "id": "24099962",
+          "authors": [
+            "Chen X",
+            "Qian Y",
+            "Yan F",
+            "Tu J",
+            "Yang X",
+            "Xing Y",
+            "Chen Z."
+          ],
+          "last_author": "Chen Z."
+        },
+        {
+          "title": "Reversal of hepatitis B virus-induced immune tolerance by an immunostimulatory 3p-HBx-siRNAs in a retinoic acid inducible gene I-dependent manner.",
+          "id": "21721030",
+          "authors": [
+            "Han Q",
+            "Zhang C",
+            "Zhang J",
+            "Tian Z."
+          ],
+          "last_author": "Tian Z."
+        },
+        {
+          "title": "5' Triphosphorylated small interfering RNAs control replication of hepatitis B virus and induce an interferon response in human liver cells and mice.",
+          "id": "21684282",
+          "authors": [
+            "Ebert G",
+            "Poeck H",
+            "Lucifora J",
+            "Baschuk N",
+            "Esser K",
+            "Esposito I",
+            "Hartmann G",
+            "Protzer U."
+          ],
+          "last_author": "Protzer U."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Hepatitis B virus suppresses toll-like receptor-mediated innate immune responses in murine parenchymal and nonparenchymal liver cells.",
+          "id": "19140219",
+          "authors": [
+            "Wu J",
+            "Meng Z",
+            "Jiang M",
+            "Pei R",
+            "Trippler M",
+            "Broering R",
+            "Bucchi A",
+            "Sowa JP",
+            "Dittmer U",
+            "Yang D",
+            "Roggendorf M",
+            "Gerken G",
+            "Lu M",
+            "Schlaak JF."
+          ],
+          "last_author": "Schlaak JF."
+        },
+        {
+          "title": "[PreC/C gene-targeting RNA interference suppresses hepatitis B virus replication and expression in human hepatoma cells].",
+          "id": "22781359",
+          "authors": [
+            "Bian ZQ",
+            "Liu S",
+            "Liu MQ",
+            "Xiao A",
+            "Jiao Y",
+            "Yan WY",
+            "Zheng ZX."
+          ],
+          "last_author": "Zheng ZX."
+        },
+        {
+          "title": "Activation of pattern recognition receptor-mediated innate immunity inhibits the replication of hepatitis B virus in human hepatocyte-derived cells.",
+          "id": "18971270",
+          "authors": [
+            "Guo H",
+            "Jiang D",
+            "Ma D",
+            "Chang J",
+            "Dougherty AM",
+            "Cuconati A",
+            "Block TM",
+            "Guo JT."
+          ],
+          "last_author": "Guo JT."
+        },
+        {
+          "title": "Combination therapy of siRNAs mediates greater suppression on hepatitis B virus cccDNA in HepG2.2.15 cell.",
+          "id": "19260501",
+          "authors": [
+            "Xin XM",
+            "Li GQ",
+            "Guan XR",
+            "Li D",
+            "Xu WZ",
+            "Jin YY",
+            "Gu HX."
+          ],
+          "last_author": "Gu HX."
+        },
+        {
+          "title": "RNA interference inhibits hepatitis B virus gene expression and replication in HepG2-N10 cells.",
+          "id": "17054586",
+          "authors": [
+            "Ren JL",
+            "Pan JS",
+            "Cheng T",
+            "Dong J",
+            "Lu YP",
+            "Huang SJ",
+            "Shi HX",
+            "Wang L",
+            "Lian YM."
+          ],
+          "last_author": "Lian YM."
+        },
+        {
+          "title": "Suppression of hepatitis B virus replication by microRNA-199a-3p and microRNA-210.",
+          "id": "20728471",
+          "authors": [
+            "Zhang GL",
+            "Li YX",
+            "Zheng SQ",
+            "Liu M",
+            "Li X",
+            "Tang H."
+          ],
+          "last_author": "Tang H."
+        },
+        {
+          "title": "Combination of small interfering RNA and lamivudine on inhibition of human B virus replication in HepG2.2.15 cells.",
+          "id": "17511031",
+          "authors": [
+            "Li GQ",
+            "Xu WZ",
+            "Wang JX",
+            "Deng WW",
+            "Li D",
+            "Gu HX."
+          ],
+          "last_author": "Gu HX."
+        },
+        {
+          "title": "Hepatitis B virus inhibition in mice by lentiviral vector mediated short hairpin RNA.",
+          "id": "19804649",
+          "authors": [
+            "Deng L",
+            "Li G",
+            "Xi L",
+            "Yin A",
+            "Gao Y",
+            "You W",
+            "Wang X",
+            "Sun B."
+          ],
+          "last_author": "Sun B."
+        },
+        {
+          "title": "[Transfection of siRNA expressing plasmids targeting S gene inhibits replication and expression of hepatitis B virus in hepatic cancer cells].",
+          "id": "19563716",
+          "authors": [
+            "Bian ZQ",
+            "Cui ZL",
+            "Chen WZ",
+            "Liu MQ",
+            "Yan WY",
+            "Zheng ZX."
+          ],
+          "last_author": "Zheng ZX."
+        },
+        {
+          "title": "Anti-HBV efficacy of combined siRNAs targeting viral gene and heat shock cognate 70.",
+          "id": "23158906",
+          "authors": [
+            "Bian Z",
+            "Xiao A",
+            "Cao M",
+            "Liu M",
+            "Liu S",
+            "Jiao Y",
+            "Yan W",
+            "Qi Z",
+            "Zheng Z."
+          ],
+          "last_author": "Zheng Z."
+        },
+        {
+          "title": "Epigallocatechin gallate inhibits HBV DNA synthesis in a viral replication - inducible cell line.",
+          "id": "21472112",
+          "authors": [
+            "He W",
+            "Li LX",
+            "Liao QJ",
+            "Liu CL",
+            "Chen XL."
+          ],
+          "last_author": "Chen XL."
+        },
+        {
+          "title": "siRNA pool targeting different sites of human hepatitis B surface antigen efficiently inhibits HBV infection.",
+          "id": "18274934",
+          "authors": [
+            "Chen Y",
+            "Mahato RI."
+          ],
+          "last_author": "Mahato RI."
+        },
+        {
+          "title": "Effective inhibition of hepatitis B virus replication by small interfering RNAs expressed from human foamy virus vectors.",
+          "id": "17334648",
+          "authors": [
+            "Sun Y",
+            "Li Z",
+            "Li L",
+            "Li J",
+            "Liu X",
+            "Li W."
+          ],
+          "last_author": "Li W."
+        },
+        {
+          "title": "Small interfering RNA inhibits hepatitis B virus replication in mice.",
+          "id": "14599810",
+          "authors": [
+            "Giladi H",
+            "Ketzinel-Gilad M",
+            "Rivkin L",
+            "Felig Y",
+            "Nussbaum O",
+            "Galun E."
+          ],
+          "last_author": "Galun E."
+        },
+        {
+          "title": "Inhibition of HBV replication by siRNA in a stable HBV-producing cell line.",
+          "id": "14512871",
+          "authors": [
+            "Konishi M",
+            "Wu CH",
+            "Wu GY."
+          ],
+          "last_author": "Wu GY."
+        },
+        {
+          "title": "Combination of small interfering RNAs mediates greater suppression on hepatitis B virus cccDNA in HepG2.2.15 cells.",
+          "id": "18609708",
+          "authors": [
+            "Xin XM",
+            "Li GQ",
+            "Jin YY",
+            "Zhuang M",
+            "Li D."
+          ],
+          "last_author": "Li D."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "MAVS-dependent IRF3/7 bypass of interferon β-induction restricts the response to measles infection in CD150Tg mouse bone marrow-derived dendritic cells.",
+    "Last Author": "Seya T",
+    "authors": [
+      "Takaki H",
+      "Honda K",
+      "Atarashi K",
+      "Kobayashi F",
+      "Ebihara T",
+      "Oshiumi H",
+      "Matsumoto M",
+      "Shingai M",
+      "Seya T"
+    ],
+    "Date": "2013 Oct 3",
+    "Journal": "Molecular immunology",
+    "Pubmed id": "24096085",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.molimm.2013.08.007",
+    "Citations": {
+      "results": 121,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "MAVS-dependent IRF3/7 bypass of interferon β-induction restricts the response to measles infection in CD150Tg mouse bone marrow-derived dendritic cells.",
+          "id": "24096085",
+          "authors": [
+            "Takaki H",
+            "Honda K",
+            "Atarashi K",
+            "Kobayashi F",
+            "Ebihara T",
+            "Oshiumi H",
+            "Matsumoto M",
+            "Shingai M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "The MyD88 Pathway in Plasmacytoid and CD4+ Dendritic Cells Primarily Triggers Type I IFN Production against Measles Virus in a Mouse Infection Model.",
+          "id": "24078691",
+          "authors": [
+            "Takaki H",
+            "Takeda M",
+            "Tahara M",
+            "Shingai M",
+            "Oshiumi H",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "IRF-3, IRF-5, and IRF-7 coordinately regulate the type I IFN response in myeloid dendritic cells downstream of MAVS signaling.",
+          "id": "23300459",
+          "authors": [
+            "Lazear HM",
+            "Lancaster A",
+            "Wilkins C",
+            "Suthar MS",
+            "Huang A",
+            "Vick SC",
+            "Clepper L",
+            "Thackray L",
+            "Brassil MM",
+            "Virgin HW",
+            "Nikolich-Zugich J",
+            "Moses AV",
+            "Gale M Jr",
+            "Früh K",
+            "Diamond MS."
+          ],
+          "last_author": "Diamond MS."
+        },
+        {
+          "title": "Myxoma virus induces type I interferon production in murine plasmacytoid dendritic cells via a TLR9/MyD88-, IRF5/IRF7-, and IFNAR-dependent pathway.",
+          "id": "21835795",
+          "authors": [
+            "Dai P",
+            "Cao H",
+            "Merghoub T",
+            "Avogadri F",
+            "Wang W",
+            "Parikh T",
+            "Fang CM",
+            "Pitha PM",
+            "Fitzgerald KA",
+            "Rahman MM",
+            "McFadden G",
+            "Hu X",
+            "Houghton AN",
+            "Shuman S",
+            "Deng L."
+          ],
+          "last_author": "Deng L."
+        },
+        {
+          "title": "Both RIG-I and MDA5 RNA helicases contribute to the induction of alpha/beta interferon in measles virus-infected human cells.",
+          "id": "19846522",
+          "authors": [
+            "Ikegame S",
+            "Takeda M",
+            "Ohno S",
+            "Nakatsu Y",
+            "Nakanishi Y",
+            "Yanagi Y."
+          ],
+          "last_author": "Yanagi Y."
+        },
+        {
+          "title": "Wild-type measles virus infection in human CD46/CD150-transgenic mice: CD11c-positive dendritic cells establish systemic viral infection.",
+          "id": "16116216",
+          "authors": [
+            "Shingai M",
+            "Inoue N",
+            "Okuno T",
+            "Okabe M",
+            "Akazawa T",
+            "Miyamoto Y",
+            "Ayata M",
+            "Honda K",
+            "Kurita-Taniguchi M",
+            "Matsumoto M",
+            "Ogura H",
+            "Taniguchi T",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Strain-to-strain difference of V protein of measles virus affects MDA5-mediated IFN-β-inducing potential.",
+          "id": "21071089",
+          "authors": [
+            "Takaki H",
+            "Watanabe Y",
+            "Shingai M",
+            "Oshiumi H",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "RIG-I/MDA5/MAVS are required to signal a protective IFN response in rotavirus-infected intestinal epithelium.",
+          "id": "21187438",
+          "authors": [
+            "Broquet AH",
+            "Hirata Y",
+            "McAllister CS",
+            "Kagnoff MF."
+          ],
+          "last_author": "Kagnoff MF."
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "The early interferon response to rotavirus is regulated by PKR and depends on MAVS/IPS-1, RIG-I, MDA-5, and IRF3.",
+          "id": "21307186",
+          "authors": [
+            "Sen A",
+            "Pruijssers AJ",
+            "Dermody TS",
+            "García-Sastre A",
+            "Greenberg HB."
+          ],
+          "last_author": "Greenberg HB."
+        },
+        {
+          "title": "Classical swine fever virus triggers RIG-I and MDA5-dependent signaling pathway to IRF-3 and NF-kappaB activation to promote secretion of interferon and inflammatory cytokines in porcine alveolar macrophages.",
+          "id": "24034559",
+          "authors": [
+            "Dong XY",
+            "Liu WJ",
+            "Zhao MQ",
+            "Wang JY",
+            "Pei JJ",
+            "Luo YW",
+            "Ju CM",
+            "Chen JD."
+          ],
+          "last_author": "Chen JD."
+        },
+        {
+          "title": "Essential role of mitochondrial antiviral signaling, IFN regulatory factor (IRF)3, and IRF7 in Chlamydophila pneumoniae-mediated IFN-beta response and control of bacterial replication in human endothelial cells.",
+          "id": "20154210",
+          "authors": [
+            "Buss C",
+            "Opitz B",
+            "Hocke AC",
+            "Lippmann J",
+            "van Laak V",
+            "Hippenstiel S",
+            "Krüll M",
+            "Suttorp N",
+            "Eitel J."
+          ],
+          "last_author": "Eitel J."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "MAVS self-association mediates antiviral innate immune signaling.",
+          "id": "19193783",
+          "authors": [
+            "Tang ED",
+            "Wang CY."
+          ],
+          "last_author": "Wang CY."
+        },
+        {
+          "title": "Functional evolution of the TICAM-1 pathway for extrinsic RNA sensing.",
+          "id": "19120474",
+          "authors": [
+            "Seya T",
+            "Matsumoto M",
+            "Ebihara T",
+            "Oshiumi H."
+          ],
+          "last_author": "Oshiumi H."
+        },
+        {
+          "title": "Differential type I IFN-inducing abilities of wild-type versus vaccine strains of measles virus.",
+          "id": "17947687",
+          "authors": [
+            "Shingai M",
+            "Ebihara T",
+            "Begum NA",
+            "Kato A",
+            "Honma T",
+            "Matsumoto K",
+            "Saito H",
+            "Ogura H",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Foreign RNA induces the degradation of mitochondrial antiviral signaling protein (MAVS): the role of intracellular antiviral factors.",
+          "id": "23028806",
+          "authors": [
+            "Xing F",
+            "Matsumiya T",
+            "Onomoto K",
+            "Hayakari R",
+            "Imaizumi T",
+            "Yoshida H",
+            "Yoneyama M",
+            "Fujita T",
+            "Satoh K."
+          ],
+          "last_author": "Satoh K."
+        },
+        {
+          "title": "A systems biology approach reveals that tissue tropism to West Nile virus is regulated by antiviral genes and innate immune cellular processes.",
+          "id": "23544010",
+          "authors": [
+            "Suthar MS",
+            "Brassil MM",
+            "Blahnik G",
+            "McMillan A",
+            "Ramos HJ",
+            "Proll SC",
+            "Belisle SE",
+            "Katze MG",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "The interferon response to intracellular DNA: Why so many receptors?",
+          "id": "23962476",
+          "authors": [
+            "Unterholzner L."
+          ],
+          "last_author": "Unterholzner L."
+        },
+        {
+          "title": "Vaccinia virus subverts a mitochondrial antiviral signaling protein-dependent innate immune response in keratinocytes through its double-stranded RNA binding protein, E3.",
+          "id": "18715932",
+          "authors": [
+            "Deng L",
+            "Dai P",
+            "Parikh T",
+            "Cao H",
+            "Bhoj V",
+            "Sun Q",
+            "Chen Z",
+            "Merghoub T",
+            "Houghton A",
+            "Shuman S."
+          ],
+          "last_author": "Shuman S."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Innate Immune Response to Arenaviral Infection: A Focus on the Highly Pathogenic New World Hemorrhagic Arenaviruses.",
+    "Last Author": "Paessler S",
+    "authors": [
+      "Koma T",
+      "Huang C",
+      "Kolokoltsova OA",
+      "Brasier AR",
+      "Paessler S"
+    ],
+    "Date": "2013 Sep 26",
+    "Journal": "Journal of molecular biology",
+    "Pubmed id": "24075870",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.jmb.2013.09.028",
+    "Citations": {
+      "results": 104,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Innate Immune Response to Arenaviral Infection: A Focus on the Highly Pathogenic New World Hemorrhagic Arenaviruses.",
+          "id": "24075870",
+          "authors": [
+            "Koma T",
+            "Huang C",
+            "Kolokoltsova OA",
+            "Brasier AR",
+            "Paessler S."
+          ],
+          "last_author": "Paessler S."
+        },
+        {
+          "title": "Inhibition of the type I interferon antiviral response during arenavirus infection.",
+          "id": "21994626",
+          "authors": [
+            "Borrow P",
+            "Martínez-Sobrido L",
+            "de la Torre JC."
+          ],
+          "last_author": "de la Torre JC."
+        },
+        {
+          "title": "Comparative analysis of disease pathogenesis and molecular mechanisms of New World and Old World arenavirus infections.",
+          "id": "24068704",
+          "authors": [
+            "McLay LJ",
+            "Liang Y",
+            "Ly H."
+          ],
+          "last_author": "Ly H."
+        },
+        {
+          "title": "Arenavirus nucleoproteins prevent activation of nuclear factor kappa B.",
+          "id": "22623788",
+          "authors": [
+            "Rodrigo WW",
+            "Ortiz-Riaño E",
+            "Pythoud C",
+            "Kunz S",
+            "de la Torre JC",
+            "Martínez-Sobrido L."
+          ],
+          "last_author": "Martínez-Sobrido L."
+        },
+        {
+          "title": "A multivalent vaccination strategy for the prevention of Old World arenavirus infection in humans.",
+          "id": "20668086",
+          "authors": [
+            "Botten J",
+            "Whitton JL",
+            "Barrowman P",
+            "Sidney J",
+            "Whitmire JK",
+            "Alexander J",
+            "Kotturi MF",
+            "Sette A",
+            "Buchmeier MJ."
+          ],
+          "last_author": "Buchmeier MJ."
+        },
+        {
+          "title": "Targeting virulence mechanisms for the prevention and therapy of arenaviral hemorrhagic fever.",
+          "id": "23261843",
+          "authors": [
+            "McLay L",
+            "Ansari A",
+            "Liang Y",
+            "Ly H."
+          ],
+          "last_author": "Ly H."
+        },
+        {
+          "title": "Development of a new tacaribe arenavirus infection model and its use to explore antiviral activity of a novel aristeromycin analog.",
+          "id": "20862280",
+          "authors": [
+            "Gowen BB",
+            "Wong MH",
+            "Larson D",
+            "Ye W",
+            "Jung KH",
+            "Sefing EJ",
+            "Skirpstunas R",
+            "Smee DF",
+            "Morrey JD",
+            "Schneller SW."
+          ],
+          "last_author": "Schneller SW."
+        },
+        {
+          "title": "Pathogenesis of arenavirus hemorrhagic fevers.",
+          "id": "21171877",
+          "authors": [
+            "Moraz ML",
+            "Kunz S."
+          ],
+          "last_author": "Kunz S."
+        },
+        {
+          "title": "Z proteins of New World arenaviruses bind RIG-I and interfere with type I interferon induction.",
+          "id": "20007272",
+          "authors": [
+            "Fan L",
+            "Briese T",
+            "Lipkin WI."
+          ],
+          "last_author": "Lipkin WI."
+        },
+        {
+          "title": "High genetic divergence and recombination in Arenaviruses from the Americas.",
+          "id": "12504568",
+          "authors": [
+            "Archer AM",
+            "Rico-Hesse R."
+          ],
+          "last_author": "Rico-Hesse R."
+        },
+        {
+          "title": "Serological assays based on recombinant viral proteins for the diagnosis of arenavirus hemorrhagic fevers.",
+          "id": "23202455",
+          "authors": [
+            "Fukushi S",
+            "Tani H",
+            "Yoshikawa T",
+            "Saijo M",
+            "Morikawa S."
+          ],
+          "last_author": "Morikawa S."
+        },
+        {
+          "title": "Transferrin receptor 1 in the zoonosis and pathogenesis of New World hemorrhagic fever arenaviruses.",
+          "id": "21807555",
+          "authors": [
+            "Choe H",
+            "Jemielity S",
+            "Abraham J",
+            "Radoshitzky SR",
+            "Farzan M."
+          ],
+          "last_author": "Farzan M."
+        },
+        {
+          "title": "Drug discovery technologies and strategies for Machupo virus and other New World arenaviruses.",
+          "id": "22607481",
+          "authors": [
+            "Radoshitzky SR",
+            "Kuhn JH",
+            "de Kok-Mercado F",
+            "Jahrling PB",
+            "Bavari S."
+          ],
+          "last_author": "Bavari S."
+        },
+        {
+          "title": "Genetic detection and characterization of Lujo virus, a new hemorrhagic fever-associated arenavirus from southern Africa.",
+          "id": "19478873",
+          "authors": [
+            "Briese T",
+            "Paweska JT",
+            "McMullan LK",
+            "Hutchison SK",
+            "Street C",
+            "Palacios G",
+            "Khristova ML",
+            "Weyer J",
+            "Swanepoel R",
+            "Egholm M",
+            "Nichol ST",
+            "Lipkin WI."
+          ],
+          "last_author": "Lipkin WI."
+        },
+        {
+          "title": "Unique small molecule entry inhibitors of hemorrhagic fever arenaviruses.",
+          "id": "18474596",
+          "authors": [
+            "Lee AM",
+            "Rojek JM",
+            "Spiropoulou CF",
+            "Gundersen AT",
+            "Jin W",
+            "Shaginian A",
+            "York J",
+            "Nunberg JH",
+            "Boger DL",
+            "Oldstone MB",
+            "Kunz S."
+          ],
+          "last_author": "Kunz S."
+        },
+        {
+          "title": "Multifunctional nature of the arenavirus RING finger protein Z.",
+          "id": "23202512",
+          "authors": [
+            "Fehling SK",
+            "Lennartz F",
+            "Strecker T."
+          ],
+          "last_author": "Strecker T."
+        },
+        {
+          "title": "Arenavirus genetic diversity and its biological implications.",
+          "id": "19460307",
+          "authors": [
+            "Emonet SF",
+            "de la Torre JC",
+            "Domingo E",
+            "Sevilla N."
+          ],
+          "last_author": "Sevilla N."
+        },
+        {
+          "title": "Structures of arenaviral nucleoproteins with triphosphate dsRNA reveal a unique mechanism of immune suppression.",
+          "id": "23615902",
+          "authors": [
+            "Jiang X",
+            "Huang Q",
+            "Wang W",
+            "Dong H",
+            "Ly H",
+            "Liang Y",
+            "Dong C."
+          ],
+          "last_author": "Dong C."
+        },
+        {
+          "title": "Different mechanisms of cell entry by human-pathogenic Old World and New World arenaviruses.",
+          "id": "18508885",
+          "authors": [
+            "Rojek JM",
+            "Sanchez AB",
+            "Nguyen NT",
+            "de la Torre JC",
+            "Kunz S."
+          ],
+          "last_author": "Kunz S."
+        },
+        {
+          "title": "Cell entry by human pathogenic arenaviruses.",
+          "id": "18182084",
+          "authors": [
+            "Rojek JM",
+            "Kunz S."
+          ],
+          "last_author": "Kunz S."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "siRNA enhances DNA-mediated interferon lambda-1 response through crosstalk between RIG-I and IFI16 signalling pathway.",
+    "Last Author": "Imamichi T",
+    "authors": [
+      "Sui H",
+      "Zhou M",
+      "Chen Q",
+      "Lane HC",
+      "Imamichi T"
+    ],
+    "Date": "2013 Sep 18",
+    "Journal": "Nucleic acids research",
+    "Pubmed id": "24049081",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1093/nar/gkt844",
+    "Citations": {
+      "results": 102,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "siRNA enhances DNA-mediated interferon lambda-1 response through crosstalk between RIG-I and IFI16 signalling pathway.",
+          "id": "24049081",
+          "authors": [
+            "Sui H",
+            "Zhou M",
+            "Chen Q",
+            "Lane HC",
+            "Imamichi T."
+          ],
+          "last_author": "Imamichi T."
+        },
+        {
+          "title": "The interferon response to intracellular DNA: Why so many receptors?",
+          "id": "23962476",
+          "authors": [
+            "Unterholzner L."
+          ],
+          "last_author": "Unterholzner L."
+        },
+        {
+          "title": "IFI16 senses DNA forms of the lentiviral replication cycle and controls HIV-1 replication.",
+          "id": "24154727",
+          "authors": [
+            "Jakobsen MR",
+            "Bak RO",
+            "Andersen A",
+            "Berg RK",
+            "Jensen SB",
+            "Tengchuan J",
+            "Laustsen A",
+            "Hansen K",
+            "Ostergaard L",
+            "Fitzgerald KA",
+            "Xiao TS",
+            "Mikkelsen JG",
+            "Mogensen TH",
+            "Paludan SR."
+          ],
+          "last_author": "Paludan SR."
+        },
+        {
+          "title": "The tumour suppressor CYLD is a negative regulator of RIG-I-mediated antiviral response.",
+          "id": "18636086",
+          "authors": [
+            "Friedman CS",
+            "O'Donnell MA",
+            "Legarda-Addison D",
+            "Ng A",
+            "Cárdenas WB",
+            "Yount JS",
+            "Moran TM",
+            "Basler CF",
+            "Komuro A",
+            "Horvath CM",
+            "Xavier R",
+            "Ting AT."
+          ],
+          "last_author": "Ting AT."
+        },
+        {
+          "title": "The STING in the tail for cytosolic DNA-dependent activation of IRF3.",
+          "id": "22394560",
+          "authors": [
+            "Bowie A."
+          ],
+          "last_author": "Bowie A."
+        },
+        {
+          "title": "The RNA-activated protein kinase enhances the induction of interferon-beta and apoptosis mediated by cytoplasmic RNA sensors.",
+          "id": "19028691",
+          "authors": [
+            "McAllister CS",
+            "Samuel CE."
+          ],
+          "last_author": "Samuel CE."
+        },
+        {
+          "title": "Synoviocyte innate immune responses: TANK-binding kinase-1 as a potential therapeutic target in rheumatoid arthritis.",
+          "id": "21613249",
+          "authors": [
+            "Hammaker D",
+            "Boyle DL",
+            "Firestein GS."
+          ],
+          "last_author": "Firestein GS."
+        },
+        {
+          "title": "A novel role of the interferon-inducible protein IFI16 as inducer of proinflammatory molecules in endothelial cells.",
+          "id": "17699163",
+          "authors": [
+            "Caposio P",
+            "Gugliesi F",
+            "Zannetti C",
+            "Sponza S",
+            "Mondini M",
+            "Medico E",
+            "Hiscott J",
+            "Young HA",
+            "Gribaudo G",
+            "Gariglio M",
+            "Landolfo S."
+          ],
+          "last_author": "Landolfo S."
+        },
+        {
+          "title": "Sensing adenovirus infection: activation of interferon regulatory factor 3 in RAW 264.7 cells.",
+          "id": "22345436",
+          "authors": [
+            "Stein SC",
+            "Falck-Pedersen E."
+          ],
+          "last_author": "Falck-Pedersen E."
+        },
+        {
+          "title": "Induction of IRF-3 and IRF-7 phosphorylation following activation of the RIG-I pathway.",
+          "id": "16914100",
+          "authors": [
+            "Paz S",
+            "Sun Q",
+            "Nakhaei P",
+            "Romieu-Mourez R",
+            "Goubau D",
+            "Julkunen I",
+            "Lin R",
+            "Hiscott J."
+          ],
+          "last_author": "Hiscott J."
+        },
+        {
+          "title": "RIG-I mediates the co-induction of tumor necrosis factor and type I interferon elicited by myxoma virus in primary human macrophages.",
+          "id": "18617992",
+          "authors": [
+            "Wang F",
+            "Gao X",
+            "Barrett JW",
+            "Shao Q",
+            "Bartee E",
+            "Mohamed MR",
+            "Rahman M",
+            "Werden S",
+            "Irvine T",
+            "Cao J",
+            "Dekaban GA",
+            "McFadden G."
+          ],
+          "last_author": "McFadden G."
+        },
+        {
+          "title": "Human kinome analysis reveals novel kinases contributing to virus infection and retinoic-acid inducible gene I-induced type I and type III IFN gene expression.",
+          "id": "23405030",
+          "authors": [
+            "Nousiainen L",
+            "Sillanpää M",
+            "Jiang M",
+            "Thompson J",
+            "Taipale J",
+            "Julkunen I."
+          ],
+          "last_author": "Julkunen I."
+        },
+        {
+          "title": "Role of retinoic acid inducible gene-I in human metapneumovirus-induced cellular signalling.",
+          "id": "18632970",
+          "authors": [
+            "Liao S",
+            "Bao X",
+            "Liu T",
+            "Lai S",
+            "Li K",
+            "Garofalo RP",
+            "Casola A."
+          ],
+          "last_author": "Casola A."
+        },
+        {
+          "title": "Coexpressed RIG-I agonist enhances humoral immune response to influenza virus DNA vaccine.",
+          "id": "21106745",
+          "authors": [
+            "Luke JM",
+            "Simon GG",
+            "Söderholm J",
+            "Errett JS",
+            "August JT",
+            "Gale M Jr",
+            "Hodgson CP",
+            "Williams JA."
+          ],
+          "last_author": "Williams JA."
+        },
+        {
+          "title": "The intracellular DNA sensor IFI16 gene acts as restriction factor for human cytomegalovirus replication.",
+          "id": "22291595",
+          "authors": [
+            "Gariano GR",
+            "Dell'Oste V",
+            "Bronzini M",
+            "Gatti D",
+            "Luganini A",
+            "De Andrea M",
+            "Gribaudo G",
+            "Gariglio M",
+            "Landolfo S."
+          ],
+          "last_author": "Landolfo S."
+        },
+        {
+          "title": "Retinoic acid inducible gene-I and melanoma differentiation-associated gene 5 are induced but not essential for dengue virus induced type I interferon response.",
+          "id": "21113677",
+          "authors": [
+            "Qin CF",
+            "Zhao H",
+            "Liu ZY",
+            "Jiang T",
+            "Deng YQ",
+            "Yu XD",
+            "Yu M",
+            "Qin ED."
+          ],
+          "last_author": "Qin ED."
+        },
+        {
+          "title": "Hepatitis C virus reveals a novel early control in acute immune response.",
+          "id": "22022264",
+          "authors": [
+            "Arnaud N",
+            "Dabo S",
+            "Akazawa D",
+            "Fukasawa M",
+            "Shinkai-Ouchi F",
+            "Hugon J",
+            "Wakita T",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "Differential roles for the interferon-inducible IFI16 and AIM2 innate immune sensors for cytosolic DNA in cellular senescence of human fibroblasts.",
+          "id": "21471287",
+          "authors": [
+            "Duan X",
+            "Ponomareva L",
+            "Veeranki S",
+            "Panchanathan R",
+            "Dickerson E",
+            "Choubey D."
+          ],
+          "last_author": "Choubey D."
+        },
+        {
+          "title": "Role of double-stranded RNA pattern recognition receptors in rhinovirus-induced airway epithelial cell responses.",
+          "id": "19890046",
+          "authors": [
+            "Wang Q",
+            "Nagarkar DR",
+            "Bowman ER",
+            "Schneider D",
+            "Gosangi B",
+            "Lei J",
+            "Zhao Y",
+            "McHenry CL",
+            "Burgens RV",
+            "Miller DJ",
+            "Sajjan U",
+            "Hershenson MB."
+          ],
+          "last_author": "Hershenson MB."
+        },
+        {
+          "title": "Epstein-Barr virus-encoded small RNA induces IL-10 through RIG-I-mediated IRF-3 signaling.",
+          "id": "18362887",
+          "authors": [
+            "Samanta M",
+            "Iwakiri D",
+            "Takada K."
+          ],
+          "last_author": "Takada K."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "RIG-I and MDA-5 Detection of Viral RNA-dependent RNA Polymerase Activity Restricts Positive-Strand RNA Virus Replication.",
+    "Last Author": "Ustav M",
+    "authors": [
+      "Nikonov A",
+      "Mölder T",
+      "Sikut R",
+      "Kiiver K",
+      "Männik A",
+      "Toots U",
+      "Lulla A",
+      "Lulla V",
+      "Utt A",
+      "Merits A",
+      "Ustav M"
+    ],
+    "Date": "2013 Sep",
+    "Journal": "PLoS pathogens",
+    "Pubmed id": "24039580",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1371/journal.ppat.1003610",
+    "Citations": {
+      "results": 102,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "RIG-I and MDA-5 Detection of Viral RNA-dependent RNA Polymerase Activity Restricts Positive-Strand RNA Virus Replication.",
+          "id": "24039580",
+          "authors": [
+            "Nikonov A",
+            "Mölder T",
+            "Sikut R",
+            "Kiiver K",
+            "Männik A",
+            "Toots U",
+            "Lulla A",
+            "Lulla V",
+            "Utt A",
+            "Merits A",
+            "Ustav M."
+          ],
+          "last_author": "Ustav M."
+        },
+        {
+          "title": "Cytosolic 5'-triphosphate ended viral leader transcript of measles virus as activator of the RIG I-mediated interferon response.",
+          "id": "17356690",
+          "authors": [
+            "Plumet S",
+            "Herschke F",
+            "Bourhis JM",
+            "Valentin H",
+            "Longhi S",
+            "Gerlier D."
+          ],
+          "last_author": "Gerlier D."
+        },
+        {
+          "title": "Double-stranded RNA induces biphasic STAT1 phosphorylation by both type I interferon (IFN)-dependent and type I IFN-independent pathways.",
+          "id": "22973045",
+          "authors": [
+            "Dempoya J",
+            "Matsumiya T",
+            "Imaizumi T",
+            "Hayakari R",
+            "Xing F",
+            "Yoshida H",
+            "Okumura K",
+            "Satoh K."
+          ],
+          "last_author": "Satoh K."
+        },
+        {
+          "title": "RNA polymerase III detects cytosolic DNA and induces type I interferons through the RIG-I pathway.",
+          "id": "19631370",
+          "authors": [
+            "Chiu YH",
+            "Macmillan JB",
+            "Chen ZJ."
+          ],
+          "last_author": "Chen ZJ."
+        },
+        {
+          "title": "A synthetic double-stranded RNA, poly I:C, induces a rapid apoptosis of human CD34(+) cells.",
+          "id": "22198151",
+          "authors": [
+            "Liu J",
+            "Guo YM",
+            "Hirokawa M",
+            "Iwamoto K",
+            "Ubukawa K",
+            "Michishita Y",
+            "Fujishima N",
+            "Tagawa H",
+            "Takahashi N",
+            "Xiao W",
+            "Yamashita J",
+            "Ohteki T",
+            "Sawada K."
+          ],
+          "last_author": "Sawada K."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Inhibition of retinoic acid-inducible gene I-mediated induction of beta interferon by the NS1 protein of influenza A virus.",
+          "id": "17079289",
+          "authors": [
+            "Mibayashi M",
+            "Martínez-Sobrido L",
+            "Loo YM",
+            "Cárdenas WB",
+            "Gale M Jr",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "The C proteins of human parainfluenza virus type 1 limit double-stranded RNA accumulation that would otherwise trigger activation of MDA5 and protein kinase R.",
+          "id": "21123378",
+          "authors": [
+            "Boonyaratanakornkit J",
+            "Bartlett E",
+            "Schomacker H",
+            "Surman S",
+            "Akira S",
+            "Bae YS",
+            "Collins P",
+            "Murphy B",
+            "Schmidt A."
+          ],
+          "last_author": "Schmidt A."
+        },
+        {
+          "title": "The RNA helicase Lgp2 inhibits TLR-independent sensing of viral replication by retinoic acid-inducible gene-I.",
+          "id": "16210631",
+          "authors": [
+            "Rothenfusser S",
+            "Goutagny N",
+            "DiPerna G",
+            "Gong M",
+            "Monks BG",
+            "Schoenemeyer A",
+            "Yamamoto M",
+            "Akira S",
+            "Fitzgerald KA."
+          ],
+          "last_author": "Fitzgerald KA."
+        },
+        {
+          "title": "Human MxA protein confers resistance to Semliki Forest virus and inhibits the amplification of a Semliki Forest virus-based replicon in the absence of viral structural proteins.",
+          "id": "9445055",
+          "authors": [
+            "Landis H",
+            "Simon-Jödicke A",
+            "Klöti A",
+            "Di Paolo C",
+            "Schnorr JJ",
+            "Schneider-Schaulies S",
+            "Hefti HP",
+            "Pavlovic J."
+          ],
+          "last_author": "Pavlovic J."
+        },
+        {
+          "title": "Regulation and function of the cytosolic viral RNA sensor RIG-I in pancreatic beta cells.",
+          "id": "19747951",
+          "authors": [
+            "García M",
+            "Dogusan Z",
+            "Moore F",
+            "Sato S",
+            "Hartmann G",
+            "Eizirik DL",
+            "Rasschaert J."
+          ],
+          "last_author": "Rasschaert J."
+        },
+        {
+          "title": "Role of double-stranded RNA pattern recognition receptors in rhinovirus-induced airway epithelial cell responses.",
+          "id": "19890046",
+          "authors": [
+            "Wang Q",
+            "Nagarkar DR",
+            "Bowman ER",
+            "Schneider D",
+            "Gosangi B",
+            "Lei J",
+            "Zhao Y",
+            "McHenry CL",
+            "Burgens RV",
+            "Miller DJ",
+            "Sajjan U",
+            "Hershenson MB."
+          ],
+          "last_author": "Hershenson MB."
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "Activation of the beta interferon promoter by unnatural Sendai virus infection requires RIG-I and is inhibited by viral C proteins.",
+          "id": "17804509",
+          "authors": [
+            "Strähle L",
+            "Marq JB",
+            "Brini A",
+            "Hausmann S",
+            "Kolakofsky D",
+            "Garcin D."
+          ],
+          "last_author": "Garcin D."
+        },
+        {
+          "title": "Regulation of Semliki Forest virus RNA replication: a model for the control of alphavirus pathogenesis in invertebrate hosts.",
+          "id": "15165827",
+          "authors": [
+            "Kim KH",
+            "Rümenapf T",
+            "Strauss EG",
+            "Strauss JH."
+          ],
+          "last_author": "Strauss JH."
+        },
+        {
+          "title": "Two ways to induce innate immune responses in human PBMCs: paracrine stimulation of IFN-alpha responses by viral protein or dsRNA.",
+          "id": "12888903",
+          "authors": [
+            "Fournier P",
+            "Zeng J",
+            "Schirrmacher V."
+          ],
+          "last_author": "Schirrmacher V."
+        },
+        {
+          "title": "The early interferon response to rotavirus is regulated by PKR and depends on MAVS/IPS-1, RIG-I, MDA-5, and IRF3.",
+          "id": "21307186",
+          "authors": [
+            "Sen A",
+            "Pruijssers AJ",
+            "Dermody TS",
+            "García-Sastre A",
+            "Greenberg HB."
+          ],
+          "last_author": "Greenberg HB."
+        },
+        {
+          "title": "Replication-dependent potent IFN-alpha induction in human plasmacytoid dendritic cells by a single-stranded RNA virus.",
+          "id": "15528327",
+          "authors": [
+            "Hornung V",
+            "Schlender J",
+            "Guenthner-Biller M",
+            "Rothenfusser S",
+            "Endres S",
+            "Conzelmann KK",
+            "Hartmann G."
+          ],
+          "last_author": "Hartmann G."
+        },
+        {
+          "title": "Signal regulatory protein alpha negatively regulates both TLR3 and cytoplasmic pathways in type I interferon induction.",
+          "id": "18471880",
+          "authors": [
+            "Dong LW",
+            "Kong XN",
+            "Yan HX",
+            "Yu LX",
+            "Chen L",
+            "Yang W",
+            "Liu Q",
+            "Huang DD",
+            "Wu MC",
+            "Wang HY."
+          ],
+          "last_author": "Wang HY."
+        },
+        {
+          "title": "Viral RNA induces type I interferon-dependent cytokine release and cell death in mesangial cells via melanoma-differentiation-associated gene-5: Implications for viral infection-associated glomerulonephritis.",
+          "id": "19850889",
+          "authors": [
+            "Flür K",
+            "Allam R",
+            "Zecher D",
+            "Kulkarni OP",
+            "Lichtnekert J",
+            "Schwarz M",
+            "Beutler B",
+            "Vielhauer V",
+            "Anders HJ."
+          ],
+          "last_author": "Anders HJ."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "The interaction between the helicase DHX33 and IPS-1 as a novel pathway to sense double-stranded RNA and RNA viruses in myeloid dendritic cells.",
+    "Last Author": "Zhang Z",
+    "authors": [
+      "Liu Y",
+      "Lu N",
+      "Yuan B",
+      "Weng L",
+      "Wang F",
+      "Liu YJ",
+      "Zhang Z"
+    ],
+    "Date": "2013 Sep 16",
+    "Journal": "Cellular & molecular immunology",
+    "Pubmed id": "24037184",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1038/cmi.2013.40",
+    "Citations": {
+      "results": 99,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "The interaction between the helicase DHX33 and IPS-1 as a novel pathway to sense double-stranded RNA and RNA viruses in myeloid dendritic cells.",
+          "id": "24037184",
+          "authors": [
+            "Liu Y",
+            "Lu N",
+            "Yuan B",
+            "Weng L",
+            "Wang F",
+            "Liu YJ",
+            "Zhang Z."
+          ],
+          "last_author": "Zhang Z."
+        },
+        {
+          "title": "DHX9 pairs with IPS-1 to sense double-stranded RNA in myeloid dendritic cells.",
+          "id": "21957149",
+          "authors": [
+            "Zhang Z",
+            "Yuan B",
+            "Lu N",
+            "Facchinetti V",
+            "Liu YJ."
+          ],
+          "last_author": "Liu YJ."
+        },
+        {
+          "title": "The DHX33 RNA helicase senses cytosolic RNA and activates the NLRP3 inflammasome.",
+          "id": "23871209",
+          "authors": [
+            "Mitoma H",
+            "Hanabuchi S",
+            "Kim T",
+            "Bao M",
+            "Zhang Z",
+            "Sugimoto N",
+            "Liu YJ."
+          ],
+          "last_author": "Liu YJ."
+        },
+        {
+          "title": "Regulation of interferon production by RIG-I and LGP2: a lesson in self-control.",
+          "id": "17473309",
+          "authors": [
+            "Vitour D",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "DDX1, DDX21, and DHX36 helicases form a complex with the adaptor molecule TRIF to sense dsRNA in dendritic cells.",
+          "id": "21703541",
+          "authors": [
+            "Zhang Z",
+            "Kim T",
+            "Bao M",
+            "Facchinetti V",
+            "Jung SY",
+            "Ghaffari AA",
+            "Qin J",
+            "Cheng G",
+            "Liu YJ."
+          ],
+          "last_author": "Liu YJ."
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "Origin and evolution of the RIG-I like RNA helicase gene family.",
+          "id": "19400936",
+          "authors": [
+            "Zou J",
+            "Chang M",
+            "Nie P",
+            "Secombes CJ."
+          ],
+          "last_author": "Secombes CJ."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "FLIP (Flice-like inhibitory protein) suppresses cytoplasmic double-stranded-RNA-induced apoptosis and NF-κB and IRF3-mediated signaling.",
+          "id": "21635783",
+          "authors": [
+            "Handa P",
+            "Tupper JC",
+            "Jordan KC",
+            "Harlan JM."
+          ],
+          "last_author": "Harlan JM."
+        },
+        {
+          "title": "RNA- and virus-independent inhibition of antiviral signaling by RNA helicase LGP2.",
+          "id": "17020950",
+          "authors": [
+            "Komuro A",
+            "Horvath CM."
+          ],
+          "last_author": "Horvath CM."
+        },
+        {
+          "title": "DEAD/H BOX 3 (DDX3) helicase binds the RIG-I adaptor IPS-1 to up-regulate IFN-beta-inducing potential.",
+          "id": "20127681",
+          "authors": [
+            "Oshiumi H",
+            "Sakai K",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Molecular cloning and functional characterization of porcine IFN-beta promoter stimulator 1 (IPS-1).",
+          "id": "18586328",
+          "authors": [
+            "Wang D",
+            "Fang L",
+            "Li T",
+            "Luo R",
+            "Xie L",
+            "Jiang Y",
+            "Chen H",
+            "Xiao S."
+          ],
+          "last_author": "Xiao S."
+        },
+        {
+          "title": "Functional characterization of domains of IPS-1 using an inducible oligomerization system.",
+          "id": "23308256",
+          "authors": [
+            "Takamatsu S",
+            "Onoguchi K",
+            "Onomoto K",
+            "Narita R",
+            "Takahasi K",
+            "Ishidate F",
+            "Fujiwara TK",
+            "Yoneyama M",
+            "Kato H",
+            "Fujita T."
+          ],
+          "last_author": "Fujita T."
+        },
+        {
+          "title": "Hepatitis C virus reveals a novel early control in acute immune response.",
+          "id": "22022264",
+          "authors": [
+            "Arnaud N",
+            "Dabo S",
+            "Akazawa D",
+            "Fukasawa M",
+            "Shinkai-Ouchi F",
+            "Hugon J",
+            "Wakita T",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "TRAF6 and MEKK1 play a pivotal role in the RIG-I-like helicase antiviral pathway.",
+          "id": "18984593",
+          "authors": [
+            "Yoshida R",
+            "Takaesu G",
+            "Yoshida H",
+            "Okamoto F",
+            "Yoshioka T",
+            "Choi Y",
+            "Akira S",
+            "Kawai T",
+            "Yoshimura A",
+            "Kobayashi T."
+          ],
+          "last_author": "Kobayashi T."
+        },
+        {
+          "title": "Double-stranded RNA induces biphasic STAT1 phosphorylation by both type I interferon (IFN)-dependent and type I IFN-independent pathways.",
+          "id": "22973045",
+          "authors": [
+            "Dempoya J",
+            "Matsumiya T",
+            "Imaizumi T",
+            "Hayakari R",
+            "Xing F",
+            "Yoshida H",
+            "Okumura K",
+            "Satoh K."
+          ],
+          "last_author": "Satoh K."
+        },
+        {
+          "title": "DDX60, a DEXD/H box helicase, is a novel antiviral factor promoting RIG-I-like receptor-mediated signaling.",
+          "id": "21791617",
+          "authors": [
+            "Miyashita M",
+            "Oshiumi H",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "TLR3 and Rig-like receptor on myeloid dendritic cells and Rig-like receptor on human NK cells are both mandatory for production of IFN-gamma in response to double-stranded RNA.",
+          "id": "20639488",
+          "authors": [
+            "Perrot I",
+            "Deauvieau F",
+            "Massacrier C",
+            "Hughes N",
+            "Garrone P",
+            "Durand I",
+            "Demaria O",
+            "Viaud N",
+            "Gauthier L",
+            "Blery M",
+            "Bonnefoy-Berard N",
+            "Morel Y",
+            "Tschopp J",
+            "Alexopoulou L",
+            "Trinchieri G",
+            "Paturel C",
+            "Caux C."
+          ],
+          "last_author": "Caux C."
+        },
+        {
+          "title": "Regulation and function of the cytosolic viral RNA sensor RIG-I in pancreatic beta cells.",
+          "id": "19747951",
+          "authors": [
+            "García M",
+            "Dogusan Z",
+            "Moore F",
+            "Sato S",
+            "Hartmann G",
+            "Eizirik DL",
+            "Rasschaert J."
+          ],
+          "last_author": "Rasschaert J."
+        },
+        {
+          "title": "Classical swine fever virus triggers RIG-I and MDA5-dependent signaling pathway to IRF-3 and NF-kappaB activation to promote secretion of interferon and inflammatory cytokines in porcine alveolar macrophages.",
+          "id": "24034559",
+          "authors": [
+            "Dong XY",
+            "Liu WJ",
+            "Zhao MQ",
+            "Wang JY",
+            "Pei JJ",
+            "Luo YW",
+            "Ju CM",
+            "Chen JD."
+          ],
+          "last_author": "Chen JD."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "The Tiers and Dimensions of Evasion of the Type I Interferon Response by Human Cytomegalovirus.",
+    "Last Author": "Defilippis VR",
+    "authors": [
+      "Amsler L",
+      "Verweij MC",
+      "Defilippis VR"
+    ],
+    "Date": "2013 Sep 5",
+    "Journal": "Journal of molecular biology",
+    "Pubmed id": "24013068",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.jmb.2013.08.023",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "The Tiers and Dimensions of Evasion of the Type I Interferon Response by Human Cytomegalovirus.",
+          "id": "24013068",
+          "authors": [
+            "Amsler L",
+            "Verweij MC",
+            "Defilippis VR."
+          ],
+          "last_author": "Defilippis VR."
+        },
+        {
+          "title": "Multifaceted evasion of the interferon response by cytomegalovirus.",
+          "id": "19708810",
+          "authors": [
+            "Marshall EE",
+            "Geballe AP."
+          ],
+          "last_author": "Geballe AP."
+        },
+        {
+          "title": "The C proteins of human parainfluenza virus type 1 limit double-stranded RNA accumulation that would otherwise trigger activation of MDA5 and protein kinase R.",
+          "id": "21123378",
+          "authors": [
+            "Boonyaratanakornkit J",
+            "Bartlett E",
+            "Schomacker H",
+            "Surman S",
+            "Akira S",
+            "Bae YS",
+            "Collins P",
+            "Murphy B",
+            "Schmidt A."
+          ],
+          "last_author": "Schmidt A."
+        },
+        {
+          "title": "Activation of interferon response factor-3 in human cells infected with herpes simplex virus type 1 or human cytomegalovirus.",
+          "id": "11533154",
+          "authors": [
+            "Preston CM",
+            "Harman AN",
+            "Nicholl MJ."
+          ],
+          "last_author": "Nicholl MJ."
+        },
+        {
+          "title": "Human cytomegalovirus TRS1 and IRS1 gene products block the double-stranded-RNA-activated host protein shutoff response induced by herpes simplex virus type 1 infection.",
+          "id": "15994764",
+          "authors": [
+            "Cassady KA."
+          ],
+          "last_author": "Cassady KA."
+        },
+        {
+          "title": "The intracellular DNA sensor IFI16 gene acts as restriction factor for human cytomegalovirus replication.",
+          "id": "22291595",
+          "authors": [
+            "Gariano GR",
+            "Dell'Oste V",
+            "Bronzini M",
+            "Gatti D",
+            "Luganini A",
+            "De Andrea M",
+            "Gribaudo G",
+            "Gariglio M",
+            "Landolfo S."
+          ],
+          "last_author": "Landolfo S."
+        },
+        {
+          "title": "Regulation of the MIR155 host gene in physiological and pathological processes.",
+          "id": "23246696",
+          "authors": [
+            "Elton TS",
+            "Selemon H",
+            "Elton SM",
+            "Parinandi NL."
+          ],
+          "last_author": "Parinandi NL."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Herpes simplex virus type 2 virion host shutoff protein suppresses innate dsRNA antiviral pathways in human vaginal epithelial cells.",
+          "id": "21632561",
+          "authors": [
+            "Yao XD",
+            "Rosenthal KL."
+          ],
+          "last_author": "Rosenthal KL."
+        },
+        {
+          "title": "Herpes simplex virus type 2 virion host shutoff protein regulates alpha/beta interferon but not adaptive immune responses during primary infection in vivo.",
+          "id": "12915549",
+          "authors": [
+            "Murphy JA",
+            "Duerst RJ",
+            "Smith TJ",
+            "Morrison LA."
+          ],
+          "last_author": "Morrison LA."
+        },
+        {
+          "title": "The interferon response to intracellular DNA: Why so many receptors?",
+          "id": "23962476",
+          "authors": [
+            "Unterholzner L."
+          ],
+          "last_author": "Unterholzner L."
+        },
+        {
+          "title": "Rhesus cytomegalovirus particles prevent activation of interferon regulatory factor 3.",
+          "id": "15858025",
+          "authors": [
+            "DeFilippis V",
+            "Früh K."
+          ],
+          "last_author": "Früh K."
+        },
+        {
+          "title": "Protein kinase regulated by dsRNA downregulates the interferon production in dengue virus- and dsRNA-stimulated human lung epithelial cells.",
+          "id": "23372823",
+          "authors": [
+            "Li Y",
+            "Xie J",
+            "Wu S",
+            "Xia J",
+            "Zhang P",
+            "Liu C",
+            "Zhang P",
+            "Huang X."
+          ],
+          "last_author": "Huang X."
+        },
+        {
+          "title": "Synergistic inhibition of human cytomegalovirus replication by interferon-alpha/beta and interferon-gamma.",
+          "id": "15727684",
+          "authors": [
+            "Sainz B Jr",
+            "LaMarca HL",
+            "Garry RF",
+            "Morris CA."
+          ],
+          "last_author": "Morris CA."
+        },
+        {
+          "title": "Nucleic acid-induced antiviral immunity in shrimp.",
+          "id": "23773856",
+          "authors": [
+            "Wang PH",
+            "Yang LS",
+            "Gu ZH",
+            "Weng SP",
+            "Yu XQ",
+            "He JG."
+          ],
+          "last_author": "He JG."
+        },
+        {
+          "title": "Δγ₁134.5 herpes simplex viruses encoding human cytomegalovirus IRS1 or TRS1 induce interferon regulatory factor 3 phosphorylation and an interferon-stimulated gene response.",
+          "id": "22072777",
+          "authors": [
+            "Cassady KA",
+            "Saunders U",
+            "Shimamura M."
+          ],
+          "last_author": "Shimamura M."
+        },
+        {
+          "title": "Regulation of PKR and IRF-1 during hepatitis C virus RNA replication.",
+          "id": "11904369",
+          "authors": [
+            "Pflugheber J",
+            "Fredericksen B",
+            "Sumpter R Jr",
+            "Wang C",
+            "Ware F",
+            "Sodora DL",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Type I interferon production during herpes simplex virus infection is controlled by cell-type-specific viral recognition through Toll-like receptor 9, the mitochondrial antiviral signaling protein pathway, and novel recognition systems.",
+          "id": "17913820",
+          "authors": [
+            "Rasmussen SB",
+            "Sørensen LN",
+            "Malmgaard L",
+            "Ank N",
+            "Baines JD",
+            "Chen ZJ",
+            "Paludan SR."
+          ],
+          "last_author": "Paludan SR."
+        },
+        {
+          "title": "MAVS-mediated host cell defense is inhibited by Borna disease virus.",
+          "id": "23702035",
+          "authors": [
+            "Li Y",
+            "Song W",
+            "Wu J",
+            "Zhang Q",
+            "He J",
+            "Li A",
+            "Qian J",
+            "Zhai A",
+            "Hu Y",
+            "Kao W",
+            "Wei L",
+            "Zhang F",
+            "Xu D."
+          ],
+          "last_author": "Xu D."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "The thymus in autoimmune Myasthenia Gravis: Paradigm for a tertiary lymphoid organ.",
+    "Last Author": "Berrih-Aknin S",
+    "authors": [
+      "Weiss JM",
+      "Cufi P",
+      "Le Panse R",
+      "Berrih-Aknin S"
+    ],
+    "Date": "2013 Aug-Sep",
+    "Journal": "Revue neurologique",
+    "Pubmed id": "24008049",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.neurol.2013.02.005",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "The thymus in autoimmune Myasthenia Gravis: Paradigm for a tertiary lymphoid organ.",
+          "id": "24008049",
+          "authors": [
+            "Weiss JM",
+            "Cufi P",
+            "Le Panse R",
+            "Berrih-Aknin S."
+          ],
+          "last_author": "Berrih-Aknin S."
+        },
+        {
+          "title": "Implication of double-stranded RNA signaling in the etiology of autoimmune myasthenia gravis.",
+          "id": "23280437",
+          "authors": [
+            "Cufi P",
+            "Dragin N",
+            "Weiss JM",
+            "Martinez-Martinez P",
+            "De Baets MH",
+            "Roussin R",
+            "Fadel E",
+            "Berrih-Aknin S",
+            "Le Panse R."
+          ],
+          "last_author": "Le Panse R."
+        },
+        {
+          "title": "The thymus in myasthenia gravis: Site of \"innate autoimmunity\"?",
+          "id": "21922466",
+          "authors": [
+            "Cavalcante P",
+            "Le Panse R",
+            "Berrih-Aknin S",
+            "Maggi L",
+            "Antozzi C",
+            "Baggi F",
+            "Bernasconi P",
+            "Mantegazza R."
+          ],
+          "last_author": "Mantegazza R."
+        },
+        {
+          "title": "Myasthenia gravis, a model of organ-specific autoimmune disease.",
+          "id": "7612144",
+          "authors": [
+            "Berrih-Aknin S."
+          ],
+          "last_author": "Berrih-Aknin S."
+        },
+        {
+          "title": "B cell responses to acetylcholine receptor in rats orally tolerized against experimental autoimmune myasthenia gravis.",
+          "id": "7537794",
+          "authors": [
+            "Wang ZY",
+            "Huang J",
+            "Olsson T",
+            "He B",
+            "Link H."
+          ],
+          "last_author": "Link H."
+        },
+        {
+          "title": "The immunopathology of myasthenia gravis.",
+          "id": "309428",
+          "authors": [
+            "Lennon VA."
+          ],
+          "last_author": "Lennon VA."
+        },
+        {
+          "title": "Autoreactive T and B cells in nervous system diseases.",
+          "id": "8382894",
+          "authors": [
+            "Sun JB."
+          ],
+          "last_author": "Sun JB."
+        },
+        {
+          "title": "Reflections on the \"intrathymic pathogenesis\" of myasthenia gravis.",
+          "id": "18644632",
+          "authors": [
+            "Hohlfeld R",
+            "Wekerle H."
+          ],
+          "last_author": "Wekerle H."
+        },
+        {
+          "title": "B cell autoimmunity to acetylcholine receptor and its subunits in Lewis rats over the course of experimental autoimmune myasthenia gravis.",
+          "id": "8331155",
+          "authors": [
+            "Wang ZY",
+            "Link H",
+            "Qiao J",
+            "Olsson T",
+            "Huang WX."
+          ],
+          "last_author": "Huang WX."
+        },
+        {
+          "title": "The thymus in myasthenia gravis. Changes typical for the human disease are absent in experimental autoimmune myasthenia gravis of the Lewis rat.",
+          "id": "1951638",
+          "authors": [
+            "Meinl E",
+            "Klinkert WE",
+            "Wekerle H."
+          ],
+          "last_author": "Wekerle H."
+        },
+        {
+          "title": "The role of the thymus in the pathogenesis of myasthenia gravis.",
+          "id": "16141677",
+          "authors": [
+            "Onodera H."
+          ],
+          "last_author": "Onodera H."
+        },
+        {
+          "title": "Acetylcholine receptors and myasthenia gravis.",
+          "id": "6303649",
+          "authors": [
+            "Vincent A."
+          ],
+          "last_author": "Vincent A."
+        },
+        {
+          "title": "Neuromuscular junction autoimmune disease: muscle specific kinase antibodies and treatments for myasthenia gravis.",
+          "id": "16155434",
+          "authors": [
+            "Vincent A",
+            "Leite MI."
+          ],
+          "last_author": "Leite MI."
+        },
+        {
+          "title": "Myasthenia gravis as a prototype autoimmune receptor disease.",
+          "id": "9439759",
+          "authors": [
+            "Hoedemaekers AC",
+            "van Breda Vriesman PJ",
+            "De Baets MH."
+          ],
+          "last_author": "De Baets MH."
+        },
+        {
+          "title": "T cell reactivity to acetylcholine receptor in rats orally tolerized against experimental autoimmune myasthenia gravis.",
+          "id": "8258147",
+          "authors": [
+            "Wang ZY",
+            "Qiao J",
+            "Melms A",
+            "Link H."
+          ],
+          "last_author": "Link H."
+        },
+        {
+          "title": "SDF-1/CXCL12 recruits B cells and antigen-presenting cells to the thymus of autoimmune myasthenia gravis patients.",
+          "id": "22704519",
+          "authors": [
+            "Weiss JM",
+            "Cufi P",
+            "Bismuth J",
+            "Eymard B",
+            "Fadel E",
+            "Berrih-Aknin S",
+            "Le Panse R."
+          ],
+          "last_author": "Le Panse R."
+        },
+        {
+          "title": "[Autoimmune myasthenia: recent physiopathological data].",
+          "id": "9207890",
+          "authors": [
+            "Eymard B",
+            "Chillet P."
+          ],
+          "last_author": "Chillet P."
+        },
+        {
+          "title": "Eye muscle antibodies in patients with ocular myasthenia gravis: possible mechanism for eye muscle inflammation in acetylcholine-receptor antibody-negative patients.",
+          "id": "9646837",
+          "authors": [
+            "Gunji K",
+            "Skolnick C",
+            "Bednarczuk T",
+            "Benes S",
+            "Ackrell BA",
+            "Cochran B",
+            "Kennerdell JS",
+            "Wall JR."
+          ],
+          "last_author": "Wall JR."
+        },
+        {
+          "title": "[Antibodies in myasthenia gravis].",
+          "id": "19162288",
+          "authors": [
+            "Eymard B."
+          ],
+          "last_author": "Eymard B."
+        },
+        {
+          "title": "Autoimmune diseases against cell surface receptors: myasthenia gravis, a prototype anti-receptor disease.",
+          "id": "7838246",
+          "authors": [
+            "De Baets MH."
+          ],
+          "last_author": "De Baets MH."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "The protein kinase double-stranded RNA-dependent (PKR) enhances protection against disease cause by a non-viral pathogen.",
+    "Last Author": "Subauste CS",
+    "authors": [
+      "Ogolla PS",
+      "Portillo JA",
+      "White CL",
+      "Patel K",
+      "Lamb B",
+      "Sen GC",
+      "Subauste CS"
+    ],
+    "Date": "2013 Aug",
+    "Journal": "PLoS pathogens",
+    "Pubmed id": "23990781",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1371/journal.ppat.1003557",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "The protein kinase double-stranded RNA-dependent (PKR) enhances protection against disease cause by a non-viral pathogen.",
+          "id": "23990781",
+          "authors": [
+            "Ogolla PS",
+            "Portillo JA",
+            "White CL",
+            "Patel K",
+            "Lamb B",
+            "Sen GC",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "The CD40-autophagy pathway is needed for host protection despite IFN-Γ-dependent immunity and CD40 induces autophagy via control of P21 levels.",
+          "id": "21217818",
+          "authors": [
+            "Portillo JA",
+            "Okenka G",
+            "Reed E",
+            "Subauste A",
+            "Van Grol J",
+            "Gentil K",
+            "Komatsu M",
+            "Tanaka K",
+            "Landreth G",
+            "Levine B",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "CD40 signaling in macrophages induces activity against an intracellular pathogen independently of gamma interferon and reactive nitrogen intermediates.",
+          "id": "15845519",
+          "authors": [
+            "Andrade RM",
+            "Portillo JA",
+            "Wessendarp M",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "CD40-TRAF6 and autophagy-dependent anti-microbial activity in macrophages.",
+          "id": "17224624",
+          "authors": [
+            "Subauste CS",
+            "Andrade RM",
+            "Wessendarp M."
+          ],
+          "last_author": "Wessendarp M."
+        },
+        {
+          "title": "CD40 induces macrophage anti-Toxoplasma gondii activity by triggering autophagy-dependent fusion of pathogen-containing vacuoles and lysosomes.",
+          "id": "16955139",
+          "authors": [
+            "Andrade RM",
+            "Wessendarp M",
+            "Gubbels MJ",
+            "Striepen B",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "[Rudolf-Virchow Prize 1998. Award lecture. Toxoplasmosis: a model infection for studying systemic and intracerebral immune reactions].",
+          "id": "10095413",
+          "authors": [
+            "Deckert-Schlüter M."
+          ],
+          "last_author": "Deckert-Schlüter M."
+        },
+        {
+          "title": "CD40-CD40 ligand interaction is central to cell-mediated immunity against Toxoplasma gondii: patients with hyper IgM syndrome have a defective type 1 immune response that can be restored by soluble CD40 ligand trimer.",
+          "id": "10352287",
+          "authors": [
+            "Subauste CS",
+            "Wessendarp M",
+            "Sorensen RU",
+            "Leiva LE."
+          ],
+          "last_author": "Leiva LE."
+        },
+        {
+          "title": "TNF receptor-associated factor 6 is an essential mediator of CD40-activated proinflammatory pathways in monocytes and macrophages.",
+          "id": "15634933",
+          "authors": [
+            "Mukundan L",
+            "Bishop GA",
+            "Head KZ",
+            "Zhang L",
+            "Wahl LM",
+            "Suttles J."
+          ],
+          "last_author": "Suttles J."
+        },
+        {
+          "title": "CD40 induces anti-Toxoplasma gondii activity in nonhematopoietic cells dependent on autophagy proteins.",
+          "id": "23509150",
+          "authors": [
+            "Van Grol J",
+            "Muniz-Feliciano L",
+            "Portillo JA",
+            "Bonilha VL",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "CD40 restrains in vivo growth of Toxoplasma gondii independently of gamma interferon.",
+          "id": "16495528",
+          "authors": [
+            "Subauste CS",
+            "Wessendarp M."
+          ],
+          "last_author": "Wessendarp M."
+        },
+        {
+          "title": "Competition between TRAF2 and TRAF6 regulates NF-kappaB activation in human B lymphocytes.",
+          "id": "20449947",
+          "authors": [
+            "Zhang W",
+            "Zhang X",
+            "Wu XL",
+            "He LS",
+            "Zeng XF",
+            "Crammer AC",
+            "Lipsky PE."
+          ],
+          "last_author": "Lipsky PE."
+        },
+        {
+          "title": "Differential requirements for tumor necrosis factor receptor-associated factor family proteins in CD40-mediated induction of NF-kappaB and Jun N-terminal kinase activation.",
+          "id": "10428814",
+          "authors": [
+            "Leo E",
+            "Welsh K",
+            "Matsuzawa S",
+            "Zapata JM",
+            "Kitada S",
+            "Mitchell RS",
+            "Ely KR",
+            "Reed JC."
+          ],
+          "last_author": "Reed JC."
+        },
+        {
+          "title": "TRAF6 is required for TRAF2-dependent CD40 signal transduction in nonhemopoietic cells.",
+          "id": "16260598",
+          "authors": [
+            "Davies CC",
+            "Mak TW",
+            "Young LS",
+            "Eliopoulos AG."
+          ],
+          "last_author": "Eliopoulos AG."
+        },
+        {
+          "title": "Autophagy in immunity against Toxoplasma gondii.",
+          "id": "19802569",
+          "authors": [
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "Human dendritic cells discriminate between viable and killed Toxoplasma gondii tachyzoites: dendritic cell activation after infection with viable parasites results in CD28 and CD40 ligand signaling that controls IL-12-dependent and -independent T cell production of IFN-gamma.",
+          "id": "10903756",
+          "authors": [
+            "Subauste CS",
+            "Wessendarp M."
+          ],
+          "last_author": "Wessendarp M."
+        },
+        {
+          "title": "TRAF6-dependent mitogen-activated protein kinase activation differentially regulates the production of interleukin-12 by macrophages in response to Toxoplasma gondii.",
+          "id": "15385464",
+          "authors": [
+            "Mason NJ",
+            "Fiore J",
+            "Kobayashi T",
+            "Masek KS",
+            "Choi Y",
+            "Hunter CA."
+          ],
+          "last_author": "Hunter CA."
+        },
+        {
+          "title": "The CD40/CD40 ligand interaction is required for resistance to toxoplasmic encephalitis.",
+          "id": "10678943",
+          "authors": [
+            "Reichmann G",
+            "Walker W",
+            "Villegas EN",
+            "Craig L",
+            "Cai G",
+            "Alexander J",
+            "Hunter CA."
+          ],
+          "last_author": "Hunter CA."
+        },
+        {
+          "title": "CD40 and tumour necrosis factor-α co-operate to up-regulate inducuble nitric oxide synthase expression in macrophages.",
+          "id": "22044243",
+          "authors": [
+            "Portillo JA",
+            "Feliciano LM",
+            "Okenka G",
+            "Heinzel F",
+            "Subauste MC",
+            "Subauste CS."
+          ],
+          "last_author": "Subauste CS."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "A novel mechanism for TNFR-associated factor 6-dependent CD40 signaling.",
+          "id": "17878362",
+          "authors": [
+            "Rowland SL",
+            "Tremblay MM",
+            "Ellison JM",
+            "Stunz LL",
+            "Bishop GA",
+            "Hostager BS."
+          ],
+          "last_author": "Hostager BS."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "The interferon response to intracellular DNA: Why so many receptors?",
+    "Last Author": "Unterholzner L",
+    "authors": [
+      "Unterholzner L"
+    ],
+    "Date": "2013 Nov",
+    "Journal": "Immunobiology",
+    "Pubmed id": "23962476",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.imbio.2013.07.007",
+    "Citations": {
+      "results": 139,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "The interferon response to intracellular DNA: Why so many receptors?",
+          "id": "23962476",
+          "authors": [
+            "Unterholzner L."
+          ],
+          "last_author": "Unterholzner L."
+        },
+        {
+          "title": "Nucleic acid sensing receptors in systemic lupus erythematosus: development of novel DNA- and/or RNA-like analogues for treating lupus.",
+          "id": "20456414",
+          "authors": [
+            "Lenert P."
+          ],
+          "last_author": "Lenert P."
+        },
+        {
+          "title": "Regulation of the MIR155 host gene in physiological and pathological processes.",
+          "id": "23246696",
+          "authors": [
+            "Elton TS",
+            "Selemon H",
+            "Elton SM",
+            "Parinandi NL."
+          ],
+          "last_author": "Parinandi NL."
+        },
+        {
+          "title": "Mechanisms of MAVS Regulation at the Mitochondrial Membrane.",
+          "id": "24120683",
+          "authors": [
+            "Jacobs JL",
+            "Coyne CB."
+          ],
+          "last_author": "Coyne CB."
+        },
+        {
+          "title": "AIM2 recognizes cytosolic dsDNA and forms a caspase-1-activating inflammasome with ASC.",
+          "id": "19158675",
+          "authors": [
+            "Hornung V",
+            "Ablasser A",
+            "Charrel-Dennis M",
+            "Bauernfeind F",
+            "Horvath G",
+            "Caffrey DR",
+            "Latz E",
+            "Fitzgerald KA."
+          ],
+          "last_author": "Fitzgerald KA."
+        },
+        {
+          "title": "Particulate formulations for the delivery of poly(I:C) as vaccine adjuvant.",
+          "id": "23751781",
+          "authors": [
+            "Hafner AM",
+            "Corthésy B",
+            "Merkle HP."
+          ],
+          "last_author": "Merkle HP."
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "Negative regulation of the retinoic acid-inducible gene I-induced antiviral state by the ubiquitin-editing protein A20.",
+          "id": "16306043",
+          "authors": [
+            "Lin R",
+            "Yang L",
+            "Nakhaei P",
+            "Sun Q",
+            "Sharif-Askari E",
+            "Julkunen I",
+            "Hiscott J."
+          ],
+          "last_author": "Hiscott J."
+        },
+        {
+          "title": "MAVS-dependent IRF3/7 bypass of interferon β-induction restricts the response to measles infection in CD150Tg mouse bone marrow-derived dendritic cells.",
+          "id": "24096085",
+          "authors": [
+            "Takaki H",
+            "Honda K",
+            "Atarashi K",
+            "Kobayashi F",
+            "Ebihara T",
+            "Oshiumi H",
+            "Matsumoto M",
+            "Shingai M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Nucleic acid-induced antiviral immunity in shrimp.",
+          "id": "23773856",
+          "authors": [
+            "Wang PH",
+            "Yang LS",
+            "Gu ZH",
+            "Weng SP",
+            "Yu XQ",
+            "He JG."
+          ],
+          "last_author": "He JG."
+        },
+        {
+          "title": "Innate immune sensing of modified vaccinia virus Ankara (MVA) is mediated by TLR2-TLR6, MDA-5 and the NALP3 inflammasome.",
+          "id": "19543380",
+          "authors": [
+            "Delaloye J",
+            "Roger T",
+            "Steiner-Tardivel QG",
+            "Le Roy D",
+            "Knaup Reymond M",
+            "Akira S",
+            "Petrilli V",
+            "Gomez CE",
+            "Perdiguero B",
+            "Tschopp J",
+            "Pantaleo G",
+            "Esteban M",
+            "Calandra T."
+          ],
+          "last_author": "Calandra T."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Activation of TBK1 and IKKvarepsilon kinases by vesicular stomatitis virus infection and the role of viral ribonucleoprotein in the development of interferon antiviral immunity.",
+          "id": "15367631",
+          "authors": [
+            "tenOever BR",
+            "Sharma S",
+            "Zou W",
+            "Sun Q",
+            "Grandvaux N",
+            "Julkunen I",
+            "Hemmi H",
+            "Yamamoto M",
+            "Akira S",
+            "Yeh WC",
+            "Lin R",
+            "Hiscott J."
+          ],
+          "last_author": "Hiscott J."
+        },
+        {
+          "title": "DAI (DLM-1/ZBP1) is a cytosolic DNA sensor and an activator of innate immune response.",
+          "id": "17618271",
+          "authors": [
+            "Takaoka A",
+            "Wang Z",
+            "Choi MK",
+            "Yanai H",
+            "Negishi H",
+            "Ban T",
+            "Lu Y",
+            "Miyagishi M",
+            "Kodama T",
+            "Honda K",
+            "Ohba Y",
+            "Taniguchi T."
+          ],
+          "last_author": "Taniguchi T."
+        },
+        {
+          "title": "Vaccinia virus protein C6 is a virulence factor that binds TBK-1 adaptor proteins and inhibits activation of IRF3 and IRF7.",
+          "id": "21931555",
+          "authors": [
+            "Unterholzner L",
+            "Sumner RP",
+            "Baran M",
+            "Ren H",
+            "Mansur DS",
+            "Bourke NM",
+            "Randow F",
+            "Smith GL",
+            "Bowie AG."
+          ],
+          "last_author": "Bowie AG."
+        },
+        {
+          "title": "Scaffolding adaptor protein Gab1 is required for TLR3/4- and RIG-I-mediated production of proinflammatory cytokines and type I IFN in macrophages.",
+          "id": "20435932",
+          "authors": [
+            "Zheng Y",
+            "An H",
+            "Yao M",
+            "Hou J",
+            "Yu Y",
+            "Feng G",
+            "Cao X."
+          ],
+          "last_author": "Cao X."
+        },
+        {
+          "title": "Early innate recognition of herpes simplex virus in human primary macrophages is mediated via the MDA5/MAVS-dependent and MDA5/MAVS/RNA polymerase III-independent pathways.",
+          "id": "20739519",
+          "authors": [
+            "Melchjorsen J",
+            "Rintahaka J",
+            "Søby S",
+            "Horan KA",
+            "Poltajainen A",
+            "Østergaard L",
+            "Paludan SR",
+            "Matikainen S."
+          ],
+          "last_author": "Matikainen S."
+        },
+        {
+          "title": "TRAF6 establishes innate immune responses by activating NF-kappaB and IRF7 upon sensing cytosolic viral RNA and DNA.",
+          "id": "19479062",
+          "authors": [
+            "Konno H",
+            "Yamamoto T",
+            "Yamazaki K",
+            "Gohda J",
+            "Akiyama T",
+            "Semba K",
+            "Goto H",
+            "Kato A",
+            "Yujiri T",
+            "Imai T",
+            "Kawaguchi Y",
+            "Su B",
+            "Takeuchi O",
+            "Akira S",
+            "Tsunetsugu-Yokota Y",
+            "Inoue J."
+          ],
+          "last_author": "Inoue J."
+        },
+        {
+          "title": "Both STING and MAVS fish orthologs contribute to the induction of interferon mediated by RIG-I.",
+          "id": "23091644",
+          "authors": [
+            "Biacchesi S",
+            "Mérour E",
+            "Lamoureux A",
+            "Bernard J",
+            "Brémont M."
+          ],
+          "last_author": "Brémont M."
+        },
+        {
+          "title": "The IFN-independent response to virus particle entry provides a first line of antiviral defense that is independent of TLRs and retinoic acid-inducible gene I.",
+          "id": "17114474",
+          "authors": [
+            "Paladino P",
+            "Cummings DT",
+            "Noyce RS",
+            "Mossman KL."
+          ],
+          "last_author": "Mossman KL."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "A synthetic TLR3 ligand mitigates profibrotic fibroblast responses by inducing autocrine IFN signaling.",
+    "Last Author": "Varga J",
+    "authors": [
+      "Fang F",
+      "Ooka K",
+      "Sun X",
+      "Shah R",
+      "Bhattacharyya S",
+      "Wei J",
+      "Varga J"
+    ],
+    "Date": "2013 Sep 15",
+    "Journal": "Journal of immunology (Baltimore, Md. : 1950)",
+    "Pubmed id": "23956427",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.4049/jimmunol.1300376",
+    "Citations": {
+      "results": 102,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "A synthetic TLR3 ligand mitigates profibrotic fibroblast responses by inducing autocrine IFN signaling.",
+          "id": "23956427",
+          "authors": [
+            "Fang F",
+            "Ooka K",
+            "Sun X",
+            "Shah R",
+            "Bhattacharyya S",
+            "Wei J",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "Disruption of transforming growth factor beta signaling and profibrotic responses in normal skin fibroblasts by peroxisome proliferator-activated receptor gamma.",
+          "id": "15077315",
+          "authors": [
+            "Ghosh AK",
+            "Bhattacharyya S",
+            "Lakos G",
+            "Chen SJ",
+            "Mori Y",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "IFN-gamma primes intact human coronary arteries and cultured coronary smooth muscle cells to double-stranded RNA- and self-RNA-induced inflammatory responses by upregulating TLR3 and melanoma differentiation-associated gene 5.",
+          "id": "20562257",
+          "authors": [
+            "Ahmad U",
+            "Ali R",
+            "Lebastchi AH",
+            "Qin L",
+            "Lo SF",
+            "Yakimov AO",
+            "Khan SF",
+            "Choy JC",
+            "Geirsson A",
+            "Pober JS",
+            "Tellides G."
+          ],
+          "last_author": "Tellides G."
+        },
+        {
+          "title": "Toll-like receptor 3 upregulation by type I interferon in healthy and scleroderma dermal fibroblasts.",
+          "id": "21223583",
+          "authors": [
+            "Agarwal SK",
+            "Wu M",
+            "Livingston CK",
+            "Parks DH",
+            "Mayes MD",
+            "Arnett FC",
+            "Tan FK."
+          ],
+          "last_author": "Tan FK."
+        },
+        {
+          "title": "Synergy between RA and TLR3 promotes type I IFN-dependent apoptosis through upregulation of TRAIL pathway in breast cancer cells.",
+          "id": "23370279",
+          "authors": [
+            "Bernardo AR",
+            "Cosgaya JM",
+            "Aranda A",
+            "Jiménez-Lara AM."
+          ],
+          "last_author": "Jiménez-Lara AM."
+        },
+        {
+          "title": "Interferon-beta induction through toll-like receptor 3 depends on double-stranded RNA structure.",
+          "id": "16225392",
+          "authors": [
+            "Okahira S",
+            "Nishikawa F",
+            "Nishikawa S",
+            "Akazawa T",
+            "Seya T",
+            "Matsumoto M."
+          ],
+          "last_author": "Matsumoto M."
+        },
+        {
+          "title": "NAK-associated protein 1 participates in both the TLR3 and the cytoplasmic pathways in type I IFN induction.",
+          "id": "17142768",
+          "authors": [
+            "Sasai M",
+            "Shingai M",
+            "Funami K",
+            "Yoneyama M",
+            "Fujita T",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        },
+        {
+          "title": "Interaction between interferon-stimulated gene 56 and melanoma differentiation-associated gene 5 in Toll-like receptor 3 signaling in normal human mesangial cells.",
+          "id": "23363937",
+          "authors": [
+            "Imaizumi T",
+            "Aizawa-Yashiro T",
+            "Matsumiya T",
+            "Yoshida H",
+            "Watanabe S",
+            "Tsuruga K",
+            "Tatsuta T",
+            "Xing F",
+            "Hayakari R",
+            "Meng P",
+            "Tanaka H."
+          ],
+          "last_author": "Tanaka H."
+        },
+        {
+          "title": "Toll-like receptor 4 signaling augments transforming growth factor-β responses: a novel mechanism for maintaining and amplifying fibrosis in scleroderma.",
+          "id": "23141927",
+          "authors": [
+            "Bhattacharyya S",
+            "Kelley K",
+            "Melichian DS",
+            "Tamaki Z",
+            "Fang F",
+            "Su Y",
+            "Feng G",
+            "Pope RM",
+            "Budinger GR",
+            "Mutlu GM",
+            "Lafyatis R",
+            "Radstake T",
+            "Feghali-Bostwick C",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "The transcriptional cofactor nab2 is induced by tgf-Beta and suppresses fibroblast activation: physiological roles and impaired expression in scleroderma.",
+          "id": "19888474",
+          "authors": [
+            "Bhattacharyya S",
+            "Wei J",
+            "Melichian DS",
+            "Milbrandt J",
+            "Takehara K",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "Signal regulatory protein alpha negatively regulates both TLR3 and cytoplasmic pathways in type I interferon induction.",
+          "id": "18471880",
+          "authors": [
+            "Dong LW",
+            "Kong XN",
+            "Yan HX",
+            "Yu LX",
+            "Chen L",
+            "Yang W",
+            "Liu Q",
+            "Huang DD",
+            "Wu MC",
+            "Wang HY."
+          ],
+          "last_author": "Wang HY."
+        },
+        {
+          "title": "7th International Symposium on Enabling Technologies for Life Sciences (ETP).",
+          "id": "24123647",
+          "authors": [
+            "[No authors listed]"
+          ],
+          "last_author": "[No authors listed]"
+        },
+        {
+          "title": "Arthritis is associated with T-cell-induced upregulation of Toll-like receptor 3 on synovial fibroblasts.",
+          "id": "21708001",
+          "authors": [
+            "Zhu W",
+            "Meng L",
+            "Jiang C",
+            "He X",
+            "Hou W",
+            "Xu P",
+            "Du H",
+            "Holmdahl R",
+            "Lu S."
+          ],
+          "last_author": "Lu S."
+        },
+        {
+          "title": "A synthetic double-stranded RNA, poly I:C, induces a rapid apoptosis of human CD34(+) cells.",
+          "id": "22198151",
+          "authors": [
+            "Liu J",
+            "Guo YM",
+            "Hirokawa M",
+            "Iwamoto K",
+            "Ubukawa K",
+            "Michishita Y",
+            "Fujishima N",
+            "Tagawa H",
+            "Takahashi N",
+            "Xiao W",
+            "Yamashita J",
+            "Ohteki T",
+            "Sawada K."
+          ],
+          "last_author": "Sawada K."
+        },
+        {
+          "title": "PPARγ downregulation by TGFß in fibroblast and impaired expression and function in systemic sclerosis: a novel mechanism for progressive fibrogenesis.",
+          "id": "21072170",
+          "authors": [
+            "Wei J",
+            "Ghosh AK",
+            "Sargent JL",
+            "Komura K",
+            "Wu M",
+            "Huang QQ",
+            "Jain M",
+            "Whitfield ML",
+            "Feghali-Bostwick C",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "Poly(I:C) drives type I IFN- and TGFβ-mediated inflammation and dermal fibrosis simulating altered gene expression in systemic sclerosis.",
+          "id": "20613770",
+          "authors": [
+            "Farina GA",
+            "York MR",
+            "Di Marzio M",
+            "Collins CA",
+            "Meller S",
+            "Homey B",
+            "Rifkin IR",
+            "Marshak-Rothstein A",
+            "Radstake TR",
+            "Lafyatis R."
+          ],
+          "last_author": "Lafyatis R."
+        },
+        {
+          "title": "Wnt/β-catenin signaling is hyperactivated in systemic sclerosis and induces Smad-dependent fibrotic responses in mesenchymal cells.",
+          "id": "22328118",
+          "authors": [
+            "Wei J",
+            "Fang F",
+            "Lam AP",
+            "Sargent JL",
+            "Hamburg E",
+            "Hinchcliff ME",
+            "Gottardi CJ",
+            "Atit R",
+            "Whitfield ML",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "The clathrin-mediated endocytic pathway participates in dsRNA-induced IFN-beta production.",
+          "id": "18832709",
+          "authors": [
+            "Itoh K",
+            "Watanabe A",
+            "Funami K",
+            "Seya T",
+            "Matsumoto M."
+          ],
+          "last_author": "Matsumoto M."
+        },
+        {
+          "title": "Intracellular TGF-beta receptor blockade abrogates Smad-dependent fibroblast activation in vitro and in vivo.",
+          "id": "16741519",
+          "authors": [
+            "Ishida W",
+            "Mori Y",
+            "Lakos G",
+            "Sun L",
+            "Shan F",
+            "Bowes S",
+            "Josiah S",
+            "Lee WC",
+            "Singh J",
+            "Ling LE",
+            "Varga J."
+          ],
+          "last_author": "Varga J."
+        },
+        {
+          "title": "Mechanism of up-regulation of human Toll-like receptor 3 secondary to infection of measles virus-attenuated strains.",
+          "id": "14575692",
+          "authors": [
+            "Tanabe M",
+            "Kurita-Taniguchi M",
+            "Takeuchi K",
+            "Takeda M",
+            "Ayata M",
+            "Ogura H",
+            "Matsumoto M",
+            "Seya T."
+          ],
+          "last_author": "Seya T."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Prevention of airway allograft tolerance by polyinosinic:polycytidylic acid requires type I interferon responsiveness for mouse airway obliteration.",
+    "Last Author": "McDyer JF",
+    "authors": [
+      "Miller HL",
+      "Shah PD",
+      "Orens JB",
+      "McDyer JF"
+    ],
+    "Date": "2013 Sep",
+    "Journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+    "Pubmed id": "23953819",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.healun.2013.06.017",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Prevention of airway allograft tolerance by polyinosinic:polycytidylic acid requires type I interferon responsiveness for mouse airway obliteration.",
+          "id": "23953819",
+          "authors": [
+            "Miller HL",
+            "Shah PD",
+            "Orens JB",
+            "McDyer JF."
+          ],
+          "last_author": "McDyer JF."
+        },
+        {
+          "title": "CD154 deficiency uncouples allograft CD8+ T-cell effector function from proliferation and inhibits murine airway obliteration.",
+          "id": "20021479",
+          "authors": [
+            "Shah PD",
+            "West EE",
+            "Whitlock AB",
+            "Orens JB",
+            "McDyer JF."
+          ],
+          "last_author": "McDyer JF."
+        },
+        {
+          "title": "Pluripotent allospecific CD8+ effector T cells traffic to lung in murine obliterative airway disease.",
+          "id": "16195540",
+          "authors": [
+            "West EE",
+            "Lavoie TL",
+            "Orens JB",
+            "Chen ES",
+            "Ye SQ",
+            "Finkelman FD",
+            "Garcia JG",
+            "McDyer JF."
+          ],
+          "last_author": "McDyer JF."
+        },
+        {
+          "title": "Virus-induced abrogation of transplantation tolerance induced by donor-specific transfusion and anti-CD154 antibody.",
+          "id": "10666251",
+          "authors": [
+            "Welsh RM",
+            "Markees TG",
+            "Woda BA",
+            "Daniels KA",
+            "Brehm MA",
+            "Mordes JP",
+            "Greiner DL",
+            "Rossini AA."
+          ],
+          "last_author": "Rossini AA."
+        },
+        {
+          "title": "Combined donor specific transfusion and anti-CD154 therapy achieves airway allograft tolerance.",
+          "id": "16254057",
+          "authors": [
+            "Chalermskulrat W",
+            "McKinnon KP",
+            "Brickey WJ",
+            "Neuringer IP",
+            "Park RC",
+            "Sterka DG",
+            "Long BR",
+            "McNeillie P",
+            "Noelle RJ",
+            "Ting JP",
+            "Aris RM."
+          ],
+          "last_author": "Aris RM."
+        },
+        {
+          "title": "Prevention of obliterative airway disease in HLA-A2-transgenic tracheal allografts by neutralization of tumor necrosis factor.",
+          "id": "11707738",
+          "authors": [
+            "Smith CR",
+            "Jaramillo A",
+            "Lu KC",
+            "Higuchi T",
+            "Kaleem Z",
+            "Mohanakumar T."
+          ],
+          "last_author": "Mohanakumar T."
+        },
+        {
+          "title": "CD154 blockade abrogates allospecific responses and enhances CD4(+) regulatory T-cells in mouse orthotopic lung transplant.",
+          "id": "21827610",
+          "authors": [
+            "Dodd-o JM",
+            "Lendermon EA",
+            "Miller HL",
+            "Zhong Q",
+            "John ER",
+            "Jungraithmayr WM",
+            "D'Alessio FR",
+            "McDyer JF."
+          ],
+          "last_author": "McDyer JF."
+        },
+        {
+          "title": "CD154 blockade alters innate immune cell recruitment and programs alloreactive CD8+ T cells into KLRG-1(high) short-lived effector T cells.",
+          "id": "22792369",
+          "authors": [
+            "Ferrer IR",
+            "Wagener ME",
+            "Song M",
+            "Ford ML."
+          ],
+          "last_author": "Ford ML."
+        },
+        {
+          "title": "Inhibition of obliterative airway disease development following heterotopic murine tracheal transplantation by costimulatory molecule blockade using anti-CD40 ligand alone or in combination with donor bone marrow.",
+          "id": "15993779",
+          "authors": [
+            "Fernández FG",
+            "McKane B",
+            "Marshbank S",
+            "Patterson GA",
+            "Mohanakumar T."
+          ],
+          "last_author": "Mohanakumar T."
+        },
+        {
+          "title": "Obliterative airway disease after heterotopic tracheal xenotransplantation: pathogenesis and prevention using new immunosuppressive agents.",
+          "id": "9275099",
+          "authors": [
+            "Reichenspurner H",
+            "Soni V",
+            "Nitschke M",
+            "Berry GJ",
+            "Brazelton TR",
+            "Shorthouse R",
+            "Huang X",
+            "Reitz BA",
+            "Morris RE."
+          ],
+          "last_author": "Morris RE."
+        },
+        {
+          "title": "Evaluation of donor-specific transfusion sources: unique failure of bone marrow cells to induce prolonged skin allograft survival with anti-CD154 monoclonal antibody.",
+          "id": "15591948",
+          "authors": [
+            "Markees TG",
+            "Pearson T",
+            "Cuthbert A",
+            "Pearson AL",
+            "Shultz LD",
+            "Leif J",
+            "Phillips NE",
+            "Mordes JP",
+            "Greiner DL",
+            "Rossini AA."
+          ],
+          "last_author": "Rossini AA."
+        },
+        {
+          "title": "T-cell and major histocompatibility complex requirements for obliterative airway disease in heterotopically transplanted murine tracheas.",
+          "id": "9771840",
+          "authors": [
+            "Kelly KE",
+            "Hertz MI",
+            "Mueller DL."
+          ],
+          "last_author": "Mueller DL."
+        },
+        {
+          "title": "Rat xenograft survival in mice treated with donor-specific transfusion and anti-CD154 antibody is enhanced by elimination of host CD4+ cells.",
+          "id": "11213080",
+          "authors": [
+            "Gordon EJ",
+            "Woda BA",
+            "Shultz LD",
+            "Rossini AA",
+            "Greiner DL",
+            "Mordes JP."
+          ],
+          "last_author": "Mordes JP."
+        },
+        {
+          "title": "Donor-specific antigen transfusion-mediated skin-graft tolerance results from the peripheral deletion of donor-reactive CD8+ T cells.",
+          "id": "12829922",
+          "authors": [
+            "Margenthaler JA",
+            "Kataoka M",
+            "Flye MW."
+          ],
+          "last_author": "Flye MW."
+        },
+        {
+          "title": "Intragraft interleukin-4 mRNA expression after short-term CD154 blockade may trigger delayed development of transplant arteriosclerosis in the absence of CD8+ T cells.",
+          "id": "11014649",
+          "authors": [
+            "Ensminger SM",
+            "Spriewald BM",
+            "Witzke O",
+            "Morrison K",
+            "van Maurik A",
+            "Morris PJ",
+            "Rose ML",
+            "Wood KJ."
+          ],
+          "last_author": "Wood KJ."
+        },
+        {
+          "title": "Treatment of allograft recipients with donor-specific transfusion and anti-CD154 antibody leads to deletion of alloreactive CD8+ T cells and prolonged graft survival in a CTLA4-dependent manner.",
+          "id": "10605049",
+          "authors": [
+            "Iwakoshi NN",
+            "Mordes JP",
+            "Markees TG",
+            "Phillips NE",
+            "Rossini AA",
+            "Greiner DL."
+          ],
+          "last_author": "Greiner DL."
+        },
+        {
+          "title": "Induction of obliterative airway disease in murine tracheal allografts by CD8+ CTLs recognizing a single minor histocompatibility antigen.",
+          "id": "15699113",
+          "authors": [
+            "Higuchi T",
+            "Maruyama T",
+            "Jaramillo A",
+            "Mohanakumar T."
+          ],
+          "last_author": "Mohanakumar T."
+        },
+        {
+          "title": "CTLA4 signals are required to optimally induce allograft tolerance with combined donor-specific transfusion and anti-CD154 monoclonal antibody treatment.",
+          "id": "10202046",
+          "authors": [
+            "Zheng XX",
+            "Markees TG",
+            "Hancock WW",
+            "Li Y",
+            "Greiner DL",
+            "Li XC",
+            "Mordes JP",
+            "Sayegh MH",
+            "Rossini AA",
+            "Strom TB."
+          ],
+          "last_author": "Strom TB."
+        },
+        {
+          "title": "TNF-alpha is a key mediator in the development of Th2 cell response to inhaled allergens induced by a viral PAMP double-stranded RNA.",
+          "id": "22765163",
+          "authors": [
+            "Choi JP",
+            "Kim YS",
+            "Kim OY",
+            "Kim YM",
+            "Jeon SG",
+            "Roh TY",
+            "Park JS",
+            "Gho YS",
+            "Kim YK."
+          ],
+          "last_author": "Kim YK."
+        },
+        {
+          "title": "Anti-TCR-specific DNA vaccination demonstrates a role for a CD8+ T cell clone in the induction of allograft tolerance by donor-specific blood transfusion.",
+          "id": "10861040",
+          "authors": [
+            "Vignes C",
+            "Chiffoleau E",
+            "Douillard P",
+            "Josien R",
+            "Pêche H",
+            "Heslan JM",
+            "Usal C",
+            "Soulillou JP",
+            "Cuturi MC."
+          ],
+          "last_author": "Cuturi MC."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Length of dsRNA (poly I:C) drives distinct innate immune responses, depending on the cell type.",
+    "Last Author": "Ashkar AA",
+    "authors": [
+      "Mian MF",
+      "Ahmed AN",
+      "Rad M",
+      "Babaian A",
+      "Bowdish D",
+      "Ashkar AA"
+    ],
+    "Date": "2013 Aug 2",
+    "Journal": "Journal of leukocyte biology",
+    "Pubmed id": "23911868",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1189/jlb.0312125",
+    "Citations": {
+      "results": 96,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Length of dsRNA (poly I:C) drives distinct innate immune responses, depending on the cell type.",
+          "id": "23911868",
+          "authors": [
+            "Mian MF",
+            "Ahmed AN",
+            "Rad M",
+            "Babaian A",
+            "Bowdish D",
+            "Ashkar AA."
+          ],
+          "last_author": "Ashkar AA."
+        },
+        {
+          "title": "Interferon-beta induction through toll-like receptor 3 depends on double-stranded RNA structure.",
+          "id": "16225392",
+          "authors": [
+            "Okahira S",
+            "Nishikawa F",
+            "Nishikawa S",
+            "Akazawa T",
+            "Seya T",
+            "Matsumoto M."
+          ],
+          "last_author": "Matsumoto M."
+        },
+        {
+          "title": "The clathrin-mediated endocytic pathway participates in dsRNA-induced IFN-beta production.",
+          "id": "18832709",
+          "authors": [
+            "Itoh K",
+            "Watanabe A",
+            "Funami K",
+            "Seya T",
+            "Matsumoto M."
+          ],
+          "last_author": "Matsumoto M."
+        },
+        {
+          "title": "Double-stranded RNA-dependent protein kinase is not required for double-stranded RNA-induced nitric oxide synthase expression or nuclear factor-kappaB activation by islets.",
+          "id": "11272138",
+          "authors": [
+            "Blair LA",
+            "Heitmeier MR",
+            "Scarim AL",
+            "Maggi LB Jr",
+            "Corbett JA."
+          ],
+          "last_author": "Corbett JA."
+        },
+        {
+          "title": "Innate cytokine responses in porcine macrophage populations: evidence for differential recognition of double-stranded RNA.",
+          "id": "17142740",
+          "authors": [
+            "Loving CL",
+            "Brockmeier SL",
+            "Ma W",
+            "Richt JA",
+            "Sacco RE."
+          ],
+          "last_author": "Sacco RE."
+        },
+        {
+          "title": "Cigarette smoke attenuation of poly I:C-induced innate antiviral responses in human PBMC is mainly due to inhibition of IFN-beta production.",
+          "id": "18930547",
+          "authors": [
+            "Mian MF",
+            "Stämpfli MR",
+            "Mossman KL",
+            "Ashkar AA."
+          ],
+          "last_author": "Ashkar AA."
+        },
+        {
+          "title": "Synthetic double-stranded RNAs are adjuvants for the induction of T helper 1 and humoral immune responses to human papillomavirus in rhesus macaques.",
+          "id": "19360120",
+          "authors": [
+            "Stahl-Hennig C",
+            "Eisenblätter M",
+            "Jasny E",
+            "Rzehak T",
+            "Tenner-Racz K",
+            "Trumpfheller C",
+            "Salazar AM",
+            "Uberla K",
+            "Nieto K",
+            "Kleinschmidt J",
+            "Schulte R",
+            "Gissmann L",
+            "Müller M",
+            "Sacher A",
+            "Racz P",
+            "Steinman RM",
+            "Uguccioni M",
+            "Ignatius R."
+          ],
+          "last_author": "Ignatius R."
+        },
+        {
+          "title": "FLIP (Flice-like inhibitory protein) suppresses cytoplasmic double-stranded-RNA-induced apoptosis and NF-κB and IRF3-mediated signaling.",
+          "id": "21635783",
+          "authors": [
+            "Handa P",
+            "Tupper JC",
+            "Jordan KC",
+            "Harlan JM."
+          ],
+          "last_author": "Harlan JM."
+        },
+        {
+          "title": "Toll-like receptor 3 and RIG-I-like receptor activation induces innate antiviral responses in mouse ovarian granulosa cells.",
+          "id": "23567548",
+          "authors": [
+            "Yan K",
+            "Zhu W",
+            "Yu L",
+            "Li N",
+            "Zhang X",
+            "Liu P",
+            "Chen Q",
+            "Chen Y",
+            "Han D."
+          ],
+          "last_author": "Han D."
+        },
+        {
+          "title": "An accessory to the 'Trinity': SR-As are essential pathogen sensors of extracellular dsRNA, mediating entry and leading to subsequent type I IFN responses.",
+          "id": "20360967",
+          "authors": [
+            "DeWitte-Orr SJ",
+            "Collins SE",
+            "Bauer CM",
+            "Bowdish DM",
+            "Mossman KL."
+          ],
+          "last_author": "Mossman KL."
+        },
+        {
+          "title": "CD11b/CD18 (Mac-1) is a novel surface receptor for extracellular double-stranded RNA to mediate cellular inflammatory responses.",
+          "id": "23209319",
+          "authors": [
+            "Zhou H",
+            "Liao J",
+            "Aloor J",
+            "Nie H",
+            "Wilson BC",
+            "Fessler MB",
+            "Gao HM",
+            "Hong JS."
+          ],
+          "last_author": "Hong JS."
+        },
+        {
+          "title": "Long double-stranded RNA induces an antiviral response independent of IFN regulatory factor 3, IFN-beta promoter stimulator 1, and IFN.",
+          "id": "19864603",
+          "authors": [
+            "DeWitte-Orr SJ",
+            "Mehta DR",
+            "Collins SE",
+            "Suthar MS",
+            "Gale M Jr",
+            "Mossman KL."
+          ],
+          "last_author": "Mossman KL."
+        },
+        {
+          "title": "SOCS1-negative feedback of STAT1 activation is a key pathway in the dsRNA-induced innate immune response of human keratinocytes.",
+          "id": "16628196",
+          "authors": [
+            "Dai X",
+            "Sayama K",
+            "Yamasaki K",
+            "Tohyama M",
+            "Shirakata Y",
+            "Hanakawa Y",
+            "Tokumaru S",
+            "Yahata Y",
+            "Yang L",
+            "Yoshimura A",
+            "Hashimoto K."
+          ],
+          "last_author": "Hashimoto K."
+        },
+        {
+          "title": "Protein kinase regulated by dsRNA downregulates the interferon production in dengue virus- and dsRNA-stimulated human lung epithelial cells.",
+          "id": "23372823",
+          "authors": [
+            "Li Y",
+            "Xie J",
+            "Wu S",
+            "Xia J",
+            "Zhang P",
+            "Liu C",
+            "Zhang P",
+            "Huang X."
+          ],
+          "last_author": "Huang X."
+        },
+        {
+          "title": "Acute myeloid leukemic cell lines loaded with synthetic dsRNA trigger IFN-gamma secretion by human NK cells.",
+          "id": "18845337",
+          "authors": [
+            "Lion E",
+            "Smits EL",
+            "Berneman ZN",
+            "Van Tendeloo VF."
+          ],
+          "last_author": "Van Tendeloo VF."
+        },
+        {
+          "title": "poly(I:C) and LPS induce distinct IRF3 and NF-kappaB signaling during type-I IFN and TNF responses in human macrophages.",
+          "id": "18252870",
+          "authors": [
+            "Reimer T",
+            "Brcic M",
+            "Schweizer M",
+            "Jungi TW."
+          ],
+          "last_author": "Jungi TW."
+        },
+        {
+          "title": "A synthetic double-stranded RNA, poly I:C, induces a rapid apoptosis of human CD34(+) cells.",
+          "id": "22198151",
+          "authors": [
+            "Liu J",
+            "Guo YM",
+            "Hirokawa M",
+            "Iwamoto K",
+            "Ubukawa K",
+            "Michishita Y",
+            "Fujishima N",
+            "Tagawa H",
+            "Takahashi N",
+            "Xiao W",
+            "Yamashita J",
+            "Ohteki T",
+            "Sawada K."
+          ],
+          "last_author": "Sawada K."
+        },
+        {
+          "title": "Microglia recognize double-stranded RNA via TLR3.",
+          "id": "16517751",
+          "authors": [
+            "Town T",
+            "Jeng D",
+            "Alexopoulou L",
+            "Tan J",
+            "Flavell RA."
+          ],
+          "last_author": "Flavell RA."
+        },
+        {
+          "title": "Induction of IFN-beta and the innate antiviral response in myeloid cells occurs through an IPS-1-dependent signal that does not require IRF-3 and IRF-7.",
+          "id": "19798431",
+          "authors": [
+            "Daffis S",
+            "Suthar MS",
+            "Szretter KJ",
+            "Gale M Jr",
+            "Diamond MS."
+          ],
+          "last_author": "Diamond MS."
+        },
+        {
+          "title": "Impaired cytokine response in myeloid dendritic cells in chronic hepatitis C virus infection regardless of enhanced expression of Toll-like receptors and retinoic acid inducible gene-I.",
+          "id": "18428149",
+          "authors": [
+            "Miyazaki M",
+            "Kanto T",
+            "Inoue M",
+            "Itose I",
+            "Miyatake H",
+            "Sakakibara M",
+            "Yakushijin T",
+            "Kakita N",
+            "Hiramatsu N",
+            "Takehara T",
+            "Kasahara A",
+            "Hayashi N."
+          ],
+          "last_author": "Hayashi N."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Characterization of rotavirus RNAs that activate innate immune signaling through the RIG-I-like receptors.",
+    "Last Author": "Greenberg HB",
+    "authors": [
+      "Uzri D",
+      "Greenberg HB"
+    ],
+    "Date": "2013",
+    "Journal": "PloS one",
+    "Pubmed id": "23894547",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1371/journal.pone.0069825",
+    "Citations": {
+      "results": 104,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Characterization of rotavirus RNAs that activate innate immune signaling through the RIG-I-like receptors.",
+          "id": "23894547",
+          "authors": [
+            "Uzri D",
+            "Greenberg HB."
+          ],
+          "last_author": "Greenberg HB."
+        },
+        {
+          "title": "RIG-I/MDA5/MAVS are required to signal a protective IFN response in rotavirus-infected intestinal epithelium.",
+          "id": "21187438",
+          "authors": [
+            "Broquet AH",
+            "Hirata Y",
+            "McAllister CS",
+            "Kagnoff MF."
+          ],
+          "last_author": "Kagnoff MF."
+        },
+        {
+          "title": "The Essential, Nonredundant Roles of RIG-I and MDA5 in Detecting and Controlling West Nile Virus Infection.",
+          "id": "23966395",
+          "authors": [
+            "Errett JS",
+            "Suthar MS",
+            "McMillan A",
+            "Diamond MS",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity.",
+          "id": "17653195",
+          "authors": [
+            "Malathi K",
+            "Dong B",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "The early interferon response to rotavirus is regulated by PKR and depends on MAVS/IPS-1, RIG-I, MDA-5, and IRF3.",
+          "id": "21307186",
+          "authors": [
+            "Sen A",
+            "Pruijssers AJ",
+            "Dermody TS",
+            "García-Sastre A",
+            "Greenberg HB."
+          ],
+          "last_author": "Greenberg HB."
+        },
+        {
+          "title": "Mitochondrial antiviral signaling protein plays a major role in induction of the fish innate immune response against RNA and DNA viruses.",
+          "id": "19474100",
+          "authors": [
+            "Biacchesi S",
+            "LeBerre M",
+            "Lamoureux A",
+            "Louise Y",
+            "Lauret E",
+            "Boudinot P",
+            "Brémont M."
+          ],
+          "last_author": "Brémont M."
+        },
+        {
+          "title": "RNA-binding and capping activities of proteins in rotavirus open cores.",
+          "id": "9882343",
+          "authors": [
+            "Patton JT",
+            "Chen D."
+          ],
+          "last_author": "Chen D."
+        },
+        {
+          "title": "Rotavirus open cores catalyze 5'-capping and methylation of exogenous RNA: evidence that VP3 is a methyltransferase.",
+          "id": "10603323",
+          "authors": [
+            "Chen D",
+            "Luongo CL",
+            "Nibert ML",
+            "Patton JT."
+          ],
+          "last_author": "Patton JT."
+        },
+        {
+          "title": "Establishment and maintenance of the innate antiviral response to West Nile Virus involves both RIG-I and MDA5 signaling through IPS-1.",
+          "id": "17977974",
+          "authors": [
+            "Fredericksen BL",
+            "Keller BC",
+            "Fornek J",
+            "Katze MG",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Processing of genome 5' termini as a strategy of negative-strand RNA viruses to avoid RIG-I-dependent interferon induction.",
+          "id": "18446221",
+          "authors": [
+            "Habjan M",
+            "Andersson I",
+            "Klingström J",
+            "Schümann M",
+            "Martin A",
+            "Zimmermann P",
+            "Wagner V",
+            "Pichlmair A",
+            "Schneider U",
+            "Mühlberger E",
+            "Mirazimi A",
+            "Weber F."
+          ],
+          "last_author": "Weber F."
+        },
+        {
+          "title": "Melanoma differentiation-associated gene 5 (MDA5) is involved in the innate immune response to Paramyxoviridae infection in vivo.",
+          "id": "20107606",
+          "authors": [
+            "Gitlin L",
+            "Benoit L",
+            "Song C",
+            "Cella M",
+            "Gilfillan S",
+            "Holtzman MJ",
+            "Colonna M."
+          ],
+          "last_author": "Colonna M."
+        },
+        {
+          "title": "Role of double-stranded RNA pattern recognition receptors in rhinovirus-induced airway epithelial cell responses.",
+          "id": "19890046",
+          "authors": [
+            "Wang Q",
+            "Nagarkar DR",
+            "Bowman ER",
+            "Schneider D",
+            "Gosangi B",
+            "Lei J",
+            "Zhao Y",
+            "McHenry CL",
+            "Burgens RV",
+            "Miller DJ",
+            "Sajjan U",
+            "Hershenson MB."
+          ],
+          "last_author": "Hershenson MB."
+        },
+        {
+          "title": "The viral RNase E(rns) prevents IFN type-I triggering by pestiviral single- and double-stranded RNAs.",
+          "id": "19041350",
+          "authors": [
+            "Mätzener P",
+            "Magkouras I",
+            "Rümenapf T",
+            "Peterhans E",
+            "Schweizer M."
+          ],
+          "last_author": "Schweizer M."
+        },
+        {
+          "title": "RIG-I-mediated antiviral signaling is inhibited in HIV-1 infection by a protease-mediated sequestration of RIG-I.",
+          "id": "21084468",
+          "authors": [
+            "Solis M",
+            "Nakhaei P",
+            "Jalalirad M",
+            "Lacoste J",
+            "Douville R",
+            "Arguello M",
+            "Zhao T",
+            "Laughrea M",
+            "Wainberg MA",
+            "Hiscott J."
+          ],
+          "last_author": "Hiscott J."
+        },
+        {
+          "title": "Hepatitis C virus reveals a novel early control in acute immune response.",
+          "id": "22022264",
+          "authors": [
+            "Arnaud N",
+            "Dabo S",
+            "Akazawa D",
+            "Fukasawa M",
+            "Shinkai-Ouchi F",
+            "Hugon J",
+            "Wakita T",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "Classical swine fever virus triggers RIG-I and MDA5-dependent signaling pathway to IRF-3 and NF-kappaB activation to promote secretion of interferon and inflammatory cytokines in porcine alveolar macrophages.",
+          "id": "24034559",
+          "authors": [
+            "Dong XY",
+            "Liu WJ",
+            "Zhao MQ",
+            "Wang JY",
+            "Pei JJ",
+            "Luo YW",
+            "Ju CM",
+            "Chen JD."
+          ],
+          "last_author": "Chen JD."
+        },
+        {
+          "title": "Both STING and MAVS fish orthologs contribute to the induction of interferon mediated by RIG-I.",
+          "id": "23091644",
+          "authors": [
+            "Biacchesi S",
+            "Mérour E",
+            "Lamoureux A",
+            "Bernard J",
+            "Brémont M."
+          ],
+          "last_author": "Brémont M."
+        },
+        {
+          "title": "The RNA-activated protein kinase enhances the induction of interferon-beta and apoptosis mediated by cytoplasmic RNA sensors.",
+          "id": "19028691",
+          "authors": [
+            "McAllister CS",
+            "Samuel CE."
+          ],
+          "last_author": "Samuel CE."
+        },
+        {
+          "title": "RNase L releases a small RNA from HCV RNA that refolds into a potent PAMP.",
+          "id": "20833746",
+          "authors": [
+            "Malathi K",
+            "Saito T",
+            "Crochet N",
+            "Barton DJ",
+            "Gale M Jr",
+            "Silverman RH."
+          ],
+          "last_author": "Silverman RH."
+        },
+        {
+          "title": "Negative regulation of MDA5- but not RIG-I-mediated innate antiviral signaling by the dihydroxyacetone kinase.",
+          "id": "17600090",
+          "authors": [
+            "Diao F",
+            "Li S",
+            "Tian Y",
+            "Zhang M",
+            "Xu LG",
+            "Zhang Y",
+            "Wang RP",
+            "Chen D",
+            "Zhai Z",
+            "Zhong B",
+            "Tien P",
+            "Shu HB."
+          ],
+          "last_author": "Shu HB."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Mutual antagonism between the Ebola virus VP35 protein and the RIG-I activator PACT determines infection outcome.",
+    "Last Author": "Basler CF",
+    "authors": [
+      "Luthra P",
+      "Ramanan P",
+      "Mire CE",
+      "Weisend C",
+      "Tsuda Y",
+      "Yen B",
+      "Liu G",
+      "Leung DW",
+      "Geisbert TW",
+      "Ebihara H",
+      "Amarasinghe GK",
+      "Basler CF"
+    ],
+    "Date": "2013 Jul 17",
+    "Journal": "Cell host & microbe",
+    "Pubmed id": "23870315",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1016/j.chom.2013.06.010",
+    "Citations": {
+      "results": 101,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Mutual antagonism between the Ebola virus VP35 protein and the RIG-I activator PACT determines infection outcome.",
+          "id": "23870315",
+          "authors": [
+            "Luthra P",
+            "Ramanan P",
+            "Mire CE",
+            "Weisend C",
+            "Tsuda Y",
+            "Yen B",
+            "Liu G",
+            "Leung DW",
+            "Geisbert TW",
+            "Ebihara H",
+            "Amarasinghe GK",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Evasion of interferon responses by Ebola and Marburg viruses.",
+          "id": "19694547",
+          "authors": [
+            "Basler CF",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "Ebola virus VP35 protein binds double-stranded RNA and inhibits alpha/beta interferon production induced by RIG-I signaling.",
+          "id": "16698997",
+          "authors": [
+            "Cárdenas WB",
+            "Loo YM",
+            "Gale M Jr",
+            "Hartman AL",
+            "Kimberlin CR",
+            "Martínez-Sobrido L",
+            "Saphire EO",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Structural basis for Marburg virus VP35-mediated immune evasion mechanisms.",
+          "id": "23185024",
+          "authors": [
+            "Ramanan P",
+            "Edwards MR",
+            "Shabman RS",
+            "Leung DW",
+            "Endlich-Frazier AC",
+            "Borek DM",
+            "Otwinowski Z",
+            "Liu G",
+            "Huh J",
+            "Basler CF",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "Mutations abrogating VP35 interaction with double-stranded RNA render Ebola virus avirulent in guinea pigs.",
+          "id": "20071589",
+          "authors": [
+            "Prins KC",
+            "Delpeut S",
+            "Leung DW",
+            "Reynard O",
+            "Volchkova VA",
+            "Reid SP",
+            "Ramanan P",
+            "Cárdenas WB",
+            "Amarasinghe GK",
+            "Volchkov VE",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Structure of the Ebola VP35 interferon inhibitory domain.",
+          "id": "19122151",
+          "authors": [
+            "Leung DW",
+            "Ginder ND",
+            "Fulton DB",
+            "Nix J",
+            "Basler CF",
+            "Honzatko RB",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "Characterization of the RNA silencing suppression activity of the Ebola virus VP35 protein in plants and mammalian cells.",
+          "id": "22238300",
+          "authors": [
+            "Zhu Y",
+            "Cherukuri NC",
+            "Jackel JN",
+            "Wu Z",
+            "Crary M",
+            "Buckley KJ",
+            "Bisaro DM",
+            "Parris DS."
+          ],
+          "last_author": "Parris DS."
+        },
+        {
+          "title": "DRBP76 associates with Ebola virus VP35 and suppresses viral polymerase function.",
+          "id": "21987769",
+          "authors": [
+            "Shabman RS",
+            "Leung DW",
+            "Johnson J",
+            "Glennon N",
+            "Gulcicek EE",
+            "Stone KL",
+            "Leung L",
+            "Hensley L",
+            "Amarasinghe GK",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Structural basis for dsRNA recognition and interferon antagonism by Ebola VP35.",
+          "id": "20081868",
+          "authors": [
+            "Leung DW",
+            "Prins KC",
+            "Borek DM",
+            "Farahbakhsh M",
+            "Tufariello JM",
+            "Ramanan P",
+            "Nix JC",
+            "Helgeson LA",
+            "Otwinowski Z",
+            "Honzatko RB",
+            "Basler CF",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "Ebola virus protein VP35 impairs the function of interferon regulatory factor-activating kinases IKKepsilon and TBK-1.",
+          "id": "19153231",
+          "authors": [
+            "Prins KC",
+            "Cárdenas WB",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Development of RNA aptamers targeting Ebola virus VP35.",
+          "id": "24067086",
+          "authors": [
+            "Binning JM",
+            "Wang T",
+            "Luthra P",
+            "Shabman RS",
+            "Borek DM",
+            "Liu G",
+            "Xu W",
+            "Leung DW",
+            "Basler CF",
+            "Amarasinghe GK."
+          ],
+          "last_author": "Amarasinghe GK."
+        },
+        {
+          "title": "dsRNA binding characterization of full length recombinant wild type and mutants Zaire ebolavirus VP35.",
+          "id": "22289166",
+          "authors": [
+            "Zinzula L",
+            "Esposito F",
+            "Pala D",
+            "Tramontano E."
+          ],
+          "last_author": "Tramontano E."
+        },
+        {
+          "title": "Ebolavirus VP35 suppresses IFN production from conventional but not plasmacytoid dendritic cells.",
+          "id": "21263462",
+          "authors": [
+            "Leung LW",
+            "Park MS",
+            "Martinez O",
+            "Valmas C",
+            "López CB",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "The double-stranded RNA-binding protein PACT functions as a cellular activator of RIG-I to facilitate innate antiviral response.",
+          "id": "21501829",
+          "authors": [
+            "Kok KH",
+            "Lui PY",
+            "Ng MH",
+            "Siu KL",
+            "Au SW",
+            "Jin DY."
+          ],
+          "last_author": "Jin DY."
+        },
+        {
+          "title": "Suppression of PACT-induced type I interferon production by herpes simplex virus type 1 Us11 protein.",
+          "id": "24067967",
+          "authors": [
+            "Kew C",
+            "Lui PY",
+            "Chan CP",
+            "Liu X",
+            "Au SW",
+            "Mohr I",
+            "Jin DY",
+            "Kok KH."
+          ],
+          "last_author": "Kok KH."
+        },
+        {
+          "title": "Whole-genome expression profiling reveals that inhibition of host innate immune response pathways by Ebola virus can be reversed by a single amino acid change in the VP35 protein.",
+          "id": "18353943",
+          "authors": [
+            "Hartman AL",
+            "Ling L",
+            "Nichol ST",
+            "Hibberd ML."
+          ],
+          "last_author": "Hibberd ML."
+        },
+        {
+          "title": "Reverse genetic generation of recombinant Zaire Ebola viruses containing disrupted IRF-3 inhibitory domains results in attenuated virus growth in vitro and higher levels of IRF-3 activation without inhibiting viral transcription or replication.",
+          "id": "16775331",
+          "authors": [
+            "Hartman AL",
+            "Dover JE",
+            "Towner JS",
+            "Nichol ST."
+          ],
+          "last_author": "Nichol ST."
+        },
+        {
+          "title": "The Ebola virus VP35 protein inhibits activation of interferon regulatory factor 3.",
+          "id": "12829834",
+          "authors": [
+            "Basler CF",
+            "Mikulasova A",
+            "Martinez-Sobrido L",
+            "Paragas J",
+            "Mühlberger E",
+            "Bray M",
+            "Klenk HD",
+            "Palese P",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "Purification and functional characterization of the full length recombinant Ebola virus VP35 protein expressed in E. coli.",
+          "id": "19233284",
+          "authors": [
+            "Zinzula L",
+            "Esposito F",
+            "Mühlberger E",
+            "Trunschke M",
+            "Conrad D",
+            "Piano D",
+            "Tramontano E."
+          ],
+          "last_author": "Tramontano E."
+        },
+        {
+          "title": "Basic residues within the ebolavirus VP35 protein are required for its viral polymerase cofactor function.",
+          "id": "20686031",
+          "authors": [
+            "Prins KC",
+            "Binning JM",
+            "Shabman RS",
+            "Leung DW",
+            "Amarasinghe GK",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "ATPase-driven oligomerization of RIG-I on RNA allows optimal activation of type-I interferon.",
+    "Last Author": "García-Sastre A",
+    "authors": [
+      "Patel JR",
+      "Jain A",
+      "Chou YY",
+      "Baum A",
+      "Ha T",
+      "García-Sastre A"
+    ],
+    "Date": "2013 Sep",
+    "Journal": "EMBO reports",
+    "Pubmed id": "23846310",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1038/embor.2013.102",
+    "Citations": {
+      "results": 100,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "ATPase-driven oligomerization of RIG-I on RNA allows optimal activation of type-I interferon.",
+          "id": "23846310",
+          "authors": [
+            "Patel JR",
+            "Jain A",
+            "Chou YY",
+            "Baum A",
+            "Ha T",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "Cytosolic 5'-triphosphate ended viral leader transcript of measles virus as activator of the RIG I-mediated interferon response.",
+          "id": "17356690",
+          "authors": [
+            "Plumet S",
+            "Herschke F",
+            "Bourhis JM",
+            "Valentin H",
+            "Longhi S",
+            "Gerlier D."
+          ],
+          "last_author": "Gerlier D."
+        },
+        {
+          "title": "Activation of the beta interferon promoter by unnatural Sendai virus infection requires RIG-I and is inhibited by viral C proteins.",
+          "id": "17804509",
+          "authors": [
+            "Strähle L",
+            "Marq JB",
+            "Brini A",
+            "Hausmann S",
+            "Kolakofsky D",
+            "Garcin D."
+          ],
+          "last_author": "Garcin D."
+        },
+        {
+          "title": "Structural basis of RNA recognition and activation by innate immune receptor RIG-I.",
+          "id": "21947008",
+          "authors": [
+            "Jiang F",
+            "Ramanathan A",
+            "Miller MT",
+            "Tang GQ",
+            "Gale M Jr",
+            "Patel SS",
+            "Marcotrigiano J."
+          ],
+          "last_author": "Marcotrigiano J."
+        },
+        {
+          "title": "Differential recognition of viral RNA by RIG-I.",
+          "id": "21422808",
+          "authors": [
+            "Baum A",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "Short double-stranded RNAs with an overhanging 5' ppp-nucleotide, as found in arenavirus genomes, act as RIG-I decoys.",
+          "id": "21159780",
+          "authors": [
+            "Marq JB",
+            "Hausmann S",
+            "Veillard N",
+            "Kolakofsky D",
+            "Garcin D."
+          ],
+          "last_author": "Garcin D."
+        },
+        {
+          "title": "RIG-I and MDA-5 Detection of Viral RNA-dependent RNA Polymerase Activity Restricts Positive-Strand RNA Virus Replication.",
+          "id": "24039580",
+          "authors": [
+            "Nikonov A",
+            "Mölder T",
+            "Sikut R",
+            "Kiiver K",
+            "Männik A",
+            "Toots U",
+            "Lulla A",
+            "Lulla V",
+            "Utt A",
+            "Merits A",
+            "Ustav M."
+          ],
+          "last_author": "Ustav M."
+        },
+        {
+          "title": "Molecular mechanism of signal perception and integration by the innate immune sensor retinoic acid-inducible gene-I (RIG-I).",
+          "id": "21659521",
+          "authors": [
+            "Binder M",
+            "Eberle F",
+            "Seitz S",
+            "Mücke N",
+            "Hüber CM",
+            "Kiani N",
+            "Kaderali L",
+            "Lohmann V",
+            "Dalpke A",
+            "Bartenschlager R."
+          ],
+          "last_author": "Bartenschlager R."
+        },
+        {
+          "title": "Essential role of the N-terminal domain in the regulation of RIG-I ATPase activity.",
+          "id": "18268020",
+          "authors": [
+            "Gee P",
+            "Chua PK",
+            "Gevorkyan J",
+            "Klumpp K",
+            "Najera I",
+            "Swinney DC",
+            "Deval J."
+          ],
+          "last_author": "Deval J."
+        },
+        {
+          "title": "RIG-I and dsRNA-induced IFNbeta activation.",
+          "id": "19115016",
+          "authors": [
+            "Hausmann S",
+            "Marq JB",
+            "Tapparel C",
+            "Kolakofsky D",
+            "Garcin D."
+          ],
+          "last_author": "Garcin D."
+        },
+        {
+          "title": "Regulation and function of the cytosolic viral RNA sensor RIG-I in pancreatic beta cells.",
+          "id": "19747951",
+          "authors": [
+            "García M",
+            "Dogusan Z",
+            "Moore F",
+            "Sato S",
+            "Hartmann G",
+            "Eizirik DL",
+            "Rasschaert J."
+          ],
+          "last_author": "Rasschaert J."
+        },
+        {
+          "title": "The structural basis of 5' triphosphate double-stranded RNA recognition by RIG-I C-terminal domain.",
+          "id": "20637642",
+          "authors": [
+            "Lu C",
+            "Xu H",
+            "Ranjith-Kumar CT",
+            "Brooks MT",
+            "Hou TY",
+            "Hu F",
+            "Herr AB",
+            "Strong RK",
+            "Kao CC",
+            "Li P."
+          ],
+          "last_author": "Li P."
+        },
+        {
+          "title": "Inhibition of retinoic acid-inducible gene I-mediated induction of beta interferon by the NS1 protein of influenza A virus.",
+          "id": "17079289",
+          "authors": [
+            "Mibayashi M",
+            "Martínez-Sobrido L",
+            "Loo YM",
+            "Cárdenas WB",
+            "Gale M Jr",
+            "García-Sastre A."
+          ],
+          "last_author": "García-Sastre A."
+        },
+        {
+          "title": "Ebola virus VP35 protein binds double-stranded RNA and inhibits alpha/beta interferon production induced by RIG-I signaling.",
+          "id": "16698997",
+          "authors": [
+            "Cárdenas WB",
+            "Loo YM",
+            "Gale M Jr",
+            "Hartman AL",
+            "Kimberlin CR",
+            "Martínez-Sobrido L",
+            "Saphire EO",
+            "Basler CF."
+          ],
+          "last_author": "Basler CF."
+        },
+        {
+          "title": "Cytosolic viral sensor RIG-I is a 5'-triphosphate-dependent translocase on double-stranded RNA.",
+          "id": "19119185",
+          "authors": [
+            "Myong S",
+            "Cui S",
+            "Cornish PV",
+            "Kirchhofer A",
+            "Gack MU",
+            "Jung JU",
+            "Hopfner KP",
+            "Ha T."
+          ],
+          "last_author": "Ha T."
+        },
+        {
+          "title": "Length-dependent recognition of double-stranded ribonucleic acids by retinoic acid-inducible gene-I and melanoma differentiation-associated gene 5.",
+          "id": "18591409",
+          "authors": [
+            "Kato H",
+            "Takeuchi O",
+            "Mikamo-Satoh E",
+            "Hirai R",
+            "Kawai T",
+            "Matsushita K",
+            "Hiiragi A",
+            "Dermody TS",
+            "Fujita T",
+            "Akira S."
+          ],
+          "last_author": "Akira S."
+        },
+        {
+          "title": "Crystal structure of RIG-I C-terminal domain bound to blunt-ended double-strand RNA without 5' triphosphate.",
+          "id": "20961956",
+          "authors": [
+            "Lu C",
+            "Ranjith-Kumar CT",
+            "Hao L",
+            "Kao CC",
+            "Li P."
+          ],
+          "last_author": "Li P."
+        },
+        {
+          "title": "The RIG-I ATPase domain structure reveals insights into ATP-dependent antiviral signalling.",
+          "id": "21979817",
+          "authors": [
+            "Civril F",
+            "Bennett M",
+            "Moldt M",
+            "Deimling T",
+            "Witte G",
+            "Schiesser S",
+            "Carell T",
+            "Hopfner KP."
+          ],
+          "last_author": "Hopfner KP."
+        },
+        {
+          "title": "The double-stranded RNA-binding protein PACT functions as a cellular activator of RIG-I to facilitate innate antiviral response.",
+          "id": "21501829",
+          "authors": [
+            "Kok KH",
+            "Lui PY",
+            "Ng MH",
+            "Siu KL",
+            "Au SW",
+            "Jin DY."
+          ],
+          "last_author": "Jin DY."
+        },
+        {
+          "title": "EB virus-encoded RNAs are recognized by RIG-I and activate signaling to induce type I IFN.",
+          "id": "16946700",
+          "authors": [
+            "Samanta M",
+            "Iwakiri D",
+            "Kanda T",
+            "Imaizumi T",
+            "Takada K."
+          ],
+          "last_author": "Takada K."
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Restoration of the activated Rig-I pathway in hepatitis C virus (HCV) replicon cells by HCV protease, polymerase, and NS5A inhibitors in vitro at clinically relevant concentrations.",
+    "Last Author": "Kwong AD",
+    "authors": [
+      "Kalkeri G",
+      "Lin C",
+      "Gopilan J",
+      "Sloan K",
+      "Rijnbrand R",
+      "Kwong AD"
+    ],
+    "Date": "2013 Sep",
+    "Journal": "Antimicrobial agents and chemotherapy",
+    "Pubmed id": "23836176",
+    "Pubtypes": [
+      "Journal Article"
+    ],
+    "DOI": "10.1128/AAC.00399-13",
+    "Citations": {
+      "results": 108,
+      "first": 1,
+      "last": 20,
+      "citations": [
+        {
+          "title": "Restoration of the activated Rig-I pathway in hepatitis C virus (HCV) replicon cells by HCV protease, polymerase, and NS5A inhibitors in vitro at clinically relevant concentrations.",
+          "id": "23836176",
+          "authors": [
+            "Kalkeri G",
+            "Lin C",
+            "Gopilan J",
+            "Sloan K",
+            "Rijnbrand R",
+            "Kwong AD."
+          ],
+          "last_author": "Kwong AD."
+        },
+        {
+          "title": "Antiviral suppression vs restoration of RIG-I signaling by hepatitis C protease and polymerase inhibitors.",
+          "id": "18725224",
+          "authors": [
+            "Liang Y",
+            "Ishida H",
+            "Lenz O",
+            "Lin TI",
+            "Nyanguile O",
+            "Simmen K",
+            "Pyles RB",
+            "Bourne N",
+            "Yi M",
+            "Li K",
+            "Lemon SM."
+          ],
+          "last_author": "Lemon SM."
+        },
+        {
+          "title": "Viral and therapeutic control of IFN-beta promoter stimulator 1 during hepatitis C virus infection.",
+          "id": "16585524",
+          "authors": [
+            "Loo YM",
+            "Owen DM",
+            "Li K",
+            "Erickson AK",
+            "Johnson CL",
+            "Fish PM",
+            "Carney DS",
+            "Wang T",
+            "Ishida H",
+            "Yoneyama M",
+            "Fujita T",
+            "Saito T",
+            "Lee WM",
+            "Hagedorn CH",
+            "Lau DT",
+            "Weinman SA",
+            "Lemon SM",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Inhibition of dsRNA-induced signaling in hepatitis C virus-infected cells by NS3 protease-dependent and -independent mechanisms.",
+          "id": "16707574",
+          "authors": [
+            "Cheng G",
+            "Zhong J",
+            "Chisari FV."
+          ],
+          "last_author": "Chisari FV."
+        },
+        {
+          "title": "Functional and therapeutic analysis of hepatitis C virus NS3.4A protease control of antiviral immune defense.",
+          "id": "17289677",
+          "authors": [
+            "Johnson CL",
+            "Owen DM",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Hepatitis C virus NS2 and NS3/4A proteins are potent inhibitors of host cell cytokine/chemokine gene expression.",
+          "id": "16945160",
+          "authors": [
+            "Kaukinen P",
+            "Sillanpää M",
+            "Kotenko S",
+            "Lin R",
+            "Hiscott J",
+            "Melén K",
+            "Julkunen I."
+          ],
+          "last_author": "Julkunen I."
+        },
+        {
+          "title": "Inhibition of RIG-I-dependent signaling to the interferon pathway during hepatitis C virus expression and restoration of signaling by IKKepsilon.",
+          "id": "15767399",
+          "authors": [
+            "Breiman A",
+            "Grandvaux N",
+            "Lin R",
+            "Ottone C",
+            "Akira S",
+            "Yoneyama M",
+            "Fujita T",
+            "Hiscott J",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "Hepatitis C virus NS4B protein targets STING and abrogates RIG-I-mediated type I interferon-dependent innate immunity.",
+          "id": "22911572",
+          "authors": [
+            "Nitta S",
+            "Sakamoto N",
+            "Nakagawa M",
+            "Kakinuma S",
+            "Mishima K",
+            "Kusano-Kitazume A",
+            "Kiyohashi K",
+            "Murakawa M",
+            "Nishimura-Sakurai Y",
+            "Azuma S",
+            "Tasaka-Fujita M",
+            "Asahina Y",
+            "Yoneyama M",
+            "Fujita T",
+            "Watanabe M."
+          ],
+          "last_author": "Watanabe M."
+        },
+        {
+          "title": "Restoration of Type I Interferon Expression by Heme and Related Tetrapyrroles Through Inhibition of NS3/4A Protease.",
+          "id": "23901085",
+          "authors": [
+            "Zhu Z",
+            "Mathahs MM",
+            "Schmidt WN."
+          ],
+          "last_author": "Schmidt WN."
+        },
+        {
+          "title": "Cleavage of the IPS-1/Cardif/MAVS/VISA does not inhibit T cell-mediated elimination of hepatitis C virus non-structural 3/4A-expressing hepatocytes.",
+          "id": "18689426",
+          "authors": [
+            "Ahlén G",
+            "Derk E",
+            "Weiland M",
+            "Jiao J",
+            "Rahbin N",
+            "Aleman S",
+            "Peterson DL",
+            "Pokrovskaja K",
+            "Grandér D",
+            "Frelin L",
+            "Sällberg M."
+          ],
+          "last_author": "Sällberg M."
+        },
+        {
+          "title": "Control of innate immune signaling and membrane targeting by the Hepatitis C virus NS3/4A protease are governed by the NS3 helix α0.",
+          "id": "22238314",
+          "authors": [
+            "Horner SM",
+            "Park HS",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Recruitment of an interferon molecular signaling complex to the mitochondrial membrane: disruption by hepatitis C virus NS3-4A protease.",
+          "id": "16876765",
+          "authors": [
+            "Hiscott J",
+            "Lacoste J",
+            "Lin R."
+          ],
+          "last_author": "Lin R."
+        },
+        {
+          "title": "VX-950, a novel hepatitis C virus (HCV) NS3-4A protease inhibitor, exhibits potent antiviral activities in HCv replicon cells.",
+          "id": "16641454",
+          "authors": [
+            "Lin K",
+            "Perni RB",
+            "Kwong AD",
+            "Lin C."
+          ],
+          "last_author": "Lin C."
+        },
+        {
+          "title": "Establishment of a subgenomic replicon for bovine viral diarrhea virus in Huh-7 cells and modulation of interferon-regulated factor 3-mediated antiviral response.",
+          "id": "15708997",
+          "authors": [
+            "Horscroft N",
+            "Bellows D",
+            "Ansari I",
+            "Lai VC",
+            "Dempsey S",
+            "Liang D",
+            "Donis R",
+            "Zhong W",
+            "Hong Z."
+          ],
+          "last_author": "Hong Z."
+        },
+        {
+          "title": "Hepatitis C virus controls interferon production through PKR activation.",
+          "id": "20485506",
+          "authors": [
+            "Arnaud N",
+            "Dabo S",
+            "Maillard P",
+            "Budkowska A",
+            "Kalliampakou KI",
+            "Mavromara P",
+            "Garcin D",
+            "Hugon J",
+            "Gatignol A",
+            "Akazawa D",
+            "Wakita T",
+            "Meurs EF."
+          ],
+          "last_author": "Meurs EF."
+        },
+        {
+          "title": "Control of antiviral defenses through hepatitis C virus disruption of retinoic acid-inducible gene-I signaling.",
+          "id": "15710892",
+          "authors": [
+            "Foy E",
+            "Li K",
+            "Sumpter R Jr",
+            "Loo YM",
+            "Johnson CL",
+            "Wang C",
+            "Fish PM",
+            "Yoneyama M",
+            "Fujita T",
+            "Lemon SM",
+            "Gale M Jr."
+          ],
+          "last_author": "Gale M Jr."
+        },
+        {
+          "title": "Inhibition of protease-inhibitor-resistant hepatitis C virus replicons and infectious virus by intracellular intrabodies.",
+          "id": "20705106",
+          "authors": [
+            "Gal-Tanamy M",
+            "Zemel R",
+            "Bachmatov L",
+            "Jangra RK",
+            "Shapira A",
+            "Villanueva RA",
+            "Yi M",
+            "Lemon SM",
+            "Benhar I",
+            "Tur-Kaspa R."
+          ],
+          "last_author": "Tur-Kaspa R."
+        },
+        {
+          "title": "Discovery and development of VX-950, a novel, covalent, and reversible inhibitor of hepatitis C virus NS3.4A serine protease.",
+          "id": "16787300",
+          "authors": [
+            "Lin C",
+            "Kwong AD",
+            "Perni RB."
+          ],
+          "last_author": "Perni RB."
+        },
+        {
+          "title": "Hepatitis C virus protease NS3/4A cleaves mitochondrial antiviral signaling protein off the mitochondria to evade innate immunity.",
+          "id": "16301520",
+          "authors": [
+            "Li XD",
+            "Sun L",
+            "Seth RB",
+            "Pineda G",
+            "Chen ZJ."
+          ],
+          "last_author": "Chen ZJ."
+        },
+        {
+          "title": "Hepatitis C virus NS2 protease inhibits host cell antiviral response by inhibiting IKKε and TBK1 functions.",
+          "id": "23096996",
+          "authors": [
+            "Kaukinen P",
+            "Sillanpää M",
+            "Nousiainen L",
+            "Melén K",
+            "Julkunen I."
+          ],
+          "last_author": "Julkunen I."
+        }
+      ]
+    }
+  }
+]
