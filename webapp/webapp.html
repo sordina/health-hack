@@ -1,23 +1,33 @@
 <head>
   <title>Paperboy! - Search medical publications intelligently.</title>
+  
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
 
+  <link rel="stylesheet" href="css/normalize.min.css">
+  <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+  <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Concert+One|Wire+One|Cutive'>
+  <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+
 </head>
 
 <body>
-  <h1>Paperboy!
-    &nbsp;  &nbsp; &nbsp; &nbsp;
-    <em>Search medical publications intelligently:</em>
-    &nbsp;  &nbsp; &nbsp; &nbsp;
-    <input type="text" value="type I IFN dsRNA" /> </h1>
-
-  <table>
-    <tr>
-      <td id="sidebar"> {{> sidebar}} </td>
-      <td id="mapbar" > {{> mapbar }}     </td>
-    </tr>
-  </table>
+  <header>
+    <h1>Paperboy</h1>
+    <label for="search">Search medical publications intelligently:</label>
+    <input id="search" type="search" value="type I IFN dsRNA" /> </h1>
+  </header>
+  <section>
+      <aside id="sidebar"> {{> sidebar}} </aside>
+      <article id="mapbar" > {{> mapbar }}     </article>
+  </section>
+  <footer>
+    <p><em>Paperboy</em> was made for <a href="http://healthhackmelb.com/">Health Hack 2013</a> by ...</p>
+  </footer>
 </body>
 
 <template name="mapbar">
