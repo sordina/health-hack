@@ -1,0 +1,725 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Medicine",
+               "short_name" : "Dept of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Medicine, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8766726,
+               "lng" : -117.2367781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.886043,
+                  "lng" : -117.2207707
+               },
+               "southwest" : {
+                  "lat" : 32.8673012,
+                  "lng" : -117.2527855
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine Building 4",
+               "short_name" : "School of Medicine Building 4",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Medicine Building 4, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8750433,
+               "lng" : -117.2337452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8763922802915,
+                  "lng" : -117.2323962197085
+               },
+               "southwest" : {
+                  "lat" : 32.87369431970851,
+                  "lng" : -117.2350941802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine Building 2",
+               "short_name" : "School of Medicine Building 2",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Medicine Building 2, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8754084,
+               "lng" : -117.2341331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8767573802915,
+                  "lng" : -117.2327841197085
+               },
+               "southwest" : {
+                  "lat" : 32.8740594197085,
+                  "lng" : -117.2354820802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine Building 1",
+               "short_name" : "School of Medicine Building 1",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Medicine Building 1, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.87503969999999,
+               "lng" : -117.2342174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8763886802915,
+                  "lng" : -117.2328684197085
+               },
+               "southwest" : {
+                  "lat" : 32.8736907197085,
+                  "lng" : -117.2355663802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ucsd Medical Center: Bouvet Michael MD",
+               "short_name" : "Ucsd Medical Center: Bouvet Michael MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3855",
+               "short_name" : "3855",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Health Sciences Drive",
+               "short_name" : "Health Sciences Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sorrento Valley",
+               "short_name" : "Sorrento Valley",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92093",
+               "short_name" : "92093",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1503",
+               "short_name" : "1503",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Ucsd Medical Center: Bouvet Michael MD, University of California - San Diego, 3855 Health Sciences Drive, La Jolla, CA 92093, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8783134,
+               "lng" : -117.2230403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8796623802915,
+                  "lng" : -117.2216913197085
+               },
+               "southwest" : {
+                  "lat" : 32.8769644197085,
+                  "lng" : -117.2243892802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Institute of Molecular Medicine (IMM)",
+               "short_name" : "Institute of Molecular Medicine (IMM)",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Institute of Molecular Medicine (IMM), University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8755679,
+               "lng" : -117.2360754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8769168802915,
+                  "lng" : -117.2347264197085
+               },
+               "southwest" : {
+                  "lat" : 32.8742189197085,
+                  "lng" : -117.2374243802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "George Palade Laboratories for Cellular and Molecular Medicine",
+               "short_name" : "George Palade Laboratories for Cellular and Molecular Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "George Palade Laboratories for Cellular and Molecular Medicine, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8762961,
+               "lng" : -117.2384062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8776450802915,
+                  "lng" : -117.2370572197085
+               },
+               "southwest" : {
+                  "lat" : 32.8749471197085,
+                  "lng" : -117.2397551802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Education and Telemedicine Building",
+               "short_name" : "Medical Education and Telemedicine Building",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medical Education and Telemedicine Building, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8753342,
+               "lng" : -117.2348285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.87668318029149,
+                  "lng" : -117.2334795197085
+               },
+               "southwest" : {
+                  "lat" : 32.87398521970849,
+                  "lng" : -117.2361774802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Umansky Medical Center for Plastic Surgery",
+               "short_name" : "Umansky Medical Center for Plastic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4150",
+               "short_name" : "4150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Regents Park Row",
+               "short_name" : "Regents Park Row",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92037",
+               "short_name" : "92037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Umansky Medical Center for Plastic Surgery, 4150 Regents Park Row, La Jolla, CA 92037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8732257,
+               "lng" : -117.2176194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8745746802915,
+                  "lng" : -117.2162704197085
+               },
+               "southwest" : {
+                  "lat" : 32.8718767197085,
+                  "lng" : -117.2189683802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "UC San Diego Medical Center: Mahmud Ehtisham MD",
+               "short_name" : "UC San Diego Medical Center: Mahmud Ehtisham MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "9300",
+               "short_name" : "9300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campus Point Drive",
+               "short_name" : "Campus Point Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sorrento Valley",
+               "short_name" : "Sorrento Valley",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92037",
+               "short_name" : "92037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UC San Diego Medical Center: Mahmud Ehtisham MD, University of California - San Diego, 9300 Campus Point Drive, La Jolla, CA 92037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8785625,
+               "lng" : -117.225776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8799114802915,
+                  "lng" : -117.2244270197085
+               },
+               "southwest" : {
+                  "lat" : 32.8772135197085,
+                  "lng" : -117.2271249802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

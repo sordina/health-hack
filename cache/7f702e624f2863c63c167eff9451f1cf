@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Setagaya",
+               "short_name" : "Setagaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Setagaya, Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.68297080000001,
+                  "lng" : 139.6865559
+               },
+               "southwest" : {
+                  "lat" : 35.59004040000001,
+                  "lng" : 139.5824183
+               }
+            },
+            "location" : {
+               "lat" : 35.6465721,
+               "lng" : 139.6532473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.68297080000001,
+                  "lng" : 139.6865559
+               },
+               "southwest" : {
+                  "lat" : 35.59004040000001,
+                  "lng" : 139.5824183
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

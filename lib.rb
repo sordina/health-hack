@@ -111,3 +111,22 @@ def search webenv, querykey, results_max
     Hash[*top_level]
   end
 end
+
+def convert_geojson list
+  list.map do |h|
+
+    begin
+      foo = h["Info"][:location]["results"].first["geometry"]["location"]
+      { "type" => "FeatureCollection",
+        "features" => [
+          { "type" => "Feature",
+            "properties" => {"title" => h["Title"]},
+            "geometry" => {"type" => "Point", "coordinates" => [foo["lat"], foo["lng"]]},
+          }
+        ]
+      }
+    rescue Exception => e
+      nil
+    end
+  end
+end

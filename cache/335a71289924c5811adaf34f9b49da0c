@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Connecticut Health Center",
+               "short_name" : "University of Connecticut Health Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "263",
+               "short_name" : "263",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Farmington Ave",
+               "short_name" : "Farmington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06030",
+               "short_name" : "06030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06030, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7378679,
+                  "lng" : -72.7852384
+               },
+               "southwest" : {
+                  "lat" : 41.7246217,
+                  "lng" : -72.80141879999999
+               }
+            },
+            "location" : {
+               "lat" : 41.7318197,
+               "lng" : -72.7910717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7378679,
+                  "lng" : -72.7852384
+               },
+               "southwest" : {
+                  "lat" : 41.7246217,
+                  "lng" : -72.80141879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

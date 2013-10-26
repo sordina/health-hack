@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of London",
+               "short_name" : "University of London",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Senate House",
+               "short_name" : "Senate House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Malet Street",
+               "short_name" : "Malet St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1E 7HU",
+               "short_name" : "WC1E 7HU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of London, Senate House, Malet Street, London WC1E 7HU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5230752,
+                  "lng" : -0.1276473
+               },
+               "southwest" : {
+                  "lat" : 51.5201933,
+                  "lng" : -0.1318127
+               }
+            },
+            "location" : {
+               "lat" : 51.5211841,
+               "lng" : -0.1287784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5223832302915,
+                  "lng" : -0.127553519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5196852697085,
+                  "lng" : -0.130251480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

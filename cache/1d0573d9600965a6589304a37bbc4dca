@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School Of Life Sciences : Arizona State University",
+               "short_name" : "School Of Life Sciences : Arizona State University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Life Sciences Tower",
+               "short_name" : "Life Sciences Tower",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "427",
+               "short_name" : "427",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Tyler Mall",
+               "short_name" : "E Tyler Mall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tempe",
+               "short_name" : "Tempe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa",
+               "short_name" : "Maricopa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85281",
+               "short_name" : "85281",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School Of Life Sciences : Arizona State University, Life Sciences Tower, 427 East Tyler Mall, Tempe, AZ 85281, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.419534,
+               "lng" : -111.9338551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4288466,
+                  "lng" : -111.9178477
+               },
+               "southwest" : {
+                  "lat" : 33.4102204,
+                  "lng" : -111.9498625
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

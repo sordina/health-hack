@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National University of Córdoba",
+               "short_name" : "National University of Córdoba",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "S/N",
+               "short_name" : "S/N",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cordoba",
+               "short_name" : "CB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National University of Córdoba - Valparaíso S/N, 5000 Córdoba, Córdoba Province, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -31.4354878,
+               "lng" : -64.18557149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.425967,
+                  "lng" : -64.1695641
+               },
+               "southwest" : {
+                  "lat" : -31.4450076,
+                  "lng" : -64.2015789
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

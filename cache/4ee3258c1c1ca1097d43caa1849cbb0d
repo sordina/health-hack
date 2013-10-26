@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SS554",
+               "short_name" : "SS554",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cagliari",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sardinia",
+               "short_name" : "Sardinia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SS554, Cagliari, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2671122,
+                  "lng" : 9.1447071
+               },
+               "southwest" : {
+                  "lat" : 39.2648682,
+                  "lng" : 9.122002199999999
+               }
+            },
+            "location" : {
+               "lat" : 39.2660054,
+               "lng" : 9.1330025
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2673391802915,
+                  "lng" : 9.1447071
+               },
+               "southwest" : {
+                  "lat" : 39.2646412197085,
+                  "lng" : 9.122002199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

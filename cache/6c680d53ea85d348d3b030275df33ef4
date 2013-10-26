@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "David Geffen School of Medicine at UCLA",
+               "short_name" : "David Geffen School of Medicine at UCLA",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California Los Angeles",
+               "short_name" : "University of California Los Angeles",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10833",
+               "short_name" : "10833",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Le Conte Avenue",
+               "short_name" : "Le Conte Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3075",
+               "short_name" : "3075",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "David Geffen School of Medicine at UCLA, University of California Los Angeles, 10833 Le Conte Avenue, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.066463,
+               "lng" : -118.443069
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0757056,
+                  "lng" : -118.4270616
+               },
+               "southwest" : {
+                  "lat" : 34.0572193,
+                  "lng" : -118.4590764
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

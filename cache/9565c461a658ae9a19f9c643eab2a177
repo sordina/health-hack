@@ -1,0 +1,202 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "I.U.F.M.",
+               "short_name" : "I.U.F.M.",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "63",
+               "short_name" : "63",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "La Canebière",
+               "short_name" : "La Canebière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "1st arrondissement of Marseille",
+               "short_name" : "1st arrondissement of Marseille",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13001",
+               "short_name" : "13001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "I.U.F.M., 63 La Canebière, 13001 Marseille, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2971558,
+               "lng" : 5.3791112
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3052761,
+                  "lng" : 5.3951186
+               },
+               "southwest" : {
+                  "lat" : 43.2890344,
+                  "lng" : 5.3631038
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aix Marseille Université",
+               "short_name" : "Aix Marseille Université",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Université Aix-Marseille III Paul Cezanne",
+               "short_name" : "Université Aix-Marseille III Paul Cezanne",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "La Canebière",
+               "short_name" : "La Canebière",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13001",
+               "short_name" : "13001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aix Marseille Université, Université Aix-Marseille III Paul Cezanne, La Canebière, 13001 Marseille, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2980059,
+               "lng" : 5.3826741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2993548802915,
+                  "lng" : 5.384023080291502
+               },
+               "southwest" : {
+                  "lat" : 43.2966569197085,
+                  "lng" : 5.381325119708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aix-Marseille Université",
+               "short_name" : "Aix-Marseille Université",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "58",
+               "short_name" : "58",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "bd Charles Livon",
+               "short_name" : "bd Charles Livon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13284",
+               "short_name" : "13284",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aix-Marseille Université, 58 bd Charles Livon, 13284 Marseille, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2911913,
+               "lng" : 5.3623215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2925402802915,
+                  "lng" : 5.363670480291503
+               },
+               "southwest" : {
+                  "lat" : 43.2898423197085,
+                  "lng" : 5.360972519708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

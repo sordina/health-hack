@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biological Sciences Teaching Garden",
+               "short_name" : "Biological Sciences Teaching Garden",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Southern Mississippi",
+               "short_name" : "The University of Southern Mississippi",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West Memorial Drive",
+               "short_name" : "W Memorial Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hattiesburg",
+               "short_name" : "Hattiesburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forrest",
+               "short_name" : "Forrest",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39401",
+               "short_name" : "39401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biological Sciences Teaching Garden, The University of Southern Mississippi, West Memorial Drive, Hattiesburg, MS 39401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.32894869999999,
+               "lng" : -89.3333078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3384793,
+                  "lng" : -89.31730039999999
+               },
+               "southwest" : {
+                  "lat" : 31.3194171,
+                  "lng" : -89.34931519999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

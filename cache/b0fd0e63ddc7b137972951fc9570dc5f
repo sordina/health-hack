@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Toledo",
+               "short_name" : "The University of Toledo",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2801",
+               "short_name" : "2801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Bancroft Street",
+               "short_name" : "W Bancroft St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Toledo",
+               "short_name" : "Toledo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lucas",
+               "short_name" : "Lucas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43606",
+               "short_name" : "43606",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of Toledo, 2801 West Bancroft Street, Toledo, OH 43606, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6650515,
+                  "lng" : -83.605159
+               },
+               "southwest" : {
+                  "lat" : 41.6528793,
+                  "lng" : -83.6221082
+               }
+            },
+            "location" : {
+               "lat" : 41.6621416,
+               "lng" : -83.6126979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6650515,
+                  "lng" : -83.605159
+               },
+               "southwest" : {
+                  "lat" : 41.6528793,
+                  "lng" : -83.6221082
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

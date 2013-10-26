@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO 63110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6463509,
+                  "lng" : -90.234218
+               },
+               "southwest" : {
+                  "lat" : 38.6049859,
+                  "lng" : -90.3040719
+               }
+            },
+            "location" : {
+               "lat" : 38.6212468,
+               "lng" : -90.2526163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6463509,
+                  "lng" : -90.234218
+               },
+               "southwest" : {
+                  "lat" : 38.6049859,
+                  "lng" : -90.3040719
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

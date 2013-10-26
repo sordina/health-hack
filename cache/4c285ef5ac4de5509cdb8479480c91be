@@ -1,0 +1,158 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarhus University",
+               "short_name" : "Aarhus University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Aarhus University",
+               "short_name" : "Aarhus University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victor Albecks Vej",
+               "short_name" : "Victor Albecks Vej",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aarhus Universitet",
+               "short_name" : "Aarhus Universitet",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Midtbyen",
+               "short_name" : "Midtbyen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus C",
+               "short_name" : "Aarhus C",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus",
+               "short_name" : "Aarhus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus Municipality",
+               "short_name" : "Aarhus Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8000",
+               "short_name" : "8000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aarhus University, Victor Albecks Vej 3, 8000 Aarhus, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.1702228,
+               "lng" : 10.2000197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1764343,
+                  "lng" : 10.2160271
+               },
+               "southwest" : {
+                  "lat" : 56.16401029999999,
+                  "lng" : 10.1840123
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarhus University",
+               "short_name" : "Aarhus University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Universitets Parken",
+               "short_name" : "Universitets Parken",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Aarhus C",
+               "short_name" : "Aarhus C",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus",
+               "short_name" : "Aarhus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus Municipality",
+               "short_name" : "Aarhus Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aarhus University, Universitets Parken, Aarhus, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.1715343,
+                  "lng" : 10.2105212
+               },
+               "southwest" : {
+                  "lat" : 56.1626786,
+                  "lng" : 10.1977324
+               }
+            },
+            "location" : {
+               "lat" : 56.1707853,
+               "lng" : 10.2009758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1715343,
+                  "lng" : 10.2105212
+               },
+               "southwest" : {
+                  "lat" : 56.1626786,
+                  "lng" : 10.1977324
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

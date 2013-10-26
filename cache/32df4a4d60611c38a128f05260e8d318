@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "245",
+               "short_name" : "245",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street",
+               "short_name" : "1st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Cambridge",
+               "short_name" : "East Cambridge",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02142",
+               "short_name" : "02142",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "245 1st Street, Cambridge, MA 02142, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.363776,
+               "lng" : -71.079526
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3651249802915,
+                  "lng" : -71.07817701970849
+               },
+               "southwest" : {
+                  "lat" : 42.3624270197085,
+                  "lng" : -71.08087498029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of North Carolina at Chapel Hill",
+               "short_name" : "The University of North Carolina at Chapel Hill",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "910",
+               "short_name" : "910",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Raleigh Road",
+               "short_name" : "Raleigh Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of North Carolina at Chapel Hill, 910 Raleigh Road, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9087773,
+               "lng" : -79.02979789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9178142,
+                  "lng" : -79.0137905
+               },
+               "southwest" : {
+                  "lat" : 35.8997394,
+                  "lng" : -79.0458053
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of North Carolina at Chapel Hill",
+               "short_name" : "The University of North Carolina at Chapel Hill",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of North Carolina at Chapel Hill",
+               "short_name" : "University of North Carolina at Chapel Hill",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "145",
+               "short_name" : "145",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Cameron Avenue",
+               "short_name" : "E Cameron Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of North Carolina at Chapel Hill, University of North Carolina at Chapel Hill, 145 East Cameron Avenue, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.912234,
+               "lng" : -79.053484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.91358298029149,
+                  "lng" : -79.0521350197085
+               },
+               "southwest" : {
+                  "lat" : 35.91088501970849,
+                  "lng" : -79.05483298029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

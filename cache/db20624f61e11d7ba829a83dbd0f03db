@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kyoto University",
+               "short_name" : "Kyoto University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Yoshidahonmachi",
+               "short_name" : "Yoshidahonmachi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sakyo Ward",
+               "short_name" : "Sakyo Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "606-8501",
+               "short_name" : "606-8501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kyoto University, Yoshidahonmachi, Sakyo Ward, Kyoto, Kyoto Prefecture 606-8501, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.0262444,
+               "lng" : 135.7808218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.035381,
+                  "lng" : 135.7968292
+               },
+               "southwest" : {
+                  "lat" : 35.0171067,
+                  "lng" : 135.7648144
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

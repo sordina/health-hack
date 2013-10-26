@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jouy-en-Josas",
+               "short_name" : "Jouy-en-Josas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "78",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jouy-en-Josas, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.78848989999999,
+                  "lng" : 2.193253
+               },
+               "southwest" : {
+                  "lat" : 48.7432329,
+                  "lng" : 2.128692
+               }
+            },
+            "location" : {
+               "lat" : 48.76454500000001,
+               "lng" : 2.169007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.78848989999999,
+                  "lng" : 2.193253
+               },
+               "southwest" : {
+                  "lat" : 48.7432329,
+                  "lng" : 2.128692
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

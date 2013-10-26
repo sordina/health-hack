@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NR4 7TJ",
+               "short_name" : "NR4 7TJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Norwich, Norfolk NR4 7TJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6235031,
+                  "lng" : 1.2450273
+               },
+               "southwest" : {
+                  "lat" : 52.6204305,
+                  "lng" : 1.2324384
+               }
+            },
+            "location" : {
+               "lat" : 52.6223695,
+               "lng" : 1.2413911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6235031,
+                  "lng" : 1.2450273
+               },
+               "southwest" : {
+                  "lat" : 52.6204305,
+                  "lng" : 1.2324384
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

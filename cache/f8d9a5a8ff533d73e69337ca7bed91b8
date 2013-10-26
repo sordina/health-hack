@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sapporo",
+               "short_name" : "Sapporo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido Prefecture",
+               "short_name" : "Hokkaido Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sapporo, Hokkaido Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1897925,
+                  "lng" : 141.5054491
+               },
+               "southwest" : {
+                  "lat" : 42.7807268,
+                  "lng" : 140.990501
+               }
+            },
+            "location" : {
+               "lat" : 43.0620958,
+               "lng" : 141.3543763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1035,
+                  "lng" : 141.4373
+               },
+               "southwest" : {
+                  "lat" : 43.0154,
+                  "lng" : 141.3037
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

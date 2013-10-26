@@ -1,0 +1,207 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Erlangen-Nuremberg",
+               "short_name" : "University of Erlangen-Nuremberg",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schloßplatz",
+               "short_name" : "Schloßplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "Erlangen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91054",
+               "short_name" : "91054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Erlangen-Nuremberg, Schloßplatz 4, 91054 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.59784089999999,
+               "lng" : 11.0045301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6050724,
+                  "lng" : 11.0205375
+               },
+               "southwest" : {
+                  "lat" : 49.5906083,
+                  "lng" : 10.9885227
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alumni Technische Fakultät Erlangen e.V.",
+               "short_name" : "Alumni Technische Fakultät Erlangen e.V.",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5a",
+               "short_name" : "5a",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Martensstraße",
+               "short_name" : "Martensstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "Erlangen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "Erlangen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91058",
+               "short_name" : "91058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alumni Technische Fakultät Erlangen e.V., Martensstraße 5a, 91058 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.5733901,
+               "lng" : 11.0258684
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5747390802915,
+                  "lng" : 11.0272173802915
+               },
+               "southwest" : {
+                  "lat" : 49.5720411197085,
+                  "lng" : 11.0245194197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alumni Technische Fakultät Erlangen e.V.",
+               "short_name" : "Alumni Technische Fakultät Erlangen e.V.",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Erwin-Rommel-Straße",
+               "short_name" : "Erwin-Rommel-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91058",
+               "short_name" : "91058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alumni Technische Fakultät Erlangen e.V., Erwin-Rommel-Straße 60, 91058 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.57366640000001,
+               "lng" : 11.0276646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.57501538029151,
+                  "lng" : 11.0290135802915
+               },
+               "southwest" : {
+                  "lat" : 49.57231741970851,
+                  "lng" : 11.0263156197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

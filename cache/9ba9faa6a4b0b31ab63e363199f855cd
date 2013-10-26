@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "060-8638",
+               "short_name" : "060-8638",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kita Ward",
+               "short_name" : "Kita Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sapporo",
+               "short_name" : "Sapporo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hokkaido Prefecture",
+               "short_name" : "Hokkaido Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kita Ward, Sapporo, Hokkaido Prefecture 060-8638, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0788108,
+                  "lng" : 141.3446864
+               },
+               "southwest" : {
+                  "lat" : 43.0768384,
+                  "lng" : 141.3404612
+               }
+            },
+            "location" : {
+               "lat" : 43.0774769,
+               "lng" : 141.3422015
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0791735802915,
+                  "lng" : 141.3446864
+               },
+               "southwest" : {
+                  "lat" : 43.0764756197085,
+                  "lng" : 141.3404612
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

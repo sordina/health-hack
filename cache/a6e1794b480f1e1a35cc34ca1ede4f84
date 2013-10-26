@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roswell Park Cancer Institute",
+               "short_name" : "Roswell Park Cancer Institute",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "665",
+               "short_name" : "665",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elm Street",
+               "short_name" : "Elm St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Park",
+               "short_name" : "Medical Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14263",
+               "short_name" : "14263",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Roswell Park Cancer Institute, 665 Elm Street, Buffalo, NY 14263, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9003408,
+                  "lng" : -78.86302449999999
+               },
+               "southwest" : {
+                  "lat" : 42.8967535,
+                  "lng" : -78.86816499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.8987866,
+               "lng" : -78.8647179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9003408,
+                  "lng" : -78.86302449999999
+               },
+               "southwest" : {
+                  "lat" : 42.8967535,
+                  "lng" : -78.86816499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

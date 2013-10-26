@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Galveston",
+               "short_name" : "Galveston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galveston",
+               "short_name" : "Galveston",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Galveston, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.3548229,
+                  "lng" : -94.7309731
+               },
+               "southwest" : {
+                  "lat" : 29.0832686,
+                  "lng" : -95.12212719999999
+               }
+            },
+            "location" : {
+               "lat" : 29.3013479,
+               "lng" : -94.7976958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.3548229,
+                  "lng" : -94.7309731
+               },
+               "southwest" : {
+                  "lat" : 29.0832686,
+                  "lng" : -95.12212719999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

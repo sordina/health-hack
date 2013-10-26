@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Domaine de la Buire",
+               "short_name" : "U.C.B.L.",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "8th arrondissement of Lyon",
+               "short_name" : "8th arrondissement of Lyon",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lyon",
+               "short_name" : "Lyon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "69",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "69008",
+               "short_name" : "69008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Domaine de la Buire, 69008 Lyon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.74070870000001,
+                  "lng" : 4.8889137
+               },
+               "southwest" : {
+                  "lat" : 45.7369754,
+                  "lng" : 4.885915799999999
+               }
+            },
+            "location" : {
+               "lat" : 45.73934329999999,
+               "lng" : 4.8868259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.74070870000001,
+                  "lng" : 4.8889137
+               },
+               "southwest" : {
+                  "lat" : 45.7369754,
+                  "lng" : 4.885915799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

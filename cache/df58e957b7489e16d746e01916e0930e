@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southampton General Hospital",
+               "short_name" : "Southampton General Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Tremona Road",
+               "short_name" : "Tremona Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hampshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SO16 6YD",
+               "short_name" : "SO16 6YD",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Southampton",
+               "short_name" : "Southampton",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Southampton General Hospital, Tremona Road, Southampton, Hampshire SO16 6YD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9349579,
+                  "lng" : -1.431593
+               },
+               "southwest" : {
+                  "lat" : 50.9315173,
+                  "lng" : -1.4375363
+               }
+            },
+            "location" : {
+               "lat" : 50.9338217,
+               "lng" : -1.433757
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9349579,
+                  "lng" : -1.431593
+               },
+               "southwest" : {
+                  "lat" : 50.9315173,
+                  "lng" : -1.4375363
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "150001",
+               "short_name" : "150001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nangang",
+               "short_name" : "Nangang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haerbin",
+               "short_name" : "Haerbin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heilongjiang",
+               "short_name" : "Heilongjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nangang, Haerbin, Heilongjiang, China, 150001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7840069,
+                  "lng" : 126.710949
+               },
+               "southwest" : {
+                  "lat" : 45.7233068,
+                  "lng" : 126.5761997
+               }
+            },
+            "location" : {
+               "lat" : 45.7588178,
+               "lng" : 126.6416499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7840069,
+                  "lng" : 126.710949
+               },
+               "southwest" : {
+                  "lat" : 45.7316098,
+                  "lng" : 126.5876495
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

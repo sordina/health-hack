@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maisons-Alfort",
+               "short_name" : "Maisons-Alfort",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Val-de-Marne",
+               "short_name" : "94",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maisons-Alfort, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.816878,
+                  "lng" : 2.4639931
+               },
+               "southwest" : {
+                  "lat" : 48.786595,
+                  "lng" : 2.4159061
+               }
+            },
+            "location" : {
+               "lat" : 48.801148,
+               "lng" : 2.429443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.816878,
+                  "lng" : 2.4639931
+               },
+               "southwest" : {
+                  "lat" : 48.786595,
+                  "lng" : 2.4159061
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

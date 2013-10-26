@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ludwig-Maximilians-Universität München",
+               "short_name" : "Ludwig-Maximilians-Universität München",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Am Coulombwall",
+               "short_name" : "Am Coulombwall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Garching",
+               "short_name" : "Garching",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85748",
+               "short_name" : "85748",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ludwig-Maximilians-Universität München, Am Coulombwall 1, 85748 Garching, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2692549,
+                  "lng" : 11.6751379
+               },
+               "southwest" : {
+                  "lat" : 48.2682128,
+                  "lng" : 11.6729398
+               }
+            },
+            "location" : {
+               "lat" : 48.2690372,
+               "lng" : 11.6736898
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.27008283029149,
+                  "lng" : 11.6753878302915
+               },
+               "southwest" : {
+                  "lat" : 48.2673848697085,
+                  "lng" : 11.6726898697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

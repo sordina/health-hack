@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20852",
+               "short_name" : "20852",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Rockville",
+               "short_name" : "Rockville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rockville, MD 20852, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.081565,
+                  "lng" : -77.084075
+               },
+               "southwest" : {
+                  "lat" : 39.022445,
+                  "lng" : -77.182205
+               }
+            },
+            "location" : {
+               "lat" : 39.0542102,
+               "lng" : -77.1197521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.081565,
+                  "lng" : -77.084075
+               },
+               "southwest" : {
+                  "lat" : 39.022445,
+                  "lng" : -77.182205
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

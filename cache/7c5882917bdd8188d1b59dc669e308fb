@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidad Autónoma de Madrid",
+               "short_name" : "Universidad Autónoma de Madrid",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ciudad Universitaria de Cantoblanco",
+               "short_name" : "Ciudad Universitaria de Cantoblanco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28049",
+               "short_name" : "28049",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidad Autónoma de Madrid, Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5523782,
+                  "lng" : -3.685850599999999
+               },
+               "southwest" : {
+                  "lat" : 40.4379718,
+                  "lng" : -3.7828599
+               }
+            },
+            "location" : {
+               "lat" : 40.54520360000001,
+               "lng" : -3.6938964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5523782,
+                  "lng" : -3.685850599999999
+               },
+               "southwest" : {
+                  "lat" : 40.54039179999999,
+                  "lng" : -3.7040169
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UC Santa Barbara",
+               "short_name" : "UCSB",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "552",
+               "short_name" : "552",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Road",
+               "short_name" : "University Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93106",
+               "short_name" : "93106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UC Santa Barbara, 552 University Road, Santa Barbara, CA 93106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4235756,
+                  "lng" : -119.8394448
+               },
+               "southwest" : {
+                  "lat" : 34.4038827,
+                  "lng" : -119.8815476
+               }
+            },
+            "location" : {
+               "lat" : 34.4135868,
+               "lng" : -119.8496976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4235756,
+                  "lng" : -119.8394448
+               },
+               "southwest" : {
+                  "lat" : 34.4038827,
+                  "lng" : -119.8815476
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

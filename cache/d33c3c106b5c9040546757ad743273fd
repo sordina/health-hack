@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperial College London-St Mary's Campus",
+               "short_name" : "Imperial College London-St Mary's Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W2",
+               "short_name" : "W2",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Imperial College London-St Mary's Campus, London W2, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.51838129999999,
+                  "lng" : -0.170944
+               },
+               "southwest" : {
+                  "lat" : 51.515937,
+                  "lng" : -0.1764779
+               }
+            },
+            "location" : {
+               "lat" : 51.5171792,
+               "lng" : -0.1737114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5185081302915,
+                  "lng" : -0.170944
+               },
+               "southwest" : {
+                  "lat" : 51.5158101697085,
+                  "lng" : -0.1764779
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
