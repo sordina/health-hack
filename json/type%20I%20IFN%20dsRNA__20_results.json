@@ -272,7 +272,81 @@
     },
     "Info": {
       "institution": "Department of Immunology and Infectious Disease, the Forsyth Institute, Cambridge, Massachusetts, United States of America.",
-      "abstract": "Elevated IL-7 in the target tissues is closely associated with multiple autoimmune disorders, including Sjögren's syndrome (SS). We recently found that IL-7 plays an essential role in the development and onset of primary SS (pSS) in C57BL/6.NOD-Aec1Aec2 mice, a well-defined mouse model of primary SS. However, environmental signals that cause excessive IL-7 production are not well-characterized. Innate immune signaling plays a critical role in shaping the adaptive immune responses including autoimmune responses. We and others have previously shown that innate immune signaling can induce IL-7 expression in lungs and intestines of C57BL/6 mice. In this study, we characterized the effects of poly I:C, a double-stranded RNA analog and toll-like receptor 3 agonist, on the induction of IL-7 expression in salivary glands and on pSS development. We showed that poly I:C administration to C57BL/6 mice rapidly induced IL-7 expression in the salivary glands in a type 1 IFN- and IFN-γ-dependent manner. Moreover, poly I:C-induced IL-7 contributed to the optimal up-regulation of CXCL9 in the salivary glands, which may subsequently promote recruitment of more IFN-γ-producing T cells. Repeated administration of poly I:C to C57BL/6.NOD-Aec1Aec2 mice accelerated the development of SS-like exocrinopathy, and this effect was abolished by the blockade of IL-7 receptor signaling with a neutralizing antibody. Finally, poly I:C or a combination of IFN-α and IFN-γ induced IL-7 gene expression and protein production in a human salivary gland epithelial cell line. Hence, we demonstrate that IL-7 expression in the salivary gland cells can be induced by poly I:C and delineate a crucial mechanism by which innate immune signals facilitate the development of pSS, which is through induction of IL-7 in the target tissues. "
+      "abstract": "Elevated IL-7 in the target tissues is closely associated with multiple autoimmune disorders, including Sjögren's syndrome (SS). We recently found that IL-7 plays an essential role in the development and onset of primary SS (pSS) in C57BL/6.NOD-Aec1Aec2 mice, a well-defined mouse model of primary SS. However, environmental signals that cause excessive IL-7 production are not well-characterized. Innate immune signaling plays a critical role in shaping the adaptive immune responses including autoimmune responses. We and others have previously shown that innate immune signaling can induce IL-7 expression in lungs and intestines of C57BL/6 mice. In this study, we characterized the effects of poly I:C, a double-stranded RNA analog and toll-like receptor 3 agonist, on the induction of IL-7 expression in salivary glands and on pSS development. We showed that poly I:C administration to C57BL/6 mice rapidly induced IL-7 expression in the salivary glands in a type 1 IFN- and IFN-γ-dependent manner. Moreover, poly I:C-induced IL-7 contributed to the optimal up-regulation of CXCL9 in the salivary glands, which may subsequently promote recruitment of more IFN-γ-producing T cells. Repeated administration of poly I:C to C57BL/6.NOD-Aec1Aec2 mice accelerated the development of SS-like exocrinopathy, and this effect was abolished by the blockade of IL-7 receptor signaling with a neutralizing antibody. Finally, poly I:C or a combination of IFN-α and IFN-γ induced IL-7 gene expression and protein production in a human salivary gland epithelial cell line. Hence, we demonstrate that IL-7 expression in the salivary gland cells can be induced by poly I:C and delineate a crucial mechanism by which innate immune signals facilitate the development of pSS, which is through induction of IL-7 in the target tissues. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Cambridge",
+                "short_name": "Cambridge",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Middlesex",
+                "short_name": "Middlesex",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Massachusetts",
+                "short_name": "MA",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Cambridge, MA, USA",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 42.4043839,
+                  "lng": -71.06548719999999
+                },
+                "southwest": {
+                  "lat": 42.3523968,
+                  "lng": -71.16033209999999
+                }
+              },
+              "location": {
+                "lat": 42.3736158,
+                "lng": -71.10973349999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 42.4043839,
+                  "lng": -71.06548719999999
+                },
+                "southwest": {
+                  "lat": 42.3523968,
+                  "lng": -71.16033209999999
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "locality",
+              "political"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -586,7 +660,13 @@
     },
     "Info": {
       "institution": "Department of Life and Environmental Sciences, University of Cagliari, Cittadella di Monserrato, SS554, 09042 Monserrato (Cagliari), Italy. Electronic address: lucazinzula@unica.it.",
-      "abstract": "Double-stranded RNA (dsRNA) is synthesized during the course of infection by RNA viruses as a byproduct of replication and transcription and acts as a potent trigger of the host innate antiviral response. In the cytoplasm of the infected cell, recognition of the presence of viral dsRNA as a signature of \"non-self\" nucleic acid is carried out by RIG-I-like receptors (RLRs), a set of dedicated helicases whose activation leads to the production of type I interferon α/β (IFN-α/β). To overcome the innate antiviral response, RNA viruses encode suppressors of IFN-α/β induction, which block RLR recognition of dsRNA by means of different mechanisms that can be categorized into: (i) dsRNA binding and/or shielding (\"hide\"), (ii) dsRNA termini processing (\"mask\") and (iii) direct interaction with components of the RLRs pathway (\"hit\"). In light of recent functional, biochemical and structural findings, we review the inhibition mechanisms of RLR recognition of dsRNA displayed by a number of highly pathogenic RNA viruses with different disease phenotypes such as haemorrhagic fever (Ebola, Marburg, Lassa, Lujo, Machupo, Junin, Guanarito, Crimean-Congo, Rift Valley fever, dengue), severe respiratory disease (influenza, SARS, Hendra, Hantaan, Sin Nombre, Andes) and encephalitis (Nipah, West Nile).Copyright © 2013. Published by Elsevier B.V."
+      "abstract": "Double-stranded RNA (dsRNA) is synthesized during the course of infection by RNA viruses as a byproduct of replication and transcription and acts as a potent trigger of the host innate antiviral response. In the cytoplasm of the infected cell, recognition of the presence of viral dsRNA as a signature of \"non-self\" nucleic acid is carried out by RIG-I-like receptors (RLRs), a set of dedicated helicases whose activation leads to the production of type I interferon α/β (IFN-α/β). To overcome the innate antiviral response, RNA viruses encode suppressors of IFN-α/β induction, which block RLR recognition of dsRNA by means of different mechanisms that can be categorized into: (i) dsRNA binding and/or shielding (\"hide\"), (ii) dsRNA termini processing (\"mask\") and (iii) direct interaction with components of the RLRs pathway (\"hit\"). In light of recent functional, biochemical and structural findings, we review the inhibition mechanisms of RLR recognition of dsRNA displayed by a number of highly pathogenic RNA viruses with different disease phenotypes such as haemorrhagic fever (Ebola, Marburg, Lassa, Lujo, Machupo, Junin, Guanarito, Crimean-Congo, Rift Valley fever, dengue), severe respiratory disease (influenza, SARS, Hendra, Hantaan, Sin Nombre, Andes) and encephalitis (Nipah, West Nile).Copyright © 2013. Published by Elsevier B.V.",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   },
   {
@@ -908,7 +988,125 @@
     },
     "Info": {
       "institution": "Endocrine Genetics Laboratory, McGill University Health Center, Montreal Children's Hospital Research Institute, McGill University , Montreal , Canada .",
-      "abstract": "Abstract The Thr allele at the Thr946Ala non-synonymous single-nucleotide polymorphism (nsSNP) in the IFIH1 gene confers risk for type 1 diabetes (T1D). IFIH1 binds viral double-stranded RNA (dsRNA), inducing a type I interferon (IFN) response. Reports of this nsSNP's role in IFIH1 expression regulation have produced conflicting results and a study evaluating transfected Thr946Ala protein alleles in an artificial system overexpressing IFIH1 shows that the SNP does not affect IFH1 function. In this study, we examine the effects of the Thr946Ala polymorphism on IFN-α response in a cell line that endogenously expresses physiological levels of IFIH1. Eleven lymphoblastoid cell lines (LCLs) homozygous for the major predisposing allele (Thr/Thr) and 6 LCLs homozygous for the minor protective allele (Ala/Ala) were electroporated with the viral dsRNA mimic, poly I:C, in three independent experiments. Media were collected 24 hours later and measured for IFN-α production by ELISA. Basal IFN response is minimal in mock-transfected cells from both genotypes and increases by about 8-fold in cells treated with poly I:C. LCLs with the Ala/Ala genotype have slightly higher IFN-α levels than their Thr/Thr counterparts but this did not reach statistical significance because of the large variability of the IFN response, due mostly to two high outliers (biological, not technical). A larger sample size would be needed to determine whether the Thr946Ala SNP affects the poly I:C-driven IFN-α response. Additionally, the possibility that this nsSNP recognizes viral dsRNA specificities cannot be ruled out. Thus, the mechanism of the observed association of this SNP with T1D remains to be determined."
+      "abstract": "Abstract The Thr allele at the Thr946Ala non-synonymous single-nucleotide polymorphism (nsSNP) in the IFIH1 gene confers risk for type 1 diabetes (T1D). IFIH1 binds viral double-stranded RNA (dsRNA), inducing a type I interferon (IFN) response. Reports of this nsSNP's role in IFIH1 expression regulation have produced conflicting results and a study evaluating transfected Thr946Ala protein alleles in an artificial system overexpressing IFIH1 shows that the SNP does not affect IFH1 function. In this study, we examine the effects of the Thr946Ala polymorphism on IFN-α response in a cell line that endogenously expresses physiological levels of IFIH1. Eleven lymphoblastoid cell lines (LCLs) homozygous for the major predisposing allele (Thr/Thr) and 6 LCLs homozygous for the minor protective allele (Ala/Ala) were electroporated with the viral dsRNA mimic, poly I:C, in three independent experiments. Media were collected 24 hours later and measured for IFN-α production by ELISA. Basal IFN response is minimal in mock-transfected cells from both genotypes and increases by about 8-fold in cells treated with poly I:C. LCLs with the Ala/Ala genotype have slightly higher IFN-α levels than their Thr/Thr counterparts but this did not reach statistical significance because of the large variability of the IFN response, due mostly to two high outliers (biological, not technical). A larger sample size would be needed to determine whether the Thr946Ala SNP affects the poly I:C-driven IFN-α response. Additionally, the possibility that this nsSNP recognizes viral dsRNA specificities cannot be ruled out. Thus, the mechanism of the observed association of this SNP with T1D remains to be determined.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "McGill University",
+                "short_name": "McGill University",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "845",
+                "short_name": "845",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Sherbrooke Street West",
+                "short_name": "Sherbrooke St W",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "Golden Square Mile",
+                "short_name": "Golden Square Mile",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Ville-Marie",
+                "short_name": "Ville-Marie",
+                "types": [
+                  "sublocality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Montreal",
+                "short_name": "Montreal",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Montreal",
+                "short_name": "Montreal",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Quebec",
+                "short_name": "QC",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Canada",
+                "short_name": "CA",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "H3A 0G4",
+                "short_name": "H3A 0G4",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "McGill University, 845 Sherbrooke Street West, Montreal, QC H3A 0G4, Canada",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 45.513065,
+                  "lng": -73.5713394
+                },
+                "southwest": {
+                  "lat": 45.498471,
+                  "lng": -73.5860287
+                }
+              },
+              "location": {
+                "lat": 45.5052303,
+                "lng": -73.57821679999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 45.513065,
+                  "lng": -73.5713394
+                },
+                "southwest": {
+                  "lat": 45.498471,
+                  "lng": -73.5860287
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -1206,7 +1404,13 @@
     },
     "Info": {
       "institution": "Division of Infection and Immunity, Department of Electromagnetic and Laser Biology, Beijing Institute of Radiation Medicine, 27 Taiping Rd, Beijing 100850, China.",
-      "abstract": "Hepatitis B virus (HBV) infection often results in acute or chronic viral hepatitis and other liver diseases including cirrhosis and hepatocellular carcinoma. Current therapies for HBV usually have severe side effects and can cause development of drug-resistant mutants. An alternative and safe immunotherapeutic approach for HBV infection is urgently needed for effective anti-HBV therapy. In this study, we propose a new strategy for anti-HBV therapy that activates type-I interferon (IFN) antiviral innate immunity through stimulating pattern-recognition receptors with RNA interference (RNAi) using a 5'-end triphosphate-modified small interfering RNA (3p-siRNA). We designed and generated a 3p-siRNA targeting overlapping region of S gene and P gene of the HBV genome at the 5'-end of pregenomic HBV RNA. Our results demonstrated that 3p-siRNA induced a RIG-I-dependent antiviral type-I IFN response when transfected into HepG2.2.15 cells that support HBV replication. The 3p-siRNA significantly inhibited HBsAg and HBeAg secretion from HepG2.2.15 cells in a RIG-I-dependent manner, and the antiviral effect of 3p-siRNA was superior to that of siRNA. Furthermore, 3p-siRNA had more pronounced inhibition effects on the replication of HBV DNA and the transcription of mRNA than that of siRNA. Finally, 3p-siRNA displayed antiviral activity with long-term suppression of HBV replication. In conclusion, our findings suggest that 3p-siRNA could act as a powerful bifunctional antiviral molecule with potential for developing a promising therapeutic against chronic HBV infection.© 2013 Published by Elsevier B.V."
+      "abstract": "Hepatitis B virus (HBV) infection often results in acute or chronic viral hepatitis and other liver diseases including cirrhosis and hepatocellular carcinoma. Current therapies for HBV usually have severe side effects and can cause development of drug-resistant mutants. An alternative and safe immunotherapeutic approach for HBV infection is urgently needed for effective anti-HBV therapy. In this study, we propose a new strategy for anti-HBV therapy that activates type-I interferon (IFN) antiviral innate immunity through stimulating pattern-recognition receptors with RNA interference (RNAi) using a 5'-end triphosphate-modified small interfering RNA (3p-siRNA). We designed and generated a 3p-siRNA targeting overlapping region of S gene and P gene of the HBV genome at the 5'-end of pregenomic HBV RNA. Our results demonstrated that 3p-siRNA induced a RIG-I-dependent antiviral type-I IFN response when transfected into HepG2.2.15 cells that support HBV replication. The 3p-siRNA significantly inhibited HBsAg and HBeAg secretion from HepG2.2.15 cells in a RIG-I-dependent manner, and the antiviral effect of 3p-siRNA was superior to that of siRNA. Furthermore, 3p-siRNA had more pronounced inhibition effects on the replication of HBV DNA and the transcription of mRNA than that of siRNA. Finally, 3p-siRNA displayed antiviral activity with long-term suppression of HBV replication. In conclusion, our findings suggest that 3p-siRNA could act as a powerful bifunctional antiviral molecule with potential for developing a promising therapeutic against chronic HBV infection.© 2013 Published by Elsevier B.V.",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   },
   {
@@ -1532,7 +1736,87 @@
     },
     "Info": {
       "institution": "Department of Microbiology and Immunology, Graduate School of Medicine, Hokkaido University, Kita-ku, Sapporo 060-8638, Japan.",
-      "abstract": "Measles virus (MV) infects CD150Tg/Ifnar (IFN alpha receptor)-/- mice but not CD150 (a human MV receptor)-transgenic (Tg) mice. We have shown that bone marrow-derived dendritic cells (BMDCs) from CD150Tg/Ifnar-/- mice are permissive to MV in contrast to those from simple CD150Tg mice, which reveals a crucial role of type I interferon (IFN) in natural tropism against MV. Yet, the mechanism whereby BMDCs produce initial type I IFN has not been elucidated in MV infection. RNA virus infection usually allows cells to generate double-stranded RNA and induce activation of IFN regulatory factor (IRF) 3/7 transcription factors, leading to the production of type I IFN through the retinoic acid-inducible gene I (RIG-I)/melanoma differentiation-associated gene 5 (MDA5)-mitochondrial antiviral signaling protein (MAVS) pathway. In mouse experimental BMDCs models, we found CD150Tg/Mavs-/-BMDCs, but not CD150Tg/Irf3-/-/Irf7-/-BMDCs, permissive to MV. IFN-α/β were not induced in MV-infected CD150Tg/Mavs-/-BMDCs, while IFN-β was subtly induced in CD150Tg/Irf3-/-/Irf7-/-BMDCs. In vivo systemic infection was therefore established by transfer of MV-infected CD150Tg/Mavs-/- BMDCs to CD150Tg/Ifnar-/- mice. These data indicate that MAVS-dependent, IRF3/7-independent IFN-β induction triggers the activation of the IFNAR pathway so as to restrict the spread of MV by infected BMDCs. Hence, MAVS participates in the initial induction of type I IFN in BMDCs and IFNAR protects against MV spreading. We also showed the importance of IL-10-producing CD4+ T cells induced by MV-infected BMDCs in vitro, which may account for immune modulation due to the functional aberration of DCs.Copyright © 2013 Elsevier Ltd. All rights reserved."
+      "abstract": "Measles virus (MV) infects CD150Tg/Ifnar (IFN alpha receptor)-/- mice but not CD150 (a human MV receptor)-transgenic (Tg) mice. We have shown that bone marrow-derived dendritic cells (BMDCs) from CD150Tg/Ifnar-/- mice are permissive to MV in contrast to those from simple CD150Tg mice, which reveals a crucial role of type I interferon (IFN) in natural tropism against MV. Yet, the mechanism whereby BMDCs produce initial type I IFN has not been elucidated in MV infection. RNA virus infection usually allows cells to generate double-stranded RNA and induce activation of IFN regulatory factor (IRF) 3/7 transcription factors, leading to the production of type I IFN through the retinoic acid-inducible gene I (RIG-I)/melanoma differentiation-associated gene 5 (MDA5)-mitochondrial antiviral signaling protein (MAVS) pathway. In mouse experimental BMDCs models, we found CD150Tg/Mavs-/-BMDCs, but not CD150Tg/Irf3-/-/Irf7-/-BMDCs, permissive to MV. IFN-α/β were not induced in MV-infected CD150Tg/Mavs-/-BMDCs, while IFN-β was subtly induced in CD150Tg/Irf3-/-/Irf7-/-BMDCs. In vivo systemic infection was therefore established by transfer of MV-infected CD150Tg/Mavs-/- BMDCs to CD150Tg/Ifnar-/- mice. These data indicate that MAVS-dependent, IRF3/7-independent IFN-β induction triggers the activation of the IFNAR pathway so as to restrict the spread of MV by infected BMDCs. Hence, MAVS participates in the initial induction of type I IFN in BMDCs and IFNAR protects against MV spreading. We also showed the importance of IL-10-producing CD4+ T cells induced by MV-infected BMDCs in vitro, which may account for immune modulation due to the functional aberration of DCs.Copyright © 2013 Elsevier Ltd. All rights reserved.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "060-8638",
+                "short_name": "060-8638",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "long_name": "Kita Ward",
+                "short_name": "Kita Ward",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Sapporo",
+                "short_name": "Sapporo",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Hokkaido Prefecture",
+                "short_name": "Hokkaido Prefecture",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Japan",
+                "short_name": "JP",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Kita Ward, Sapporo, Hokkaido Prefecture 060-8638, Japan",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 43.0788108,
+                  "lng": 141.3446864
+                },
+                "southwest": {
+                  "lat": 43.0768384,
+                  "lng": 141.3404612
+                }
+              },
+              "location": {
+                "lat": 43.0774769,
+                "lng": 141.3422015
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 43.0791735802915,
+                  "lng": 141.3446864
+                },
+                "southwest": {
+                  "lat": 43.0764756197085,
+                  "lng": 141.3404612
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -1807,7 +2091,87 @@
     },
     "Info": {
       "institution": "Department of Pathology and Institute for Human Infections and Immunity, University of Texas Medical Branch, Galveston, TX 77550, USA.",
-      "abstract": "Arenaviruses are enveloped, negative-stranded RNA viruses that belong to the family Arenaviridae. This diverse family can be further classified into OW (Old World) and NW (New World) arenaviruses based on their antigenicity, phylogeny, and geographical distribution. Many of the NW arenaviruses are highly pathogenic viruses that cause systemic human infections characterized by hemorrhagic fever and/or neurological manifestations, constituting public health problems in their endemic regions. NW arenavirus infection induces a variety of host innate immune responses, which could contribute to the viral pathogenesis and/or influence the final outcome of virus infection in vitro and in vivo. On the other hand, NW arenaviruses have also developed several strategies to counteract the host innate immune response. We will review current knowledge regarding the interplay between the host innate immune response and NW arenavirus infection in vitro and in vivo, with emphasis on viral-encoded proteins and their effect on the type I interferon response.© 2013."
+      "abstract": "Arenaviruses are enveloped, negative-stranded RNA viruses that belong to the family Arenaviridae. This diverse family can be further classified into OW (Old World) and NW (New World) arenaviruses based on their antigenicity, phylogeny, and geographical distribution. Many of the NW arenaviruses are highly pathogenic viruses that cause systemic human infections characterized by hemorrhagic fever and/or neurological manifestations, constituting public health problems in their endemic regions. NW arenavirus infection induces a variety of host innate immune responses, which could contribute to the viral pathogenesis and/or influence the final outcome of virus infection in vitro and in vivo. On the other hand, NW arenaviruses have also developed several strategies to counteract the host innate immune response. We will review current knowledge regarding the interplay between the host innate immune response and NW arenavirus infection in vitro and in vivo, with emphasis on viral-encoded proteins and their effect on the type I interferon response.© 2013.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "77550",
+                "short_name": "77550",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "long_name": "Galveston",
+                "short_name": "Galveston",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Galveston",
+                "short_name": "Galveston",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Texas",
+                "short_name": "TX",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Galveston, TX 77550, USA",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 29.5307511,
+                  "lng": -94.51376900000001
+                },
+                "southwest": {
+                  "lat": 29.2747069,
+                  "lng": -94.86415
+                }
+              },
+              "location": {
+                "lat": 29.4345626,
+                "lng": -94.68120859999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 29.5307511,
+                  "lng": -94.51376900000001
+                },
+                "southwest": {
+                  "lat": 29.410194,
+                  "lng": -94.71439409999999
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -2114,7 +2478,13 @@
     },
     "Info": {
       "institution": "Laboratory of Human Retrovirology, Clinical Services Program, Applied and Developmental Directorate, SAIC-Frederick, Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA, Laboratory of Proteomics and Analytical Technologies, Advanced Technology Program, SAIC-Frederick, Inc., Frederick National Laboratory for Cancer Research, Frederick, MD 21702, USA and Laboratory of Immunoregulation, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD 20892, USA.",
-      "abstract": "In addition to silencing specific genes, small interfering RNA (siRNA) transfection is also associated with the non-specific induction of inflammatory cytokines and type I interferon. Those so-called \"off-target\" effects have considerable implications for the interpretation of in vitro studies and clinical application of siRNA. The present study attempted to develop a better understanding of the mechanism involved in these off target effects. Synthesized siRNA significantly enhances DNA-mediated interferon lambda-1 response (IFN-λ1/IL-29), a newly characterized antiviral interferon in non-immune or primary immune cells. This enhancement was most pronounced by double-stranded siRNA with at least a 2-nucleotide overhang at one 3' terminus in a dose-dependent manner, while the presence of DNA was indispensable. A pull-down assay using biotinylated siRNA- or DNA-conjugated beads indicated that retinoic acid-inducible gene I (RIG-I) and interferon gamma-inducible protein 16 (IFI16) were involved in the sensing of siRNA and DNA, respectively. Co-immunoprecipitation analysis further revealed that RIG-I and IFI16 formed a complex via siRNA, and the dissociation of IFI16 from this complex in the presence of DNA activated the downstream STING-TBK1-IRF3 (stimulator of interferon genes - tank-binding kinase 1 - interferon regulatory factor 3) pathway, shedding light on a new physiological signalling pathway to activate innate immunity. Collectively, these findings may provide rational information for siRNA-induced innate immunity, with important implications for developing siRNA-based reagents to control human diseases."
+      "abstract": "In addition to silencing specific genes, small interfering RNA (siRNA) transfection is also associated with the non-specific induction of inflammatory cytokines and type I interferon. Those so-called \"off-target\" effects have considerable implications for the interpretation of in vitro studies and clinical application of siRNA. The present study attempted to develop a better understanding of the mechanism involved in these off target effects. Synthesized siRNA significantly enhances DNA-mediated interferon lambda-1 response (IFN-λ1/IL-29), a newly characterized antiviral interferon in non-immune or primary immune cells. This enhancement was most pronounced by double-stranded siRNA with at least a 2-nucleotide overhang at one 3' terminus in a dose-dependent manner, while the presence of DNA was indispensable. A pull-down assay using biotinylated siRNA- or DNA-conjugated beads indicated that retinoic acid-inducible gene I (RIG-I) and interferon gamma-inducible protein 16 (IFI16) were involved in the sensing of siRNA and DNA, respectively. Co-immunoprecipitation analysis further revealed that RIG-I and IFI16 formed a complex via siRNA, and the dissociation of IFI16 from this complex in the presence of DNA activated the downstream STING-TBK1-IRF3 (stimulator of interferon genes - tank-binding kinase 1 - interferon regulatory factor 3) pathway, shedding light on a new physiological signalling pathway to activate innate immunity. Collectively, these findings may provide rational information for siRNA-induced innate immunity, with important implications for developing siRNA-based reagents to control human diseases.",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   },
   {
@@ -2436,7 +2806,93 @@
     },
     "Info": {
       "institution": "Department of Biomedical Technology, Institute of Technology, University of Tartu, Tartu, Estonia.",
-      "abstract": "Type I interferons (IFN) are important for antiviral responses. Melanoma differentiation-associated gene 5 (MDA-5) and retinoic acid-induced gene I (RIG-I) proteins detect cytosolic double-stranded RNA (dsRNA) or 5'-triphosphate (5'-ppp) RNA and mediate IFN production. Cytosolic 5'-ppp RNA and dsRNA are generated during viral RNA replication and transcription by viral RNA replicases [RNA-dependent RNA polymerases (RdRp)]. Here, we show that the Semliki Forest virus (SFV) RNA replicase can induce IFN-β independently of viral RNA replication and transcription. The SFV replicase converts host cell RNA into 5'-ppp dsRNA and induces IFN-β through the RIG-I and MDA-5 pathways. Inactivation of the SFV replicase RdRp activity prevents IFN-β induction. These IFN-inducing modified host cell RNAs are abundantly produced during both wild-type SFV and its non-pathogenic mutant infection. Furthermore, in contrast to the wild-type SFV replicase a non-pathogenic mutant replicase triggers increased IFN-β production, which leads to a shutdown of virus replication. These results suggest that host cells can restrict RNA virus replication by detecting the products of unspecific viral replicase RdRp activity. "
+      "abstract": "Type I interferons (IFN) are important for antiviral responses. Melanoma differentiation-associated gene 5 (MDA-5) and retinoic acid-induced gene I (RIG-I) proteins detect cytosolic double-stranded RNA (dsRNA) or 5'-triphosphate (5'-ppp) RNA and mediate IFN production. Cytosolic 5'-ppp RNA and dsRNA are generated during viral RNA replication and transcription by viral RNA replicases [RNA-dependent RNA polymerases (RdRp)]. Here, we show that the Semliki Forest virus (SFV) RNA replicase can induce IFN-β independently of viral RNA replication and transcription. The SFV replicase converts host cell RNA into 5'-ppp dsRNA and induces IFN-β through the RIG-I and MDA-5 pathways. Inactivation of the SFV replicase RdRp activity prevents IFN-β induction. These IFN-inducing modified host cell RNAs are abundantly produced during both wild-type SFV and its non-pathogenic mutant infection. Furthermore, in contrast to the wild-type SFV replicase a non-pathogenic mutant replicase triggers increased IFN-β production, which leads to a shutdown of virus replication. These results suggest that host cells can restrict RNA virus replication by detecting the products of unspecific viral replicase RdRp activity. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "University of Tartu",
+                "short_name": "University of Tartu",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "18",
+                "short_name": "18",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Ülikooli",
+                "short_name": "Ülikooli",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "Tartu",
+                "short_name": "Tartu",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Estonia",
+                "short_name": "EE",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "50090",
+                "short_name": "50090",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "University of Tartu, Ülikooli 18, 50090 Tartu, Estonia",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 59.3754296,
+                  "lng": 28.1847214
+                },
+                "southwest": {
+                  "lat": 58.3659737,
+                  "lng": 24.4873853
+                }
+              },
+              "location": {
+                "lat": 58.3810707,
+                "lng": 26.7195353
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 58.3822293,
+                  "lng": 26.7224365
+                },
+                "southwest": {
+                  "lat": 58.3760151,
+                  "lng": 26.7111843
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -2742,7 +3198,73 @@
     },
     "Info": {
       "institution": "Department of Infectious Diseases, The First Hospital, Jilin University, Changchun, China.",
-      "abstract": "In eukaryotes, there are at least 60 members of the DExD/H helicase family, many of which are able to sense viral nucleic acids. By screening all known family members, we identified the helicase DHX33 as a novel double-stranded RNA (dsRNA) sensor in myeloid dendritic cells (mDCs). The knockdown of DHX33 using small heteroduplex RNA (shRNA) blocked the ability of mDCs to produce type I interferon (IFN) in response to poly I:C and reovirus. The HELICc domain of DHX33 was shown to bind poly I:C. The interaction between DHX33 and IPS-1 is mediated by the HELICc region of DHX33 and the C-terminal domain of IPS-1 (also referred to MAVS and VISA). The inhibition of DHX33 expression by RNA interference blocked the poly I:C-induced activation of MAP kinases, NF-κB and IRF3. The interaction between the helicase DHX33 and IPS-1 was independent of RIG-I/MDA5 and may be a novel pathway for sensing poly I:C and RNA viruses in mDCs.Cellular & Molecular Immunology advance online publication, 16 September 2013; doi:10.1038/cmi.2013.40."
+      "abstract": "In eukaryotes, there are at least 60 members of the DExD/H helicase family, many of which are able to sense viral nucleic acids. By screening all known family members, we identified the helicase DHX33 as a novel double-stranded RNA (dsRNA) sensor in myeloid dendritic cells (mDCs). The knockdown of DHX33 using small heteroduplex RNA (shRNA) blocked the ability of mDCs to produce type I interferon (IFN) in response to poly I:C and reovirus. The HELICc domain of DHX33 was shown to bind poly I:C. The interaction between DHX33 and IPS-1 is mediated by the HELICc region of DHX33 and the C-terminal domain of IPS-1 (also referred to MAVS and VISA). The inhibition of DHX33 expression by RNA interference blocked the poly I:C-induced activation of MAP kinases, NF-κB and IRF3. The interaction between the helicase DHX33 and IPS-1 was independent of RIG-I/MDA5 and may be a novel pathway for sensing poly I:C and RNA viruses in mDCs.Cellular & Molecular Immunology advance online publication, 16 September 2013; doi:10.1038/cmi.2013.40.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Changchun",
+                "short_name": "Changchun",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Jilin",
+                "short_name": "Jilin",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "China",
+                "short_name": "CN",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Changchun, Jilin, China",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 45.2526866,
+                  "lng": 127.0937265
+                },
+                "southwest": {
+                  "lat": 43.2627224,
+                  "lng": 124.5454312
+                }
+              },
+              "location": {
+                "lat": 43.817072,
+                "lng": 125.323544
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 44.1758638,
+                  "lng": 125.6651402
+                },
+                "southwest": {
+                  "lat": 43.6008978,
+                  "lng": 124.9214387
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "locality",
+              "political"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -3005,7 +3527,87 @@
     },
     "Info": {
       "institution": "Vaccine and Gene Therapy Institute, Oregon Health and Science University, 505 Northwest 185th Avenue, Beaverton, OR 97006, USA.",
-      "abstract": "Human cytomegalovirus (HCMV) is a member of the β-herpesvirus family that invariably occupies hosts for life despite a consistent multi-pronged antiviral immune response that targets the infection. This persistence is enabled by the large viral genome that encodes factors conferring a wide assortment of sophisticated, often redundant phenotypes that disable or otherwise manipulate impactful immune effector processes. The type I interferon system represents a first line of host defense against infecting viruses. The physiological reactions induced by secreted interferon act to effectively block replication of a broad spectrum of virus types, including HCMV. As such, the virus must exhibit counteractive mechanisms to these responses that involve their inhibition, tolerance, or re-purposing. The goal of this review is to describe the impact of the type I interferon system on HCMV replication and to showcase the number and diversity of strategies employed by the virus that allow infection of hosts in the presence of interferon-dependent activity.© 2013."
+      "abstract": "Human cytomegalovirus (HCMV) is a member of the β-herpesvirus family that invariably occupies hosts for life despite a consistent multi-pronged antiviral immune response that targets the infection. This persistence is enabled by the large viral genome that encodes factors conferring a wide assortment of sophisticated, often redundant phenotypes that disable or otherwise manipulate impactful immune effector processes. The type I interferon system represents a first line of host defense against infecting viruses. The physiological reactions induced by secreted interferon act to effectively block replication of a broad spectrum of virus types, including HCMV. As such, the virus must exhibit counteractive mechanisms to these responses that involve their inhibition, tolerance, or re-purposing. The goal of this review is to describe the impact of the type I interferon system on HCMV replication and to showcase the number and diversity of strategies employed by the virus that allow infection of hosts in the presence of interferon-dependent activity.© 2013.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "97006",
+                "short_name": "97006",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "long_name": "Beaverton",
+                "short_name": "Beaverton",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Washington",
+                "short_name": "Washington",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Oregon",
+                "short_name": "OR",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Beaverton, OR 97006, USA",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 45.554302,
+                  "lng": -122.815761
+                },
+                "southwest": {
+                  "lat": 45.489557,
+                  "lng": -122.9022111
+                }
+              },
+              "location": {
+                "lat": 45.5196151,
+                "lng": -122.865431
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 45.554302,
+                  "lng": -122.815761
+                },
+                "southwest": {
+                  "lat": 45.489557,
+                  "lng": -122.9022111
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -3242,7 +3844,13 @@
     },
     "Info": {
       "institution": "Unité mixte de recherche CNRS UMR7215/Inserm U974/UPMC UM76/AIM, thérapie des maladies du muscle strié, institut de myologie, groupe hospitalier Pitié-Salpêtrière, 105, boulevard de l'Hôpital, 75651 Paris cedex 13, France.",
-      "abstract": "In autoimmune Myasthenia Gravis (MG), a neuromuscular disease generally mediated by autoantibodies against the acetylcholine receptor (AChR), the muscle is the target organ of the autoimmune attack, while the thymus seems to be the primary production site of the autoantibodies. In the majority of patients with anti-AChR antibodies, it is characterized by the presence of germinal centers, which contain B cells that produce anti-AChR antibodies. In this review, we summarize recent results regarding neoangiogenic processes, cell infiltration and modified chemokine expression in the MG thymus, which are typical features of secondary lymphoid organs. The structural and functional changes in the MG thymus therefore allow us to declare it to be an archetype for tertiary lymphoid neogenesis providing optimal settings for the interaction between lymphocytes and antigen presenting cells in order to elicit an immune response. We further discuss factors that may have a key role in the transformation of the MG thymus into a tertiary lymphoid organ, such as IFN type I and dsRNA signaling. These factors could also be of importance in other autoimmune diseases, especially those characterized by tertiary lymphoid neogenesis. Copyright © 2013 Elsevier Masson SAS. All rights reserved."
+      "abstract": "In autoimmune Myasthenia Gravis (MG), a neuromuscular disease generally mediated by autoantibodies against the acetylcholine receptor (AChR), the muscle is the target organ of the autoimmune attack, while the thymus seems to be the primary production site of the autoantibodies. In the majority of patients with anti-AChR antibodies, it is characterized by the presence of germinal centers, which contain B cells that produce anti-AChR antibodies. In this review, we summarize recent results regarding neoangiogenic processes, cell infiltration and modified chemokine expression in the MG thymus, which are typical features of secondary lymphoid organs. The structural and functional changes in the MG thymus therefore allow us to declare it to be an archetype for tertiary lymphoid neogenesis providing optimal settings for the interaction between lymphocytes and antigen presenting cells in order to elicit an immune response. We further discuss factors that may have a key role in the transformation of the MG thymus into a tertiary lymphoid organ, such as IFN type I and dsRNA signaling. These factors could also be of importance in other autoimmune diseases, especially those characterized by tertiary lymphoid neogenesis. Copyright © 2013 Elsevier Masson SAS. All rights reserved.",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   },
   {
@@ -3509,7 +4117,116 @@
     },
     "Info": {
       "institution": "Department of Pathology, Case Western Reserve University, Cleveland, Ohio, United States of America.",
-      "abstract": "PKR is well characterized for its function in antiviral immunity. Using Toxoplasma gondii, we examined if PKR promotes resistance to disease caused by a non-viral pathogen. PKR(-/-) mice infected with T. gondii exhibited higher parasite load and worsened histopathology in the eye and brain compared to wild-type controls. Susceptibility to toxoplasmosis was not due to defective expression of IFN-γ, TNF-α, NOS2 or IL-6 in the retina and brain, differences in IL-10 expression in these organs or to impaired induction of T. gondii-reactive T cells. While macrophages/microglia with defective PKR signaling exhibited unimpaired anti-T. gondii activity in response to IFN-γ/TNF-α, these cells were unable to kill the parasite in response to CD40 stimulation. The TRAF6 binding site of CD40, but not the TRAF2,3 binding sites, was required for PKR phosphorylation in response to CD40 ligation in macrophages. TRAF6 co-immunoprecipitated with PKR upon CD40 ligation. TRAF6-PKR interaction appeared to be indirect, since TRAF6 co-immunoprecipitated with TRAF2 and TRAF2 co-immunoprecipitated with PKR, and deficiency of TRAF2 inhibited TRAF6-PKR co-immunoprecipitation as well as PKR phosphorylation induced by CD40 ligation. PKR was required for stimulation of autophagy, accumulation the autophagy molecule LC3 around the parasite, vacuole-lysosomal fusion and killing of T. gondii in CD40-activated macrophages and microglia. Thus, our findings identified PKR as a mediator of anti-microbial activity and promoter of protection against disease caused by a non-viral pathogen, revealed that PKR is activated by CD40 via TRAF6 and TRAF2, and positioned PKR as a link between CD40-TRAF signaling and stimulation of the autophagy pathway. "
+      "abstract": "PKR is well characterized for its function in antiviral immunity. Using Toxoplasma gondii, we examined if PKR promotes resistance to disease caused by a non-viral pathogen. PKR(-/-) mice infected with T. gondii exhibited higher parasite load and worsened histopathology in the eye and brain compared to wild-type controls. Susceptibility to toxoplasmosis was not due to defective expression of IFN-γ, TNF-α, NOS2 or IL-6 in the retina and brain, differences in IL-10 expression in these organs or to impaired induction of T. gondii-reactive T cells. While macrophages/microglia with defective PKR signaling exhibited unimpaired anti-T. gondii activity in response to IFN-γ/TNF-α, these cells were unable to kill the parasite in response to CD40 stimulation. The TRAF6 binding site of CD40, but not the TRAF2,3 binding sites, was required for PKR phosphorylation in response to CD40 ligation in macrophages. TRAF6 co-immunoprecipitated with PKR upon CD40 ligation. TRAF6-PKR interaction appeared to be indirect, since TRAF6 co-immunoprecipitated with TRAF2 and TRAF2 co-immunoprecipitated with PKR, and deficiency of TRAF2 inhibited TRAF6-PKR co-immunoprecipitation as well as PKR phosphorylation induced by CD40 ligation. PKR was required for stimulation of autophagy, accumulation the autophagy molecule LC3 around the parasite, vacuole-lysosomal fusion and killing of T. gondii in CD40-activated macrophages and microglia. Thus, our findings identified PKR as a mediator of anti-microbial activity and promoter of protection against disease caused by a non-viral pathogen, revealed that PKR is activated by CD40 via TRAF6 and TRAF2, and positioned PKR as a link between CD40-TRAF signaling and stimulation of the autophagy pathway. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Department of Oral Pathology",
+                "short_name": "Department of Oral Pathology",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "Case Western Reserve University",
+                "short_name": "CWRU",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "2124",
+                "short_name": "2124",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Cornell Road",
+                "short_name": "Cornell Rd",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "University Circle",
+                "short_name": "University Circle",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Cleveland",
+                "short_name": "Cleveland",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Cuyahoga",
+                "short_name": "Cuyahoga",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Ohio",
+                "short_name": "OH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "44106",
+                "short_name": "44106",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "Department of Oral Pathology, Case Western Reserve University, Health Sciences Campus, 2124 Cornell Road, Cleveland, OH 44106, USA",
+            "geometry": {
+              "location": {
+                "lat": 41.5053651,
+                "lng": -81.60304570000001
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 41.5137207,
+                  "lng": -81.5870383
+                },
+                "southwest": {
+                  "lat": 41.4970084,
+                  "lng": -81.6190531
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "point_of_interest",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -3812,7 +4529,13 @@
     },
     "Info": {
       "institution": "Division of Cell Signalling and Immunology, College of Life Sciences, University of Dundee, DD1 5EH, UK. Electronic address: l.unterholzner@dundee.ac.uk.",
-      "abstract": "The detection of intracellular DNA has emerged to be a key event in the innate immune response to viruses and intracellular bacteria, and during conditions of sterile inflammation and autoimmunity. One of the consequences of the detection of DNA as a 'stranger' and a 'danger' signal is the production of type I interferons and pro-inflammatory cytokines. Much work has been dedicated to the elucidation of the signalling cascades that activate this DNA-induced gene expression programme. However, while many proteins have been proposed to act as sensors for intracellular DNA in recent years, none has been met with universal acceptance, and a theory linking all the recent observations is, as yet, lacking. This review presents the evidence for the various interferon-inducing DNA receptors proposed to date, and examines the hypotheses that might explain why so many different receptors appear to be involved in the innate immune recognition of intracellular DNA. Copyright © 2013 Elsevier GmbH. All rights reserved."
+      "abstract": "The detection of intracellular DNA has emerged to be a key event in the innate immune response to viruses and intracellular bacteria, and during conditions of sterile inflammation and autoimmunity. One of the consequences of the detection of DNA as a 'stranger' and a 'danger' signal is the production of type I interferons and pro-inflammatory cytokines. Much work has been dedicated to the elucidation of the signalling cascades that activate this DNA-induced gene expression programme. However, while many proteins have been proposed to act as sensors for intracellular DNA in recent years, none has been met with universal acceptance, and a theory linking all the recent observations is, as yet, lacking. This review presents the evidence for the various interferon-inducing DNA receptors proposed to date, and examines the hypotheses that might explain why so many different receptors appear to be involved in the innate immune recognition of intracellular DNA. Copyright © 2013 Elsevier GmbH. All rights reserved.",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   },
   {
@@ -4149,7 +4872,109 @@
     },
     "Info": {
       "institution": "Division of Rheumatology, Northwestern University Feinberg School of Medicine, Chicago, IL 60611, USA.",
-      "abstract": "Activation of TLR3 by exogenous microbial ligands or endogenous injury-associated ligands leads to production of type I IFN. Scleroderma patients with progressive skin fibrosis display an IFN-regulated gene signature, implicating TLR3 signaling in the disease. In this study, we show that TLR3 expression was detected on foreskin, adult skin, and lung fibroblasts, and TLR3 levels were significantly elevated in a subset of scleroderma skin biopsies. In explanted skin and lung fibroblasts, the synthetic TLR3 ligand polyinosinic-polycytidylic acid (poly(I:C)), a dsRNA analog, caused dose- and time-dependent stimulation of IFN-β production and generation of an IFN-response gene signature that was accompanied by substantial downregulation of collagen and α-smooth muscle actin gene expression. Furthermore, poly(I:C) abrogated TGF-β-induced fibrotic responses and blocked canonical Smad signaling via upregulation of inhibitory Smad7. Surprisingly, the inhibitory effects of poly(I:C) in fibroblasts were independent of TLR3 and were mediated by the cytosolic receptors retinoic acid-inducible gene 1 and melanoma differentiation-associated gene 5, and involved signaling via the IFN receptor. Taken together, these results demonstrate that induction of a fibroblast IFN response gene signature triggered by dsRNA is associated with potent TLR3-independent anti-fibrotic effects. The characteristic IFN response gene signature seen in scleroderma lesions might therefore signify a tissue-autonomous protective attempt to restrict fibroblast activation during injury. "
+      "abstract": "Activation of TLR3 by exogenous microbial ligands or endogenous injury-associated ligands leads to production of type I IFN. Scleroderma patients with progressive skin fibrosis display an IFN-regulated gene signature, implicating TLR3 signaling in the disease. In this study, we show that TLR3 expression was detected on foreskin, adult skin, and lung fibroblasts, and TLR3 levels were significantly elevated in a subset of scleroderma skin biopsies. In explanted skin and lung fibroblasts, the synthetic TLR3 ligand polyinosinic-polycytidylic acid (poly(I:C)), a dsRNA analog, caused dose- and time-dependent stimulation of IFN-β production and generation of an IFN-response gene signature that was accompanied by substantial downregulation of collagen and α-smooth muscle actin gene expression. Furthermore, poly(I:C) abrogated TGF-β-induced fibrotic responses and blocked canonical Smad signaling via upregulation of inhibitory Smad7. Surprisingly, the inhibitory effects of poly(I:C) in fibroblasts were independent of TLR3 and were mediated by the cytosolic receptors retinoic acid-inducible gene 1 and melanoma differentiation-associated gene 5, and involved signaling via the IFN receptor. Taken together, these results demonstrate that induction of a fibroblast IFN response gene signature triggered by dsRNA is associated with potent TLR3-independent anti-fibrotic effects. The characteristic IFN response gene signature seen in scleroderma lesions might therefore signify a tissue-autonomous protective attempt to restrict fibroblast activation during injury. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Feinberg School of Medicine",
+                "short_name": "Feinberg School of Medicine",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "303",
+                "short_name": "303",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "East Chicago Avenue",
+                "short_name": "E Chicago Ave",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "Streeterville",
+                "short_name": "Streeterville",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Chicago",
+                "short_name": "Chicago",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Cook",
+                "short_name": "Cook",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Illinois",
+                "short_name": "IL",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "60611",
+                "short_name": "60611",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "Feinberg School of Medicine, 303 East Chicago Avenue, Chicago, IL 60611, USA",
+            "geometry": {
+              "location": {
+                "lat": 41.8965708,
+                "lng": -87.6197526
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 41.9048757,
+                  "lng": -87.60374519999999
+                },
+                "southwest": {
+                  "lat": 41.88826479999999,
+                  "lng": -87.63575999999999
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "point_of_interest",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -4453,7 +5278,324 @@
     },
     "Info": {
       "institution": "Division of Pulmonary, Allergy and Critical Care Medicine, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA.",
-      "abstract": "Respiratory RNA viruses are associated with bronchiolitis obliterans syndrome (BOS) in lung transplant recipients (LTRS); however, the immune mechanisms that regulate airway obliteration remain incompletely understood.Using the mouse heterotopic tracheal transplant model of obliterative airway disease (OAD), we studied the role of double-stranded (ds)RNA using polyinosinic:polycytidylic acid (poly[I:C]), a synthetic analog of viral dsRNA, in abrogating airway allograft tolerance established with donor-specific transfusion (DST) and anti-CD154 monoclonal antibody therapy.Wild-type (WT) B6 recipients of accepted BALB/c airway grafts demonstrated significantly reduced intragraft CD8+ T cells, with markedly impaired allospecific interferon (INF)-γ and tumor necrosis factor-α secretion, uncoupled from an activated phenotype, and evidence of proliferation. Administration of poly(I:C) to DST/anti-CD154-treated recipients restored OAD pathology and CD8+ alloeffector responses to levels observed in untreated mice. However, B6 type I IFN receptor-deficient (IFN-αβR(-/-)) recipients were resistant to the abrogation of tolerance mediated by poly(I:C) and did not develop CD8+ alloeffector responses or OAD. Further, adoptive transfers of WT CD8+ T cells or CD11c+ dendritic cells alone into B6 IFNαβR(-/-) recipients treated with poly(I:C) and DST/anti-CD154 were incapable of abrogating airway graft tolerance.Together, these data indicate abrogation of DST/anti-CD154-induced airway allograft tolerance via dsRNA requires type-I IFN responsiveness for mouse airway obliteration.Copyright © 2013 International Society for Heart and Lung Transplantation. Published by Elsevier Inc. All rights reserved."
+      "abstract": "Respiratory RNA viruses are associated with bronchiolitis obliterans syndrome (BOS) in lung transplant recipients (LTRS); however, the immune mechanisms that regulate airway obliteration remain incompletely understood.Using the mouse heterotopic tracheal transplant model of obliterative airway disease (OAD), we studied the role of double-stranded (ds)RNA using polyinosinic:polycytidylic acid (poly[I:C]), a synthetic analog of viral dsRNA, in abrogating airway allograft tolerance established with donor-specific transfusion (DST) and anti-CD154 monoclonal antibody therapy.Wild-type (WT) B6 recipients of accepted BALB/c airway grafts demonstrated significantly reduced intragraft CD8+ T cells, with markedly impaired allospecific interferon (INF)-γ and tumor necrosis factor-α secretion, uncoupled from an activated phenotype, and evidence of proliferation. Administration of poly(I:C) to DST/anti-CD154-treated recipients restored OAD pathology and CD8+ alloeffector responses to levels observed in untreated mice. However, B6 type I IFN receptor-deficient (IFN-αβR(-/-)) recipients were resistant to the abrogation of tolerance mediated by poly(I:C) and did not develop CD8+ alloeffector responses or OAD. Further, adoptive transfers of WT CD8+ T cells or CD11c+ dendritic cells alone into B6 IFNαβR(-/-) recipients treated with poly(I:C) and DST/anti-CD154 were incapable of abrogating airway graft tolerance.Together, these data indicate abrogation of DST/anti-CD154-induced airway allograft tolerance via dsRNA requires type-I IFN responsiveness for mouse airway obliteration.Copyright © 2013 International Society for Heart and Lung Transplantation. Published by Elsevier Inc. All rights reserved.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "University of Pittsburgh School of Medicine",
+                "short_name": "University of Pittsburgh School of Medicine",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "University of Pittsburgh",
+                "short_name": "University of Pittsburgh",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "3550",
+                "short_name": "3550",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Terrace Street",
+                "short_name": "Terrace St",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "West Oakland",
+                "short_name": "West Oakland",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pittsburgh",
+                "short_name": "Pittsburgh",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Allegheny",
+                "short_name": "Allegheny",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pennsylvania",
+                "short_name": "PA",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "15261",
+                "short_name": "15261",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "University of Pittsburgh School of Medicine, University of Pittsburgh, 3550 Terrace Street, Pittsburgh, PA 15261, USA",
+            "geometry": {
+              "location": {
+                "lat": 40.4430993,
+                "lng": -79.9613543
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 40.4515906,
+                  "lng": -79.94534689999999
+                },
+                "southwest": {
+                  "lat": 40.434607,
+                  "lng": -79.9773617
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "point_of_interest",
+              "establishment"
+            ]
+          },
+          {
+            "address_components": [
+              {
+                "long_name": "Upmc Presbyterian Hospital",
+                "short_name": "Upmc Presbyterian Hospital",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "University of Pittsburgh",
+                "short_name": "University of Pittsburgh",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "200",
+                "short_name": "200",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Lothrop Street",
+                "short_name": "Lothrop St",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "West Oakland",
+                "short_name": "West Oakland",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pittsburgh",
+                "short_name": "Pittsburgh",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Allegheny",
+                "short_name": "Allegheny",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pennsylvania",
+                "short_name": "PA",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "15213",
+                "short_name": "15213",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "Upmc Presbyterian Hospital, University of Pittsburgh, 200 Lothrop Street, Pittsburgh, PA 15213, USA",
+            "geometry": {
+              "location": {
+                "lat": 40.4419009,
+                "lng": -79.9604392
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 40.4432498802915,
+                  "lng": -79.9590902197085
+                },
+                "southwest": {
+                  "lat": 40.4405519197085,
+                  "lng": -79.9617881802915
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "hospital",
+              "point_of_interest",
+              "establishment"
+            ]
+          },
+          {
+            "address_components": [
+              {
+                "long_name": "Upmc-Upp Critical Care Medicine",
+                "short_name": "Upmc-Upp Critical Care Medicine",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "University of Pittsburgh",
+                "short_name": "University of Pittsburgh",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "3550",
+                "short_name": "3550",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Terrace Street",
+                "short_name": "Terrace St",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "West Oakland",
+                "short_name": "West Oakland",
+                "types": [
+                  "neighborhood",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pittsburgh",
+                "short_name": "Pittsburgh",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Allegheny",
+                "short_name": "Allegheny",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Pennsylvania",
+                "short_name": "PA",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "15213",
+                "short_name": "15213",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "Upmc-Upp Critical Care Medicine, University of Pittsburgh, 3550 Terrace Street, Pittsburgh, PA 15213, USA",
+            "geometry": {
+              "location": {
+                "lat": 40.4425837,
+                "lng": -79.96202079999999
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 40.4439326802915,
+                  "lng": -79.9606718197085
+                },
+                "southwest": {
+                  "lat": 40.4412347197085,
+                  "lng": -79.9633697802915
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "hospital",
+              "point_of_interest",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -4766,7 +5908,109 @@
     },
     "Info": {
       "institution": "*McMaster Immunology Research Center, Department of Pathology and Molecular Medicine, and †Michael DeGroote Institute for Infectious Disease Research McMaster University, Hamilton, Ontario, Canada.",
-      "abstract": "Poly I:C, a synthetic dsRNA analogue, has been used extensively for decades to study innate responses in vivo and in different cell types. We have found substantial variability while using poly I:C from different sources. In this study we found that poly I:C from 2 commercial sources induced sharply opposite responses in myeloid and fibroblasts, depending on the length of the poly I:C. Although short poly I:C (∼1-1.5 kb) induced greater amounts of TNF-α, IL-8, and IFN-β and a stronger antiviral response in myeloid cells, it was a poor inducer in fibroblasts. By contrast, long poly I:C (>5 kb) preferentially elicited higher cytokine and antiviral responses in fibroblasts and showed diminished responses in myeloid cells. Poly I:C activated NF-κB and STAT-1 signaling in a length- and cell-type-dependent fashion. Mechanistically, short poly I:C was better internalized in the myeloid cells and long poly I:C in the fibroblasts. Finally, long poly I:C required SR-A, whereas short poly I:C required RIG-I and Raftlin. We provide evidence that the length of dsRNA drives distinct innate responses in different cell lineages. These findings may augment in selecting the appropriate poly I:C type to design cell-type-specific potent adjuvants for vaccines against infectious diseases or cancers."
+      "abstract": "Poly I:C, a synthetic dsRNA analogue, has been used extensively for decades to study innate responses in vivo and in different cell types. We have found substantial variability while using poly I:C from different sources. In this study we found that poly I:C from 2 commercial sources induced sharply opposite responses in myeloid and fibroblasts, depending on the length of the poly I:C. Although short poly I:C (∼1-1.5 kb) induced greater amounts of TNF-α, IL-8, and IFN-β and a stronger antiviral response in myeloid cells, it was a poor inducer in fibroblasts. By contrast, long poly I:C (>5 kb) preferentially elicited higher cytokine and antiviral responses in fibroblasts and showed diminished responses in myeloid cells. Poly I:C activated NF-κB and STAT-1 signaling in a length- and cell-type-dependent fashion. Mechanistically, short poly I:C was better internalized in the myeloid cells and long poly I:C in the fibroblasts. Finally, long poly I:C required SR-A, whereas short poly I:C required RIG-I and Raftlin. We provide evidence that the length of dsRNA drives distinct innate responses in different cell lineages. These findings may augment in selecting the appropriate poly I:C type to design cell-type-specific potent adjuvants for vaccines against infectious diseases or cancers.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "McMaster University",
+                "short_name": "McMaster University",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "1280",
+                "short_name": "1280",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "long_name": "Main Street West",
+                "short_name": "Main St W",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "long_name": "Hamilton",
+                "short_name": "Hamilton",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Hamilton Division",
+                "short_name": "Hamilton Division",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Ontario",
+                "short_name": "ON",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Canada",
+                "short_name": "CA",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "L8S 4L8",
+                "short_name": "L8S 4L8",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 43.26837219999999,
+                  "lng": -79.9135277
+                },
+                "southwest": {
+                  "lat": 43.2578203,
+                  "lng": -79.9323112
+                }
+              },
+              "location": {
+                "lat": 43.26128620000001,
+                "lng": -79.9203268
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 43.26837219999999,
+                  "lng": -79.9135277
+                },
+                "southwest": {
+                  "lat": 43.2578203,
+                  "lng": -79.9323112
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -5057,7 +6301,102 @@
     },
     "Info": {
       "institution": "Departments of Medicine and Microbiology & Immunology, Stanford University School of Medicine, Stanford, California, USA.",
-      "abstract": "In mammalian cells, the first line of defense against viral pathogens is the innate immune response, which is characterized by induction of type I interferons (IFN) and other pro-inflammatory cytokines that establish an antiviral milieu both in infected cells and in neighboring uninfected cells. Rotavirus, a double-stranded RNA virus of the Reoviridae family, is the primary etiological agent of severe diarrhea in young children worldwide. Previous studies demonstrated that rotavirus replication induces a MAVS-dependent type I IFN response that involves both RIG-I and MDA5, two cytoplasmic viral RNA sensors. This study reports the isolation and characterization of rotavirus RNAs that activate IFN signaling. Using an in vitro approach with purified rotavirus double-layer particles, nascent single-stranded RNA (ssRNA) transcripts (termed in vitro ssRNA) were found to be potent IFN inducers. In addition, large RNAs isolated from rotavirus-infected cells six hours post-infection (termed in vivo 6 hr large RNAs), also activated IFN signaling, whereas a comparable large RNA fraction isolated from cells infected for only one hour lacked this stimulatory activity. Experiments using knockout murine embryonic fibroblasts showed that RIG-I is required for and MDA5 partly contributes to innate immune signaling by both in vitro ssRNA and in vivo 6 hr large RNAs. Enzymatic studies demonstrated that in vitro ssRNA and in vivo 6 hr large RNA samples contain uncapped RNAs with exposed 5' phosphate groups. RNAs lacking 2'-O-methylated 5' cap structures were also detected in the in vivo 6 hr large RNA sample. Taken together, our data provide strong evidence that the rotavirus VP3 enzyme, which encodes both guanylyltransferase and methyltransferase activities, is not completely efficient at either 5' capping or 2'-O-methylation of the 5' cap structures of viral transcripts, and in this way produces RNA patterns that activate innate immune signaling through the RIG-I-like receptors. "
+      "abstract": "In mammalian cells, the first line of defense against viral pathogens is the innate immune response, which is characterized by induction of type I interferons (IFN) and other pro-inflammatory cytokines that establish an antiviral milieu both in infected cells and in neighboring uninfected cells. Rotavirus, a double-stranded RNA virus of the Reoviridae family, is the primary etiological agent of severe diarrhea in young children worldwide. Previous studies demonstrated that rotavirus replication induces a MAVS-dependent type I IFN response that involves both RIG-I and MDA5, two cytoplasmic viral RNA sensors. This study reports the isolation and characterization of rotavirus RNAs that activate IFN signaling. Using an in vitro approach with purified rotavirus double-layer particles, nascent single-stranded RNA (ssRNA) transcripts (termed in vitro ssRNA) were found to be potent IFN inducers. In addition, large RNAs isolated from rotavirus-infected cells six hours post-infection (termed in vivo 6 hr large RNAs), also activated IFN signaling, whereas a comparable large RNA fraction isolated from cells infected for only one hour lacked this stimulatory activity. Experiments using knockout murine embryonic fibroblasts showed that RIG-I is required for and MDA5 partly contributes to innate immune signaling by both in vitro ssRNA and in vivo 6 hr large RNAs. Enzymatic studies demonstrated that in vitro ssRNA and in vivo 6 hr large RNA samples contain uncapped RNAs with exposed 5' phosphate groups. RNAs lacking 2'-O-methylated 5' cap structures were also detected in the in vivo 6 hr large RNA sample. Taken together, our data provide strong evidence that the rotavirus VP3 enzyme, which encodes both guanylyltransferase and methyltransferase activities, is not completely efficient at either 5' capping or 2'-O-methylation of the 5' cap structures of viral transcripts, and in this way produces RNA patterns that activate innate immune signaling through the RIG-I-like receptors. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Department of Veterinary Microbiology and Preventive Medicine",
+                "short_name": "Department of Veterinary Microbiology and Preventive Medicine",
+                "types": [
+                  "point_of_interest",
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "Iowa State University",
+                "short_name": "Iowa State University",
+                "types": [
+                  "establishment"
+                ]
+              },
+              {
+                "long_name": "Ames",
+                "short_name": "Ames",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Washington",
+                "short_name": "Washington",
+                "types": [
+                  "administrative_area_level_3",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Story",
+                "short_name": "Story",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Iowa",
+                "short_name": "IA",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "50010",
+                "short_name": "50010",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "formatted_address": "Department of Veterinary Microbiology and Preventive Medicine, Iowa State University, Ames, IA 50010, USA",
+            "geometry": {
+              "location": {
+                "lat": 42.0066288,
+                "lng": -93.6321475
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 42.0149194,
+                  "lng": -93.6161401
+                },
+                "southwest": {
+                  "lat": 41.9983371,
+                  "lng": -93.6481549
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "university",
+              "point_of_interest",
+              "establishment"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -5381,7 +6720,95 @@
     },
     "Info": {
       "institution": "Department of Microbiology, Icahn School of Medicine at Mount Sinai School, New York, NY 10029, USA.",
-      "abstract": "The cytoplasmic pattern recognition receptor RIG-I is activated by viral RNA and induces type I IFN responses to control viral replication. The cellular dsRNA binding protein PACT can also activate RIG-I. To counteract innate antiviral responses, some viruses, including Ebola virus (EBOV), encode proteins that antagonize RIG-I signaling. Here, we show that EBOV VP35 inhibits PACT-induced RIG-I ATPase activity in a dose-dependent manner. The interaction of PACT with RIG-I is disrupted by wild-type VP35, but not by VP35 mutants that are unable to bind PACT. In addition, PACT-VP35 interaction impairs the association between VP35 and the viral polymerase, thereby diminishing viral RNA synthesis and modulating EBOV replication. PACT-deficient cells are defective in IFN induction and are insensitive to VP35 function. These data support a model in which the VP35-PACT interaction is mutually antagonistic and plays a fundamental role in determining the outcome of EBOV infection. Copyright © 2013 Elsevier Inc. All rights reserved."
+      "abstract": "The cytoplasmic pattern recognition receptor RIG-I is activated by viral RNA and induces type I IFN responses to control viral replication. The cellular dsRNA binding protein PACT can also activate RIG-I. To counteract innate antiviral responses, some viruses, including Ebola virus (EBOV), encode proteins that antagonize RIG-I signaling. Here, we show that EBOV VP35 inhibits PACT-induced RIG-I ATPase activity in a dose-dependent manner. The interaction of PACT with RIG-I is disrupted by wild-type VP35, but not by VP35 mutants that are unable to bind PACT. In addition, PACT-VP35 interaction impairs the association between VP35 and the viral polymerase, thereby diminishing viral RNA synthesis and modulating EBOV replication. PACT-deficient cells are defective in IFN induction and are insensitive to VP35 function. These data support a model in which the VP35-PACT interaction is mutually antagonistic and plays a fundamental role in determining the outcome of EBOV infection. Copyright © 2013 Elsevier Inc. All rights reserved.",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "10029",
+                "short_name": "10029",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "long_name": "Manhattan",
+                "short_name": "Manhattan",
+                "types": [
+                  "sublocality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "New York",
+                "short_name": "New York",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "New York",
+                "short_name": "New York",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "New York",
+                "short_name": "NY",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "New York, NY 10029, USA",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 40.8006648,
+                  "lng": -73.930891
+                },
+                "southwest": {
+                  "lat": 40.782531,
+                  "lng": -73.96256
+                }
+              },
+              "location": {
+                "lat": 40.79164069999999,
+                "lng": -73.9447994
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 40.8006648,
+                  "lng": -73.930891
+                },
+                "southwest": {
+                  "lat": 40.782531,
+                  "lng": -73.96256
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -5689,7 +7116,89 @@
     },
     "Info": {
       "institution": "1] Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York, New York 10029, USA [2] Graduate School of Biomedical Sciences, Icahn School of Medicine at Mount Sinai, New York, New York 10029, USA.",
-      "abstract": "The cytosolic pathogen sensor RIG-I is activated by RNAs with exposed 5'-triphosphate (5'-ppp) and terminal double-stranded structures, such as those that are generated during viral infection. RIG-I has been shown to translocate on dsRNA in an ATP-dependent manner. However, the precise role of the ATPase activity in RIG-I activation remains unclear. Using in vitro-transcribed Sendai virus defective interfering RNA as a model ligand, we show that RIG-I oligomerizes on 5'-ppp dsRNA in an ATP hydrolysis-dependent and dsRNA length-dependent manner, which correlates with the strength of type-I interferon (IFN-I) activation. These results establish a clear role for the ligand-induced ATPase activity of RIG-I in the stimulation of the IFN response. "
+      "abstract": "The cytosolic pathogen sensor RIG-I is activated by RNAs with exposed 5'-triphosphate (5'-ppp) and terminal double-stranded structures, such as those that are generated during viral infection. RIG-I has been shown to translocate on dsRNA in an ATP-dependent manner. However, the precise role of the ATPase activity in RIG-I activation remains unclear. Using in vitro-transcribed Sendai virus defective interfering RNA as a model ligand, we show that RIG-I oligomerizes on 5'-ppp dsRNA in an ATP hydrolysis-dependent and dsRNA length-dependent manner, which correlates with the strength of type-I interferon (IFN-I) activation. These results establish a clear role for the ligand-induced ATPase activity of RIG-I in the stimulation of the IFN response. ",
+      "location": {
+        "results": [
+          {
+            "address_components": [
+              {
+                "long_name": "Mount Sinai",
+                "short_name": "Mt Sinai",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Brookhaven",
+                "short_name": "Brookhaven",
+                "types": [
+                  "administrative_area_level_3",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "Suffolk",
+                "short_name": "Suffolk",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "New York",
+                "short_name": "NY",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "formatted_address": "Mount Sinai, NY, USA",
+            "geometry": {
+              "bounds": {
+                "northeast": {
+                  "lat": 40.965122,
+                  "lng": -72.986373
+                },
+                "southwest": {
+                  "lat": 40.907641,
+                  "lng": -73.04592889999999
+                }
+              },
+              "location": {
+                "lat": 40.9470432,
+                "lng": -73.0295495
+              },
+              "location_type": "APPROXIMATE",
+              "viewport": {
+                "northeast": {
+                  "lat": 40.965122,
+                  "lng": -72.986373
+                },
+                "southwest": {
+                  "lat": 40.907641,
+                  "lng": -73.04592889999999
+                }
+              }
+            },
+            "partial_match": true,
+            "types": [
+              "locality",
+              "political"
+            ]
+          }
+        ],
+        "status": "OK"
+      }
     }
   },
   {
@@ -6010,7 +7519,13 @@
     },
     "Info": {
       "institution": "Vertex Pharmaceuticals Incorporated, Cambridge, Massachusetts, USA. gururaj_kalkeri@vrtx.com",
-      "abstract": "Development of persistent hepatitis C virus (HCV) infection may be mediated by HCV NS3 · 4A protease-dependent inhibition of host innate immunity. When double-stranded RNA (dsRNA) is detected in virus-infected cells, host innate immunity mounts an antiviral response by upregulating production of type I interferons (α/β interferon [IFN-α/β]); HCV counters by cleaving the IFN-β stimulator 1 (IPS-1) adaptor protein, decreasing synthesis of IFN-α/β. We evaluated HCV protease (telaprevir, boceprevir, and TMC435350), polymerase (HCV-796 and VX-222), and NS5A (BMS-790052) inhibitors for the ability to restore IPS-1-mediated Rig-I signaling by measuring Sendai virus-induced IFN-β promoter activation in HCV replicon cells after various exposure durations. All direct-acting HCV antivirals tested restored mitochondrial localization of IPS-1 and rescued Sendai virus-induced IRF3 signaling after 7 days by inhibiting HCV replication, thereby reducing the abundance of HCV NS3 · 4A protease. With 4-day treatment, HCV protease inhibitors, but not polymerase inhibitors, restored mitochondrial localization of IPS-1 and rescued IFN-β promoter activation in the presence of equivalent levels of NS3 protein in protease or polymerase inhibitor-treated cells. The concentrations of HCV protease and polymerase inhibitors needed to rescue IRF3-mediated signaling in vitro were in the range of those observed in vivo in the plasma of treated HCV patients. These findings suggest that (i) HCV protease, polymerase, and NS5A inhibitors can restore virus-induced IRF3 signaling by inhibiting viral replication, thereby reducing NS3 protease levels, and (ii) HCV protease inhibitors can restore innate immunity by directly inhibiting NS3 protease-mediated cleavage of IPS-1 at clinically achievable concentrations. "
+      "abstract": "Development of persistent hepatitis C virus (HCV) infection may be mediated by HCV NS3 · 4A protease-dependent inhibition of host innate immunity. When double-stranded RNA (dsRNA) is detected in virus-infected cells, host innate immunity mounts an antiviral response by upregulating production of type I interferons (α/β interferon [IFN-α/β]); HCV counters by cleaving the IFN-β stimulator 1 (IPS-1) adaptor protein, decreasing synthesis of IFN-α/β. We evaluated HCV protease (telaprevir, boceprevir, and TMC435350), polymerase (HCV-796 and VX-222), and NS5A (BMS-790052) inhibitors for the ability to restore IPS-1-mediated Rig-I signaling by measuring Sendai virus-induced IFN-β promoter activation in HCV replicon cells after various exposure durations. All direct-acting HCV antivirals tested restored mitochondrial localization of IPS-1 and rescued Sendai virus-induced IRF3 signaling after 7 days by inhibiting HCV replication, thereby reducing the abundance of HCV NS3 · 4A protease. With 4-day treatment, HCV protease inhibitors, but not polymerase inhibitors, restored mitochondrial localization of IPS-1 and rescued IFN-β promoter activation in the presence of equivalent levels of NS3 protein in protease or polymerase inhibitor-treated cells. The concentrations of HCV protease and polymerase inhibitors needed to rescue IRF3-mediated signaling in vitro were in the range of those observed in vivo in the plasma of treated HCV patients. These findings suggest that (i) HCV protease, polymerase, and NS5A inhibitors can restore virus-induced IRF3 signaling by inhibiting viral replication, thereby reducing NS3 protease levels, and (ii) HCV protease inhibitors can restore innate immunity by directly inhibiting NS3 protease-mediated cleavage of IPS-1 at clinically achievable concentrations. ",
+      "location": {
+        "results": [
+
+        ],
+        "status": "ZERO_RESULTS"
+      }
     }
   }
 ]

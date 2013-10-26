@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Tartu",
+               "short_name" : "University of Tartu",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ülikooli",
+               "short_name" : "Ülikooli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tartu",
+               "short_name" : "Tartu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Estonia",
+               "short_name" : "EE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50090",
+               "short_name" : "50090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Tartu, Ülikooli 18, 50090 Tartu, Estonia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3754296,
+                  "lng" : 28.1847214
+               },
+               "southwest" : {
+                  "lat" : 58.3659737,
+                  "lng" : 24.4873853
+               }
+            },
+            "location" : {
+               "lat" : 58.3810707,
+               "lng" : 26.7195353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.3822293,
+                  "lng" : 26.7224365
+               },
+               "southwest" : {
+                  "lat" : 58.3760151,
+                  "lng" : 26.7111843
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

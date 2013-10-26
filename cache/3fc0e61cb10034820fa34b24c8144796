@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Sinai",
+               "short_name" : "Mt Sinai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mount Sinai, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.965122,
+                  "lng" : -72.986373
+               },
+               "southwest" : {
+                  "lat" : 40.907641,
+                  "lng" : -73.04592889999999
+               }
+            },
+            "location" : {
+               "lat" : 40.9470432,
+               "lng" : -73.0295495
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.965122,
+                  "lng" : -72.986373
+               },
+               "southwest" : {
+                  "lat" : 40.907641,
+                  "lng" : -73.04592889999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

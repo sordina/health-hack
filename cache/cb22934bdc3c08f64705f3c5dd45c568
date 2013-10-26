@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97006",
+               "short_name" : "97006",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Beaverton",
+               "short_name" : "Beaverton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaverton, OR 97006, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.554302,
+                  "lng" : -122.815761
+               },
+               "southwest" : {
+                  "lat" : 45.489557,
+                  "lng" : -122.9022111
+               }
+            },
+            "location" : {
+               "lat" : 45.5196151,
+               "lng" : -122.865431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.554302,
+                  "lng" : -122.815761
+               },
+               "southwest" : {
+                  "lat" : 45.489557,
+                  "lng" : -122.9022111
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

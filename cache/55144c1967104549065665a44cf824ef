@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Pittsburgh School of Medicine",
+               "short_name" : "University of Pittsburgh School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pittsburgh",
+               "short_name" : "University of Pittsburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3550",
+               "short_name" : "3550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Terrace Street",
+               "short_name" : "Terrace St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Oakland",
+               "short_name" : "West Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15261",
+               "short_name" : "15261",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Pittsburgh School of Medicine, University of Pittsburgh, 3550 Terrace Street, Pittsburgh, PA 15261, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4430993,
+               "lng" : -79.9613543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4515906,
+                  "lng" : -79.94534689999999
+               },
+               "southwest" : {
+                  "lat" : 40.434607,
+                  "lng" : -79.9773617
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upmc Presbyterian Hospital",
+               "short_name" : "Upmc Presbyterian Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pittsburgh",
+               "short_name" : "University of Pittsburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lothrop Street",
+               "short_name" : "Lothrop St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Oakland",
+               "short_name" : "West Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15213",
+               "short_name" : "15213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Upmc Presbyterian Hospital, University of Pittsburgh, 200 Lothrop Street, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4419009,
+               "lng" : -79.9604392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4432498802915,
+                  "lng" : -79.9590902197085
+               },
+               "southwest" : {
+                  "lat" : 40.4405519197085,
+                  "lng" : -79.96178818029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upmc-Upp Critical Care Medicine",
+               "short_name" : "Upmc-Upp Critical Care Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pittsburgh",
+               "short_name" : "University of Pittsburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3550",
+               "short_name" : "3550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Terrace Street",
+               "short_name" : "Terrace St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Oakland",
+               "short_name" : "West Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15213",
+               "short_name" : "15213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Upmc-Upp Critical Care Medicine, University of Pittsburgh, 3550 Terrace Street, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4425837,
+               "lng" : -79.96202079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4439326802915,
+                  "lng" : -79.96067181970849
+               },
+               "southwest" : {
+                  "lat" : 40.4412347197085,
+                  "lng" : -79.9633697802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New York, NY 10029, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8006648,
+                  "lng" : -73.930891
+               },
+               "southwest" : {
+                  "lat" : 40.782531,
+                  "lng" : -73.96256
+               }
+            },
+            "location" : {
+               "lat" : 40.79164069999999,
+               "lng" : -73.94479939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8006648,
+                  "lng" : -73.930891
+               },
+               "southwest" : {
+                  "lat" : 40.782531,
+                  "lng" : -73.96256
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

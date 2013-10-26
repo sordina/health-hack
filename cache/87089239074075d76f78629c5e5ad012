@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "McGill University",
+               "short_name" : "McGill University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "845",
+               "short_name" : "845",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sherbrooke Street West",
+               "short_name" : "Sherbrooke St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 0G4",
+               "short_name" : "H3A 0G4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "McGill University, 845 Sherbrooke Street West, Montreal, QC H3A 0G4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.513065,
+                  "lng" : -73.5713394
+               },
+               "southwest" : {
+                  "lat" : 45.498471,
+                  "lng" : -73.5860287
+               }
+            },
+            "location" : {
+               "lat" : 45.5052303,
+               "lng" : -73.57821679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.513065,
+                  "lng" : -73.5713394
+               },
+               "southwest" : {
+                  "lat" : 45.498471,
+                  "lng" : -73.5860287
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

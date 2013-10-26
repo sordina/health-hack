@@ -19,6 +19,13 @@ def cache url
   end
 end
 
+def geocode institution
+  # https://developers.google.com/maps/documentation/geocoding/
+  text = cache "https://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=#{URI.encode institution}"
+  puts text
+  JSON.parse text
+end
+
 def parse_citation c
   title     = c.css('.title a').text
   pubmed_id = c.css('.aux dd').first.text
@@ -54,7 +61,7 @@ def info_search pubmed_id
   doc = Nokogiri::HTML.parse text
   institution = doc.css('.aff p').text
   abstract = doc.css('.abstr p').text
-  {:institution => institution, :abstract => abstract}
+  result = {:institution => institution, :abstract => abstract, :location => geocode(institution.lines.first) }
 end
 
 def search webenv, querykey, results_max

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "77550",
+               "short_name" : "77550",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Galveston",
+               "short_name" : "Galveston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galveston",
+               "short_name" : "Galveston",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Galveston, TX 77550, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.5307511,
+                  "lng" : -94.51376900000001
+               },
+               "southwest" : {
+                  "lat" : 29.2747069,
+                  "lng" : -94.86415
+               }
+            },
+            "location" : {
+               "lat" : 29.4345626,
+               "lng" : -94.68120859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5307511,
+                  "lng" : -94.51376900000001
+               },
+               "southwest" : {
+                  "lat" : 29.410194,
+                  "lng" : -94.71439409999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

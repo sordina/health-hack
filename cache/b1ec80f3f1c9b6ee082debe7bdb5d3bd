@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "McMaster University",
+               "short_name" : "McMaster University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1280",
+               "short_name" : "1280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street West",
+               "short_name" : "Main St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L8S 4L8",
+               "short_name" : "L8S 4L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "McMaster University, 1280 Main Street West, Hamilton, ON L8S 4L8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.26837219999999,
+                  "lng" : -79.9135277
+               },
+               "southwest" : {
+                  "lat" : 43.2578203,
+                  "lng" : -79.9323112
+               }
+            },
+            "location" : {
+               "lat" : 43.26128620000001,
+               "lng" : -79.9203268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.26837219999999,
+                  "lng" : -79.9135277
+               },
+               "southwest" : {
+                  "lat" : 43.2578203,
+                  "lng" : -79.9323112
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
