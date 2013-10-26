@@ -18,7 +18,7 @@ if (Meteor.isClient) {
       var circle = L.circle([ geojson[i].features[0].geometry.coordinates[0], geojson[i].features[0].geometry.coordinates[1] ], 100000, {
         color: 'red',
         fillColor: '#f03',
-        fillOpacity: 0.5
+        fillOpacity: 0.2
       }).addTo(map);
 
       (function(title, pubmed_id){
