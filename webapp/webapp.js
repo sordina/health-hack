@@ -1,3 +1,6 @@
+
+papers = new Meteor.Collection("papers")
+
 if (Meteor.isClient) {
 
   history = new Meteor.Collection()
@@ -113,13 +116,12 @@ if (Meteor.isClient) {
   }
 }
 
-papers = new Meteor.Collection("papers")
-
 if (Meteor.isServer) {
   Meteor.startup(function () {
-    console.log(["export length", papers_export_json.length])
+    // console.log(["export length", papers_export_json.length])
     // for(var i = 0; i < papers_export_json.length; i++) {
     //   var p = papers_export_json[i]
+    //   console.log(papers.findOne())
     //   papers.upsert({"Title": p["Title"]}, p)
     // }
   });
