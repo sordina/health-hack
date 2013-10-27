@@ -3,7 +3,7 @@ if (Meteor.isClient) {
   history = new Meteor.Collection()
 
   Template.plist.get_papers = function() {
-    return papers.find({"Title": {$regex: Session.get('query')}})
+    return papers.find({"Title": {$regex: Session.get('query'), $options: 'i'}})
   }
 
   Template.sidebar.items  = function() { return history.find().fetch().reverse() }
@@ -26,13 +26,21 @@ if (Meteor.isClient) {
       if(event.keyCode == 13) {
         var query = event.srcElement.value
         console.log(["Search clicked", event, query])
-        Session.set("query", query) } }, } )
+        Session.set("query", query)
+        Session.set("section", "plist")
+      } }, } )
 
   Template.main_table.section = function(v) { return( Session.get("section") == v) }
 
   Template.main_table.created = function() {
     Session.set("section", "map")
   }
+
+  Template.paper_info.events({
+    'click .internal-link': function (event) {
+      var foo = event.srcElement.href.match(/#(.*)/)[1]
+      Session.set("pubmed_id",foo)
+      console.log(["internal link followed", foo, event, this]) } })
 
   Template.main_table.events({
     'click .section-link': function (event) {
@@ -43,6 +51,10 @@ if (Meteor.isClient) {
   Template.bubbles.rendered = function() { run_vis() }
 
   Template.mapbar.rendered = function() {
+    map_previously_rendered = false
+
+    if(map_previously_rendered) { map.remove() }
+
     // set up the map
     map = new L.Map('map');
 
@@ -55,8 +67,15 @@ if (Meteor.isClient) {
     map.setView(new L.LatLng(51.3, 0.7),3);
     map.addLayer(osm);
 
-    papers.find().forEach(function(p){
-      if(! p["Info"]) { return }
+    var paper_query
+
+    var query_term = Session.get("query")
+
+    if(query_term) { paper_query = papers.find({"Title" : {$regex: query_term, $options: 'i'}}) }
+    else           { paper_query = papers.find()}
+
+    paper_query.forEach(function(p){
+      if(! p["Info"]) { return } // TODO What
       var res = p["Info"].location.results[0]
       if(res) {
         var loc = res.geometry.location
@@ -84,11 +103,13 @@ if (Meteor.isClient) {
           console.log(p)
           // Session.set('pubmed_id', p["Pubmed id"])
           // { <location field> : { $geoWithin : { $center : [ [ <x>, <y> ] , <radius> ] } } }
-          papers.find()
+          // papers.find({"Info.location.results[0].geometry.location" : { $geoWithin : { $center : [[loc.lat, loc.long], 10]} }})
           history.insert(p)
         })
       }
     })
+
+    map_previously_rendered = true
   }
 }
 

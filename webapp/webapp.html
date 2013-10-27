@@ -20,14 +20,13 @@
 </body>
 
 <template name="search">
-  <input type="text" value="type I IFN dsRNA" />
+  <input type="text" value="" />
 </template>
 
 <template name="plist">
   {{#each get_papers}}
     <p class="listing-paper">
       <table>
-        <tr> <td> DOI </td> <td> {{ DOI }} </td> </tr>
         <tr> <td> Title </td> <td> {{ Title }} </td> </tr>
         <tr> <td> Pubmed Link </td> <td>
             <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{grab "Pubmed id"}}">
@@ -93,7 +92,7 @@
     <div id="paper_info">
       <h1>Paper Info:</h1>
       <table>
-        <tr> <td> <a class="close" href="#">X - Close</a> </td> <td> &nbsp; </td> </tr>
+        <tr> <td> <a class="close" href="#">Close</a> </td> <td> &nbsp; </td> </tr>
         <tr> <td> DOI </td> <td> {{ DOI }} </td> </tr>
         <tr> <td> Title </td> <td> {{ Title }} </td> </tr>
         <tr> <td> Pubmed Link </td> <td>
@@ -107,6 +106,16 @@
         <tr> <td> Last Author </td> <td> {{ grab "Last Author" }} </td> </tr>
         <tr> <td> Authors </td> <td> {{ authors }} </td> </tr>
         <tr> <td> Pubtypes </td> <td> {{ Pubtypes }} </td> </tr>
+        <tr> <td> External Citations </td> <td>
+          <ul>
+            {{#each Citations.citations}}
+            <li>
+            <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/{{id}}"> Pubmed Link (ID: {{id}}) </a>
+            <!-- <a class="internal-link" href="#{{id}}"> (Internal Link) </a> -->
+              ~ {{ title }}</li>
+            {{/each}}
+          </ul>
+        </td> </tr>
       </table>
     </div>
   {{/each}}
