@@ -12,6 +12,8 @@
     &nbsp;  &nbsp; &nbsp; &nbsp;
     <input type="text" value="type I IFN dsRNA" /> </h1>
 
+  {{> paper_info }}
+
   <table>
     <tr>
       <td id="sidebar"> {{> sidebar}} </td>
@@ -28,9 +30,36 @@
   <div id="information">
     {{#each items}}
       <div class="item">
-        <p class="pubmed-link"> <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{get_id this}}">Pubmed Link</a> </p>
+        <p class="pubmed-link">
+          <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{get_id this}}">Pubmed Link</a>
+          <a class="info" data-id="{{get_id}}" href="#">(Info)</a>
+        </p>
         <p class="title"> {{Title}} </p>
       </div>
     {{/each}}
   </div>
+</template>
+
+<template name="paper_info">
+  {{#each get_paper}}
+    <div id="paper_info">
+      <h1>Paper Info:</h1>
+      <table>
+        <tr> <td> <a class="close" href="#">X - Close</a> </td> <td> &nbsp; </td> </tr>
+        <tr> <td> DOI </td> <td> {{ DOI }} </td> </tr>
+        <tr> <td> Title </td> <td> {{ Title }} </td> </tr>
+        <tr> <td> Pubmed Link </td> <td>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{grab "Pubmed id"}}">
+              Pubmed Link (ID: {{grab "Pubmed id"}})</a> </td> </tr>
+        <tr> <td> Date </td> <td> {{ Date }} </td> </tr>
+        <tr> <td> Journal </td> <td> {{ Journal }} </td> </tr>
+        <tr> <td> Institution </td> <td> {{ Info.institution }} </td> </tr>
+        <tr> <td> Abstract </td> <td> {{ Info.abstract }} </td> </tr>
+        <tr> <td> # Citations </td> <td> ~ {{ Citations.citations.length }} </td> </tr>
+        <tr> <td> Last Author </td> <td> {{ grab "Last Author" }} </td> </tr>
+        <tr> <td> Authors </td> <td> {{ authors }} </td> </tr>
+        <tr> <td> Pubtypes </td> <td> {{ Pubtypes }} </td> </tr>
+      </table>
+    </div>
+  {{/each}}
 </template>

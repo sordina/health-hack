@@ -27,5 +27,26 @@ body table td { padding: 0; }
   border: 1px solid black;
 }
 
-h1 input {font-size: 150%;}
+h1 input {font-size: 130%;}
 h1 em {font-size: 80%;}
+
+#paper_info {
+  z-index: 2000;
+  padding: 15px;
+  background: white;
+  margin: 0 auto;
+  position: fixed;
+  left: 25%;
+  top: 10%;
+  width: 50%;
+  height: 80%;
+  overflow: scroll;
+  border: 1px solid black;
+
+  -webkit-box-shadow: 1px 4px 30px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    1px 4px 30px rgba(50, 50, 50, 0.75);
+  box-shadow:         1px 4px 30px rgba(50, 50, 50, 0.75);
+}
+
+#paper_info td { padding: 4px; }
+#paper_info td:first-child { width: 22%; }
