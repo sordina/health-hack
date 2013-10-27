@@ -3,7 +3,7 @@
 
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
-
+  <script src="http://d3js.org/d3.v3.min.js"></script>
 </head>
 
 <body>
@@ -26,7 +26,7 @@
 <template name="plist">
   {{#each get_papers}}
     <p class="listing-paper">
-      <table>
+      <table class="listing-page-table">
         <tr> <td> Title </td> <td> {{ Title }} </td> </tr>
         <tr> <td> Pubmed Link </td> <td>
             <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{grab "Pubmed id"}}">
@@ -35,7 +35,7 @@
         <tr> <td> Journal </td> <td> {{ Journal }} </td> </tr>
         <tr> <td> Institution </td> <td> {{ Info.institution }} </td> </tr>
         <tr> <td> Abstract </td> <td> {{ Info.abstract }} </td> </tr>
-        <tr> <td> # Citations </td> <td> ~ {{ Citations.citations.length }} </td> </tr>
+        <tr> <td> # Citations </td> <td> ~ {{ Citations.results }} </td> </tr>
         <tr> <td> Last Author </td> <td> {{ grab "Last Author" }} </td> </tr>
         <tr> <td> Authors </td> <td> {{ authors }} </td> </tr>
         <tr> <td> Pubtypes </td> <td> {{ Pubtypes }} </td> </tr>
@@ -102,7 +102,7 @@
         <tr> <td> Journal </td> <td> {{ Journal }} </td> </tr>
         <tr> <td> Institution </td> <td> {{ Info.institution }} </td> </tr>
         <tr> <td> Abstract </td> <td> {{ Info.abstract }} </td> </tr>
-        <tr> <td> # Citations </td> <td> ~ {{ Citations.citations.length }} </td> </tr>
+        <tr> <td> # Citations </td> <td> ~ {{ Citations.results }} </td> </tr>
         <tr> <td> Last Author </td> <td> {{ grab "Last Author" }} </td> </tr>
         <tr> <td> Authors </td> <td> {{ authors }} </td> </tr>
         <tr> <td> Pubtypes </td> <td> {{ Pubtypes }} </td> </tr>

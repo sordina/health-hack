@@ -21,6 +21,10 @@ body table td { padding: 0; }
   min-height: 600px;
 }
 
+#information {
+  min-height: 600px;
+}
+
 #information .item {
   background: white;
   padding: 0 10px 20px 10px;
@@ -76,4 +80,8 @@ h1 em {font-size: 80%;}
   padding: 10px 0;
   margin: 10px 0;
   border-bottom: 1px solid black;
+}
+
+.listing-page-table td:first-child {
+  width: 12%;
 }
