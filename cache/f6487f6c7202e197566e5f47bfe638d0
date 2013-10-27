@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Rockefeller University",
+               "short_name" : "The Rockefeller University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1230",
+               "short_name" : "1230",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "York Avenue",
+               "short_name" : "York Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lenox Hill",
+               "short_name" : "Lenox Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10065",
+               "short_name" : "10065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Rockefeller University, 1230 York Avenue, New York, NY 10065, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7643034,
+                  "lng" : -73.95362159999999
+               },
+               "southwest" : {
+                  "lat" : 40.76018759999999,
+                  "lng" : -73.9583516
+               }
+            },
+            "location" : {
+               "lat" : 40.7620925,
+               "lng" : -73.9561878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7643034,
+                  "lng" : -73.95362159999999
+               },
+               "southwest" : {
+                  "lat" : 40.76018759999999,
+                  "lng" : -73.9583516
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

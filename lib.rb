@@ -65,7 +65,7 @@ def info_search pubmed_id
   if first_institution && first_institution.length < 400
     {:institution => institution, :abstract => abstract, :location => geocode(first_institution) }
   else
-    nil
+    {}
   end
 end
 
@@ -76,10 +76,14 @@ def search webenv, querykey, results_max
   doc_list = parse2.css("DocSum").map do |doc|
 
     pubmed_id = doc.css("Id").text
+    info = info_search pubmed_id
 
     top_level = [
       "Title",
       doc.css("Item[Name=Title]").text,
+
+      "location",
+      getlocation(info),
 
       "Last Author",
       doc.css("Item[Name=LastAuthor]").text,
@@ -110,7 +114,7 @@ def search webenv, querykey, results_max
       citations(pubmed_id),
 
       "Info",
-      info_search(pubmed_id)
+      info
     ]
 
     Hash[*top_level]
@@ -133,5 +137,17 @@ def convert_geojson list
     rescue Exception => e
       nil
     end
+  end
+end
+
+def getlocation doc
+  #  papers.find().forEach(function(e){console.log(e); try { loc =
+  #  e["Info"].location.results[0].geometry.location; console.log(loc);
+  #  papers.update({_id: e._id}, {location: loc}) } catch(f) {console.log(f)}})
+  #
+  begin
+    doc["location"]["results"][0]["geometry"]["location"]
+  rescue
+    nil
   end
 end

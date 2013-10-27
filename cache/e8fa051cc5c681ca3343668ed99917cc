@@ -1,0 +1,404 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology - Head and Neck Surgery",
+               "short_name" : "Dept of Otolaryngology - Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "915",
+               "short_name" : "915",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Olentangy River Road",
+               "short_name" : "Olentangy River Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harrison West",
+               "short_name" : "Harrison West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43212",
+               "short_name" : "43212",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3154",
+               "short_name" : "3154",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology - Head and Neck Surgery, 915 Olentangy River Road, Columbus, OH 43212, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9785798,
+               "lng" : -83.02298279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.98712949999999,
+                  "lng" : -83.0069754
+               },
+               "southwest" : {
+                  "lat" : 39.9700291,
+                  "lng" : -83.0389902
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology - Head and Neck Surgery",
+               "short_name" : "Department of Otolaryngology - Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Tufts University Boston Campus",
+               "short_name" : "Tufts University Boston Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02111",
+               "short_name" : "02111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology - Head and Neck Surgery, Tufts University Boston Campus, Boston, MA 02111, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3493231,
+               "lng" : -71.0635272
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3506720802915,
+                  "lng" : -71.06217821970849
+               },
+               "southwest" : {
+                  "lat" : 42.3479741197085,
+                  "lng" : -71.06487618029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology Head and Neck Surgery",
+               "short_name" : "Department of Otolaryngology Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Health Sciences Center",
+               "short_name" : "Health Sciences Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "North Philadelphia",
+               "short_name" : "North Philadelphia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19140",
+               "short_name" : "19140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology Head and Neck Surgery, Health Sciences Center, Temple University School of Medicine, Philadelphia, PA 19140, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.006107,
+               "lng" : -75.1525704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0074559802915,
+                  "lng" : -75.15122141970851
+               },
+               "southwest" : {
+                  "lat" : 40.0047580197085,
+                  "lng" : -75.15391938029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology, Head and Neck Surgery",
+               "short_name" : "Dept of Otolaryngology, Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology, Head and Neck Surgery, 180, Manhattan, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.84138799999999,
+               "lng" : -73.9421442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8427369802915,
+                  "lng" : -73.94079521970851
+               },
+               "southwest" : {
+                  "lat" : 40.8400390197085,
+                  "lng" : -73.94349318029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology–Head and Neck Surgery",
+               "short_name" : "Department of Otolaryngology–Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Middle East",
+               "short_name" : "Middle East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21205",
+               "short_name" : "21205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology–Head and Neck Surgery, Johns Hopkins University, Baltimore, MD 21205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2988467,
+               "lng" : -76.5922624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3001956802915,
+                  "lng" : -76.5909134197085
+               },
+               "southwest" : {
+                  "lat" : 39.2974977197085,
+                  "lng" : -76.59361138029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Otolaryngology - Head and Neck Surgery",
+               "short_name" : "Department of Otolaryngology - Head and Neck Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Medical Center Drive",
+               "short_name" : "E Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angell",
+               "short_name" : "Angell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Otolaryngology - Head and Neck Surgery, 1500 East Medical Center Drive, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2820788,
+               "lng" : -83.7269534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2834277802915,
+                  "lng" : -83.72560441970849
+               },
+               "southwest" : {
+                  "lat" : 42.2807298197085,
+                  "lng" : -83.72830238029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

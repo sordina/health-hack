@@ -2,6 +2,10 @@ if (Meteor.isClient) {
 
   history = new Meteor.Collection()
 
+  Template.plist.get_papers = function() {
+    return papers.find({"Title": {$regex: Session.get('query')}})
+  }
+
   Template.sidebar.items  = function() { return history.find().fetch().reverse() }
   Template.sidebar.get_id = function(e) { return e["Pubmed id"] }
   Template.sidebar.events({
@@ -16,6 +20,13 @@ if (Meteor.isClient) {
   Template.paper_info.grab = function(k) { return this[k] }
   Template.paper_info.events( {
     'click .close': function (event) { Session.set("pubmed_id", 0) }, } )
+
+  Template.search.events( {
+    'keyup input': function (event) {
+      if(event.keyCode == 13) {
+        var query = event.srcElement.value
+        console.log(["Search clicked", event, query])
+        Session.set("query", query) } }, } )
 
   Template.main_table.section = function(v) { return( Session.get("section") == v) }
 
@@ -45,6 +56,7 @@ if (Meteor.isClient) {
     map.addLayer(osm);
 
     papers.find().forEach(function(p){
+      if(! p["Info"]) { return }
       var res = p["Info"].location.results[0]
       if(res) {
         var loc = res.geometry.location
@@ -71,6 +83,8 @@ if (Meteor.isClient) {
         circle.on("click",function(){
           console.log(p)
           // Session.set('pubmed_id', p["Pubmed id"])
+          // { <location field> : { $geoWithin : { $center : [ [ <x>, <y> ] , <radius> ] } } }
+          papers.find()
           history.insert(p)
         })
       }

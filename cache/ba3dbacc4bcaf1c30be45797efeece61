@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colgate University",
+               "short_name" : "Colgate University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Oak Drive",
+               "short_name" : "Oak Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13346",
+               "short_name" : "13346",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Colgate University, 13 Oak Drive, Hamilton, NY 13346, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8228189,
+                  "lng" : -75.53169249999999
+               },
+               "southwest" : {
+                  "lat" : 42.8080363,
+                  "lng" : -75.5487787
+               }
+            },
+            "location" : {
+               "lat" : 42.822472,
+               "lng" : -75.54165399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8228189,
+                  "lng" : -75.53169249999999
+               },
+               "southwest" : {
+                  "lat" : 42.8080363,
+                  "lng" : -75.5487787
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

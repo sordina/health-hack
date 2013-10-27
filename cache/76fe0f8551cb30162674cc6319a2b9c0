@@ -1,0 +1,469 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Illinois At Chicago",
+               "short_name" : "University of Illinois At Chicago",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3030",
+               "short_name" : "3030",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University of Illinois at Chicago: School of Public Health",
+               "short_name" : "University of Illinois at Chicago: School of Public Health",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Harrison Street",
+               "short_name" : "West Harrison Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University Village / Little Italy",
+               "short_name" : "University Village / Little Italy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "Illinois",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60607",
+               "short_name" : "60607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Illinois At Chicago, University of Illinois at Chicago: School of Public Health, 1200 West Harrison Street #3030, Chicago, Illinois 60607, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8748336,
+               "lng" : -87.6580024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8831414,
+                  "lng" : -87.64199499999999
+               },
+               "southwest" : {
+                  "lat" : 41.8665248,
+                  "lng" : -87.67400979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Illinois",
+               "short_name" : "University of Illinois",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Illinois at Chicago: School of Public Health",
+               "short_name" : "University of Illinois at Chicago: School of Public Health",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "601",
+               "short_name" : "601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Morgan Street",
+               "short_name" : "S Morgan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University Village / Little Italy",
+               "short_name" : "University Village / Little Italy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60607",
+               "short_name" : "60607",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7128",
+               "short_name" : "7128",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Illinois, University of Illinois at Chicago: School of Public Health, 601 South Morgan Street, Chicago, IL 60607, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.872944,
+               "lng" : -87.6503372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.87429298029149,
+                  "lng" : -87.6489882197085
+               },
+               "southwest" : {
+                  "lat" : 41.8715950197085,
+                  "lng" : -87.65168618029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Illinois",
+               "short_name" : "University Of Illinois",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Illinois at Chicago: School of Public Health",
+               "short_name" : "University of Illinois at Chicago: School of Public Health",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "840",
+               "short_name" : "840",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Wood Street",
+               "short_name" : "S Wood St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Illinois Medical District",
+               "short_name" : "Illinois Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Of Illinois, University of Illinois at Chicago: School of Public Health, University of Illinois at Chicago - West, University of Illinois College of Medicine, 840 South Wood Street, Chicago, IL 60612, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8712209,
+               "lng" : -87.67162979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8725698802915,
+                  "lng" : -87.67028081970848
+               },
+               "southwest" : {
+                  "lat" : 41.8698719197085,
+                  "lng" : -87.6729787802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Illinois",
+               "short_name" : "University Of Illinois",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "B9",
+               "short_name" : "B9",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University of Illinois at Chicago: School of Public Health",
+               "short_name" : "University of Illinois at Chicago: School of Public Health",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1933",
+               "short_name" : "1933",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Polk Street",
+               "short_name" : "W Polk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Illinois Medical District",
+               "short_name" : "Illinois Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Of Illinois, University of Illinois at Chicago: School of Public Health, University of Illinois at Chicago - West, 1933 West Polk Street B9, Chicago, IL 60612, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8707274,
+               "lng" : -87.6745236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8720763802915,
+                  "lng" : -87.67317461970849
+               },
+               "southwest" : {
+                  "lat" : 41.8693784197085,
+                  "lng" : -87.67587258029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Illinois Hospital & Health Sciences System",
+               "short_name" : "University of Illinois Hospital & Health Sciences System",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Illinois at Chicago: School of Public Health",
+               "short_name" : "University of Illinois at Chicago: School of Public Health",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "722",
+               "short_name" : "722",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Maxwell Street",
+               "short_name" : "W Maxwell St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University Village / Little Italy",
+               "short_name" : "University Village / Little Italy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60607",
+               "short_name" : "60607",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Illinois Hospital & Health Sciences System, University of Illinois at Chicago: School of Public Health, 722 West Maxwell Street, Chicago, IL 60607, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8648872,
+               "lng" : -87.64577159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.86623618029149,
+                  "lng" : -87.64442261970848
+               },
+               "southwest" : {
+                  "lat" : 41.8635382197085,
+                  "lng" : -87.6471205802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Illinois",
+               "short_name" : "University of Illinois",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8609",
+               "short_name" : "8609",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Bryn Mawr Avenue",
+               "short_name" : "W Bryn Mawr Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "O'Hare",
+               "short_name" : "O'Hare",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60631",
+               "short_name" : "60631",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3524",
+               "short_name" : "3524",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Illinois, 8609 West Bryn Mawr Avenue, Chicago, IL 60631, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.9807419,
+               "lng" : -87.8422856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9820908802915,
+                  "lng" : -87.84093661970849
+               },
+               "southwest" : {
+                  "lat" : 41.9793929197085,
+                  "lng" : -87.84363458029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

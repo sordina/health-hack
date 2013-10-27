@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akita",
+               "short_name" : "Akita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akita Prefecture",
+               "short_name" : "Akita Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akita, Akita Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.86527460000001,
+                  "lng" : 140.5154163
+               },
+               "southwest" : {
+                  "lat" : 39.4487449,
+                  "lng" : 140.02853
+               }
+            },
+            "location" : {
+               "lat" : 39.7200079,
+               "lng" : 140.1025642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.86527460000001,
+                  "lng" : 140.5154163
+               },
+               "southwest" : {
+                  "lat" : 39.4487449,
+                  "lng" : 140.02853
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

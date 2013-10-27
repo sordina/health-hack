@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buenos Aires, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051589,
+                  "lng" : -58.5314522
+               }
+            },
+            "location" : {
+               "lat" : -34.6037232,
+               "lng" : -58.3815931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5265464,
+                  "lng" : -58.33514470000001
+               },
+               "southwest" : {
+                  "lat" : -34.7051589,
+                  "lng" : -58.5314522
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake General Carrera/Buenos Aires",
+               "short_name" : "Lake General Carrera/Buenos Aires",
+               "types" : [ "natural_feature", "establishment" ]
+            }
+         ],
+         "formatted_address" : "Lake General Carrera/Buenos Aires",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -46.2854,
+                  "lng" : -71.13715999999999
+               },
+               "southwest" : {
+                  "lat" : -46.6084699,
+                  "lng" : -72.0614001
+               }
+            },
+            "location" : {
+               "lat" : -46.46619,
+               "lng" : -71.62100629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -46.2854,
+                  "lng" : -71.13715999999999
+               },
+               "southwest" : {
+                  "lat" : -46.6084699,
+                  "lng" : -72.0614001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

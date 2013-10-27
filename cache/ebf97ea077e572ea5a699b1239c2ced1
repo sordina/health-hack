@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Schorenstrasse",
+               "short_name" : "Schorenstrasse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Schwerzenbach",
+               "short_name" : "Schwerzenbach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uster District",
+               "short_name" : "Uster District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8603",
+               "short_name" : "8603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Schorenstrasse 16, 8603 Schwerzenbach, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.384511,
+               "lng" : 8.6548344
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3858599802915,
+                  "lng" : 8.656183380291504
+               },
+               "southwest" : {
+                  "lat" : 47.3831620197085,
+                  "lng" : 8.653485419708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

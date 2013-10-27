@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "113-8602",
+               "short_name" : "113-8602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "1 Chome",
+               "short_name" : "1 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sendagi",
+               "short_name" : "Sendagi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bunkyo",
+               "short_name" : "Bunkyo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1 Chome-1 Sendagi, Bunkyo, Tokyo 113-8602, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7213913,
+               "lng" : 139.7588106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7227402802915,
+                  "lng" : 139.7601595802915
+               },
+               "southwest" : {
+                  "lat" : 35.7200423197085,
+                  "lng" : 139.7574616197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

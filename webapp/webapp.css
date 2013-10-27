@@ -17,7 +17,8 @@ body table td { padding: 0; }
 
 #sidebar {
   width: 30%;
-  background: url(paperboy.jpg) no-repeat center center;
+  background: url(paperboy.jpg) no-repeat top center;
+  min-height: 600px;
 }
 
 #information .item {
@@ -69,4 +70,10 @@ h1 em {font-size: 80%;}
 #tab_header a.active {
   border-bottom: 1px solid white;
   font-weight: bold;
+}
+
+.listing-paper {
+  padding: 10px 0;
+  margin: 10px 0;
+  border-bottom: 1px solid black;
 }

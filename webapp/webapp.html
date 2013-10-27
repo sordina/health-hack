@@ -4,9 +4,6 @@
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
 
-  <script src="plugins.js"></script>
-  <script src="d3.v2.js"></script>
-  <script src="vis.js"></script>
 </head>
 
 <body>
@@ -14,18 +11,46 @@
     &nbsp;  &nbsp; &nbsp; &nbsp;
     <em>Search medical publications intelligently:</em>
     &nbsp;  &nbsp; &nbsp; &nbsp;
-    <input type="text" value="type I IFN dsRNA" /> </h1>
+    {{> search}}
+  </h1>
 
   {{> paper_info }}
 
   {{> main_table }}
 </body>
 
+<template name="search">
+  <input type="text" value="type I IFN dsRNA" />
+</template>
+
+<template name="plist">
+  {{#each get_papers}}
+    <p class="listing-paper">
+      <table>
+        <tr> <td> DOI </td> <td> {{ DOI }} </td> </tr>
+        <tr> <td> Title </td> <td> {{ Title }} </td> </tr>
+        <tr> <td> Pubmed Link </td> <td>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{grab "Pubmed id"}}">
+              Pubmed Link (ID: {{grab "Pubmed id"}})</a> </td> </tr>
+        <tr> <td> Date </td> <td> {{ Date }} </td> </tr>
+        <tr> <td> Journal </td> <td> {{ Journal }} </td> </tr>
+        <tr> <td> Institution </td> <td> {{ Info.institution }} </td> </tr>
+        <tr> <td> Abstract </td> <td> {{ Info.abstract }} </td> </tr>
+        <tr> <td> # Citations </td> <td> ~ {{ Citations.citations.length }} </td> </tr>
+        <tr> <td> Last Author </td> <td> {{ grab "Last Author" }} </td> </tr>
+        <tr> <td> Authors </td> <td> {{ authors }} </td> </tr>
+        <tr> <td> Pubtypes </td> <td> {{ Pubtypes }} </td> </tr>
+      </table>
+    </p>
+  {{/each}}
+</template>
+
 <template name="main_table">
   <table>
     <tr> <td> &nbsp; </td> <td>
         <div id="tab_header">
           <a class="section-link active" href="#map"     > Map </a>
+          <a class="section-link"        href="#plist"   > List </a>
           <a class="section-link"        href="#clusters"> Clusters </a>
           <a class="section-link"        href="#bubbles" > Bubbles </a>
           <a class="section-link"        href="#knalij"  > Author Network </a>
@@ -34,6 +59,7 @@
       <td id="sidebar"> {{> sidebar}} </td>
       <td id="tab_body" >
         {{#if section "map"      }} {{> mapbar   }} {{/if}}
+        {{#if section "plist"    }} {{> plist    }} {{/if}}
         {{#if section "clusters" }} {{> clusters }} {{/if}}
         {{#if section "bubbles"  }} {{> bubbles  }} {{/if}}
         {{#if section "knalij"   }} {{> knalij   }} {{/if}}
