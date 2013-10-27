@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalian",
+               "short_name" : "Dalian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dalian, Liaoning, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2051899,
+                  "lng" : 123.5189163
+               },
+               "southwest" : {
+                  "lat" : 38.722353,
+                  "lng" : 120.9754487
+               }
+            },
+            "location" : {
+               "lat" : 38.91400300000001,
+               "lng" : 121.614682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0409516,
+                  "lng" : 121.7807007
+               },
+               "southwest" : {
+                  "lat" : 38.8187599,
+                  "lng" : 121.4408112
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

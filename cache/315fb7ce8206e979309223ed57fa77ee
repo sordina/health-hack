@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "V6X 2C7",
+               "short_name" : "V6X 2C7",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Richmond, BC V6X 2C7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.177344,
+                  "lng" : -123.1366529
+               },
+               "southwest" : {
+                  "lat" : 49.17390899999999,
+                  "lng" : -123.138091
+               }
+            },
+            "location" : {
+               "lat" : 49.17509219999999,
+               "lng" : -123.1372985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.177344,
+                  "lng" : -123.1360229697085
+               },
+               "southwest" : {
+                  "lat" : 49.17390899999999,
+                  "lng" : -123.1387209302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

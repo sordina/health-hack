@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46014",
+               "short_name" : "46014",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "46014 Valencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4729664,
+                  "lng" : -0.3931712
+               },
+               "southwest" : {
+                  "lat" : 39.4351054,
+                  "lng" : -0.4315155
+               }
+            },
+            "location" : {
+               "lat" : 39.4520748,
+               "lng" : -0.4101619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4729664,
+                  "lng" : -0.3931712
+               },
+               "southwest" : {
+                  "lat" : 39.4351054,
+                  "lng" : -0.4315155
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

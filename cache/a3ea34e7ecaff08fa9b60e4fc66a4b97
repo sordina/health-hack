@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bydgoszcz",
+               "short_name" : "Bydgoszcz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bydgoszcz",
+               "short_name" : "Bydgoszcz",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bydgoszcz County",
+               "short_name" : "Bydgoszcz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kuyavian-Pomeranian Voivodeship",
+               "short_name" : "Kuyavian-Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bydgoszcz, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2094777,
+                  "lng" : 18.2024943
+               },
+               "southwest" : {
+                  "lat" : 53.04189659999999,
+                  "lng" : 17.8738708
+               }
+            },
+            "location" : {
+               "lat" : 53.12348040000001,
+               "lng" : 18.0084378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2094777,
+                  "lng" : 18.2024943
+               },
+               "southwest" : {
+                  "lat" : 53.04189659999999,
+                  "lng" : 17.8738708
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bydgoszcz",
+               "short_name" : "Bydgoszcz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Lipnica",
+               "short_name" : "Gmina Lipnica",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bytów County",
+               "short_name" : "Bytów County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pomeranian Voivodeship",
+               "short_name" : "Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bydgoszcz, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.97363739999999,
+               "lng" : 17.2617939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.9749863802915,
+                  "lng" : 17.2631428802915
+               },
+               "southwest" : {
+                  "lat" : 53.9722884197085,
+                  "lng" : 17.2604449197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

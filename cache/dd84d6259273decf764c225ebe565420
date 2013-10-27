@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UFC - Universidade Federal do Ceará, Campus do Picí",
+               "short_name" : "UFC - Universidade Federal do Ceará, Campus do Picí",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Fortaleza",
+               "short_name" : "Fortaleza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ceara",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Universidade Federal do Ceará, Fortaleza - Ceará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -3.7370122,
+                  "lng" : -38.5670543
+               },
+               "southwest" : {
+                  "lat" : -3.7566254,
+                  "lng" : -38.5839951
+               }
+            },
+            "location" : {
+               "lat" : -3.745973,
+               "lng" : -38.5750365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.7370122,
+                  "lng" : -38.5670543
+               },
+               "southwest" : {
+                  "lat" : -3.7566254,
+                  "lng" : -38.5839951
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

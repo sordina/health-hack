@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Scripps Translational Science Institute",
+               "short_name" : "Scripps Translational Science Institute",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3344",
+               "short_name" : "3344",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Torrey Pines Court",
+               "short_name" : "N Torrey Pines Ct",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92037",
+               "short_name" : "92037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Scripps Translational Science Institute, 3344 North Torrey Pines Court, La Jolla, CA 92037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.893644,
+               "lng" : -117.242481
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9030126,
+                  "lng" : -117.2264736
+               },
+               "southwest" : {
+                  "lat" : 32.8842744,
+                  "lng" : -117.2584884
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

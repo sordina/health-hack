@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Siqueira Campos",
+               "short_name" : "R. Siqueira Campos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Copacabana",
+               "short_name" : "Copacabana",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22031-071",
+               "short_name" : "22031-071",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Siqueira Campos, 59 - Copacabana, Rio de Janeiro, 22031-071, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9689256,
+               "lng" : -43.1849367
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9675766197085,
+                  "lng" : -43.18358771970851
+               },
+               "southwest" : {
+                  "lat" : -22.9702745802915,
+                  "lng" : -43.1862856802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

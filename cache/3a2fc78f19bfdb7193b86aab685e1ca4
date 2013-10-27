@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiel",
+               "short_name" : "Kiel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kiel",
+               "short_name" : "Kiel",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bergisch Gladbach",
+               "short_name" : "Bergisch Gladbach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51429",
+               "short_name" : "51429",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kiel, 51429 Bergisch Gladbach, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9654188,
+                  "lng" : 7.23773
+               },
+               "southwest" : {
+                  "lat" : 50.96459000000001,
+                  "lng" : 7.235997599999999
+               }
+            },
+            "location" : {
+               "lat" : 50.9647823,
+               "lng" : 7.2371573
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9663533802915,
+                  "lng" : 7.238212780291502
+               },
+               "southwest" : {
+                  "lat" : 50.96365541970851,
+                  "lng" : 7.235514819708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College of Medicine",
+               "short_name" : "College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "King Saud University",
+               "short_name" : "King Saud University",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh",
+               "short_name" : "Riyadh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh",
+               "short_name" : "Riyadh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12372",
+               "short_name" : "12372",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College of Medicine, King Saud University, Riyadh 12372, Saudi Arabia",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.7133479,
+               "lng" : 46.6209984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7234835,
+                  "lng" : 46.6370058
+               },
+               "southwest" : {
+                  "lat" : 24.7032114,
+                  "lng" : 46.604991
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "College of Medicine",
+               "short_name" : "College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Girls' Campus",
+               "short_name" : "Girls' Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "King Saud University",
+               "short_name" : "King Saud University",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh",
+               "short_name" : "Riyadh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riyadh Province",
+               "short_name" : "Riyadh Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12371",
+               "short_name" : "12371",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College of Medicine, King Saud University, Girls' Campus, Riyadh 12371, Saudi Arabia",
+         "geometry" : {
+            "location" : {
+               "lat" : 24.7240317,
+               "lng" : 46.63756370000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7253806802915,
+                  "lng" : 46.63891268029151
+               },
+               "southwest" : {
+                  "lat" : 24.72268271970849,
+                  "lng" : 46.63621471970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaw",
+               "short_name" : "Kaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            },
+            "location" : {
+               "lat" : 39.0997265,
+               "lng" : -94.5785667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "Kansas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wyandotte",
+               "short_name" : "Wyandotte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            },
+            "location" : {
+               "lat" : 39.114053,
+               "lng" : -94.6274636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

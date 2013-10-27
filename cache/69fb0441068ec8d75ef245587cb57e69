@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karolinska Institutet",
+               "short_name" : "Karolinska Institutet",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Solnavägen",
+               "short_name" : "Solnavägen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Stockholm County",
+               "short_name" : "Stockholm County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17177",
+               "short_name" : "17177",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Solna",
+               "short_name" : "Solna",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Karolinska Institutet, Solnavägen 1, 171 77 Solna, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.3515297,
+                  "lng" : 18.0305724
+               },
+               "southwest" : {
+                  "lat" : 59.3456654,
+                  "lng" : 18.0179158
+               }
+            },
+            "location" : {
+               "lat" : 59.3479971,
+               "lng" : 18.0262511
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.3515297,
+                  "lng" : 18.0305724
+               },
+               "southwest" : {
+                  "lat" : 59.3456654,
+                  "lng" : 18.0179158
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

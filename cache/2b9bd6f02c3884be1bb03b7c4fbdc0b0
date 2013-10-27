@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical University of Łódź",
+               "short_name" : "Medical University of Łódź",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Aleja Tadeusza Kościuszki",
+               "short_name" : "Kościuszki",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Śródmieście",
+               "short_name" : "Śródmieście",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lodz",
+               "short_name" : "Lodz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Łódź Voivodeship",
+               "short_name" : "Łódź Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical University of Łódź, Aleja Tadeusza Kościuszki 4, Lodz, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.76985029999999,
+               "lng" : 19.454095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7767546,
+                  "lng" : 19.4701024
+               },
+               "southwest" : {
+                  "lat" : 51.76294499999999,
+                  "lng" : 19.4380876
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

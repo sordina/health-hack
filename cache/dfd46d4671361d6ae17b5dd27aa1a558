@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Delhi North Campus",
+               "short_name" : "University of Delhi North Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110007",
+               "short_name" : "110007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Delhi North Campus, New Delhi, Delhi 110007, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.697025,
+                  "lng" : 77.22032919999999
+               },
+               "southwest" : {
+                  "lat" : 28.6783047,
+                  "lng" : 77.2025264
+               }
+            },
+            "location" : {
+               "lat" : 28.68766489999999,
+               "lng" : 77.2114278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.697025,
+                  "lng" : 77.22032919999999
+               },
+               "southwest" : {
+                  "lat" : 28.6783047,
+                  "lng" : 77.2025264
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Delhi",
+               "short_name" : "University of Delhi",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kamla Nehru Ridge",
+               "short_name" : "Kamla Nehru Ridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110007",
+               "short_name" : "110007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Delhi, Kamla Nehru Ridge, Civil Lines, New Delhi, Delhi 110007",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.688308,
+               "lng" : 77.21486899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6896569802915,
+                  "lng" : 77.2162179802915
+               },
+               "southwest" : {
+                  "lat" : 28.6869590197085,
+                  "lng" : 77.2135200197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidade Federal de Alagoas - UFAL",
+               "short_name" : "Universidade Federal de Alagoas - UFAL",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cidade Universitária, Tabuleiro do Martins",
+               "short_name" : "Cidade Universitária, Tabuleiro do Martins",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Lourival Melo Mota",
+               "short_name" : "Avenida Lourival Melo Mota",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Maceió",
+               "short_name" : "Maceió",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alagoas",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57072-900",
+               "short_name" : "57072-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidade Federal de Alagoas - UFAL - Avenida Lourival Melo Mota, Cidade Universitária, Tabuleiro do Martins - Cidade Universitária, Maceió - Alagoas, 57072-900, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -9.5556822,
+               "lng" : -35.7779217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.544678899999999,
+                  "lng" : -35.7619143
+               },
+               "southwest" : {
+                  "lat" : -9.5666852,
+                  "lng" : -35.7939291
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

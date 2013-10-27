@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Donaustauf",
+               "short_name" : "Donaustauf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Regensburg",
+               "short_name" : "R",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Palatinate",
+               "short_name" : "Upper Palatinate",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Donaustauf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.04888140000001,
+                  "lng" : 12.2767517
+               },
+               "southwest" : {
+                  "lat" : 49.0139545,
+                  "lng" : 12.1896251
+               }
+            },
+            "location" : {
+               "lat" : 49.0324537,
+               "lng" : 12.2073854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.04888140000001,
+                  "lng" : 12.2767517
+               },
+               "southwest" : {
+                  "lat" : 49.0139545,
+                  "lng" : 12.1896251
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

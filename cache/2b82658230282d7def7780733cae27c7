@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "15th arrondissement of Paris",
+               "short_name" : "15th arrondissement of Paris",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "75",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "15th arrondissement of Paris, Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8581791,
+                  "lng" : 2.324624
+               },
+               "southwest" : {
+                  "lat" : 48.82513410000001,
+                  "lng" : 2.262783
+               }
+            },
+            "location" : {
+               "lat" : 48.84132779999999,
+               "lng" : 2.3002917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8581791,
+                  "lng" : 2.324624
+               },
+               "southwest" : {
+                  "lat" : 48.82513410000001,
+                  "lng" : 2.262783
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "75015",
+               "short_name" : "75015",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "75",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "75015 Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8582221,
+                  "lng" : 2.3246822
+               },
+               "southwest" : {
+                  "lat" : 48.8252116,
+                  "lng" : 2.2629819
+               }
+            },
+            "location" : {
+               "lat" : 48.8421616,
+               "lng" : 2.2927665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8582221,
+                  "lng" : 2.3246822
+               },
+               "southwest" : {
+                  "lat" : 48.8252116,
+                  "lng" : 2.2629819
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

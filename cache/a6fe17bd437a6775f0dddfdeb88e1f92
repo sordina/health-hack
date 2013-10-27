@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanford School of Medicine",
+               "short_name" : "Stanford School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "x215",
+               "short_name" : "x215",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "251",
+               "short_name" : "251",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campus Drive",
+               "short_name" : "Campus Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stanford School of Medicine, Stanford University, 251 Campus Drive x215, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4319653,
+               "lng" : -122.1793364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4408251,
+                  "lng" : -122.163329
+               },
+               "southwest" : {
+                  "lat" : 37.4231045,
+                  "lng" : -122.1953438
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanford School of Medicine",
+               "short_name" : "Stanford School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "291",
+               "short_name" : "291",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campus Drive",
+               "short_name" : "Campus Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stanford School of Medicine, Stanford University, 291 Campus Drive, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4331468,
+               "lng" : -122.1774985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4344957802915,
+                  "lng" : -122.1761495197085
+               },
+               "southwest" : {
+                  "lat" : 37.4317978197085,
+                  "lng" : -122.1788474802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

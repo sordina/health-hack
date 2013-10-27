@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "660022",
+               "short_name" : "660022",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk",
+               "short_name" : "Krasnoyarsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk",
+               "short_name" : "Krasnoyarsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Krasnoyarsk Krai",
+               "short_name" : "Krasnoyarsk Krai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Krasnoyarsk, Krasnoyarsk Krai, Russia, 660022",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.06460999999999,
+                  "lng" : 92.98091119999999
+               },
+               "southwest" : {
+                  "lat" : 55.9928891,
+                  "lng" : 92.8876114
+               }
+            },
+            "location" : {
+               "lat" : 56.0300905,
+               "lng" : 92.9143955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.0405682,
+                  "lng" : 92.9360136
+               },
+               "southwest" : {
+                  "lat" : 56.0214345,
+                  "lng" : 92.8876114
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Civil Lines, New Delhi, Delhi, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.696748,
+                  "lng" : 77.233665
+               },
+               "southwest" : {
+                  "lat" : 28.666656,
+                  "lng" : 77.2094539
+               }
+            },
+            "location" : {
+               "lat" : 28.6755306,
+               "lng" : 77.2232709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.696748,
+                  "lng" : 77.233665
+               },
+               "southwest" : {
+                  "lat" : 28.666656,
+                  "lng" : 77.2094539
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Sham Nath Marg",
+               "short_name" : "Sham Nath Marg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Railway Colony",
+               "short_name" : "Railway Colony",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Civil Lines",
+               "short_name" : "Civil Lines",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New Delhi",
+               "short_name" : "New Delhi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Delhi",
+               "short_name" : "North Delhi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delhi",
+               "short_name" : "DL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110054",
+               "short_name" : "110054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Civil Lines, Sham Nath Marg, Railway Colony, Civil Lines, New Delhi, Delhi 110054, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 28.676763,
+               "lng" : 77.22482099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6781119802915,
+                  "lng" : 77.2261699802915
+               },
+               "southwest" : {
+                  "lat" : 28.6754140197085,
+                  "lng" : 77.2234720197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

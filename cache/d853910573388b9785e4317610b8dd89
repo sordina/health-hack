@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Puerto Rico Medical Sciences Campus",
+               "short_name" : "University of Puerto Rico Medical Sciences Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gobernador Piñero",
+               "short_name" : "Gobernador Piñero",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Puerto Rico",
+               "short_name" : "PR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00921",
+               "short_name" : "00921",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Puerto Rico Medical Sciences Campus, San Juan, 00921, Puerto Rico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.399633,
+                  "lng" : -66.07115639999999
+               },
+               "southwest" : {
+                  "lat" : 18.3882993,
+                  "lng" : -66.08170679999999
+               }
+            },
+            "location" : {
+               "lat" : 18.3926381,
+               "lng" : -66.07460589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.399633,
+                  "lng" : -66.07115639999999
+               },
+               "southwest" : {
+                  "lat" : 18.3882993,
+                  "lng" : -66.08170679999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

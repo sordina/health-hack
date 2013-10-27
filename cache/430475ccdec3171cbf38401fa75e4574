@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keelung City",
+               "short_name" : "Keelung City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Keelung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1956281,
+                  "lng" : 121.8084506
+               },
+               "southwest" : {
+                  "lat" : 25.0524664,
+                  "lng" : 121.6267973
+               }
+            },
+            "location" : {
+               "lat" : 25.1089809,
+               "lng" : 121.7081454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1956281,
+                  "lng" : 121.8084506
+               },
+               "southwest" : {
+                  "lat" : 25.0524664,
+                  "lng" : 121.6267973
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

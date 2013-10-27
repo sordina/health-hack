@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "LSU Health Sciences Center - New Orleans",
+               "short_name" : "LSU Health Sciences Center - New Orleans",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "433",
+               "short_name" : "433",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bolivar Street",
+               "short_name" : "Bolivar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70112",
+               "short_name" : "70112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LSU Health Sciences Center - New Orleans, 433 Bolivar Street, New Orleans, LA 70112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.957292,
+               "lng" : -90.0825047
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9669588,
+                  "lng" : -90.06649729999999
+               },
+               "southwest" : {
+                  "lat" : 29.94762429999999,
+                  "lng" : -90.09851209999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

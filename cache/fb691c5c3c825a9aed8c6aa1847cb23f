@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Badalona",
+               "short_name" : "Badalona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Badalona",
+               "short_name" : "Badalona",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Badalona, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4717818,
+                  "lng" : 2.2683313
+               },
+               "southwest" : {
+                  "lat" : 41.4288613,
+                  "lng" : 2.2126022
+               }
+            },
+            "location" : {
+               "lat" : 41.4469883,
+               "lng" : 2.2450325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4717818,
+                  "lng" : 2.2683313
+               },
+               "southwest" : {
+                  "lat" : 41.4288613,
+                  "lng" : 2.2126022
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

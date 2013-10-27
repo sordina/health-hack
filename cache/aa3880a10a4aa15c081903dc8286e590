@@ -1,0 +1,503 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Center",
+               "short_name" : "Medical Center",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oak Cliff",
+               "short_name" : "Oak Cliff",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75233",
+               "short_name" : "75233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medical Center, Dallas, TX 75233, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7158662,
+                  "lng" : -96.85739529999999
+               },
+               "southwest" : {
+                  "lat" : 32.7141918,
+                  "lng" : -96.86073759999999
+               }
+            },
+            "location" : {
+               "lat" : 32.71498130000001,
+               "lng" : -96.8590425
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7163779802915,
+                  "lng" : -96.85739529999999
+               },
+               "southwest" : {
+                  "lat" : 32.71368001970851,
+                  "lng" : -96.86073759999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas Medical Center",
+               "short_name" : "Dallas Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Medical Parkway",
+               "short_name" : "Medical Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northeast",
+               "short_name" : "Northeast",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75234",
+               "short_name" : "75234",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas Medical Center, Medical Parkway, Dallas, TX 75234, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9162783,
+                  "lng" : -96.86737239999999
+               },
+               "southwest" : {
+                  "lat" : 32.9135851,
+                  "lng" : -96.8731418
+               }
+            },
+            "location" : {
+               "lat" : 32.9152745,
+               "lng" : -96.869438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.91628068029151,
+                  "lng" : -96.86737239999999
+               },
+               "southwest" : {
+                  "lat" : 32.91358271970851,
+                  "lng" : -96.8731418
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas Medical Center",
+               "short_name" : "Dallas Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "310",
+               "short_name" : "310",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Parkway",
+               "short_name" : "Medical Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75234",
+               "short_name" : "75234",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7843",
+               "short_name" : "7843",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dallas Medical Center, 8 Medical Parkway #310, Dallas, TX 75234, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.9146387,
+               "lng" : -96.8717875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9159876802915,
+                  "lng" : -96.8704385197085
+               },
+               "southwest" : {
+                  "lat" : 32.9132897197085,
+                  "lng" : -96.87313648029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Children's Medical Center Dallas",
+               "short_name" : "Children's Medical Center Dallas",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2350",
+               "short_name" : "2350",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Stemmons Freeway",
+               "short_name" : "N Stemmons Fwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75207",
+               "short_name" : "75207",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Children's Medical Center Dallas, 2350 North Stemmons Freeway, Dallas, TX 75207, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8063109,
+               "lng" : -96.8380301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8076598802915,
+                  "lng" : -96.8366811197085
+               },
+               "southwest" : {
+                  "lat" : 32.8049619197085,
+                  "lng" : -96.83937908029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas VA Medical Center",
+               "short_name" : "Dallas VA Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4500",
+               "short_name" : "4500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Lancaster Road",
+               "short_name" : "S Lancaster Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar Crest",
+               "short_name" : "Cedar Crest",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75216",
+               "short_name" : "75216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas VA Medical Center, 4500 South Lancaster Road, Dallas, TX 75216, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6979267,
+                  "lng" : -96.7856539
+               },
+               "southwest" : {
+                  "lat" : 32.6915879,
+                  "lng" : -96.79402449999999
+               }
+            },
+            "location" : {
+               "lat" : 32.694882,
+               "lng" : -96.789985
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6979267,
+                  "lng" : -96.7856539
+               },
+               "southwest" : {
+                  "lat" : 32.6915879,
+                  "lng" : -96.79402449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas Medical Center",
+               "short_name" : "Dallas Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Parkway",
+               "short_name" : "Medical Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75234",
+               "short_name" : "75234",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas Medical Center, 7 Medical Parkway, Dallas, TX 75234, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9162515,
+                  "lng" : -96.8674709
+               },
+               "southwest" : {
+                  "lat" : 32.9137887,
+                  "lng" : -96.87308489999999
+               }
+            },
+            "location" : {
+               "lat" : 32.915021,
+               "lng" : -96.870278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9163690802915,
+                  "lng" : -96.8674709
+               },
+               "southwest" : {
+                  "lat" : 32.9136711197085,
+                  "lng" : -96.87308489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Children's Medical Center Dallas",
+               "short_name" : "Children's Medical Center Dallas",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1935",
+               "short_name" : "1935",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical District Drive",
+               "short_name" : "Medical District Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75235",
+               "short_name" : "75235",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Children's Medical Center Dallas, 1935 Medical District Drive, Dallas, TX 75235, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8098056,
+               "lng" : -96.83606119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8111545802915,
+                  "lng" : -96.83471221970848
+               },
+               "southwest" : {
+                  "lat" : 32.8084566197085,
+                  "lng" : -96.8374101802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

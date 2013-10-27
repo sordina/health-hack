@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mulhouse",
+               "short_name" : "Mulhouse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haut-Rhin",
+               "short_name" : "68",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace",
+               "short_name" : "Alsace",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mulhouse, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7834759,
+                  "lng" : 7.368728
+               },
+               "southwest" : {
+                  "lat" : 47.721896,
+                  "lng" : 7.282521000000001
+               }
+            },
+            "location" : {
+               "lat" : 47.750839,
+               "lng" : 7.335888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7834759,
+                  "lng" : 7.368728
+               },
+               "southwest" : {
+                  "lat" : 47.721896,
+                  "lng" : 7.282521000000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

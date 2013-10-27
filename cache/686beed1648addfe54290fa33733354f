@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harvard University",
+               "short_name" : "Harvard University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1350",
+               "short_name" : "1350",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Massachusetts Ave",
+               "short_name" : "Massachusetts Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02138",
+               "short_name" : "02138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harvard University, 1350 Massachusetts Ave, Cambridge, MA 02138, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3839481,
+                  "lng" : -71.10679279999999
+               },
+               "southwest" : {
+                  "lat" : 42.3618469,
+                  "lng" : -71.1361833
+               }
+            },
+            "location" : {
+               "lat" : 42.3741886,
+               "lng" : -71.1165876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3839481,
+                  "lng" : -71.10679279999999
+               },
+               "southwest" : {
+                  "lat" : 42.3618469,
+                  "lng" : -71.1361833
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agassiz",
+               "short_name" : "Agassiz",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Agassiz, Cambridge, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3882959,
+                  "lng" : -71.1072961
+               },
+               "southwest" : {
+                  "lat" : 42.375796,
+                  "lng" : -71.1201971
+               }
+            },
+            "location" : {
+               "lat" : 42.3800977,
+               "lng" : -71.1166286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3882959,
+                  "lng" : -71.1072961
+               },
+               "southwest" : {
+                  "lat" : 42.375796,
+                  "lng" : -71.1201971
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

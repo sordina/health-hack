@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Graduate School of Beijing University of Chinese Medicine",
+               "short_name" : "Graduate School of Beijing University of Chinese Medicine",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Chaoyang",
+               "short_name" : "Chaoyang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Graduate School of Beijing University of Chinese Medicine, Chaoyang, Beijing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.97079859999999,
+                  "lng" : 116.4261202
+               },
+               "southwest" : {
+                  "lat" : 39.9700877,
+                  "lng" : 116.4259482
+               }
+            },
+            "location" : {
+               "lat" : 39.9704333,
+               "lng" : 116.4260052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9717921302915,
+                  "lng" : 116.4273831802915
+               },
+               "southwest" : {
+                  "lat" : 39.9690941697085,
+                  "lng" : 116.4246852197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

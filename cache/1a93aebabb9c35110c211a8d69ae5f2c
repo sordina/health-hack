@@ -1,0 +1,399 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University Of Edinburgh",
+               "short_name" : "The University Of Edinburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Old College",
+               "short_name" : "Old College",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "South Bridge",
+               "short_name" : "S Bridge",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH8 9YL",
+               "short_name" : "EH8 9YL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "The University Of Edinburgh, Old College, South Bridge, Edinburgh, City of Edinburgh EH8 9YL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9512385,
+                  "lng" : -3.1694431
+               },
+               "southwest" : {
+                  "lat" : 55.9210025,
+                  "lng" : -3.2010245
+               }
+            },
+            "location" : {
+               "lat" : 55.9474293,
+               "lng" : -3.1872611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9512385,
+                  "lng" : -3.1788053
+               },
+               "southwest" : {
+                  "lat" : 55.9421246,
+                  "lng" : -3.1922812
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Edinburgh King's Buildings",
+               "short_name" : "University of Edinburgh King's Buildings",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "The Kings Building",
+               "short_name" : "The Kings Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "West Mains Road",
+               "short_name" : "W Mains Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midlothian",
+               "short_name" : "Midlothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH9 3JN",
+               "short_name" : "EH9 3JN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Edinburgh King's Buildings, The Kings Building, West Mains Road, Edinburgh, Midlothian EH9 3JN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9246873,
+                  "lng" : -3.1694431
+               },
+               "southwest" : {
+                  "lat" : 55.9210025,
+                  "lng" : -3.1797581
+               }
+            },
+            "location" : {
+               "lat" : 55.9239644,
+               "lng" : -3.1762354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9246873,
+                  "lng" : -3.1694431
+               },
+               "southwest" : {
+                  "lat" : 55.9210025,
+                  "lng" : -3.1797581
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Edinburgh",
+               "short_name" : "University of Edinburgh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH3 9AU",
+               "short_name" : "EH3 9AU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Edinburgh, Edinburgh, City of Edinburgh EH3 9AU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9461807,
+                  "lng" : -3.1912648
+               },
+               "southwest" : {
+                  "lat" : 55.9455462,
+                  "lng" : -3.1924903
+               }
+            },
+            "location" : {
+               "lat" : 55.9458618,
+               "lng" : -3.1919136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9472124302915,
+                  "lng" : -3.190528569708498
+               },
+               "southwest" : {
+                  "lat" : 55.9445144697085,
+                  "lng" : -3.193226530291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Edinburgh",
+               "short_name" : "University of Edinburgh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH1",
+               "short_name" : "EH1",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Edinburgh, Edinburgh, City of Edinburgh EH1, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.94988650000001,
+                  "lng" : -3.1947292
+               },
+               "southwest" : {
+                  "lat" : 55.9493765,
+                  "lng" : -3.1956404
+               }
+            },
+            "location" : {
+               "lat" : 55.949738,
+               "lng" : -3.1952843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.95098048029151,
+                  "lng" : -3.193835819708498
+               },
+               "southwest" : {
+                  "lat" : 55.94828251970851,
+                  "lng" : -3.196533780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Edinburgh",
+               "short_name" : "University Of Edinburgh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Edinburgh King's Buildings",
+               "short_name" : "University of Edinburgh King's Buildings",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mayfield Road",
+               "short_name" : "Mayfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH9 3JU",
+               "short_name" : "EH9 3JU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University Of Edinburgh, Mayfield Road, University of Edinburgh King's Buildings, Edinburgh, City of Edinburgh EH9 3JU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.92245029999999,
+               "lng" : -3.1724447
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.92379928029149,
+                  "lng" : -3.171095719708498
+               },
+               "southwest" : {
+                  "lat" : 55.9211013197085,
+                  "lng" : -3.173793680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Edinburgh",
+               "short_name" : "University of Edinburgh",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH8 9AB",
+               "short_name" : "EH8 9AB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Edinburgh, Edinburgh, City of Edinburgh EH8 9AB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.94533819999999,
+               "lng" : -3.1875332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9466871802915,
+                  "lng" : -3.186184219708498
+               },
+               "southwest" : {
+                  "lat" : 55.9439892197085,
+                  "lng" : -3.188882180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

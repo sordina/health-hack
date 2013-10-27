@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilburg University",
+               "short_name" : "Tilburg University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Warandelaan",
+               "short_name" : "Warandelaan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "De Oude Warande",
+               "short_name" : "De Oude Warande",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tilburg",
+               "short_name" : "Tilburg",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tilburg",
+               "short_name" : "Tilburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tilburg",
+               "short_name" : "Tilburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5037 AB",
+               "short_name" : "5037 AB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tilburg University, Warandelaan 2, 5037 AB Tilburg, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.56619080000001,
+                  "lng" : 5.056945199999999
+               },
+               "southwest" : {
+                  "lat" : 51.5611242,
+                  "lng" : 5.040406700000001
+               }
+            },
+            "location" : {
+               "lat" : 51.56404509999999,
+               "lng" : 5.0436033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.56619080000001,
+                  "lng" : 5.048883
+               },
+               "southwest" : {
+                  "lat" : 51.5611242,
+                  "lng" : 5.040406700000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

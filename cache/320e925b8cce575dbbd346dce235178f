@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London School of Hygiene and Tropical Medicine",
+               "short_name" : "London School of Hygiene and Tropical Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Keppel Street",
+               "short_name" : "Keppel St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bloomsbury",
+               "short_name" : "Bloomsbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1E 7HT",
+               "short_name" : "WC1E 7HT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "London School of Hygiene and Tropical Medicine, Keppel Street, London WC1E 7HT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5256481,
+                  "lng" : -0.1264365
+               },
+               "southwest" : {
+                  "lat" : 51.5184162,
+                  "lng" : -0.1311298
+               }
+            },
+            "location" : {
+               "lat" : 51.5206139,
+               "lng" : -0.1300205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5222548302915,
+                  "lng" : -0.128965069708498
+               },
+               "southwest" : {
+                  "lat" : 51.5195568697085,
+                  "lng" : -0.131663030291502
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

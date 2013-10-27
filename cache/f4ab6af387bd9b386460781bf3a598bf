@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Espinho",
+               "short_name" : "Espinho",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aveiro District",
+               "short_name" : "Aveiro District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Espinho, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0160051,
+                  "lng" : -8.6334195
+               },
+               "southwest" : {
+                  "lat" : 40.9991388,
+                  "lng" : -8.649709999999999
+               }
+            },
+            "location" : {
+               "lat" : 41.0071914,
+               "lng" : -8.641033199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0160051,
+                  "lng" : -8.6334195
+               },
+               "southwest" : {
+                  "lat" : 40.9991388,
+                  "lng" : -8.649709999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fondazione Toscana Gabriele Monasterio - Cnr",
+               "short_name" : "Fondazione Toscana Gabriele Monasterio - Cnr",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giuseppe Moruzzi",
+               "short_name" : "Via Giuseppe Moruzzi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56124",
+               "short_name" : "56124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fondazione Toscana Gabriele Monasterio - Cnr, Via Giuseppe Moruzzi, 1, 56124 Pisa, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.720157,
+               "lng" : 10.4224662
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7282206,
+                  "lng" : 10.4384736
+               },
+               "southwest" : {
+                  "lat" : 43.71209229999999,
+                  "lng" : 10.4064588
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

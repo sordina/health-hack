@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ufba",
+               "short_name" : "Ufba",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Augusto Viana",
+               "short_name" : "R. Augusto Viana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canela",
+               "short_name" : "Canela",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40110909",
+               "short_name" : "40110909",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ufba - Rua Augusto Viana, s/n - Canela, Salvador - Bahia, 40110-909, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.992546,
+               "lng" : -38.52066200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.9816734,
+                  "lng" : -38.50465459999999
+               },
+               "southwest" : {
+                  "lat" : -13.0034181,
+                  "lng" : -38.5366694
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidade Federal da Bahia",
+               "short_name" : "Universidade Federal da Bahia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "107",
+               "short_name" : "107",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Caetano Moura",
+               "short_name" : "R. Caetano Moura",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Federação",
+               "short_name" : "Federação",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Salvador",
+               "short_name" : "Salvador",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40210-340",
+               "short_name" : "40210-340",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidade Federal da Bahia - Rua Caetano Moura, 107 - Federação, Salvador - Bahia, 40210-340, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.997718,
+               "lng" : -38.5117288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.9963690197085,
+                  "lng" : -38.5103798197085
+               },
+               "southwest" : {
+                  "lat" : -12.9990669802915,
+                  "lng" : -38.5130777802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adnan Menderes University",
+               "short_name" : "Adnan Menderes University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Zafer Mh.",
+               "short_name" : "Zafer Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Aydin",
+               "short_name" : "Aydin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aydın Merkez",
+               "short_name" : "Aydın Merkez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aydın Province",
+               "short_name" : "Aydın Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09010",
+               "short_name" : "09010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adnan Menderes University, Zafer Mh., 09010 Aydin/Aydın Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.859064,
+                  "lng" : 27.861513
+               },
+               "southwest" : {
+                  "lat" : 37.8513511,
+                  "lng" : 27.848233
+               }
+            },
+            "location" : {
+               "lat" : 37.852745,
+               "lng" : 27.8542778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.859064,
+                  "lng" : 27.861513
+               },
+               "southwest" : {
+                  "lat" : 37.8513511,
+                  "lng" : 27.848233
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ribeirão Preto",
+               "short_name" : "Ribeirão Preto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cidade Ademar",
+               "short_name" : "Cidade Ademar",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ribeirão Preto, Cidade Ademar, São Paulo, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.6773507,
+               "lng" : -46.6476987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6671316,
+                  "lng" : -46.6316913
+               },
+               "southwest" : {
+                  "lat" : -23.687569,
+                  "lng" : -46.6637061
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "FEARP-USP Ribeirão Preto",
+               "short_name" : "FEARP-USP Ribeirão Preto",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Subsetor Oeste 11",
+               "short_name" : "Subsetor Oeste 11",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ribeirão Preto",
+               "short_name" : "Ribeirão Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "FEARP-USP Ribeirão Preto - Subsetor Oeste 11, Ribeirão Preto - São Paulo, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -21.1662788,
+               "lng" : -47.8519017
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.1649298197085,
+                  "lng" : -47.8505527197085
+               },
+               "southwest" : {
+                  "lat" : -21.1676277802915,
+                  "lng" : -47.8532506802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

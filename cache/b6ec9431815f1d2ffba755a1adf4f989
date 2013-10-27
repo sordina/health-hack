@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Halle-Wittenberg",
+               "short_name" : "University of Halle-Wittenberg",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsplatz",
+               "short_name" : "Universitätsplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Halle",
+               "short_name" : "Halle",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Halle",
+               "short_name" : "Halle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halle (Saale)",
+               "short_name" : "Halle (Saale)",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06108",
+               "short_name" : "06108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Halle-Wittenberg, Universitätsplatz 10, 06108 Halle, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4720553,
+                  "lng" : 11.9796057
+               },
+               "southwest" : {
+                  "lat" : 51.47181130000001,
+                  "lng" : 11.9792847
+               }
+            },
+            "location" : {
+               "lat" : 51.4719749,
+               "lng" : 11.9794188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.47328228029151,
+                  "lng" : 11.9807941802915
+               },
+               "southwest" : {
+                  "lat" : 51.47058431970851,
+                  "lng" : 11.9780962197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

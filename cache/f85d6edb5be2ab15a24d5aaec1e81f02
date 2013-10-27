@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of L'Aquila",
+               "short_name" : "University of L'Aquila",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Ospedale S. Salvatore",
+               "short_name" : "Via Ospedale S. Salvatore",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Coppito",
+               "short_name" : "Coppito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "L'Aquila",
+               "short_name" : "L'Aquila",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "L'Aquila",
+               "short_name" : "AQ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67100",
+               "short_name" : "67100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of L'Aquila, Via Ospedale S. Salvatore, 6, 67100 Coppito L'Aquila, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3704013,
+                  "lng" : 13.4668002
+               },
+               "southwest" : {
+                  "lat" : 42.3418273,
+                  "lng" : 13.3468587
+               }
+            },
+            "location" : {
+               "lat" : 42.3671412,
+               "lng" : 13.35181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3704013,
+                  "lng" : 13.3560355
+               },
+               "southwest" : {
+                  "lat" : 42.3583534,
+                  "lng" : 13.3468587
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

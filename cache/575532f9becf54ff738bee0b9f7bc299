@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Instituto Cardiovascular Argentino",
+               "short_name" : "Instituto Cardiovascular Argentino",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "Venezuela",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Balvanera",
+               "short_name" : "Balvanera",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires",
+               "short_name" : "CF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Autónoma de Buenos Aires",
+               "short_name" : "Ciudad Autónoma de Buenos Aires",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Instituto Cardiovascular Argentino - Venezuela, Buenos Aires, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "location" : {
+               "lat" : -34.6165574,
+               "lng" : -58.4080064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6073742,
+                  "lng" : -58.391999
+               },
+               "southwest" : {
+                  "lat" : -34.6257396,
+                  "lng" : -58.4240138
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

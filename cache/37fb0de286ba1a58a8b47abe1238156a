@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yakutsk",
+               "short_name" : "Yakutsk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Yakutsk",
+               "short_name" : "g. Yakutsk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sakha",
+               "short_name" : "Sakha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yakutsk, Sakha, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.11524689999999,
+                  "lng" : 129.8127318
+               },
+               "southwest" : {
+                  "lat" : 61.95058899999999,
+                  "lng" : 129.5996519
+               }
+            },
+            "location" : {
+               "lat" : 62.0333333,
+               "lng" : 129.7333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.11524689999999,
+                  "lng" : 129.8127318
+               },
+               "southwest" : {
+                  "lat" : 61.95058899999999,
+                  "lng" : 129.5996519
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

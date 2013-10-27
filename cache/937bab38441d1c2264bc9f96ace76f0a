@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arak",
+               "short_name" : "Arak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Markazi",
+               "short_name" : "Markazi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arak, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1310604,
+                  "lng" : 49.8312378
+               },
+               "southwest" : {
+                  "lat" : 34.015246,
+                  "lng" : 49.60958
+               }
+            },
+            "location" : {
+               "lat" : 34.087681,
+               "lng" : 49.686089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1310604,
+                  "lng" : 49.8312378
+               },
+               "southwest" : {
+                  "lat" : 34.015246,
+                  "lng" : 49.60958
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

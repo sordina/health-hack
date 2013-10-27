@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vancouver General Hospital: Centennial Pavilion",
+               "short_name" : "Vancouver General Hospital: Centennial Pavilion",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "855",
+               "short_name" : "855",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 12th Ave",
+               "short_name" : "West 12th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairview",
+               "short_name" : "Fairview",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Vancouver",
+               "short_name" : "Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V5Z 1M9",
+               "short_name" : "V5Z 1M9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vancouver General Hospital: Centennial Pavilion, 855 West 12th Ave, Vancouver, BC V5Z 1M9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.26288779999999,
+                  "lng" : -123.1175172
+               },
+               "southwest" : {
+                  "lat" : 49.25954309999999,
+                  "lng" : -123.1254358
+               }
+            },
+            "location" : {
+               "lat" : 49.2621055,
+               "lng" : -123.122406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26288779999999,
+                  "lng" : -123.1175172
+               },
+               "southwest" : {
+                  "lat" : 49.25954309999999,
+                  "lng" : -123.1254358
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

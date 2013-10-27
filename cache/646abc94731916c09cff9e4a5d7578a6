@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campina Grande",
+               "short_name" : "Campina Grande",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paraiba",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campina Grande - Paraíba, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -7.151506299999999,
+                  "lng" : -35.7240853
+               },
+               "southwest" : {
+                  "lat" : -7.399848,
+                  "lng" : -36.2312291
+               }
+            },
+            "location" : {
+               "lat" : -7.2307181,
+               "lng" : -35.8816664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.151506299999999,
+                  "lng" : -35.7240853
+               },
+               "southwest" : {
+                  "lat" : -7.399848,
+                  "lng" : -36.2312291
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

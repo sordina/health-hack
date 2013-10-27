@@ -1,0 +1,364 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Druid Hills",
+               "short_name" : "Druid Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30329",
+               "short_name" : "30329",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, Emory University, Druid Hills, GA 30329, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7958832,
+               "lng" : -84.3232235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.79723218029149,
+                  "lng" : -84.32187451970849
+               },
+               "southwest" : {
+                  "lat" : 33.7945342197085,
+                  "lng" : -84.32457248029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pittsburgh",
+               "short_name" : "University of Pittsburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West Oakland",
+               "short_name" : "West Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15213",
+               "short_name" : "15213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, University of Pittsburgh, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.44180679999999,
+               "lng" : -79.96173569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4431557802915,
+                  "lng" : -79.96038671970848
+               },
+               "southwest" : {
+                  "lat" : 40.4404578197085,
+                  "lng" : -79.96308468029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Yale University",
+               "short_name" : "Yale University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "The Hill",
+               "short_name" : "The Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, Yale University, New Haven, CT 06510, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3033122,
+               "lng" : -72.93392539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3116938,
+                  "lng" : -72.917918
+               },
+               "southwest" : {
+                  "lat" : 41.29492949999999,
+                  "lng" : -72.9499328
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Middle East",
+               "short_name" : "Middle East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21205",
+               "short_name" : "21205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, Johns Hopkins University, Baltimore, MD 21205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2994203,
+               "lng" : -76.59005759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3007692802915,
+                  "lng" : -76.58870861970848
+               },
+               "southwest" : {
+                  "lat" : 39.29807131970851,
+                  "lng" : -76.59140658029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06032",
+               "short_name" : "06032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, Farmington, CT 06032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7299398,
+               "lng" : -72.7916371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.73128878029149,
+                  "lng" : -72.79028811970851
+               },
+               "southwest" : {
+                  "lat" : 41.72859081970849,
+                  "lng" : -72.79298608029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cell Biology",
+               "short_name" : "Department of Cell Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Allapattah",
+               "short_name" : "Allapattah",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miami-Dade",
+               "short_name" : "Miami-Dade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33136",
+               "short_name" : "33136",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cell Biology, Miami, FL 33136, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7903198,
+               "lng" : -80.2121224
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7916687802915,
+                  "lng" : -80.21077341970849
+               },
+               "southwest" : {
+                  "lat" : 25.7889708197085,
+                  "lng" : -80.21347138029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "浙江大学玉泉校区",
+               "short_name" : "浙江大学玉泉校区",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "38号",
+               "short_name" : "38号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zheda Road",
+               "short_name" : "Zheda Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xihu",
+               "short_name" : "Xihu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hangzhou",
+               "short_name" : "Hangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "321000",
+               "short_name" : "321000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "China, Zhejiang, Hangzhou, Xihu, Zheda Road, 38号浙江大学玉泉校区 邮政编码: 321000",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.263449,
+               "lng" : 120.125006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2730859,
+                  "lng" : 120.1410134
+               },
+               "southwest" : {
+                  "lat" : 30.2538112,
+                  "lng" : 120.1089986
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhejiang University Yuquan Campus",
+               "short_name" : "Zhejiang University Yuquan Campus",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "38号",
+               "short_name" : "38号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Zheda Road",
+               "short_name" : "Zheda Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xihu",
+               "short_name" : "Xihu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hangzhou",
+               "short_name" : "Hangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "310027",
+               "short_name" : "310027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zhejiang University Yuquan Campus, 38 Zheda Road, Xihu, Hangzhou, Zhejiang, China, 310027",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.2613469,
+               "lng" : 120.1254773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2626958802915,
+                  "lng" : 120.1268262802915
+               },
+               "southwest" : {
+                  "lat" : 30.2599979197085,
+                  "lng" : 120.1241283197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic",
+               "short_name" : "Mayo Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4500",
+               "short_name" : "4500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "San Pablo Road South",
+               "short_name" : "San Pablo Rd S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southside",
+               "short_name" : "Southside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jacksonville",
+               "short_name" : "Jacksonville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Duval",
+               "short_name" : "Duval",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32224",
+               "short_name" : "32224",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1865",
+               "short_name" : "1865",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic, 4500 San Pablo Road South, Jacksonville, FL 32224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.2647646,
+               "lng" : -81.44059860000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2744013,
+                  "lng" : -81.42459119999999
+               },
+               "southwest" : {
+                  "lat" : 30.2551269,
+                  "lng" : -81.45660599999999
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

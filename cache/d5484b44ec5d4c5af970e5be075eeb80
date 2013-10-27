@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patrick L. Lee, MD",
+               "short_name" : "Patrick L. Lee, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "655",
+               "short_name" : "655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Baltimore Street",
+               "short_name" : "W Baltimore St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21201",
+               "short_name" : "21201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Patrick L. Lee, MD, 655 West Baltimore Street, Baltimore, MD 21201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2887587,
+               "lng" : -76.62532419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2973941,
+                  "lng" : -76.6093168
+               },
+               "southwest" : {
+                  "lat" : 39.2801223,
+                  "lng" : -76.6413316
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

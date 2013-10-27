@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Azhar University",
+               "short_name" : "Al Azhar University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Al Mokhaym Al Daem",
+               "short_name" : "Al Mokhaym Al Daem",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nasr City",
+               "short_name" : "Nasr City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gameat Al Azhar",
+               "short_name" : "Gameat Al Azhar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nasr City",
+               "short_name" : "Nasr City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Cairo Governorate",
+               "short_name" : "Cairo Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Azhar University, 1 Al Mokhaym Al Daem, Gameat Al Azhar, Nasr City, Cairo Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.0637641,
+                  "lng" : 31.3246071
+               },
+               "southwest" : {
+                  "lat" : 30.0503924,
+                  "lng" : 31.3085676
+               }
+            },
+            "location" : {
+               "lat" : 30.0570783,
+               "lng" : 31.3165873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0637641,
+                  "lng" : 31.3246071
+               },
+               "southwest" : {
+                  "lat" : 30.0503924,
+                  "lng" : 31.3085676
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Ottawa Heart Institute",
+               "short_name" : "The University of Ottawa Heart Institute",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ruskin Street",
+               "short_name" : "Ruskin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Civic Hospital - Experimental Farm - Central Park",
+               "short_name" : "Civic Hospital - Experimental Farm - Central Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1Y 4W7",
+               "short_name" : "K1Y 4W7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of Ottawa Heart Institute, 40 Ruskin Street, Ottawa, ON K1Y 4W7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.3940469,
+               "lng" : -75.7206169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4018818,
+                  "lng" : -75.7046095
+               },
+               "southwest" : {
+                  "lat" : 45.38621089999999,
+                  "lng" : -75.7366243
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

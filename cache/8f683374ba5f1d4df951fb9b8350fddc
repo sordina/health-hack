@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samsun",
+               "short_name" : "Samsun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samsun, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.343598,
+                  "lng" : 36.3819319
+               },
+               "southwest" : {
+                  "lat" : 41.239349,
+                  "lng" : 36.242871
+               }
+            },
+            "location" : {
+               "lat" : 41.292782,
+               "lng" : 36.33128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.343598,
+                  "lng" : 36.3819319
+               },
+               "southwest" : {
+                  "lat" : 41.239349,
+                  "lng" : 36.242871
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Samsun",
+               "short_name" : "Samsun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Çarşıbaşı",
+               "short_name" : "Çarşıbaşı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trabzon Province",
+               "short_name" : "Trabzon Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Samsun/Trabzon Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.040978,
+                  "lng" : 39.443368
+               },
+               "southwest" : {
+                  "lat" : 41.032424,
+                  "lng" : 39.4325842
+               }
+            },
+            "location" : {
+               "lat" : 41.0364498,
+               "lng" : 39.4386899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.040978,
+                  "lng" : 39.443368
+               },
+               "southwest" : {
+                  "lat" : 41.032424,
+                  "lng" : 39.4325842
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

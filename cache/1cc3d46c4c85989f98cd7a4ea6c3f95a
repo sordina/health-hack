@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Perugia",
+               "short_name" : "University of Perugia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Università",
+               "short_name" : "Piazza Università",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Perugia",
+               "short_name" : "Perugia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perugia",
+               "short_name" : "PG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Umbria",
+               "short_name" : "Umbria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06100",
+               "short_name" : "06100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Perugia, Piazza Università, 1, 06100 Perugia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1208231,
+                  "lng" : 12.4060867
+               },
+               "southwest" : {
+                  "lat" : 43.075883,
+                  "lng" : 12.3513409
+               }
+            },
+            "location" : {
+               "lat" : 43.116312,
+               "lng" : 12.387543
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1174316302915,
+                  "lng" : 12.3878628
+               },
+               "southwest" : {
+                  "lat" : 43.1147336697085,
+                  "lng" : 12.3833019
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

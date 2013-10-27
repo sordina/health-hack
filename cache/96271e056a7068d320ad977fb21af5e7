@@ -1,0 +1,286 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campus Santé",
+               "short_name" : "U.A.",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Angers",
+               "short_name" : "Angers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49100",
+               "short_name" : "49100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Campus Santé, 49100 Angers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4887646,
+                  "lng" : -0.549937
+               },
+               "southwest" : {
+                  "lat" : 47.4793217,
+                  "lng" : -0.560473
+               }
+            },
+            "location" : {
+               "lat" : 47.4872646,
+               "lng" : -0.5506867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4890750802915,
+                  "lng" : -0.549769519708498
+               },
+               "southwest" : {
+                  "lat" : 47.4863771197085,
+                  "lng" : -0.5524674802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Espace Culturel de l'Université d'Angers",
+               "short_name" : "Espace Culturel de l'Université d'Angers",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Allée François Mitterrand",
+               "short_name" : "Allée François Mitterrand",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint-Serge",
+               "short_name" : "Saint-Serge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Angers",
+               "short_name" : "Angers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49100",
+               "short_name" : "49100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Espace Culturel de l'Université d'Angers, 4 Allée François Mitterrand, 49100 Angers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4772642,
+                  "lng" : -0.5501317999999999
+               },
+               "southwest" : {
+                  "lat" : 47.4770539,
+                  "lng" : -0.5504536
+               }
+            },
+            "location" : {
+               "lat" : 47.477159,
+               "lng" : -0.5502927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.47850803029149,
+                  "lng" : -0.548943719708498
+               },
+               "southwest" : {
+                  "lat" : 47.4758100697085,
+                  "lng" : -0.5516416802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Université d'Angers",
+               "short_name" : "U.A.",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Campus universitaire de Belle Beille",
+               "short_name" : "Campus universitaire de Belle Beille",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Angers",
+               "short_name" : "Angers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49000",
+               "short_name" : "49000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Université d'Angers, Campus universitaire de Belle Beille, 49000 Angers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4808213,
+                  "lng" : -0.5916318
+               },
+               "southwest" : {
+                  "lat" : 47.4803365,
+                  "lng" : -0.5933568
+               }
+            },
+            "location" : {
+               "lat" : 47.4805797,
+               "lng" : -0.5923984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4819278802915,
+                  "lng" : -0.591145319708498
+               },
+               "southwest" : {
+                  "lat" : 47.4792299197085,
+                  "lng" : -0.5938432802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faculté de Médecine",
+               "short_name" : "Faculté de Médecine",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Campus Santé",
+               "short_name" : "U.A.",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Angers",
+               "short_name" : "Angers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49100",
+               "short_name" : "49100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faculté de Médecine, Campus Santé, 49100 Angers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.48858,
+                  "lng" : -0.550161
+               },
+               "southwest" : {
+                  "lat" : 47.4877481,
+                  "lng" : -0.5517261
+               }
+            },
+            "location" : {
+               "lat" : 47.4880682,
+               "lng" : -0.5509841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4895130302915,
+                  "lng" : -0.5495945697084981
+               },
+               "southwest" : {
+                  "lat" : 47.48681506970851,
+                  "lng" : -0.5522925302915022
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

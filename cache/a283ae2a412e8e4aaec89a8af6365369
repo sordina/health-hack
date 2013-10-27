@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karnal",
+               "short_name" : "Karnal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karnal",
+               "short_name" : "Karnal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karnal, Haryana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7329303,
+                  "lng" : 77.04707549999999
+               },
+               "southwest" : {
+                  "lat" : 29.6375601,
+                  "lng" : 76.92978859999999
+               }
+            },
+            "location" : {
+               "lat" : 29.6856929,
+               "lng" : 76.9904825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7329303,
+                  "lng" : 77.04707549999999
+               },
+               "southwest" : {
+                  "lat" : 29.6375601,
+                  "lng" : 76.92978859999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

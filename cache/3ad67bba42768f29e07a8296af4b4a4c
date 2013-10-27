@@ -1,0 +1,433 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College of Medicine",
+               "short_name" : "Baylor College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Baylor Plaza",
+               "short_name" : "Baylor Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor College of Medicine, 1 Baylor Plaza, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.710469,
+               "lng" : -95.39589400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7201597,
+                  "lng" : -95.37988659999999
+               },
+               "southwest" : {
+                  "lat" : 29.7007774,
+                  "lng" : -95.41190139999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College Of Medicine",
+               "short_name" : "Baylor College Of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6620",
+               "short_name" : "6620",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor College Of Medicine, 6620 Main Street, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.709906,
+               "lng" : -95.40282999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7112549802915,
+                  "lng" : -95.4014810197085
+               },
+               "southwest" : {
+                  "lat" : 29.7085570197085,
+                  "lng" : -95.4041789802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College of Medicine",
+               "short_name" : "Baylor College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "700",
+               "short_name" : "700",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "6655",
+               "short_name" : "6655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Travis Street",
+               "short_name" : "Travis St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor College of Medicine, 6655 Travis Street #700, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.709457,
+               "lng" : -95.403629
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7108059802915,
+                  "lng" : -95.40228001970848
+               },
+               "southwest" : {
+                  "lat" : 29.7081080197085,
+                  "lng" : -95.40497798029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College Of Medicine",
+               "short_name" : "Baylor College Of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6565",
+               "short_name" : "6565",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fannin Street",
+               "short_name" : "Fannin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor College Of Medicine, 6565 Fannin Street, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7097368,
+               "lng" : -95.3998246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7110857802915,
+                  "lng" : -95.39847561970849
+               },
+               "southwest" : {
+                  "lat" : 29.7083878197085,
+                  "lng" : -95.4011735802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College of Medicine",
+               "short_name" : "Baylor College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6560",
+               "short_name" : "6560",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fannin Street",
+               "short_name" : "Fannin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor College of Medicine, 6560 Fannin Street, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7112241,
+               "lng" : -95.3996018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7125730802915,
+                  "lng" : -95.3982528197085
+               },
+               "southwest" : {
+                  "lat" : 29.7098751197085,
+                  "lng" : -95.40095078029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor College of Medicine",
+               "short_name" : "Baylor College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1504",
+               "short_name" : "1504",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Taub Loop",
+               "short_name" : "Taub Loop",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1608",
+               "short_name" : "1608",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Baylor College of Medicine, 1504 Taub Loop, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.7131566,
+               "lng" : -95.3944588
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7145055802915,
+                  "lng" : -95.39310981970849
+               },
+               "southwest" : {
+                  "lat" : 29.7118076197085,
+                  "lng" : -95.39580778029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

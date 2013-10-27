@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Valencia",
+               "short_name" : "V",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valencia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5073225,
+                  "lng" : -0.2914778
+               },
+               "southwest" : {
+                  "lat" : 39.308248,
+                  "lng" : -0.4315448
+               }
+            },
+            "location" : {
+               "lat" : 39.4699075,
+               "lng" : -0.3762881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5073225,
+                  "lng" : -0.2914778
+               },
+               "southwest" : {
+                  "lat" : 39.308248,
+                  "lng" : -0.4315448
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia de Don Juan",
+               "short_name" : "Valencia de Don Juan",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24200",
+               "short_name" : "24200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24200 Valencia, León, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3019628,
+                  "lng" : -5.5073416
+               },
+               "southwest" : {
+                  "lat" : 42.2847095,
+                  "lng" : -5.5235751
+               }
+            },
+            "location" : {
+               "lat" : 42.29253,
+               "lng" : -5.519119799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3019628,
+                  "lng" : -5.5073416
+               },
+               "southwest" : {
+                  "lat" : 42.2847095,
+                  "lng" : -5.5235751
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia de las Torres",
+               "short_name" : "Valencia de las Torres",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06444",
+               "short_name" : "06444",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "06444 Valencia, Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.40825950000001,
+                  "lng" : -5.9980635
+               },
+               "southwest" : {
+                  "lat" : 38.39898549999999,
+                  "lng" : -6.0073861
+               }
+            },
+            "location" : {
+               "lat" : 38.40317,
+               "lng" : -6.002187999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.40825950000001,
+                  "lng" : -5.9980635
+               },
+               "southwest" : {
+                  "lat" : 38.39898549999999,
+                  "lng" : -6.0073861
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia del Ventoso",
+               "short_name" : "Valencia del Ventoso",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06330",
+               "short_name" : "06330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "06330 Valencia, Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2711151,
+                  "lng" : -6.4674439
+               },
+               "southwest" : {
+                  "lat" : 38.262296,
+                  "lng" : -6.480942199999999
+               }
+            },
+            "location" : {
+               "lat" : 38.266858,
+               "lng" : -6.4728139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2711151,
+                  "lng" : -6.4674439
+               },
+               "southwest" : {
+                  "lat" : 38.262296,
+                  "lng" : -6.480942199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia de Alcántara",
+               "short_name" : "Valencia de Alcántara",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Cáceres",
+               "short_name" : "Cáceres",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10500",
+               "short_name" : "10500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10500 Valencia, Cáceres, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4211747,
+                  "lng" : -7.2298387
+               },
+               "southwest" : {
+                  "lat" : 39.4012839,
+                  "lng" : -7.2564845
+               }
+            },
+            "location" : {
+               "lat" : 39.41250429999999,
+               "lng" : -7.242901400000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4211747,
+                  "lng" : -7.2298387
+               },
+               "southwest" : {
+                  "lat" : 39.4012839,
+                  "lng" : -7.2564845
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valencia",
+               "short_name" : "Valencia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valencia del Mombuey",
+               "short_name" : "Valencia del Mombuey",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06134",
+               "short_name" : "06134",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "06134 Valencia, Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2460765,
+                  "lng" : -7.1155298
+               },
+               "southwest" : {
+                  "lat" : 38.2391334,
+                  "lng" : -7.1227763
+               }
+            },
+            "location" : {
+               "lat" : 38.242282,
+               "lng" : -7.1191138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2460765,
+                  "lng" : -7.1155298
+               },
+               "southwest" : {
+                  "lat" : 38.2391334,
+                  "lng" : -7.1227763
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

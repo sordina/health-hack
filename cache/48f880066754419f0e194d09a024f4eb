@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College Street",
+               "short_name" : "College Street",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "College Street, Kolkata, West Bengal, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.5825559,
+                  "lng" : 88.37044209999999
+               },
+               "southwest" : {
+                  "lat" : 22.5734121,
+                  "lng" : 88.360725
+               }
+            },
+            "location" : {
+               "lat" : 22.5802939,
+               "lng" : 88.3639986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.5825559,
+                  "lng" : 88.37044209999999
+               },
+               "southwest" : {
+                  "lat" : 22.5734121,
+                  "lng" : 88.360725
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

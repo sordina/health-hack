@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "210006",
+               "short_name" : "210006",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Qinhuai",
+               "short_name" : "Qinhuai",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qinhuai, Nanjing, Jiangsu, China, 210006",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0303679,
+                  "lng" : 118.8130675
+               },
+               "southwest" : {
+                  "lat" : 31.9974698,
+                  "lng" : 118.7664409
+               }
+            },
+            "location" : {
+               "lat" : 32.0140317,
+               "lng" : 118.7833538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0303679,
+                  "lng" : 118.8130675
+               },
+               "southwest" : {
+                  "lat" : 31.9974698,
+                  "lng" : 118.7664409
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Louisville Department of Medicine",
+               "short_name" : "University of Louisville Department of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "550",
+               "short_name" : "550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Jackson Street",
+               "short_name" : "S Jackson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Phoenix Hill",
+               "short_name" : "Phoenix Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Louisville",
+               "short_name" : "Louisville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40202",
+               "short_name" : "40202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1622",
+               "short_name" : "1622",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Louisville Department of Medicine, 550 South Jackson Street, Louisville, KY 40202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.247828,
+               "lng" : -85.74562999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2565903,
+                  "lng" : -85.7296226
+               },
+               "southwest" : {
+                  "lat" : 38.2390647,
+                  "lng" : -85.7616374
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

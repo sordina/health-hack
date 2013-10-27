@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Ohio State University",
+               "short_name" : "The Ohio State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "281",
+               "short_name" : "281",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Lane Avenue",
+               "short_name" : "West Lane Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43210",
+               "short_name" : "43210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Ohio State University, 281 West Lane Avenue, Columbus, OH 43210, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0222629,
+                  "lng" : -83.00711679999999
+               },
+               "southwest" : {
+                  "lat" : 39.9910582,
+                  "lng" : -83.0485147
+               }
+            },
+            "location" : {
+               "lat" : 40.0138423,
+               "lng" : -83.0310846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0222629,
+                  "lng" : -83.00711679999999
+               },
+               "southwest" : {
+                  "lat" : 39.9910582,
+                  "lng" : -83.0485147
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Ohio State University",
+               "short_name" : "The Ohio State University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The Ohio State University, Columbus, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0184581,
+                  "lng" : -83.0074439
+               },
+               "southwest" : {
+                  "lat" : 39.9906841,
+                  "lng" : -83.03421379999999
+               }
+            },
+            "location" : {
+               "lat" : 39.9993865,
+               "lng" : -83.0227103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0184581,
+                  "lng" : -83.0074439
+               },
+               "southwest" : {
+                  "lat" : 39.9906841,
+                  "lng" : -83.03421379999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

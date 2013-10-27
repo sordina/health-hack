@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Orthopaedic Surgery",
+               "short_name" : "Department of Orthopaedic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "450",
+               "short_name" : "450",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway Street",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Redwood Village",
+               "short_name" : "Redwood Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Redwood City",
+               "short_name" : "Redwood City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94063",
+               "short_name" : "94063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Orthopaedic Surgery, Stanford University, 450 Broadway Street, Redwood City, CA 94063, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4860446,
+               "lng" : -122.2026085
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.494898,
+                  "lng" : -122.1866011
+               },
+               "southwest" : {
+                  "lat" : 37.4771902,
+                  "lng" : -122.2186159
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CHU de Strasbourg",
+               "short_name" : "CHU de Strasbourg",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Place de l'Hôpital",
+               "short_name" : "Pl. de l'Hôpital",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Strasbourg",
+               "short_name" : "Strasbourg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bas-Rhin",
+               "short_name" : "67",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace",
+               "short_name" : "Alsace",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67000",
+               "short_name" : "67000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CHU de Strasbourg, 1 Place de l'Hôpital, 67000 Strasbourg, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5777571,
+                  "lng" : 7.750500399999999
+               },
+               "southwest" : {
+                  "lat" : 48.5739949,
+                  "lng" : 7.7394067
+               }
+            },
+            "location" : {
+               "lat" : 48.575876,
+               "lng" : 7.744953600000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5777571,
+                  "lng" : 7.750500399999999
+               },
+               "southwest" : {
+                  "lat" : 48.5739949,
+                  "lng" : 7.7394067
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

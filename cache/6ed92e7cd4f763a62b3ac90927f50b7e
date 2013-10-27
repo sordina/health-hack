@@ -1,0 +1,232 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of California - San Francisco",
+               "short_name" : "University of California - San Francisco",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California San Francisco Medical Center : Dentistry",
+               "short_name" : "University of California San Francisco Medical Center : Dentistry",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "745",
+               "short_name" : "745",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parnassus Avenue",
+               "short_name" : "Parnassus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inner Sunset",
+               "short_name" : "Inner Sunset",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94143",
+               "short_name" : "94143",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of California - San Francisco, University of California San Francisco Medical Center : Dentistry, 745 Parnassus Avenue, San Francisco, CA 94143, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7621745,
+               "lng" : -122.4616934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.770995,
+                  "lng" : -122.445686
+               },
+               "southwest" : {
+                  "lat" : 37.7533529,
+                  "lng" : -122.4777008
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of California San Francisco",
+               "short_name" : "University of California San Francisco",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California San Francisco Medical Center : Dentistry",
+               "short_name" : "University of California San Francisco Medical Center : Dentistry",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parnassus Avenue",
+               "short_name" : "Parnassus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inner Sunset",
+               "short_name" : "Inner Sunset",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94143",
+               "short_name" : "94143",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2205",
+               "short_name" : "2205",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of California San Francisco, University of California San Francisco Medical Center : Dentistry, 500 Parnassus Avenue, San Francisco, CA 94143, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7637342,
+               "lng" : -122.4581661
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7650831802915,
+                  "lng" : -122.4568171197085
+               },
+               "southwest" : {
+                  "lat" : 37.7623852197085,
+                  "lng" : -122.4595150802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of California San Francisco",
+               "short_name" : "University of California San Francisco",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parnassus Avenue",
+               "short_name" : "Parnassus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inner Sunset",
+               "short_name" : "Inner Sunset",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94143",
+               "short_name" : "94143",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2202",
+               "short_name" : "2202",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of California San Francisco, 400 Parnassus Avenue, San Francisco, CA 94143, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.763868,
+               "lng" : -122.458394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.76521698029149,
+                  "lng" : -122.4570450197085
+               },
+               "southwest" : {
+                  "lat" : 37.76251901970849,
+                  "lng" : -122.4597429802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

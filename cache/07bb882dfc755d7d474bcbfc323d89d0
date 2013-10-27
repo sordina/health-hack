@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "695581",
+               "short_name" : "695581",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Thiruvananthapuram",
+               "short_name" : "TVM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kerala",
+               "short_name" : "KL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kerala 695581, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.5950156,
+                  "lng" : 76.9114108
+               },
+               "southwest" : {
+                  "lat" : 8.5432802,
+                  "lng" : 76.8757686
+               }
+            },
+            "location" : {
+               "lat" : 8.5610783,
+               "lng" : 76.88939069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.5950156,
+                  "lng" : 76.9114108
+               },
+               "southwest" : {
+                  "lat" : 8.5432802,
+                  "lng" : 76.8757686
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Utrecht University",
+               "short_name" : "Utrecht University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "324",
+               "short_name" : "324",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale R. Elena",
+               "short_name" : "Viale R. Elena",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00185",
+               "short_name" : "00185",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Utrecht University, Viale R. Elena, 324, 00185 Rome, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.90266829999999,
+               "lng" : 12.5170112
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9109724,
+                  "lng" : 12.5330186
+               },
+               "southwest" : {
+                  "lat" : 41.8943631,
+                  "lng" : 12.5010038
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

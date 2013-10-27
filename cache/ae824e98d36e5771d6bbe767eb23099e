@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cedars Sinai Medical Center",
+               "short_name" : "Cedars Sinai Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8635",
+               "short_name" : "8635",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 3rd Street",
+               "short_name" : "W 3rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central LA",
+               "short_name" : "Central LA",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90048",
+               "short_name" : "90048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cedars Sinai Medical Center, 8635 West 3rd Street, Los Angeles, CA 90048, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0736976,
+               "lng" : -118.3809472
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0829395,
+                  "lng" : -118.3649398
+               },
+               "southwest" : {
+                  "lat" : 34.0644547,
+                  "lng" : -118.3969546
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cedars-Sinai Medical Center",
+               "short_name" : "Cedars-Sinai Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "8700",
+               "short_name" : "8700",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beverly Boulevard",
+               "short_name" : "Beverly Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central LA",
+               "short_name" : "Central LA",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "West Hollywood",
+               "short_name" : "West Hollywood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90048",
+               "short_name" : "90048",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1865",
+               "short_name" : "1865",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Cedars-Sinai Medical Center, 8700 Beverly Boulevard, West Hollywood, CA 90048, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0768528,
+                  "lng" : -118.3777694
+               },
+               "southwest" : {
+                  "lat" : 34.0735321,
+                  "lng" : -118.3833014
+               }
+            },
+            "location" : {
+               "lat" : 34.0752969,
+               "lng" : -118.3805177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0768528,
+                  "lng" : -118.3777694
+               },
+               "southwest" : {
+                  "lat" : 34.0735321,
+                  "lng" : -118.3833014
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cedars Sinai Medical Center-Plastic and Reconstructive Surgery",
+               "short_name" : "Cedars Sinai Medical Center-Plastic and Reconstructive Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "990w",
+               "short_name" : "990w",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "8635",
+               "short_name" : "8635",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 3rd Street",
+               "short_name" : "W 3rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central LA",
+               "short_name" : "Central LA",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90048",
+               "short_name" : "90048",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cedars Sinai Medical Center-Plastic and Reconstructive Surgery, 8635 West 3rd Street #990w, Los Angeles, CA 90048, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.07392970000001,
+               "lng" : -118.380865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.07527868029151,
+                  "lng" : -118.3795160197085
+               },
+               "southwest" : {
+                  "lat" : 34.07258071970851,
+                  "lng" : -118.3822139802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

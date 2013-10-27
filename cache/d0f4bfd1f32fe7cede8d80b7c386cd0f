@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Corso Italia",
+               "short_name" : "Corso Italia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Catania",
+               "short_name" : "Catania",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Catania",
+               "short_name" : "Catania",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Catania",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95129",
+               "short_name" : "95129",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corso Italia, 55, 95129 Catania, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.515215,
+                  "lng" : 15.0959104
+               },
+               "southwest" : {
+                  "lat" : 37.5152007,
+                  "lng" : 15.0959067
+               }
+            },
+            "location" : {
+               "lat" : 37.515215,
+               "lng" : 15.0959067
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5165568302915,
+                  "lng" : 15.0972575302915
+               },
+               "southwest" : {
+                  "lat" : 37.5138588697085,
+                  "lng" : 15.0945595697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

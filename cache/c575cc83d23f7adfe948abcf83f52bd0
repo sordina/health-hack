@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universitas Osloensis",
+               "short_name" : "Universitas Osloensis",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Problemveien",
+               "short_name" : "Problemveien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ullevål",
+               "short_name" : "Ullevål",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0313",
+               "short_name" : "0313",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Universitas Osloensis, Problemveien 7, 0313 Oslo, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.94840010000001,
+                  "lng" : 10.7322255
+               },
+               "southwest" : {
+                  "lat" : 59.9357891,
+                  "lng" : 10.7112865
+               }
+            },
+            "location" : {
+               "lat" : 59.9399586,
+               "lng" : 10.7217496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.94451789999999,
+                  "lng" : 10.7271959
+               },
+               "southwest" : {
+                  "lat" : 59.9357891,
+                  "lng" : 10.7112865
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

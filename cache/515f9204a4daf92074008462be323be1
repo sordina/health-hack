@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Institute of Biomaterials & Biomedical Engineering",
+               "short_name" : "Institute of Biomaterials & Biomedical Engineering",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "164",
+               "short_name" : "164",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "College Street",
+               "short_name" : "College St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Discovery District",
+               "short_name" : "Discovery District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5S 3G9",
+               "short_name" : "M5S 3G9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Institute of Biomaterials & Biomedical Engineering, 164 College Street, Toronto, ON M5S 3G9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6600366,
+               "lng" : -79.39319909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6681083,
+                  "lng" : -79.3771917
+               },
+               "southwest" : {
+                  "lat" : 43.6519638,
+                  "lng" : -79.4092065
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

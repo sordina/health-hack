@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nijmegen",
+               "short_name" : "Nijmegen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nijmegen",
+               "short_name" : "Nijmegen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nijmegen, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8950331,
+                  "lng" : 5.9082756
+               },
+               "southwest" : {
+                  "lat" : 51.7907011,
+                  "lng" : 5.7579872
+               }
+            },
+            "location" : {
+               "lat" : 51.8125626,
+               "lng" : 5.8372264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8950331,
+                  "lng" : 5.9082756
+               },
+               "southwest" : {
+                  "lat" : 51.7907011,
+                  "lng" : 5.7579872
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

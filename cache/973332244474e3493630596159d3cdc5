@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beth Israel Deaconess Medical Center",
+               "short_name" : "Beth Israel Deaconess Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "330",
+               "short_name" : "330",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookline Avenue",
+               "short_name" : "Brookline Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02215",
+               "short_name" : "02215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA 02215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3371888,
+               "lng" : -71.1093851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.34543619999999,
+                  "lng" : -71.09337769999999
+               },
+               "southwest" : {
+                  "lat" : 42.3289403,
+                  "lng" : -71.1253925
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

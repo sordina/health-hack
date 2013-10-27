@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Université de Montréal",
+               "short_name" : "Université de Montréal",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2900",
+               "short_name" : "2900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulevard Edouard-Montpetit",
+               "short_name" : "Boulevard Edouard-Montpetit",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3T 1J4",
+               "short_name" : "H3T 1J4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Université de Montréal, 2900 Boulevard Edouard-Montpetit, Montreal, QC H3T 1J4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5307769,
+                  "lng" : -73.6051118
+               },
+               "southwest" : {
+                  "lat" : 45.4946139,
+                  "lng" : -73.6228562
+               }
+            },
+            "location" : {
+               "lat" : 45.5072989,
+               "lng" : -73.61464629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5145563,
+                  "lng" : -73.6051118
+               },
+               "southwest" : {
+                  "lat" : 45.4946139,
+                  "lng" : -73.6228562
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

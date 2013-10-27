@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auckland City Hospital",
+               "short_name" : "Auckland City Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Park Road",
+               "short_name" : "Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grafton",
+               "short_name" : "Grafton",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1142",
+               "short_name" : "1142",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Auckland City Hospital, Park Road, Grafton, Auckland 1142, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.859532,
+                  "lng" : 174.7701945
+               },
+               "southwest" : {
+                  "lat" : -36.8610842,
+                  "lng" : 174.767459
+               }
+            },
+            "location" : {
+               "lat" : -36.860549,
+               "lng" : 174.76995
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.85895911970851,
+                  "lng" : 174.7701945
+               },
+               "southwest" : {
+                  "lat" : -36.8616570802915,
+                  "lng" : 174.767459
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa Province",
+               "short_name" : "Bursa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bursa/Bursa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.318955,
+                  "lng" : 29.1144461
+               },
+               "southwest" : {
+                  "lat" : 40.2543319,
+                  "lng" : 29.0490682
+               }
+            },
+            "location" : {
+               "lat" : 40.266864,
+               "lng" : 29.0634479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.318955,
+                  "lng" : 29.1144461
+               },
+               "southwest" : {
+                  "lat" : 40.2543319,
+                  "lng" : 29.0490682
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bursa",
+               "short_name" : "Bursa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osmangazi",
+               "short_name" : "Osmangazi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bursa Province",
+               "short_name" : "Bursa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16000",
+               "short_name" : "16000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bursa, 16000 Bursa/Bursa Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.182846,
+               "lng" : 29.067084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1841949802915,
+                  "lng" : 29.0684329802915
+               },
+               "southwest" : {
+                  "lat" : 40.1814970197085,
+                  "lng" : 29.0657350197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

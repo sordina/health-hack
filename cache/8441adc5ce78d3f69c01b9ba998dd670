@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jagiellonian University",
+               "short_name" : "Jagiellonian University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gołębia",
+               "short_name" : "Gołębia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stare Miasto",
+               "short_name" : "Stare Miasto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Krakow",
+               "short_name" : "Krakow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kraków",
+               "short_name" : "Kraków",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kraków County",
+               "short_name" : "Kraków County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lesser Poland Voivodeship",
+               "short_name" : "Lesser Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jagiellonian University, Gołębia 24, Krakow, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.061112,
+               "lng" : 19.933183
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0682746,
+                  "lng" : 19.9491904
+               },
+               "southwest" : {
+                  "lat" : 50.0539484,
+                  "lng" : 19.9171756
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

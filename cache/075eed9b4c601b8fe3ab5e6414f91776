@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Ottawa",
+               "short_name" : "University of Ottawa",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Laurier Avenue East",
+               "short_name" : "Laurier Avenue East",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ottawa Division",
+               "short_name" : "Ottawa Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K1N 6N5",
+               "short_name" : "K1N 6N5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Ottawa, 75 Laurier Avenue East, Ottawa, ON K1N 6N5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4263121,
+                  "lng" : -75.66375619999999
+               },
+               "southwest" : {
+                  "lat" : 45.4146629,
+                  "lng" : -75.6877111
+               }
+            },
+            "location" : {
+               "lat" : 45.4209014,
+               "lng" : -75.67981720000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4263121,
+                  "lng" : -75.6754241
+               },
+               "southwest" : {
+                  "lat" : 45.4188428,
+                  "lng" : -75.6877111
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

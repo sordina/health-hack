@@ -1,0 +1,226 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5635903,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            },
+            "location" : {
+               "lat" : 40.4167754,
+               "lng" : -3.7037902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5635903,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rucandio",
+               "short_name" : "Rucandio",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Burgos",
+               "short_name" : "Burgos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09593",
+               "short_name" : "09593",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "09593 Madrid, Burgos, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.77213210000001,
+                  "lng" : -3.538175
+               },
+               "southwest" : {
+                  "lat" : 42.7694126,
+                  "lng" : -3.5414953
+               }
+            },
+            "location" : {
+               "lat" : 42.7705252,
+               "lng" : -3.5404748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.77213210000001,
+                  "lng" : -3.538175
+               },
+               "southwest" : {
+                  "lat" : 42.7694126,
+                  "lng" : -3.5414953
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid de Caderechas",
+               "short_name" : "Madrid de Caderechas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burgos",
+               "short_name" : "Burgos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile and León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09215",
+               "short_name" : "09215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "09215 Madrid de Caderechas, Burgos, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.7333333,
+               "lng" : -2.7333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7346822802915,
+                  "lng" : -2.731984319708498
+               },
+               "southwest" : {
+                  "lat" : 42.7319843197085,
+                  "lng" : -2.734682280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid de los Trillos",
+               "short_name" : "Madrid de los Trillos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Rioja",
+               "short_name" : "LO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "La Rioja",
+               "short_name" : "La Rioja",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26291",
+               "short_name" : "26291",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "26291 Madrid de los Trillos, La Rioja, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.4944444,
+               "lng" : -2.8927778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4957933802915,
+                  "lng" : -2.891428819708498
+               },
+               "southwest" : {
+                  "lat" : 42.4930954197085,
+                  "lng" : -2.894126780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

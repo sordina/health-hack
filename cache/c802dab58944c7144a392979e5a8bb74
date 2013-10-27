@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taichung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.4416976,
+                  "lng" : 121.4509512
+               },
+               "southwest" : {
+                  "lat" : 23.9985086,
+                  "lng" : 120.4608054
+               }
+            },
+            "location" : {
+               "lat" : 24.2332076,
+               "lng" : 120.9417368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4416976,
+                  "lng" : 121.4509512
+               },
+               "southwest" : {
+                  "lat" : 23.9985086,
+                  "lng" : 120.4608054
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

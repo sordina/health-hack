@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital General Universitario Gregorio Marañón",
+               "short_name" : "Hospital General Universitario Gregorio Marañón",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calle Doctor Esquerdo",
+               "short_name" : "Calle Dr. Esquerdo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28007",
+               "short_name" : "28007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital General Universitario Gregorio Marañón, Calle Doctor Esquerdo, 46, 28007 Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4213479,
+                  "lng" : -3.6692358
+               },
+               "southwest" : {
+                  "lat" : 40.4180201,
+                  "lng" : -3.673113399999999
+               }
+            },
+            "location" : {
+               "lat" : 40.419816,
+               "lng" : -3.672811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4213479,
+                  "lng" : -3.6692358
+               },
+               "southwest" : {
+                  "lat" : 40.4180201,
+                  "lng" : -3.673113399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

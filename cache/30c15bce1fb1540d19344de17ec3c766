@@ -1,0 +1,825 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University:-College of Medicine",
+               "short_name" : "New York University:-College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "560",
+               "short_name" : "560",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kips Bay",
+               "short_name" : "Kips Bay",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York University:-College of Medicine, New York University School of Medicine, 560 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7420823,
+               "lng" : -73.97454020000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7505357,
+                  "lng" : -73.9585328
+               },
+               "southwest" : {
+                  "lat" : 40.73362789999999,
+                  "lng" : -73.9905476
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "550",
+               "short_name" : "550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6497",
+               "short_name" : "6497",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "New York University School of Medicine, 550 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7437837,
+                  "lng" : -73.9721272
+               },
+               "southwest" : {
+                  "lat" : 40.7403386,
+                  "lng" : -73.97534019999999
+               }
+            },
+            "location" : {
+               "lat" : 40.74209219999999,
+               "lng" : -73.97424819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7437837,
+                  "lng" : -73.9721272
+               },
+               "southwest" : {
+                  "lat" : 40.7403386,
+                  "lng" : -73.97534019999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University School Of Medicine",
+               "short_name" : "New York University School Of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "545",
+               "short_name" : "545",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6401",
+               "short_name" : "6401",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "New York University School Of Medicine, New York University School of Medicine, 545 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.742021,
+               "lng" : -73.974356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7433699802915,
+                  "lng" : -73.97300701970849
+               },
+               "southwest" : {
+                  "lat" : 40.7406720197085,
+                  "lng" : -73.97570498029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyu Langone Medical Center",
+               "short_name" : "Nyu Langone Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "550-560",
+               "short_name" : "550-560",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nyu Langone Medical Center, New York University School of Medicine, 550-560 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7420868,
+               "lng" : -73.97455819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7434357802915,
+                  "lng" : -73.97320921970849
+               },
+               "southwest" : {
+                  "lat" : 40.7407378197085,
+                  "lng" : -73.9759071802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyu Langone Medical Center",
+               "short_name" : "Nyu Langone Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nyu Langone Medical Center, New York University School of Medicine, 530 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74163720000001,
+               "lng" : -73.97482819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74298618029151,
+                  "lng" : -73.97347921970849
+               },
+               "southwest" : {
+                  "lat" : 40.74028821970851,
+                  "lng" : -73.9761771802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University Medical Center Emr",
+               "short_name" : "New York University Medical Center Emr",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kips Bay",
+               "short_name" : "Kips Bay",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York University Medical Center Emr, New York University School of Medicine, 530 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74163720000001,
+               "lng" : -73.97482819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74298618029151,
+                  "lng" : -73.97347921970849
+               },
+               "southwest" : {
+                  "lat" : 40.74028821970851,
+                  "lng" : -73.9761771802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York Craniofacial Surgery",
+               "short_name" : "New York Craniofacial Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Ave",
+               "short_name" : "1st Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York Craniofacial Surgery, New York University School of Medicine, 530 1st Ave, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.741632,
+               "lng" : -73.97491699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74298098029149,
+                  "lng" : -73.97356801970849
+               },
+               "southwest" : {
+                  "lat" : 40.74028301970849,
+                  "lng" : -73.9762659802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Larry A. Chinitz, MD",
+               "short_name" : "Dr. Larry A. Chinitz, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6402",
+               "short_name" : "6402",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Larry A. Chinitz, MD, New York University School of Medicine, 530 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7420037,
+               "lng" : -73.9742253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74335268029149,
+                  "lng" : -73.97287631970849
+               },
+               "southwest" : {
+                  "lat" : 40.74065471970849,
+                  "lng" : -73.97557428029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University Med Center: Kalik Lisa J MD",
+               "short_name" : "New York University Med Center: Kalik Lisa J MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6c",
+               "short_name" : "6c",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York University Med Center: Kalik Lisa J MD, New York University School of Medicine, 530 1st Avenue #6c, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7416171,
+               "lng" : -73.9748426
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7429660802915,
+                  "lng" : -73.97349361970849
+               },
+               "southwest" : {
+                  "lat" : 40.7402681197085,
+                  "lng" : -73.97619158029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York University Medical Center: Schwartz David R MD",
+               "short_name" : "New York University Medical Center: Schwartz David R MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "New York University School of Medicine",
+               "short_name" : "New York University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "550",
+               "short_name" : "550",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Ave # Msb563",
+               "short_name" : "1st Ave # Msb563",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6481",
+               "short_name" : "6481",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "New York University Medical Center: Schwartz David R MD, New York University School of Medicine, 550 1st Ave # Msb563, New York, NY 10016, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7417247,
+               "lng" : -73.9749822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7430736802915,
+                  "lng" : -73.9736332197085
+               },
+               "southwest" : {
+                  "lat" : 40.7403757197085,
+                  "lng" : -73.97633118029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

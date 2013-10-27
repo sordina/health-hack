@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Dundee",
+               "short_name" : "University of Dundee",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Nethergate",
+               "short_name" : "Nethergate",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "DD1 4HN",
+               "short_name" : "DD1 4HN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Dundee, Nethergate, Dundee, Dundee City DD1 4HN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.45997329999999,
+                  "lng" : -2.976412
+               },
+               "southwest" : {
+                  "lat" : 56.4562232,
+                  "lng" : -2.9882287
+               }
+            },
+            "location" : {
+               "lat" : 56.4579502,
+               "lng" : -2.9821399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.45997329999999,
+                  "lng" : -2.976412
+               },
+               "southwest" : {
+                  "lat" : 56.4562232,
+                  "lng" : -2.9882287
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

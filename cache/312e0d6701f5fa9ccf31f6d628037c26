@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greater Rochester International Airport",
+               "short_name" : "Greater Rochester International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brooks Avenue",
+               "short_name" : "Brooks Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14624",
+               "short_name" : "14624",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greater Rochester International Airport (ROC), 1200 Brooks Avenue, Rochester, NY 14624, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1307786,
+                  "lng" : -77.64968519999999
+               },
+               "southwest" : {
+                  "lat" : 43.10399,
+                  "lng" : -77.69170749999999
+               }
+            },
+            "location" : {
+               "lat" : 43.127995,
+               "lng" : -77.66609799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1307786,
+                  "lng" : -77.64968519999999
+               },
+               "southwest" : {
+                  "lat" : 43.10399,
+                  "lng" : -77.69170749999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

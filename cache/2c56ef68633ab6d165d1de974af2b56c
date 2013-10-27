@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18100",
+               "short_name" : "18100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Armilla",
+               "short_name" : "Armilla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Granada",
+               "short_name" : "Granada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "18100 Armilla, Granada, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1614273,
+                  "lng" : -3.6055188
+               },
+               "southwest" : {
+                  "lat" : 37.1340192,
+                  "lng" : -3.6322832
+               }
+            },
+            "location" : {
+               "lat" : 37.1512306,
+               "lng" : -3.6167146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1614273,
+                  "lng" : -3.6055188
+               },
+               "southwest" : {
+                  "lat" : 37.1340192,
+                  "lng" : -3.6322832
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

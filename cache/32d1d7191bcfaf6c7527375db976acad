@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Groot Wezenland",
+               "short_name" : "Groot Wezenland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zwolle",
+               "short_name" : "Zwolle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zwolle",
+               "short_name" : "Zwolle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "OV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8011 JW",
+               "short_name" : "8011 JW",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Groot Wezenland 20, 8011 JW Zwolle, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.5088673,
+               "lng" : 6.0986017
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.5102162802915,
+                  "lng" : 6.099950680291502
+               },
+               "southwest" : {
+                  "lat" : 52.5075183197085,
+                  "lng" : 6.097252719708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

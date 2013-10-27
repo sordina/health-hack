@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mutah University",
+               "short_name" : "Mutah University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Mawʿtah",
+               "short_name" : "Mawʿtah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "الكرك‎",
+               "short_name" : "الكرك‎",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jordan",
+               "short_name" : "JO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mutah University, Mawʿtah, Jordan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.0943593,
+               "lng" : 35.7173038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1325708,
+                  "lng" : 35.7813335
+               },
+               "southwest" : {
+                  "lat" : 31.0561325,
+                  "lng" : 35.6532741
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pharmacy Department Building",
+               "short_name" : "Pharmacy Department Building",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Maharaja Sayaji Rao University",
+               "short_name" : "Maharaja Sayaji Rao University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Palace Road",
+               "short_name" : "Palace Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Babajipura",
+               "short_name" : "Babajipura",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vadodara",
+               "short_name" : "Vadodara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vadodara",
+               "short_name" : "Vadodara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "390001",
+               "short_name" : "390001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pharmacy Department Building, Palace Road, Maharaja Sayaji Rao University, Faculty Of Technology and Engineering, Babajipura, Vadodara, Gujarat 390001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2963108,
+                  "lng" : 73.1971702
+               },
+               "southwest" : {
+                  "lat" : 22.2959832,
+                  "lng" : 73.19679429999999
+               }
+            },
+            "location" : {
+               "lat" : 22.2961675,
+               "lng" : 73.1970491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2974959802915,
+                  "lng" : 73.1983312302915
+               },
+               "southwest" : {
+                  "lat" : 22.2947980197085,
+                  "lng" : 73.19563326970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

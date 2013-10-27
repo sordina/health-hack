@@ -1,0 +1,216 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Louis",
+               "short_name" : "Saint-Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haut-Rhin",
+               "short_name" : "68",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace",
+               "short_name" : "Alsace",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Louis, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.634025,
+                  "lng" : 7.577222900000001
+               },
+               "southwest" : {
+                  "lat" : 47.563253,
+                  "lng" : 7.5086901
+               }
+            },
+            "location" : {
+               "lat" : 47.5859949,
+               "lng" : 7.563934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.634025,
+                  "lng" : 7.577222900000001
+               },
+               "southwest" : {
+                  "lat" : 47.563253,
+                  "lng" : 7.5086901
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gratiot",
+               "short_name" : "Gratiot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.42457599999999,
+                  "lng" : -84.57744599999999
+               },
+               "southwest" : {
+                  "lat" : 43.39307489999999,
+                  "lng" : -84.6419191
+               }
+            },
+            "location" : {
+               "lat" : 43.4083637,
+               "lng" : -84.6066704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.42457599999999,
+                  "lng" : -84.57744599999999
+               },
+               "southwest" : {
+                  "lat" : 43.39307489999999,
+                  "lng" : -84.6419191
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pottawatomie",
+               "short_name" : "Pottawatomie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.101606,
+                  "lng" : -96.826638
+               },
+               "southwest" : {
+                  "lat" : 35.058033,
+                  "lng" : -96.88865179999999
+               }
+            },
+            "location" : {
+               "lat" : 35.0724813,
+               "lng" : -96.86183699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.101606,
+                  "lng" : -96.826638
+               },
+               "southwest" : {
+                  "lat" : 35.058033,
+                  "lng" : -96.88865179999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

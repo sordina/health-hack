@@ -1,0 +1,735 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universität Leipzig",
+               "short_name" : "Universität Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ritterstraße",
+               "short_name" : "Ritterstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04109",
+               "short_name" : "04109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universität Leipzig, Ritterstraße, 04109 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3412736,
+               "lng" : 12.3802594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3482432,
+                  "lng" : 12.3962668
+               },
+               "southwest" : {
+                  "lat" : 51.3343029,
+                  "lng" : 12.364252
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Leipzig",
+               "short_name" : "University of Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Universität Leipzig",
+               "short_name" : "Universität Leipzig",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Linnéstraße",
+               "short_name" : "Linnéstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04103",
+               "short_name" : "04103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Leipzig, Universität Leipzig, Linnéstraße 5, 04103 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3267782,
+               "lng" : 12.3929669
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3281271802915,
+                  "lng" : 12.3943158802915
+               },
+               "southwest" : {
+                  "lat" : 51.3254292197085,
+                  "lng" : 12.3916179197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Music and Theatre Leipzig",
+               "short_name" : "University of Music and Theatre Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grassistraße",
+               "short_name" : "Grassistraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zentrum-Süd",
+               "short_name" : "Zentrum-Süd",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04107",
+               "short_name" : "04107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Music and Theatre Leipzig, Grassistraße 8, 04107 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3327165,
+               "lng" : 12.3668826
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3340654802915,
+                  "lng" : 12.3682315802915
+               },
+               "southwest" : {
+                  "lat" : 51.3313675197085,
+                  "lng" : 12.3655336197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hochschule für Telekommunikation Leipzig (HfTL)",
+               "short_name" : "Hochschule für Telekommunikation Leipzig (HfTL)",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gustav-Freytag-Straße",
+               "short_name" : "Gustav-Freytag-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Connewitz",
+               "short_name" : "Connewitz",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Süd",
+               "short_name" : "Süd",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04277",
+               "short_name" : "04277",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hochschule für Telekommunikation Leipzig (HfTL), Gustav-Freytag-Straße 43, 04277 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3127539,
+               "lng" : 12.3749206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.31410288029149,
+                  "lng" : 12.3762695802915
+               },
+               "southwest" : {
+                  "lat" : 51.3114049197085,
+                  "lng" : 12.3735716197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HHL-Leipzig Graduate School of Management",
+               "short_name" : "HHL-Leipzig Graduate School of Management",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jahnallee",
+               "short_name" : "Jahnallee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leipzig Zentrum-West",
+               "short_name" : "Leipzig Zentrum-West",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04109",
+               "short_name" : "04109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HHL-Leipzig Graduate School of Management, Jahnallee 59, 04109 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.33971,
+               "lng" : 12.34965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3410589802915,
+                  "lng" : 12.3509989802915
+               },
+               "southwest" : {
+                  "lat" : 51.3383610197085,
+                  "lng" : 12.3483010197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "LEIPZIG SCHOOL OF MEDIA gGmbH - crossmediale Weiterbildungen und berufsbegleitende Masterstudiengänge",
+               "short_name" : "LEIPZIG SCHOOL OF MEDIA gGmbH - crossmediale Weiterbildungen und berufsbegleitende Masterstudiengänge",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Poetenweg",
+               "short_name" : "Poetenweg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gohlis",
+               "short_name" : "Gohlis",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04155",
+               "short_name" : "04155",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "LEIPZIG SCHOOL OF MEDIA gGmbH - crossmediale Weiterbildungen und berufsbegleitende Masterstudiengänge, Poetenweg 28, 04155 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.356721,
+               "lng" : 12.362387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3580699802915,
+                  "lng" : 12.3637359802915
+               },
+               "southwest" : {
+                  "lat" : 51.3553720197085,
+                  "lng" : 12.3610380197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sportwissenschaftliche Fakultät der Universität Leipzig",
+               "short_name" : "Sportwissenschaftliche Fakultät der Universität Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jahnallee",
+               "short_name" : "Jahnallee",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leipzig Zentrum-West",
+               "short_name" : "Leipzig Zentrum-West",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04109",
+               "short_name" : "04109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sportwissenschaftliche Fakultät der Universität Leipzig, Jahnallee 59, 04109 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.339278,
+               "lng" : 12.350639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3406269802915,
+                  "lng" : 12.3519879802915
+               },
+               "southwest" : {
+                  "lat" : 51.3379290197085,
+                  "lng" : 12.3492900197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HFH Hamburger Fern-Hochschule HFH Leipzig",
+               "short_name" : "HFH Hamburger Fern-Hochschule HFH Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Torgauer Platz",
+               "short_name" : "Torgauer Platz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Volkmarsdorf",
+               "short_name" : "Volkmarsdorf",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nordost",
+               "short_name" : "Nordost",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04315",
+               "short_name" : "04315",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HFH Hamburger Fern-Hochschule HFH Leipzig, Torgauer Platz 1, 04315 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3456215,
+               "lng" : 12.4146615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3469704802915,
+                  "lng" : 12.4160104802915
+               },
+               "southwest" : {
+                  "lat" : 51.3442725197085,
+                  "lng" : 12.4133125197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "FernUniversität in Hagen Regionalzentrum Leipzig",
+               "short_name" : "FernUniversität in Hagen Regionalzentrum Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04109",
+               "short_name" : "04109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "FernUniversität in Hagen Regionalzentrum Leipzig, Universitätsstraße 16, 04109 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3382235,
+               "lng" : 12.377364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33957248029149,
+                  "lng" : 12.3787129802915
+               },
+               "southwest" : {
+                  "lat" : 51.3368745197085,
+                  "lng" : 12.3760150197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geisteswissenschaftliches Zentrum der Universität Leipzig",
+               "short_name" : "Geisteswissenschaftliches Zentrum der Universität Leipzig",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beethovenstraße",
+               "short_name" : "Beethovenstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zentrum",
+               "short_name" : "Zentrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04107",
+               "short_name" : "04107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geisteswissenschaftliches Zentrum der Universität Leipzig, Beethovenstraße 15, 04107 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3320691,
+               "lng" : 12.3683825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33341808029149,
+                  "lng" : 12.3697314802915
+               },
+               "southwest" : {
+                  "lat" : 51.3307201197085,
+                  "lng" : 12.3670335197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

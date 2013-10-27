@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minnesota, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.49183339999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.23919579999999
+               }
+            },
+            "location" : {
+               "lat" : 46.729553,
+               "lng" : -94.6858998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.384358,
+                  "lng" : -89.49183339999999
+               },
+               "southwest" : {
+                  "lat" : 43.499361,
+                  "lng" : -97.23919579999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

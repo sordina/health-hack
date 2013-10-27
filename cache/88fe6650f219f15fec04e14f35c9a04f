@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odense University Hospital",
+               "short_name" : "Odense University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sdr. Boulevard",
+               "short_name" : "Sdr. Blvd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Odense C",
+               "short_name" : "Odense C",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Odense C",
+               "short_name" : "Odense C",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odense Municipality",
+               "short_name" : "Odense Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Odense University Hospital, Sdr. Boulevard 29, 5000 Odense C, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3891491,
+                  "lng" : 10.3722149
+               },
+               "southwest" : {
+                  "lat" : 55.3818549,
+                  "lng" : 10.3569598
+               }
+            },
+            "location" : {
+               "lat" : 55.384828,
+               "lng" : 10.369613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3891491,
+                  "lng" : 10.3722149
+               },
+               "southwest" : {
+                  "lat" : 55.3818549,
+                  "lng" : 10.3569598
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

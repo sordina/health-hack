@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Virginia",
+               "short_name" : "University of Virginia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1721",
+               "short_name" : "1721",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Virginia, 1721 University Avenue, Charlottesville, VA 22903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0565153,
+                  "lng" : -78.49484249999999
+               },
+               "southwest" : {
+                  "lat" : 38.0222905,
+                  "lng" : -78.529248
+               }
+            },
+            "location" : {
+               "lat" : 38.0335529,
+               "lng" : -78.5079772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0565153,
+                  "lng" : -78.49484249999999
+               },
+               "southwest" : {
+                  "lat" : 38.0222905,
+                  "lng" : -78.529248
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Virginia",
+               "short_name" : "University of Virginia",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jack Jouett",
+               "short_name" : "Jack Jouett",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Albemarle",
+               "short_name" : "Albemarle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22903",
+               "short_name" : "22903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Virginia, Jack Jouett, VA 22903, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0402651,
+                  "lng" : -78.49751909999999
+               },
+               "southwest" : {
+                  "lat" : 38.031432,
+                  "lng" : -78.5077601
+               }
+            },
+            "location" : {
+               "lat" : 38.0344996,
+               "lng" : -78.50502689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0402651,
+                  "lng" : -78.49751909999999
+               },
+               "southwest" : {
+                  "lat" : 38.031432,
+                  "lng" : -78.5077601
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

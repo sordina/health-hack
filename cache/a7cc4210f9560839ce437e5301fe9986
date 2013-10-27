@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chengdu, Sichuan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.4353347,
+                  "lng" : 104.8927951
+               },
+               "southwest" : {
+                  "lat" : 30.0942976,
+                  "lng" : 102.9928859
+               }
+            },
+            "location" : {
+               "lat" : 30.572269,
+               "lng" : 104.066541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8581695,
+                  "lng" : 104.3261719
+               },
+               "southwest" : {
+                  "lat" : 30.4588876,
+                  "lng" : 103.8249207
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

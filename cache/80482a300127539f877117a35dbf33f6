@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuo",
+               "short_name" : "Chuo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuo, Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6966338,
+                  "lng" : 139.7931933
+               },
+               "southwest" : {
+                  "lat" : 35.6441493,
+                  "lng" : 139.7584941
+               }
+            },
+            "location" : {
+               "lat" : 35.6706505,
+               "lng" : 139.7718614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6966338,
+                  "lng" : 139.7931933
+               },
+               "southwest" : {
+                  "lat" : 35.6441493,
+                  "lng" : 139.7584941
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

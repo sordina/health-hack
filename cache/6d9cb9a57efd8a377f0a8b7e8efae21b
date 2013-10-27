@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodz",
+               "short_name" : "Lodz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Łódź Voivodeship",
+               "short_name" : "Łódź Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodz, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8601375,
+                  "lng" : 19.6399235
+               },
+               "southwest" : {
+                  "lat" : 51.6860987,
+                  "lng" : 19.321262
+               }
+            },
+            "location" : {
+               "lat" : 51.7592485,
+               "lng" : 19.4559833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8601375,
+                  "lng" : 19.6399235
+               },
+               "southwest" : {
+                  "lat" : 51.6860987,
+                  "lng" : 19.321262
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gmina Stęszew",
+               "short_name" : "Gmina Stęszew",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "poznański",
+               "short_name" : "poznański",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Greater Poland Voivodeship",
+               "short_name" : "Greater Poland Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Łódź, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2532232,
+               "lng" : 16.7406063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2545721802915,
+                  "lng" : 16.7419552802915
+               },
+               "southwest" : {
+                  "lat" : 52.2518742197085,
+                  "lng" : 16.7392573197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

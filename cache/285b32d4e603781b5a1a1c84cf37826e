@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Cincinnati",
+               "short_name" : "University of Cincinnati",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2600",
+               "short_name" : "2600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clifton Avenue",
+               "short_name" : "Clifton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Heights",
+               "short_name" : "The Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45220",
+               "short_name" : "45220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Cincinnati, 2600 Clifton Avenue, Cincinnati, OH 45220, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1325359,
+               "lng" : -84.5150505
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1411905,
+                  "lng" : -84.49904309999999
+               },
+               "southwest" : {
+                  "lat" : 39.12388019999999,
+                  "lng" : -84.53105789999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

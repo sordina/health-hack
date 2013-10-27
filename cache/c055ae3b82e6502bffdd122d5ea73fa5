@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fishersville",
+               "short_name" : "Fishersville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Augusta",
+               "short_name" : "Augusta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fishersville, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.13594380000001,
+                  "lng" : -78.9188669
+               },
+               "southwest" : {
+                  "lat" : 38.0619839,
+                  "lng" : -79.016008
+               }
+            },
+            "location" : {
+               "lat" : 38.0990233,
+               "lng" : -78.9691923
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.13594380000001,
+                  "lng" : -78.9188669
+               },
+               "southwest" : {
+                  "lat" : 38.0619839,
+                  "lng" : -79.016008
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

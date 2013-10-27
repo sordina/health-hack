@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Linköping",
+               "short_name" : "Linköping",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Linköping",
+               "short_name" : "Linköping",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Östergötland County",
+               "short_name" : "Östergötland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Linköping, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.45244590000001,
+                  "lng" : 15.7461581
+               },
+               "southwest" : {
+                  "lat" : 58.35445,
+                  "lng" : 15.4753889
+               }
+            },
+            "location" : {
+               "lat" : 58.41080700000001,
+               "lng" : 15.6213727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.45244590000001,
+                  "lng" : 15.7461581
+               },
+               "southwest" : {
+                  "lat" : 58.35445,
+                  "lng" : 15.4753889
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

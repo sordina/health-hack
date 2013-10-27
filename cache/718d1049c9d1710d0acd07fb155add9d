@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "64111",
+               "short_name" : "64111",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, MO 64111, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0735969,
+                  "lng" : -94.578695
+               },
+               "southwest" : {
+                  "lat" : 39.0418779,
+                  "lng" : -94.607371
+               }
+            },
+            "location" : {
+               "lat" : 39.0587452,
+               "lng" : -94.5985613
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0735969,
+                  "lng" : -94.578695
+               },
+               "southwest" : {
+                  "lat" : 39.0418779,
+                  "lng" : -94.607371
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Concord Repatriation General Hospital",
+               "short_name" : "Concord Repatriation General Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Concord West",
+               "short_name" : "Concord West",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2138",
+               "short_name" : "2138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Concord Repatriation General Hospital, Hospital Road, Concord West NSW 2138, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.8345123,
+                  "lng" : 151.0991383
+               },
+               "southwest" : {
+                  "lat" : -33.8408695,
+                  "lng" : 151.0909406
+               }
+            },
+            "location" : {
+               "lat" : -33.8370076,
+               "lng" : 151.0925053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8345123,
+                  "lng" : 151.0991383
+               },
+               "southwest" : {
+                  "lat" : -33.8408695,
+                  "lng" : 151.0909406
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

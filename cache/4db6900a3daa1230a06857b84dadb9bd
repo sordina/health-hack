@@ -1,0 +1,285 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College London",
+               "short_name" : "University College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Gower Street",
+               "short_name" : "Gower St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1E 6BT",
+               "short_name" : "WC1E 6BT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University College London, Gower Street, London WC1E 6BT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5247725,
+               "lng" : -0.1334268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5261214802915,
+                  "lng" : -0.132077819708498
+               },
+               "southwest" : {
+                  "lat" : 51.5234235197085,
+                  "lng" : -0.134775780291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College London",
+               "short_name" : "University College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bedford Way",
+               "short_name" : "Bedford Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1H 0AP",
+               "short_name" : "WC1H 0AP",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University College London, Bedford Way, London WC1H 0AP, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52347109999999,
+               "lng" : -0.1285067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5248200802915,
+                  "lng" : -0.127157719708498
+               },
+               "southwest" : {
+                  "lat" : 51.5221221197085,
+                  "lng" : -0.129855680291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College London",
+               "short_name" : "University College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "5-10",
+               "short_name" : "5-10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Taviton Street",
+               "short_name" : "Taviton St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1H 0BX",
+               "short_name" : "WC1H 0BX",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University College London, 5-10 Taviton Street, London WC1H 0BX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52572079999999,
+               "lng" : -0.1314274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52706978029149,
+                  "lng" : -0.130078419708498
+               },
+               "southwest" : {
+                  "lat" : 51.52437181970849,
+                  "lng" : -0.132776380291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College London",
+               "short_name" : "University College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "109",
+               "short_name" : "109",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Camden Road",
+               "short_name" : "Camden Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW1 9HZ",
+               "short_name" : "NW1 9HZ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University College London, 109 Camden Road, London NW1 9HZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5447832,
+               "lng" : -0.135276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54613218029149,
+                  "lng" : -0.133927019708498
+               },
+               "southwest" : {
+                  "lat" : 51.54343421970849,
+                  "lng" : -0.136624980291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University College London",
+               "short_name" : "University College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "78",
+               "short_name" : "78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fortis Green",
+               "short_name" : "Fortis Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N2 9EX",
+               "short_name" : "N2 9EX",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University College London, 78 Fortis Green, London N2 9EX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5906469,
+               "lng" : -0.1582005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.59199588029149,
+                  "lng" : -0.156851519708498
+               },
+               "southwest" : {
+                  "lat" : 51.58929791970849,
+                  "lng" : -0.159549480291502
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

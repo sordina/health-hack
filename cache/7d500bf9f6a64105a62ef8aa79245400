@@ -1,0 +1,256 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5359728,
+                  "lng" : 9.2779153
+               },
+               "southwest" : {
+                  "lat" : 45.3921679,
+                  "lng" : 9.0658975
+               }
+            },
+            "location" : {
+               "lat" : 45.4654542,
+               "lng" : 9.186515999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5359728,
+                  "lng" : 9.2779153
+               },
+               "southwest" : {
+                  "lat" : 45.3921679,
+                  "lng" : 9.0658975
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berbenno",
+               "short_name" : "Berbenno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bergamo",
+               "short_name" : "BG",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24030",
+               "short_name" : "24030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24030 Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8096695,
+                  "lng" : 9.5788256
+               },
+               "southwest" : {
+                  "lat" : 45.8069895,
+                  "lng" : 9.574141899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.8083062,
+               "lng" : 9.576066599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8096784802915,
+                  "lng" : 9.5788256
+               },
+               "southwest" : {
+                  "lat" : 45.8069805197085,
+                  "lng" : 9.574141899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zero Branco",
+               "short_name" : "Zero Branco",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Treviso",
+               "short_name" : "TV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "31059",
+               "short_name" : "31059",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31059 Milan Treviso, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5937085,
+                  "lng" : 12.1745542
+               },
+               "southwest" : {
+                  "lat" : 45.5919744,
+                  "lng" : 12.1709955
+               }
+            },
+            "location" : {
+               "lat" : 45.59290499999999,
+               "lng" : 12.1739429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5941904302915,
+                  "lng" : 12.1745542
+               },
+               "southwest" : {
+                  "lat" : 45.5914924697085,
+                  "lng" : 12.1709955
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albettone",
+               "short_name" : "Albettone",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Vicenza",
+               "short_name" : "VI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36020",
+               "short_name" : "36020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36020 Milan Vicenza, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3838804,
+                  "lng" : 11.60037
+               },
+               "southwest" : {
+                  "lat" : 45.3833279,
+                  "lng" : 11.5989184
+               }
+            },
+            "location" : {
+               "lat" : 45.3835948,
+               "lng" : 11.599784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3849531302915,
+                  "lng" : 11.6009931802915
+               },
+               "southwest" : {
+                  "lat" : 45.3822551697085,
+                  "lng" : 11.5982952197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

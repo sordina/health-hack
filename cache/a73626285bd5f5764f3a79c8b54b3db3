@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orbassano",
+               "short_name" : "Orbassano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orbassano",
+               "short_name" : "Orbassano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orbassano Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0194304,
+                  "lng" : 7.5564855
+               },
+               "southwest" : {
+                  "lat" : 44.9960795,
+                  "lng" : 7.519817100000001
+               }
+            },
+            "location" : {
+               "lat" : 45.0076985,
+               "lng" : 7.537480299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0194304,
+                  "lng" : 7.5564855
+               },
+               "southwest" : {
+                  "lat" : 44.9960795,
+                  "lng" : 7.519817100000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

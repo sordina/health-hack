@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "215006",
+               "short_name" : "215006",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gusu",
+               "short_name" : "Gusu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Suzhou",
+               "short_name" : "Suzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gusu, Suzhou, Jiangsu, China, 215006",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3126755,
+                  "lng" : 120.6660045
+               },
+               "southwest" : {
+                  "lat" : 31.26615,
+                  "lng" : 120.6199894
+               }
+            },
+            "location" : {
+               "lat" : 31.2996512,
+               "lng" : 120.6383795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3126755,
+                  "lng" : 120.6660045
+               },
+               "southwest" : {
+                  "lat" : 31.26615,
+                  "lng" : 120.6199894
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

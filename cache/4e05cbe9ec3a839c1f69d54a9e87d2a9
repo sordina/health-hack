@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Colorado Denver",
+               "short_name" : "University of Colorado Denver",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1250",
+               "short_name" : "1250",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "14th Street",
+               "short_name" : "14th Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Denver",
+               "short_name" : "Denver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80202",
+               "short_name" : "80202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Colorado Denver, 1250 14th Street, Denver, CO 80202, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.74792619999999,
+                  "lng" : -104.9977517
+               },
+               "southwest" : {
+                  "lat" : 39.7401438,
+                  "lng" : -105.0137416
+               }
+            },
+            "location" : {
+               "lat" : 39.7435008,
+               "lng" : -105.0042307
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.74792619999999,
+                  "lng" : -104.9977517
+               },
+               "southwest" : {
+                  "lat" : 39.7401438,
+                  "lng" : -105.0137416
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

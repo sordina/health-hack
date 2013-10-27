@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kielce",
+               "short_name" : "Kielce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kielce",
+               "short_name" : "Kielce",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kielce County",
+               "short_name" : "Kielce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Swietokrzyskie",
+               "short_name" : "Swietokrzyskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kielce, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9147838,
+                  "lng" : 20.7208681
+               },
+               "southwest" : {
+                  "lat" : 50.7932964,
+                  "lng" : 20.5104148
+               }
+            },
+            "location" : {
+               "lat" : 50.8660773,
+               "lng" : 20.6285677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9147838,
+                  "lng" : 20.7208681
+               },
+               "southwest" : {
+                  "lat" : 50.7932964,
+                  "lng" : 20.5104148
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

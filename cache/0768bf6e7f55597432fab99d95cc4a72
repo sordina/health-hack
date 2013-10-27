@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oulu",
+               "short_name" : "Oulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oulu",
+               "short_name" : "Oulu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northern Ostrobothnia",
+               "short_name" : "Northern Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90100",
+               "short_name" : "90100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "90100 Oulu, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 65.01261479999999,
+               "lng" : 25.4714526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.0173277,
+                  "lng" : 25.48746
+               },
+               "southwest" : {
+                  "lat" : 65.007901,
+                  "lng" : 25.4554452
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

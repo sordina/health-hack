@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Nursing",
+               "short_name" : "School of Nursing",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Fairfield University",
+               "short_name" : "Fairfield University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bellarmine Road",
+               "short_name" : "Bellarmine Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfield",
+               "short_name" : "Fairfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairfield",
+               "short_name" : "Fairfield",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06824",
+               "short_name" : "06824",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Nursing, Bellarmine Road, Fairfield University, Fairfield, CT 06824, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1589869,
+                  "lng" : -73.25601379999999
+               },
+               "southwest" : {
+                  "lat" : 41.158569,
+                  "lng" : -73.2564081
+               }
+            },
+            "location" : {
+               "lat" : 41.1588119,
+               "lng" : -73.25621780000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1601269302915,
+                  "lng" : -73.2548619697085
+               },
+               "southwest" : {
+                  "lat" : 41.1574289697085,
+                  "lng" : -73.25755993029151
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

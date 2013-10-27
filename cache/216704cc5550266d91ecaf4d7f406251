@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "94143",
+               "short_name" : "94143",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Inner Sunset",
+               "short_name" : "Inner Sunset",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Francisco, CA 94143, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.764932,
+                  "lng" : -122.45667
+               },
+               "southwest" : {
+                  "lat" : 37.763566,
+                  "lng" : -122.457718
+               }
+            },
+            "location" : {
+               "lat" : 37.7642093,
+               "lng" : -122.4571623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7655979802915,
+                  "lng" : -122.4558450197085
+               },
+               "southwest" : {
+                  "lat" : 37.7629000197085,
+                  "lng" : -122.4585429802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OX3 9DU",
+               "short_name" : "OX3 9DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Headington",
+               "short_name" : "Headington",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Headington, Oxford, Oxfordshire OX3 9DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76567009999999,
+                  "lng" : -1.2184287
+               },
+               "southwest" : {
+                  "lat" : 51.7627683,
+                  "lng" : -1.2226635
+               }
+            },
+            "location" : {
+               "lat" : 51.7638706,
+               "lng" : -1.2198063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76567009999999,
+                  "lng" : -1.2184287
+               },
+               "southwest" : {
+                  "lat" : 51.7627683,
+                  "lng" : -1.2226635
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

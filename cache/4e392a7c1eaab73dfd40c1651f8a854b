@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ribeirão Preto",
+               "short_name" : "Ribeirão Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ribeirão Preto - São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.059392,
+                  "lng" : -47.64659169999999
+               },
+               "southwest" : {
+                  "lat" : -21.3699409,
+                  "lng" : -47.98929940000001
+               }
+            },
+            "location" : {
+               "lat" : -21.1766574,
+               "lng" : -47.8207619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.059392,
+                  "lng" : -47.64659169999999
+               },
+               "southwest" : {
+                  "lat" : -21.3699409,
+                  "lng" : -47.98929940000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

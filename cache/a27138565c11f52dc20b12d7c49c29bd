@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Professor",
+               "short_name" : "Professor",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Vrije Universiteit Brussel Campus Jette",
+               "short_name" : "VUBrussel - Jette",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jette",
+               "short_name" : "Jette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brussels",
+               "short_name" : "Brussels",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1090",
+               "short_name" : "1090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Professor, Vrije Universiteit Brussel Campus Jette, 1090 Jette, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.88838459999999,
+                  "lng" : 4.3059653
+               },
+               "southwest" : {
+                  "lat" : 50.8883544,
+                  "lng" : 4.3058939
+               }
+            },
+            "location" : {
+               "lat" : 50.8883744,
+               "lng" : 4.3059286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.88971848029149,
+                  "lng" : 4.307278580291503
+               },
+               "southwest" : {
+                  "lat" : 50.88702051970849,
+                  "lng" : 4.304580619708498
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

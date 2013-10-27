@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhuhai",
+               "short_name" : "Zhuhai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong",
+               "short_name" : "Guangdong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhuhai, Guangdong, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.4368382,
+                  "lng" : 114.3250708
+               },
+               "southwest" : {
+                  "lat" : 21.8064707,
+                  "lng" : 113.0848882
+               }
+            },
+            "location" : {
+               "lat" : 22.270715,
+               "lng" : 113.576726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.446295,
+                  "lng" : 113.6590576
+               },
+               "southwest" : {
+                  "lat" : 21.8766149,
+                  "lng" : 113.1248474
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

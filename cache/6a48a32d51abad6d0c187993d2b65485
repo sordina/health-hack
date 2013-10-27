@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "325000",
+               "short_name" : "325000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lucheng",
+               "short_name" : "Lucheng",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wenzhou",
+               "short_name" : "Wenzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lucheng, Wenzhou, Zhejiang, China, 325000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0458041,
+                  "lng" : 120.6660045
+               },
+               "southwest" : {
+                  "lat" : 27.9972573,
+                  "lng" : 120.6214277
+               }
+            },
+            "location" : {
+               "lat" : 28.0155338,
+               "lng" : 120.654815
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0264972,
+                  "lng" : 120.6660045
+               },
+               "southwest" : {
+                  "lat" : 27.9972573,
+                  "lng" : 120.6214277
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ipiros",
+               "short_name" : "Ipiros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ipiros Ditiki Makedonia",
+               "short_name" : "Ipiros Ditiki Makedonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ioannina, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6887974,
+                  "lng" : 20.8724933
+               },
+               "southwest" : {
+                  "lat" : 39.63826,
+                  "lng" : 20.8218806
+               }
+            },
+            "location" : {
+               "lat" : 39.66502880000001,
+               "lng" : 20.8537466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6887974,
+                  "lng" : 20.8724933
+               },
+               "southwest" : {
+                  "lat" : 39.63826,
+                  "lng" : 20.8218806
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

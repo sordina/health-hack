@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine",
+               "short_name" : "School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "321",
+               "short_name" : "321",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Columbia Street",
+               "short_name" : "S Columbia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Medicine, 321 South Columbia Street, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9060516,
+               "lng" : -79.0522957
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9150888,
+                  "lng" : -79.0362883
+               },
+               "southwest" : {
+                  "lat" : 35.8970133,
+                  "lng" : -79.06830309999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanyang",
+               "short_name" : "Nanyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henan",
+               "short_name" : "Henan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanyang, Henan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8016732,
+                  "lng" : 113.8144528
+               },
+               "southwest" : {
+                  "lat" : 32.269201,
+                  "lng" : 110.9828745
+               }
+            },
+            "location" : {
+               "lat" : 32.99083299999999,
+               "lng" : 112.528322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1384765,
+                  "lng" : 112.7310884
+               },
+               "southwest" : {
+                  "lat" : 32.8560854,
+                  "lng" : 112.3760712
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

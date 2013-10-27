@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital de Clínicas de Porto Alegre",
+               "short_name" : "Hospital de Clínicas de Porto Alegre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rua Ramiro Barcelos",
+               "short_name" : "R. Ramiro Barcelos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cecília",
+               "short_name" : "Santa Cecília",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90035-903",
+               "short_name" : "90035-903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital de Clínicas de Porto Alegre UFRGS - Rua Ramiro Barcelos - Santa Cecília, Porto Alegre - Rio Grande do Sul, 90035-903, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -30.039119,
+               "lng" : -51.2071563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.02945919999999,
+                  "lng" : -51.19114889999999
+               },
+               "southwest" : {
+                  "lat" : -30.0487778,
+                  "lng" : -51.2231637
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

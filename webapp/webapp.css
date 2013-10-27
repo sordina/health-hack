@@ -50,3 +50,23 @@ h1 em {font-size: 80%;}
 
 #paper_info td { padding: 4px; }
 #paper_info td:first-child { width: 22%; }
+
+#tab_header {
+  border-bottom: 1px solid black;
+  padding: 1px;
+  overflow: hidden;
+}
+
+#tab_header a {
+  clear: both;
+  margin: 0 10px 0 0;
+  padding: 10px 20px;
+  border: 1px solid black;
+  text-decoration: none;
+  background: white;
+}
+
+#tab_header a.active {
+  border-bottom: 1px solid white;
+  font-weight: bold;
+}

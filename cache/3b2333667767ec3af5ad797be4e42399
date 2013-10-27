@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Laboratory Medicine and Pathology",
+               "short_name" : "Department of Laboratory Medicine and Pathology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Minnesota",
+               "short_name" : "University of Minnesota",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University of Minnesota - Twin Cities",
+               "short_name" : "University of Minnesota - Twin Cities",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Laboratory Medicine and Pathology, University of Minnesota, Mississippi National River and Recreation Area, Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9721289,
+               "lng" : -93.2330413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.98002210000001,
+                  "lng" : -93.21703389999999
+               },
+               "southwest" : {
+                  "lat" : 44.9642346,
+                  "lng" : -93.24904869999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

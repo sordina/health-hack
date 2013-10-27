@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "050000",
+               "short_name" : "050000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Qiaodong",
+               "short_name" : "Qiaodong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shijiazhuang",
+               "short_name" : "Shijiazhuang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hebei",
+               "short_name" : "Hebei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qiaodong, Shijiazhuang, Hebei, China, 050000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0656701,
+                  "lng" : 114.5242641
+               },
+               "southwest" : {
+                  "lat" : 38.0347967,
+                  "lng" : 114.45892
+               }
+            },
+            "location" : {
+               "lat" : 38.0560599,
+               "lng" : 114.4968145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0640797,
+                  "lng" : 114.5242641
+               },
+               "southwest" : {
+                  "lat" : 38.0399146,
+                  "lng" : 114.4945637
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

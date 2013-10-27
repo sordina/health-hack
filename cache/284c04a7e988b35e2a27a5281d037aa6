@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villanueva de la Serena",
+               "short_name" : "Villanueva de la Serena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Villanueva de la Serena",
+               "short_name" : "Villanueva de la Serena",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Badajoz",
+               "short_name" : "Badajoz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Extremadura",
+               "short_name" : "EX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villanueva de la Serena, Badajoz, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.98471139999999,
+                  "lng" : -5.7841195
+               },
+               "southwest" : {
+                  "lat" : 38.9639269,
+                  "lng" : -5.8131387
+               }
+            },
+            "location" : {
+               "lat" : 38.97357520000001,
+               "lng" : -5.7997323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.98471139999999,
+                  "lng" : -5.7841195
+               },
+               "southwest" : {
+                  "lat" : 38.9639269,
+                  "lng" : -5.8131387
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

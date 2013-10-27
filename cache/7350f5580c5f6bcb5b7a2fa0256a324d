@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zurich",
+               "short_name" : "Zurich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zurich District",
+               "short_name" : "Zurich District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zurich, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.43468,
+                  "lng" : 8.6253701
+               },
+               "southwest" : {
+                  "lat" : 47.32023,
+                  "lng" : 8.448059899999999
+               }
+            },
+            "location" : {
+               "lat" : 47.3686498,
+               "lng" : 8.539182499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.43468,
+                  "lng" : 8.6253701
+               },
+               "southwest" : {
+                  "lat" : 47.32023,
+                  "lng" : 8.448059899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zurich Airport",
+               "short_name" : "Zurich Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Zürich-Flughafen",
+               "short_name" : "Zürich-Flughafen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8058",
+               "short_name" : "8058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zurich Airport (ZRH), 8058 Zürich-Flughafen, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4874102,
+                  "lng" : 8.578770799999999
+               },
+               "southwest" : {
+                  "lat" : 47.43879399999999,
+                  "lng" : 8.527083299999999
+               }
+            },
+            "location" : {
+               "lat" : 47.45039999999999,
+               "lng" : 8.5619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4874102,
+                  "lng" : 8.578770799999999
+               },
+               "southwest" : {
+                  "lat" : 47.43879399999999,
+                  "lng" : 8.527083299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

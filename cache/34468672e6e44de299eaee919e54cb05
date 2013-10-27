@@ -1,0 +1,224 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halle Heart Children's Museum",
+               "short_name" : "Halle Heart Children's Museum",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2929",
+               "short_name" : "2929",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 48th Street",
+               "short_name" : "S 48th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Mountain Village",
+               "short_name" : "South Mountain Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tempe",
+               "short_name" : "Tempe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa",
+               "short_name" : "Maricopa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85282",
+               "short_name" : "85282",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3145",
+               "short_name" : "3145",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Halle Heart Children's Museum, 2929 South 48th Street, Tempe, AZ 85282, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.396907,
+               "lng" : -111.977558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4062221,
+                  "lng" : -111.9615506
+               },
+               "southwest" : {
+                  "lat" : 33.3875909,
+                  "lng" : -111.9935654
+               }
+            }
+         },
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "American Heart Association",
+               "short_name" : "American Heart Association",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "419",
+               "short_name" : "419",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "E Main St # 309",
+               "short_name" : "E Main St # 309",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middletown",
+               "short_name" : "Middletown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wallkill",
+               "short_name" : "Wallkill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10940",
+               "short_name" : "10940",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2552",
+               "short_name" : "2552",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "American Heart Association, 419 E Main St # 309, Middletown, NY 10940, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4457359,
+               "lng" : -74.39224999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4470848802915,
+                  "lng" : -74.39090101970849
+               },
+               "southwest" : {
+                  "lat" : 41.4443869197085,
+                  "lng" : -74.3935989802915
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "American Heart Association",
+               "short_name" : "American Heart Association",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "710",
+               "short_name" : "710",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "2nd Ave # 900",
+               "short_name" : "2nd Ave # 900",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Business District",
+               "short_name" : "Central Business District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98104",
+               "short_name" : "98104",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1719",
+               "short_name" : "1719",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "American Heart Association, 710 2nd Ave # 900, Seattle, WA 98104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.603364,
+               "lng" : -122.333359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6047129802915,
+                  "lng" : -122.3320100197085
+               },
+               "southwest" : {
+                  "lat" : 47.6020150197085,
+                  "lng" : -122.3347079802915
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baylor University",
+               "short_name" : "Baylor University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1311",
+               "short_name" : "1311",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 5th Street",
+               "short_name" : "S 5th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waco",
+               "short_name" : "Waco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "McLennan",
+               "short_name" : "McLennan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76706",
+               "short_name" : "76706",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baylor University, 1311 South 5th Street, Waco, TX 76706, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.57254229999999,
+                  "lng" : -97.0987765
+               },
+               "southwest" : {
+                  "lat" : 31.5403688,
+                  "lng" : -97.13704079999999
+               }
+            },
+            "location" : {
+               "lat" : 31.5482204,
+               "lng" : -97.1184377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5602849,
+                  "lng" : -97.0987765
+               },
+               "southwest" : {
+                  "lat" : 31.5403688,
+                  "lng" : -97.12501789999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

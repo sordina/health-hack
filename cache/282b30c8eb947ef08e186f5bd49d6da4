@@ -1,0 +1,182 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "BS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brescia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5900636,
+                  "lng" : 10.2999996
+               },
+               "southwest" : {
+                  "lat" : 45.4958244,
+                  "lng" : 10.1473578
+               }
+            },
+            "location" : {
+               "lat" : 45.5411875,
+               "lng" : 10.2194437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5900636,
+                  "lng" : 10.2999996
+               },
+               "southwest" : {
+                  "lat" : 45.4958244,
+                  "lng" : 10.1473578
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "BS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25124",
+               "short_name" : "25124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brescia, 25124 Brescia, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.532094,
+               "lng" : 10.214474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5334429802915,
+                  "lng" : 10.2158229802915
+               },
+               "southwest" : {
+                  "lat" : 45.5307450197085,
+                  "lng" : 10.2131250197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "Brescia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Brescia",
+               "short_name" : "BS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25122",
+               "short_name" : "25122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brescia, 25122 Brescia, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.533081,
+               "lng" : 10.2136
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.53442998029151,
+                  "lng" : 10.2149489802915
+               },
+               "southwest" : {
+                  "lat" : 45.53173201970851,
+                  "lng" : 10.2122510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

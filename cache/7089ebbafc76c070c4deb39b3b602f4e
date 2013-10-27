@@ -1,0 +1,168 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego State University",
+               "short_name" : "San Diego State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5500",
+               "short_name" : "5500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campanile Drive",
+               "short_name" : "Campanile Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mid-City",
+               "short_name" : "Mid-City",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92182",
+               "short_name" : "92182",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Diego State University, 5500 Campanile Drive, San Diego, CA 92182, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7790934,
+                  "lng" : -117.0617076
+               },
+               "southwest" : {
+                  "lat" : 32.7701559,
+                  "lng" : -117.0809319
+               }
+            },
+            "location" : {
+               "lat" : 32.7746247,
+               "lng" : -117.0713197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7790934,
+                  "lng" : -117.0617076
+               },
+               "southwest" : {
+                  "lat" : 32.7701559,
+                  "lng" : -117.0809319
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "5500",
+               "short_name" : "5500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "San Diego State University",
+               "short_name" : "San Diego State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Campanile Drive",
+               "short_name" : "Campanile Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "College West",
+               "short_name" : "College West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mid-City",
+               "short_name" : "Mid-City",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92182",
+               "short_name" : "92182",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5500 Campanile Drive, San Diego State University, San Diego, CA 92182, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.777624,
+                  "lng" : -117.0698128
+               },
+               "southwest" : {
+                  "lat" : 32.7757811,
+                  "lng" : -117.0731835
+               }
+            },
+            "location" : {
+               "lat" : 32.7768498,
+               "lng" : -117.0716188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7780515302915,
+                  "lng" : -117.0698128
+               },
+               "southwest" : {
+                  "lat" : 32.7753535697085,
+                  "lng" : -117.0731835
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

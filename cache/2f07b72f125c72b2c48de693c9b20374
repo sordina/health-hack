@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Debrecen",
+               "short_name" : "Debrecen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Debreceni",
+               "short_name" : "Debreceni",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hajdu-Bihar",
+               "short_name" : "Hajdu-Bihar",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hungary",
+               "short_name" : "HU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Debrecen, Hungary",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6369639,
+                  "lng" : 21.8837061
+               },
+               "southwest" : {
+                  "lat" : 47.4248649,
+                  "lng" : 21.4366579
+               }
+            },
+            "location" : {
+               "lat" : 47.5316049,
+               "lng" : 21.6273123
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6369639,
+                  "lng" : 21.8837061
+               },
+               "southwest" : {
+                  "lat" : 47.4248649,
+                  "lng" : 21.4366579
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

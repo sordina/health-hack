@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Herrick Laboratories",
+               "short_name" : "Herrick Laboratories",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Purdue University",
+               "short_name" : "Purdue University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "206",
+               "short_name" : "206",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Martin Jischke Drive",
+               "short_name" : "S Martin Jischke Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Lafayette",
+               "short_name" : "West Lafayette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wabash",
+               "short_name" : "Wabash",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tippecanoe",
+               "short_name" : "Tippecanoe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47907",
+               "short_name" : "47907",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Herrick Laboratories, Purdue University, 206 South Martin Jischke Drive, West Lafayette, IN 47907, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4228027,
+               "lng" : -86.9208951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.43129649999999,
+                  "lng" : -86.90488769999999
+               },
+               "southwest" : {
+                  "lat" : 40.4143078,
+                  "lng" : -86.9369025
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

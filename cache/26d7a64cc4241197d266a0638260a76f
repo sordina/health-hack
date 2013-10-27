@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flinders University School of Nursing & Midwifery",
+               "short_name" : "Flinders University School of Nursing & Midwifery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Flinders University",
+               "short_name" : "Flinders University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bedford Park",
+               "short_name" : "Bedford Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5042",
+               "short_name" : "5042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flinders University School of Nursing & Midwifery, Flinders University, Bedford Park SA 5042, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -35.018214,
+               "lng" : 138.575674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.0090754,
+                  "lng" : 138.5916814
+               },
+               "southwest" : {
+                  "lat" : -35.0273515,
+                  "lng" : 138.5596666
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

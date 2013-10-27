@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Godinne",
+               "short_name" : "Godinne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Namur",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Walloon Region",
+               "short_name" : "Walloon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5530",
+               "short_name" : "5530",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5530 Godinne, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.34788,
+               "lng" : 4.87325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3549997,
+                  "lng" : 4.8892574
+               },
+               "southwest" : {
+                  "lat" : 50.34075929999999,
+                  "lng" : 4.857242600000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

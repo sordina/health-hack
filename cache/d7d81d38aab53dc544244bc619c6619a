@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Kansas Medical Center",
+               "short_name" : "University of Kansas Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3901",
+               "short_name" : "3901",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rainbow Boulevard",
+               "short_name" : "Rainbow Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "Kansas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66160",
+               "short_name" : "66160",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.064133,
+                  "lng" : -94.6072824
+               },
+               "southwest" : {
+                  "lat" : 39.05181899999999,
+                  "lng" : -94.61537249999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0562445,
+               "lng" : -94.61073949999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.064133,
+                  "lng" : -94.6072824
+               },
+               "southwest" : {
+                  "lat" : 39.05181899999999,
+                  "lng" : -94.61537249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Kansas Medical Center",
+               "short_name" : "University Of Kansas Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3599",
+               "short_name" : "3599",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rainbow Boulevard",
+               "short_name" : "Rainbow Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rosedale",
+               "short_name" : "Rosedale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "Kansas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wyandotte",
+               "short_name" : "Wyandotte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66103",
+               "short_name" : "66103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Of Kansas Medical Center, 3599 Rainbow Boulevard, Kansas City, KS 66103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.056671,
+               "lng" : -94.61078599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0580199802915,
+                  "lng" : -94.60943701970849
+               },
+               "southwest" : {
+                  "lat" : 39.05532201970851,
+                  "lng" : -94.6121349802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

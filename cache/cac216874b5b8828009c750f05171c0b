@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Thessaloniki",
+               "short_name" : "Thessaloniki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kentriki Makedonia",
+               "short_name" : "Kentriki Makedonia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Makedonia Thraki",
+               "short_name" : "Makedonia Thraki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thessaloniki, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6560448,
+                  "lng" : 22.9900712
+               },
+               "southwest" : {
+                  "lat" : 40.5863402,
+                  "lng" : 22.9019833
+               }
+            },
+            "location" : {
+               "lat" : 40.6393495,
+               "lng" : 22.9446064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6560448,
+                  "lng" : 22.9900712
+               },
+               "southwest" : {
+                  "lat" : 40.5863402,
+                  "lng" : 22.9019833
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

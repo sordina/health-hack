@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Chemistry and Biochemistry",
+               "short_name" : "Dept of Chemistry and Biochemistry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Arizona",
+               "short_name" : "The University of Arizona",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ward 6",
+               "short_name" : "Ward 6",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima",
+               "short_name" : "Pima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85719",
+               "short_name" : "85719",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Chemistry and Biochemistry, The University of Arizona, Tucson, AZ 85719, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2311206,
+               "lng" : -110.9522162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2405587,
+                  "lng" : -110.9362088
+               },
+               "southwest" : {
+                  "lat" : 32.2216815,
+                  "lng" : -110.9682236
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

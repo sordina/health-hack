@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chungju-si",
+               "short_name" : "Chungju-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chungcheongbuk-do",
+               "short_name" : "Chungcheongbuk-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chungju-si, Chungcheongbuk-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2141801,
+                  "lng" : 128.1272101
+               },
+               "southwest" : {
+                  "lat" : 36.7995969,
+                  "lng" : 127.6509049
+               }
+            },
+            "location" : {
+               "lat" : 36.9910113,
+               "lng" : 127.9259497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0196,
+                  "lng" : 127.9513
+               },
+               "southwest" : {
+                  "lat" : 36.952,
+                  "lng" : 127.9034
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

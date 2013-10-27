@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Melbourne",
+               "short_name" : "University of Melbourne",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "234",
+               "short_name" : "234",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "St Kilda Road",
+               "short_name" : "St Kilda Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Southbank",
+               "short_name" : "Southbank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3006",
+               "short_name" : "3006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Melbourne, 234 St Kilda Road, Southbank VIC 3006, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8247205,
+               "lng" : 144.9701656
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8159064,
+                  "lng" : 144.986173
+               },
+               "southwest" : {
+                  "lat" : -37.8335336,
+                  "lng" : 144.9541582
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

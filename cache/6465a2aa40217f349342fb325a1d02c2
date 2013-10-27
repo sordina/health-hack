@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "201306",
+               "short_name" : "201306",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pudong",
+               "short_name" : "Pudong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pudong, Shanghai, China, 201306",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.9301039,
+                  "lng" : 121.947311
+               },
+               "southwest" : {
+                  "lat" : 30.8477954,
+                  "lng" : 121.8107079
+               }
+            },
+            "location" : {
+               "lat" : 30.8884563,
+               "lng" : 121.8419485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.9301039,
+                  "lng" : 121.947311
+               },
+               "southwest" : {
+                  "lat" : 30.8477954,
+                  "lng" : 121.8107079
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

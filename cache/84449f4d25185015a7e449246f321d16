@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rutgers University - Douglass Campus",
+               "short_name" : "Rutgers University - Douglass Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "George Street",
+               "short_name" : "George Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "New Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08901",
+               "short_name" : "08901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rutgers University - Douglass Campus, 100 George Street, New Brunswick, NJ 08901, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4888115,
+                  "lng" : -74.4132571
+               },
+               "southwest" : {
+                  "lat" : 40.464441,
+                  "lng" : -74.4456261
+               }
+            },
+            "location" : {
+               "lat" : 40.4786708,
+               "lng" : -74.43178929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4888115,
+                  "lng" : -74.4132571
+               },
+               "southwest" : {
+                  "lat" : 40.464441,
+                  "lng" : -74.4456261
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rutgers University",
+               "short_name" : "Rutgers University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "U.S. Highway 1",
+               "short_name" : "U.S. Highway 1",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "New Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08901",
+               "short_name" : "08901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rutgers University, 57 U.S. Highway 1, New Brunswick, NJ 08901, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5318925,
+                  "lng" : -74.4132571
+               },
+               "southwest" : {
+                  "lat" : 40.464441,
+                  "lng" : -74.48143899999999
+               }
+            },
+            "location" : {
+               "lat" : 40.5009561,
+               "lng" : -74.44734339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5318925,
+                  "lng" : -74.4132571
+               },
+               "southwest" : {
+                  "lat" : 40.464441,
+                  "lng" : -74.48143899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

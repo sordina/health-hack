@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norfolk and Norwich University Hospital",
+               "short_name" : "Norfolk and Norwich University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Colney Lane",
+               "short_name" : "Colney Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NR4 7UY",
+               "short_name" : "NR4 7UY",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Norfolk and Norwich University Hospital, Colney Lane, Norwich, Norfolk NR4 7UY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6197151,
+                  "lng" : 1.22475
+               },
+               "southwest" : {
+                  "lat" : 52.613733,
+                  "lng" : 1.2154027
+               }
+            },
+            "location" : {
+               "lat" : 52.6170025,
+               "lng" : 1.2206089
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6197151,
+                  "lng" : 1.22475
+               },
+               "southwest" : {
+                  "lat" : 52.613733,
+                  "lng" : 1.2154027
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

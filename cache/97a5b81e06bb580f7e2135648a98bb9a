@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bern",
+               "short_name" : "University of Bern",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hochschulstrasse",
+               "short_name" : "Hochschulstrasse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Länggasse",
+               "short_name" : "Länggasse",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Länggasse-Felsenau",
+               "short_name" : "Länggasse-Felsenau",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berne",
+               "short_name" : "Berne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bern District",
+               "short_name" : "Bern District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3012",
+               "short_name" : "3012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Bern, Hochschulstrasse 4, 3012 Berne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9682749,
+                  "lng" : 7.449191099999999
+               },
+               "southwest" : {
+                  "lat" : 46.9445758,
+                  "lng" : 7.395876899999999
+               }
+            },
+            "location" : {
+               "lat" : 46.9504081,
+               "lng" : 7.4381464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9524821802915,
+                  "lng" : 7.439957130291502
+               },
+               "southwest" : {
+                  "lat" : 46.9497842197085,
+                  "lng" : 7.437259169708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

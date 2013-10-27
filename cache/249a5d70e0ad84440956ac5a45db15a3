@@ -1,0 +1,202 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parma, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8395029,
+                  "lng" : 10.3842979
+               },
+               "southwest" : {
+                  "lat" : 44.7554041,
+                  "lng" : 10.2634331
+               }
+            },
+            "location" : {
+               "lat" : 44.801485,
+               "lng" : 10.3279036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8395029,
+                  "lng" : 10.3842979
+               },
+               "southwest" : {
+                  "lat" : 44.7554041,
+                  "lng" : 10.2634331
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Airport of Parma \"Giuseppe Verdi\"",
+               "short_name" : "Airport of Parma \"Giuseppe Verdi\"",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "50A",
+               "short_name" : "50A",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Licinio Ferretti",
+               "short_name" : "Via Licinio Ferretti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43126",
+               "short_name" : "43126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Airport of Parma \"Giuseppe Verdi\" (PMF), Via Licinio Ferretti, 50A, 43126 Parma, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.83788879999999,
+                  "lng" : 10.3035986
+               },
+               "southwest" : {
+                  "lat" : 44.8150229,
+                  "lng" : 10.2883525
+               }
+            },
+            "location" : {
+               "lat" : 44.8232625,
+               "lng" : 10.2959349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.83788879999999,
+                  "lng" : 10.3035986
+               },
+               "southwest" : {
+                  "lat" : 44.8150229,
+                  "lng" : 10.2883525
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "Parma",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Parma",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43122",
+               "short_name" : "43122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Parma, 43122 Parma, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.810174,
+               "lng" : 10.328571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8115229802915,
+                  "lng" : 10.3299199802915
+               },
+               "southwest" : {
+                  "lat" : 44.8088250197085,
+                  "lng" : 10.3272220197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

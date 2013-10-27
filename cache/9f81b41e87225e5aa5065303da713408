@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3010",
+               "short_name" : "3010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mattenhof-Weissenbühl",
+               "short_name" : "Mattenhof-Weissenbühl",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berne",
+               "short_name" : "Berne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3010 Berne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9493537,
+                  "lng" : 7.428337399999998
+               },
+               "southwest" : {
+                  "lat" : 46.9448014,
+                  "lng" : 7.419985199999999
+               }
+            },
+            "location" : {
+               "lat" : 46.9475044,
+               "lng" : 7.423628000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9493537,
+                  "lng" : 7.428337399999998
+               },
+               "southwest" : {
+                  "lat" : 46.9448014,
+                  "lng" : 7.419985199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

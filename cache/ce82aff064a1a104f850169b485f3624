@@ -1,0 +1,94 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johann Wolfgang Goethe University Frankfurt am Main",
+               "short_name" : "Johann Wolfgang Goethe University Frankfurt am Main",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Senckenberganlage",
+               "short_name" : "Senckenberganlage",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westend-Süd",
+               "short_name" : "Westend-Süd",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Innenstadt",
+               "short_name" : "Innenstadt",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Frankfurt",
+               "short_name" : "Frankfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frankfurt am Main",
+               "short_name" : "Frankfurt am Main",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60325",
+               "short_name" : "60325",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johann Wolfgang Goethe University Frankfurt am Main, Senckenberganlage 31, 60325 Frankfurt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1297354,
+                  "lng" : 8.6714837
+               },
+               "southwest" : {
+                  "lat" : 50.1147896,
+                  "lng" : 8.648922199999999
+               }
+            },
+            "location" : {
+               "lat" : 50.1187345,
+               "lng" : 8.653057499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1222533,
+                  "lng" : 8.6538568
+               },
+               "southwest" : {
+                  "lat" : 50.1147896,
+                  "lng" : 8.648922199999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayreuth",
+               "short_name" : "BT",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Franconia",
+               "short_name" : "Upper Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayreuth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9772605,
+                  "lng" : 11.6728261
+               },
+               "southwest" : {
+                  "lat" : 49.88819119999999,
+                  "lng" : 11.4750831
+               }
+            },
+            "location" : {
+               "lat" : 49.9456399,
+               "lng" : 11.5713346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9772605,
+                  "lng" : 11.6728261
+               },
+               "southwest" : {
+                  "lat" : 49.88819119999999,
+                  "lng" : 11.4750831
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

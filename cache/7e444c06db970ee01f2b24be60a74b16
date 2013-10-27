@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            },
+            "location" : {
+               "lat" : 42.8782132,
+               "lng" : -8.5448445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

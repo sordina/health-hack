@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Mississippi Medical Center",
+               "short_name" : "University of Mississippi Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Mississippi Medical School",
+               "short_name" : "University of Mississippi Medical School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North State Street",
+               "short_name" : "N State St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fondren",
+               "short_name" : "Fondren",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hinds",
+               "short_name" : "Hinds",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39216",
+               "short_name" : "39216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Mississippi Medical Center, University of Mississippi Medical School, 2500 North State Street, Jackson, MS 39216, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.3293123,
+               "lng" : -90.17438129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3387402,
+                  "lng" : -90.1583739
+               },
+               "southwest" : {
+                  "lat" : 32.31988340000001,
+                  "lng" : -90.1903887
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

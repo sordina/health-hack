@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "95",
+               "short_name" : "95",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arch Street",
+               "short_name" : "Arch St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middlebury",
+               "short_name" : "Middlebury",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Akron",
+               "short_name" : "Akron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit",
+               "short_name" : "Summit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44304",
+               "short_name" : "44304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "95 Arch Street #300, Akron, OH 44304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.08303120000001,
+               "lng" : -81.4985269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.08438018029151,
+                  "lng" : -81.49717791970849
+               },
+               "southwest" : {
+                  "lat" : 41.08168221970851,
+                  "lng" : -81.4998758802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaziantep",
+               "short_name" : "Gaziantep",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gaziantep",
+               "short_name" : "Gaziantep",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaziantep, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.108291,
+                  "lng" : 37.4567749
+               },
+               "southwest" : {
+                  "lat" : 37.009252,
+                  "lng" : 37.3034992
+               }
+            },
+            "location" : {
+               "lat" : 37.06622,
+               "lng" : 37.38332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.108291,
+                  "lng" : 37.4567749
+               },
+               "southwest" : {
+                  "lat" : 37.009252,
+                  "lng" : 37.3034992
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

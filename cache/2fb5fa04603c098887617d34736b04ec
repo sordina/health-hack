@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "105-8471",
+               "short_name" : "105-8471",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "3 Chome",
+               "short_name" : "3 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nishishinbashi",
+               "short_name" : "Nishishinbashi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Minato",
+               "short_name" : "Minato",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3 Chome-19 Nishishinbashi, Minato, Tokyo 105-8471, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6636146,
+               "lng" : 139.7513046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6649635802915,
+                  "lng" : 139.7526535802915
+               },
+               "southwest" : {
+                  "lat" : 35.6622656197085,
+                  "lng" : 139.7499556197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

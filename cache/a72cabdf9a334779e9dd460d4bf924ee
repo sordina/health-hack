@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Kent - Canterbury Campus",
+               "short_name" : "University of Kent - Canterbury Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Kent",
+               "short_name" : "Kent",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CT2 7NZ",
+               "short_name" : "CT2 7NZ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Kent - Canterbury Campus, Canterbury, Kent CT2 7NZ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3012558,
+                  "lng" : 1.0740262
+               },
+               "southwest" : {
+                  "lat" : 51.2914162,
+                  "lng" : 1.053954
+               }
+            },
+            "location" : {
+               "lat" : 51.296336,
+               "lng" : 1.0639901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3012558,
+                  "lng" : 1.0740262
+               },
+               "southwest" : {
+                  "lat" : 51.2914162,
+                  "lng" : 1.053954
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

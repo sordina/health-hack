@@ -1,0 +1,536 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wayne State University",
+               "short_name" : "Wayne State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48201",
+               "short_name" : "48201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Wayne State University, Wayne State University School of Medicine, Wayne State University, Detroit, MI 48201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3544337,
+               "lng" : -83.0559105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3557826802915,
+                  "lng" : -83.0545615197085
+               },
+               "southwest" : {
+                  "lat" : 42.3530847197085,
+                  "lng" : -83.05725948029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Health Sciences Center",
+               "short_name" : "Health Sciences Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "North Philadelphia",
+               "short_name" : "North Philadelphia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19140",
+               "short_name" : "19140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Health Sciences Center, Temple University School of Medicine, Philadelphia, PA 19140, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0067469,
+               "lng" : -75.1523057
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.015293,
+                  "lng" : -75.13629829999999
+               },
+               "southwest" : {
+                  "lat" : 39.9981997,
+                  "lng" : -75.16831309999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70112",
+               "short_name" : "70112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, New Orleans, LA 70112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9552016,
+               "lng" : -90.0770318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9565505802915,
+                  "lng" : -90.0756828197085
+               },
+               "southwest" : {
+                  "lat" : 29.9538526197085,
+                  "lng" : -90.07838078029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Druid Hills",
+               "short_name" : "Druid Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30329",
+               "short_name" : "30329",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Emory University, Druid Hills, GA 30329, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7958808,
+               "lng" : -84.3232221
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7972297802915,
+                  "lng" : -84.3218731197085
+               },
+               "southwest" : {
+                  "lat" : 33.7945318197085,
+                  "lng" : -84.32457108029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Middle East",
+               "short_name" : "Middle East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21205",
+               "short_name" : "21205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Johns Hopkins University, Baltimore, MD 21205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2992727,
+               "lng" : -76.5904468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3006216802915,
+                  "lng" : -76.5890978197085
+               },
+               "southwest" : {
+                  "lat" : 39.2979237197085,
+                  "lng" : -76.59179578029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Okemos",
+               "short_name" : "Okemos",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "Michigan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48864",
+               "short_name" : "48864",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Okemos, Michigan 48864, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.72407399999999,
+               "lng" : -84.4760308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7254229802915,
+                  "lng" : -84.47468181970851
+               },
+               "southwest" : {
+                  "lat" : 42.7227250197085,
+                  "lng" : -84.47737978029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A",
+               "short_name" : "H3A",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Montreal, QC H3A, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5031022,
+               "lng" : -73.58258739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5044511802915,
+                  "lng" : -73.58123841970848
+               },
+               "southwest" : {
+                  "lat" : 45.5017532197085,
+                  "lng" : -73.5839363802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Pok Fu Lam",
+               "short_name" : "Pok Fu Lam",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong Island",
+               "short_name" : "Hong Kong Island",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Pok Fu Lam, Hong Kong",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.2673637,
+               "lng" : 114.1287648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2687126802915,
+                  "lng" : 114.1301137802915
+               },
+               "southwest" : {
+                  "lat" : 22.2660147197085,
+                  "lng" : 114.1274158197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Armed Forces Medical College (AFMC)",
+               "short_name" : "Armed Forces Medical College (AFMC)",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Wanowari Bazaar",
+               "short_name" : "Wanowari Bazaar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Katad Khana",
+               "short_name" : "Katad Khana",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pune",
+               "short_name" : "Pune",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maharashtra",
+               "short_name" : "MH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "411040",
+               "short_name" : "411040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Armed Forces Medical College (AFMC), Wanowari Bazaar, Katad Khana, Pune, Maharashtra 411040, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 18.5033553,
+               "lng" : 73.89091979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.5047042802915,
+                  "lng" : 73.89226878029149
+               },
+               "southwest" : {
+                  "lat" : 18.5020063197085,
+                  "lng" : 73.88957081970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

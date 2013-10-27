@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "360-0197",
+               "short_name" : "360-0197",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Itai",
+               "short_name" : "Itai",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kumagaya",
+               "short_name" : "Kumagaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saitama Prefecture",
+               "short_name" : "Saitama Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Itai, Kumagaya, Saitama Prefecture 360-0197, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1111356,
+               "lng" : 139.305149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.11248458029149,
+                  "lng" : 139.3064979802915
+               },
+               "southwest" : {
+                  "lat" : 36.10978661970849,
+                  "lng" : 139.3038000197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

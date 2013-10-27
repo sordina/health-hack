@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45229",
+               "short_name" : "45229",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Avondale",
+               "short_name" : "Avondale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cincinnati, OH 45229, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.174062,
+                  "lng" : -84.46531299999999
+               },
+               "southwest" : {
+                  "lat" : 39.1346401,
+                  "lng" : -84.505757
+               }
+            },
+            "location" : {
+               "lat" : 39.1540971,
+               "lng" : -84.485507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.174062,
+                  "lng" : -84.46531299999999
+               },
+               "southwest" : {
+                  "lat" : 39.1346401,
+                  "lng" : -84.505757
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

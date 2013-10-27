@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luoyang",
+               "short_name" : "Luoyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Henan",
+               "short_name" : "Henan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luoyang, Henan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0702359,
+                  "lng" : 112.9847382
+               },
+               "southwest" : {
+                  "lat" : 33.5705337,
+                  "lng" : 111.1384439
+               }
+            },
+            "location" : {
+               "lat" : 34.619683,
+               "lng" : 112.45404
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8307227,
+                  "lng" : 112.6624238
+               },
+               "southwest" : {
+                  "lat" : 34.4807805,
+                  "lng" : 112.2338927
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

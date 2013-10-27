@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Massachusetts Medical School",
+               "short_name" : "University of Massachusetts Medical School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Lake Avenue",
+               "short_name" : "N Lake Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01655",
+               "short_name" : "01655",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Massachusetts Medical School, 55 North Lake Avenue, Worcester, MA 01655, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2823107,
+                  "lng" : -71.7584433
+               },
+               "southwest" : {
+                  "lat" : 42.2738678,
+                  "lng" : -71.7675187
+               }
+            },
+            "location" : {
+               "lat" : 42.275943,
+               "lng" : -71.7607653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2823107,
+                  "lng" : -71.7584433
+               },
+               "southwest" : {
+                  "lat" : 42.2738678,
+                  "lng" : -71.7675187
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daejeon",
+               "short_name" : "Daejeon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daejeon, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4999476,
+                  "lng" : 127.5590436
+               },
+               "southwest" : {
+                  "lat" : 36.1833708,
+                  "lng" : 127.2464501
+               }
+            },
+            "location" : {
+               "lat" : 36.3504119,
+               "lng" : 127.3845475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4563,
+                  "lng" : 127.4643
+               },
+               "southwest" : {
+                  "lat" : 36.2899,
+                  "lng" : 127.3133
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

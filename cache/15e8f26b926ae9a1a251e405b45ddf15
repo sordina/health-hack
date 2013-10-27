@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidad Miguel Hernández",
+               "short_name" : "Universidad Miguel Hernández",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida de la Universidad",
+               "short_name" : "Avenida de la Universidad",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Elche, Alicante",
+               "short_name" : "Elche, Alicante",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "Alicante",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "A",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03202",
+               "short_name" : "03202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidad Miguel Hernández, Avenida de la Universidad, s/n, 03202 Elche, Alicante, Alicante, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.60042260000001,
+                  "lng" : -0.0557724
+               },
+               "southwest" : {
+                  "lat" : 38.0651951,
+                  "lng" : -0.9871875
+               }
+            },
+            "location" : {
+               "lat" : 38.2760378,
+               "lng" : -0.6878801999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2802958,
+                  "lng" : -0.6819989
+               },
+               "southwest" : {
+                  "lat" : 38.2726416,
+                  "lng" : -0.6967361
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

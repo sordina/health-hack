@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frederiksberg Hospital (Frederiksberg)",
+               "short_name" : "Frederiksberg Hospital (Frederiksberg)",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Frederiksberg",
+               "short_name" : "Frederiksberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frederiksberg",
+               "short_name" : "Frederiksberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2000",
+               "short_name" : "2000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Frederiksberg Hospital (Frederiksberg), 2000 Frederiksberg, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.684112,
+               "lng" : 12.525375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6854609802915,
+                  "lng" : 12.5267239802915
+               },
+               "southwest" : {
+                  "lat" : 55.6827630197085,
+                  "lng" : 12.5240260197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

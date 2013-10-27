@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "350001",
+               "short_name" : "350001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fuzhou",
+               "short_name" : "Fuzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fujian",
+               "short_name" : "Fujian",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gulou, Fuzhou, Fujian, China, 350001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.1042269,
+                  "lng" : 119.3264866
+               },
+               "southwest" : {
+                  "lat" : 26.0730755,
+                  "lng" : 119.2785637
+               }
+            },
+            "location" : {
+               "lat" : 26.0843059,
+               "lng" : 119.3038548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.1042269,
+                  "lng" : 119.3264866
+               },
+               "southwest" : {
+                  "lat" : 26.0730755,
+                  "lng" : 119.2785637
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

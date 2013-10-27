@@ -1,0 +1,439 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University Department of Engineering for Professionals",
+               "short_name" : "Johns Hopkins University Department of Engineering for Professionals",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3400",
+               "short_name" : "3400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Charles Street",
+               "short_name" : "North Charles Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Remington",
+               "short_name" : "Remington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21218",
+               "short_name" : "21218",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University Department of Engineering for Professionals, 3400 North Charles Street, Baltimore, MD 21218, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3249281,
+               "lng" : -76.62335379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.333559,
+                  "lng" : -76.6073464
+               },
+               "southwest" : {
+                  "lat" : 39.3162961,
+                  "lng" : -76.6393612
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "624",
+               "short_name" : "624",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Broadway",
+               "short_name" : "N Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dunbar Broadway",
+               "short_name" : "Dunbar Broadway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21205",
+               "short_name" : "21205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University, 624 North Broadway, Baltimore, MD 21205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2979579,
+               "lng" : -76.5944846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2993068802915,
+                  "lng" : -76.59313561970849
+               },
+               "southwest" : {
+                  "lat" : 39.2966089197085,
+                  "lng" : -76.59583358029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5601",
+               "short_name" : "5601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Loch Raven Boulevard",
+               "short_name" : "Loch Raven Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Loch Raven",
+               "short_name" : "Loch Raven",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21239",
+               "short_name" : "21239",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University, 5601 Loch Raven Boulevard, Baltimore, MD 21239, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.3581743,
+               "lng" : -76.5873708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3595232802915,
+                  "lng" : -76.58602181970849
+               },
+               "southwest" : {
+                  "lat" : 39.3568253197085,
+                  "lng" : -76.5887197802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1830",
+               "short_name" : "1830",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Monument Street",
+               "short_name" : "E Monument St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dunbar Broadway",
+               "short_name" : "Dunbar Broadway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21287",
+               "short_name" : "21287",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0020",
+               "short_name" : "0020",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University, 1830 East Monument Street, Baltimore, MD 21287, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2985757,
+               "lng" : -76.59145000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2999246802915,
+                  "lng" : -76.59010101970851
+               },
+               "southwest" : {
+                  "lat" : 39.2972267197085,
+                  "lng" : -76.59279898029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Wolfe Street",
+               "short_name" : "N Wolfe St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dunbar Broadway",
+               "short_name" : "Dunbar Broadway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21287",
+               "short_name" : "21287",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University, 200 North Wolfe Street, Baltimore, MD 21287, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2941713,
+               "lng" : -76.590734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2955202802915,
+                  "lng" : -76.58938501970849
+               },
+               "southwest" : {
+                  "lat" : 39.2928223197085,
+                  "lng" : -76.59208298029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins Outpatient Center;",
+               "short_name" : "Johns Hopkins Outpatient Center;",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "601",
+               "short_name" : "601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Caroline Street",
+               "short_name" : "N Caroline St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dunbar Broadway",
+               "short_name" : "Dunbar Broadway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21287",
+               "short_name" : "21287",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins Outpatient Center;, 601 North Caroline Street, Baltimore, MD 21287, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2970731,
+               "lng" : -76.59647480000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2984220802915,
+                  "lng" : -76.59512581970851
+               },
+               "southwest" : {
+                  "lat" : 39.2957241197085,
+                  "lng" : -76.59782378029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

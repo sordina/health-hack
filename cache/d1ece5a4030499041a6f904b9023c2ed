@@ -1,0 +1,131 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Physics",
+               "short_name" : "School of Physics",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Universiti Sains Malaysia",
+               "short_name" : "Universiti Sains Malaysia",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penang",
+               "short_name" : "Penang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11900",
+               "short_name" : "11900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Physics, Universiti Sains Malaysia, 11900 Georgetown, Penang, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.3586835,
+                  "lng" : 100.3029013
+               },
+               "southwest" : {
+                  "lat" : 5.3580906,
+                  "lng" : 100.3018874
+               }
+            },
+            "location" : {
+               "lat" : 5.358315,
+               "lng" : 100.3023473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.359736030291502,
+                  "lng" : 100.3037433302915
+               },
+               "southwest" : {
+                  "lat" : 5.357038069708498,
+                  "lng" : 100.3010453697085
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Physics",
+               "short_name" : "School of Physics",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Narmak",
+               "short_name" : "Narmak",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tehran",
+               "short_name" : "Tehran",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "School of Physics, IUST Main Enterance, Tehran, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7448863,
+                  "lng" : 51.5021762
+               },
+               "southwest" : {
+                  "lat" : 35.7446749,
+                  "lng" : 51.5016036
+               }
+            },
+            "location" : {
+               "lat" : 35.744762,
+               "lng" : 51.5020421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.74612958029149,
+                  "lng" : 51.5032388802915
+               },
+               "southwest" : {
+                  "lat" : 35.7434316197085,
+                  "lng" : 51.5005409197085
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

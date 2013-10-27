@@ -1,0 +1,231 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norfolk",
+               "short_name" : "Norfk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Norwich, Norfolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            },
+            "location" : {
+               "lat" : 52.6308859,
+               "lng" : 1.297355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6858357,
+                  "lng" : 1.3786135
+               },
+               "southwest" : {
+                  "lat" : 52.5944502,
+                  "lng" : 1.1950855
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New London",
+               "short_name" : "New London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6079979,
+                  "lng" : -72.04031999999999
+               },
+               "southwest" : {
+                  "lat" : 41.4906978,
+                  "lng" : -72.140822
+               }
+            },
+            "location" : {
+               "lat" : 41.5242649,
+               "lng" : -72.07591049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6079979,
+                  "lng" : -72.04031999999999
+               },
+               "southwest" : {
+                  "lat" : 41.4906978,
+                  "lng" : -72.140822
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chenango",
+               "short_name" : "Chenango",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13815",
+               "short_name" : "13815",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Norwich, NY 13815, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5506559,
+                  "lng" : -75.5060419
+               },
+               "southwest" : {
+                  "lat" : 42.5139748,
+                  "lng" : -75.536278
+               }
+            },
+            "location" : {
+               "lat" : 42.531184,
+               "lng" : -75.5235149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5506559,
+                  "lng" : -75.5060419
+               },
+               "southwest" : {
+                  "lat" : 42.5139748,
+                  "lng" : -75.536278
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norwich",
+               "short_name" : "Norwich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Windsor",
+               "short_name" : "Windsor",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norwich, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.809705,
+                  "lng" : -72.205195
+               },
+               "southwest" : {
+                  "lat" : 43.692414,
+                  "lng" : -72.42342099999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7153482,
+               "lng" : -72.307869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.809705,
+                  "lng" : -72.205195
+               },
+               "southwest" : {
+                  "lat" : 43.692414,
+                  "lng" : -72.42342099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

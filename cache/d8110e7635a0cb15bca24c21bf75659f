@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berne University Hospital",
+               "short_name" : "Berne University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mattenhof-Weissenbühl",
+               "short_name" : "Mattenhof-Weissenbühl",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berne",
+               "short_name" : "Berne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canton of Bern",
+               "short_name" : "BE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3010",
+               "short_name" : "3010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Berne University Hospital, 3010 Berne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9493817,
+                  "lng" : 7.427155899999999
+               },
+               "southwest" : {
+                  "lat" : 46.9464498,
+                  "lng" : 7.422575800000001
+               }
+            },
+            "location" : {
+               "lat" : 46.947734,
+               "lng" : 7.424789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9493817,
+                  "lng" : 7.427155899999999
+               },
+               "southwest" : {
+                  "lat" : 46.9464498,
+                  "lng" : 7.422575800000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

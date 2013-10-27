@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bristol",
+               "short_name" : "University of Bristol",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Senate House",
+               "short_name" : "Senate House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Tyndall Avenue",
+               "short_name" : "Tyndall Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Bristol",
+               "short_name" : "City of Bristol",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS8 1TH",
+               "short_name" : "BS8 1TH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Bristol, Senate House, Tyndall Avenue, Bristol, City of Bristol BS8 1TH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.46261029999999,
+                  "lng" : -2.5935429
+               },
+               "southwest" : {
+                  "lat" : 51.45355499999999,
+                  "lng" : -2.6138509
+               }
+            },
+            "location" : {
+               "lat" : 51.4579714,
+               "lng" : -2.6014743
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.46261029999999,
+                  "lng" : -2.5935429
+               },
+               "southwest" : {
+                  "lat" : 51.45355499999999,
+                  "lng" : -2.6138509
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bristol",
+               "short_name" : "University of Bristol",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Langford House",
+               "short_name" : "Langford House",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Langford",
+               "short_name" : "Langford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Somerset",
+               "short_name" : "North Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BS40 5DU",
+               "short_name" : "BS40 5DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bristol",
+               "short_name" : "Bristol",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Bristol, Langford House, Langford, Bristol, North Somerset BS40 5DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.346681,
+                  "lng" : -2.7760553
+               },
+               "southwest" : {
+                  "lat" : 51.3417332,
+                  "lng" : -2.7818881
+               }
+            },
+            "location" : {
+               "lat" : 51.3431748,
+               "lng" : -2.7780444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.346681,
+                  "lng" : -2.7760553
+               },
+               "southwest" : {
+                  "lat" : 51.3417332,
+                  "lng" : -2.7818881
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

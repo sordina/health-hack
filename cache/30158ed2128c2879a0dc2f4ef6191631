@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "Tübingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "Tübingen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tübingen",
+               "short_name" : "TÜ",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Wurttemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tübingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5937085,
+                  "lng" : 9.131081600000002
+               },
+               "southwest" : {
+                  "lat" : 48.4505798,
+                  "lng" : 8.9644852
+               }
+            },
+            "location" : {
+               "lat" : 48.5216364,
+               "lng" : 9.0576448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5937085,
+                  "lng" : 9.131081600000002
+               },
+               "southwest" : {
+                  "lat" : 48.4505798,
+                  "lng" : 8.9644852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charterhouse Square",
+               "short_name" : "Charterhouse Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EC1M",
+               "short_name" : "EC1M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Charterhouse Square, London EC1M, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5211498,
+                  "lng" : -0.0986643
+               },
+               "southwest" : {
+                  "lat" : 51.5205425,
+                  "lng" : -0.0989994
+               }
+            },
+            "location" : {
+               "lat" : 51.5208462,
+               "lng" : -0.09883180000000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52219513029149,
+                  "lng" : -0.09748286970849797
+               },
+               "southwest" : {
+                  "lat" : 51.5194971697085,
+                  "lng" : -0.100180830291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

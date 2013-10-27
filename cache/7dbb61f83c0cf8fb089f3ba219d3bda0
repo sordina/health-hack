@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haukeland",
+               "short_name" : "Haukeland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Espeland",
+               "short_name" : "Espeland",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Arna",
+               "short_name" : "Arna",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hordaland",
+               "short_name" : "Hordaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haukeland, Bergen, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.362153,
+               "lng" : 5.456494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.3676703,
+                  "lng" : 5.4725014
+               },
+               "southwest" : {
+                  "lat" : 60.35663470000001,
+                  "lng" : 5.4404866
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

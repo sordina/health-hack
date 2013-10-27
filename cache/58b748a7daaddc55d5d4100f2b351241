@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technical University Munich",
+               "short_name" : "Technical University Munich",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boltzmannstr.",
+               "short_name" : "Boltzmannstr.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85748",
+               "short_name" : "85748",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technical University Munich, Boltzmannstr. 15, 85748 Munich, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4073492,
+                  "lng" : 11.7371105
+               },
+               "southwest" : {
+                  "lat" : 48.1356758,
+                  "lng" : 11.5638371
+               }
+            },
+            "location" : {
+               "lat" : 48.26726,
+               "lng" : 11.67346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.2700022,
+                  "lng" : 11.6791785
+               },
+               "southwest" : {
+                  "lat" : 48.2599609,
+                  "lng" : 11.6564602
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virgen del Rocio",
+               "short_name" : "Virgen del Rocio",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Seville",
+               "short_name" : "Seville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sevilla",
+               "short_name" : "Sevilla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41013",
+               "short_name" : "41013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Virgen del Rocio, 41013 Seville, Sevilla, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.362896,
+               "lng" : -5.97594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3642449802915,
+                  "lng" : -5.974591019708498
+               },
+               "southwest" : {
+                  "lat" : 37.3615470197085,
+                  "lng" : -5.977288980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

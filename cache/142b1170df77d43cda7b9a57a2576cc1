@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Padua",
+               "short_name" : "University of Padua",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Prosdocimo Beldomandi",
+               "short_name" : "Via Prosdocimo Beldomandi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "Padua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "Padua",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Padua",
+               "short_name" : "PD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35137",
+               "short_name" : "35137",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Padua, Università degli Studi di Padova, Via Prosdocimo Beldomandi, 1, 35137 Padua, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4171857,
+                  "lng" : 11.8714136
+               },
+               "southwest" : {
+                  "lat" : 45.4167642,
+                  "lng" : 11.8707813
+               }
+            },
+            "location" : {
+               "lat" : 45.4170203,
+               "lng" : 11.8711379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4183239302915,
+                  "lng" : 11.8724464302915
+               },
+               "southwest" : {
+                  "lat" : 45.4156259697085,
+                  "lng" : 11.8697484697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

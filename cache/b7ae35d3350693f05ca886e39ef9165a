@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sanger Heart & Vascular Institute | Albermarle",
+               "short_name" : "Sanger Heart & Vascular Institute | Albermarle",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "307",
+               "short_name" : "307",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yadkin Street",
+               "short_name" : "Yadkin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Albemarle",
+               "short_name" : "Albemarle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Albemarle",
+               "short_name" : "North Albemarle",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Stanly",
+               "short_name" : "Stanly",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28001",
+               "short_name" : "28001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3441",
+               "short_name" : "3441",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Sanger Heart & Vascular Institute | Albermarle, 307 Yadkin Street, Albemarle, NC 28001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.3637309,
+               "lng" : -80.1934536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3728297,
+                  "lng" : -80.17744619999999
+               },
+               "southwest" : {
+                  "lat" : 35.3546311,
+                  "lng" : -80.20946099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

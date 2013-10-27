@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UNT Health Science Center",
+               "short_name" : "UNT Health Science Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3500",
+               "short_name" : "3500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Camp Bowie Boulevard",
+               "short_name" : "Camp Bowie Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort Worth",
+               "short_name" : "Fort Worth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant",
+               "short_name" : "Tarrant",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "76107",
+               "short_name" : "76107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UNT Health Science Center, 3500 Camp Bowie Boulevard, Fort Worth, TX 76107, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7513641,
+                  "lng" : -97.3680653
+               },
+               "southwest" : {
+                  "lat" : 32.7478013,
+                  "lng" : -97.369958
+               }
+            },
+            "location" : {
+               "lat" : 32.749542,
+               "lng" : -97.36903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7513641,
+                  "lng" : -97.36766266970849
+               },
+               "southwest" : {
+                  "lat" : 32.7478013,
+                  "lng" : -97.3703606302915
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

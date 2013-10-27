@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34384",
+               "short_name" : "34384",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34384 Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1092336,
+                  "lng" : 29.0168961
+               },
+               "southwest" : {
+                  "lat" : 41.0179511,
+                  "lng" : 28.9048235
+               }
+            },
+            "location" : {
+               "lat" : 41.0568148,
+               "lng" : 28.9703304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0857134,
+                  "lng" : 29.0052562
+               },
+               "southwest" : {
+                  "lat" : 41.0356481,
+                  "lng" : 28.9528644
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

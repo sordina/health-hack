@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leonard Davis Institute",
+               "short_name" : "LDI",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pennsylvania",
+               "short_name" : "University of Pennsylvania",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3641",
+               "short_name" : "3641",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Locust Walk",
+               "short_name" : "Locust Walk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6218",
+               "short_name" : "6218",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Leonard Davis Institute, University of Pennsylvania, 3641 Locust Walk, Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.952359,
+               "lng" : -75.1966012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.96091190000001,
+                  "lng" : -75.1805938
+               },
+               "southwest" : {
+                  "lat" : 39.943805,
+                  "lng" : -75.2126086
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Economics",
+               "short_name" : "Department of Economics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Chepauk",
+               "short_name" : "Chepauk",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Triplicane",
+               "short_name" : "Triplicane",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "MAS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600005",
+               "short_name" : "600005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Economics, Chepauk, Triplicane, Chennai, Tamil Nadu 600005, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0672704,
+               "lng" : 80.28320909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0686193802915,
+                  "lng" : 80.2845580802915
+               },
+               "southwest" : {
+                  "lat" : 13.0659214197085,
+                  "lng" : 80.2818601197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

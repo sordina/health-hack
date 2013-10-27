@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winterthur",
+               "short_name" : "Winterthur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winterthur District",
+               "short_name" : "Winterthur District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Winterthur, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.54785,
+                  "lng" : 8.80988
+               },
+               "southwest" : {
+                  "lat" : 47.4497699,
+                  "lng" : 8.656530000000002
+               }
+            },
+            "location" : {
+               "lat" : 47.49995,
+               "lng" : 8.737564599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.54785,
+                  "lng" : 8.80988
+               },
+               "southwest" : {
+                  "lat" : 47.4497699,
+                  "lng" : 8.656530000000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

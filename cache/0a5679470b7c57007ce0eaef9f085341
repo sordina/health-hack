@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australian School of Advanced Medicine",
+               "short_name" : "Australian School of Advanced Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Macquarie University",
+               "short_name" : "Macquarie University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Technology Place",
+               "short_name" : "Technology Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Macquarie Park",
+               "short_name" : "Macquarie Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2113",
+               "short_name" : "2113",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Australian School of Advanced Medicine, Macquarie University 2 Technology Place, Macquarie Park NSW 2113, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.773092,
+               "lng" : 151.1178124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.7638165,
+                  "lng" : 151.1338198
+               },
+               "southwest" : {
+                  "lat" : -33.7823665,
+                  "lng" : 151.101805
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

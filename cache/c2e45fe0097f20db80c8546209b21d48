@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "601-1495",
+               "short_name" : "601-1495",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ishidamoriminamicho",
+               "short_name" : "Ishidamoriminamicho",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fushimi Ward",
+               "short_name" : "Fushimi Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ishidamoriminamicho, Fushimi Ward, Kyoto, Kyoto Prefecture 601-1495, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9388193,
+               "lng" : 135.8024866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.9401682802915,
+                  "lng" : 135.8038355802915
+               },
+               "southwest" : {
+                  "lat" : 34.9374703197085,
+                  "lng" : 135.8011376197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

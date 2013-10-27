@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "510100",
+               "short_name" : "510100",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yuexiu",
+               "short_name" : "Yuexiu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Guangzhou",
+               "short_name" : "Guangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong",
+               "short_name" : "Guangdong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yuexiu, Guangzhou, Guangdong, China, 510100",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.1407767,
+                  "lng" : 113.3094149
+               },
+               "southwest" : {
+                  "lat" : 23.1071699,
+                  "lng" : 113.2632656
+               }
+            },
+            "location" : {
+               "lat" : 23.1155281,
+               "lng" : 113.2885565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.1407767,
+                  "lng" : 113.2960172
+               },
+               "southwest" : {
+                  "lat" : 23.1085451,
+                  "lng" : 113.2736865
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

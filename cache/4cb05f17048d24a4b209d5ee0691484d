@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "063000",
+               "short_name" : "063000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lubei",
+               "short_name" : "Lubei",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tangshan",
+               "short_name" : "Tangshan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hebei",
+               "short_name" : "Hebei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubei, Tangshan, Hebei, China, 063000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6794331,
+                  "lng" : 118.2058767
+               },
+               "southwest" : {
+                  "lat" : 39.584691,
+                  "lng" : 118.1122679
+               }
+            },
+            "location" : {
+               "lat" : 39.6305418,
+               "lng" : 118.1811437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6794331,
+                  "lng" : 118.2058767
+               },
+               "southwest" : {
+                  "lat" : 39.584691,
+                  "lng" : 118.1122679
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

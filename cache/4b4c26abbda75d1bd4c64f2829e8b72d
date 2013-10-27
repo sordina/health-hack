@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emergency Department",
+               "short_name" : "Emergency Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seymour Street",
+               "short_name" : "Seymour St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Green",
+               "short_name" : "South Green",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06115",
+               "short_name" : "06115",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2701",
+               "short_name" : "2701",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Emergency Department, 80 Seymour Street, Hartford, CT 06115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7541241,
+               "lng" : -72.6792679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7624475,
+                  "lng" : -72.66326049999999
+               },
+               "southwest" : {
+                  "lat" : 41.7457996,
+                  "lng" : -72.69527529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emergency department",
+               "short_name" : "Emergency department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rawalpindi",
+               "short_name" : "RWP",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rawalpindi",
+               "short_name" : "Rawalpindi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Emergency department, Rawalpindi, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.6283156,
+               "lng" : 73.07115089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6296645802915,
+                  "lng" : 73.0724998802915
+               },
+               "southwest" : {
+                  "lat" : 33.6269666197085,
+                  "lng" : 73.0698019197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

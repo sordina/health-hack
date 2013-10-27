@@ -1,0 +1,224 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island Hospital",
+               "short_name" : "Rhode Island Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "593",
+               "short_name" : "593",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eddy Street",
+               "short_name" : "Eddy St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper South Providence",
+               "short_name" : "Upper South Providence",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rhode Island Hospital, 593 Eddy Street, Providence, RI 02903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.811901,
+               "lng" : -71.40895399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8202169,
+                  "lng" : -71.3929466
+               },
+               "southwest" : {
+                  "lat" : 41.803584,
+                  "lng" : -71.4249614
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island Hospital",
+               "short_name" : "Rhode Island Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hoppin Street",
+               "short_name" : "Hoppin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jewelry District",
+               "short_name" : "Jewelry District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4141",
+               "short_name" : "4141",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Rhode Island Hospital, 1 Hoppin Street, Providence, RI 02903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8154306,
+               "lng" : -71.41112540000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8167795802915,
+                  "lng" : -71.40977641970852
+               },
+               "southwest" : {
+                  "lat" : 41.8140816197085,
+                  "lng" : -71.41247438029153
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rhode Island Hospital",
+               "short_name" : "Rhode Island Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seekonk Street",
+               "short_name" : "Seekonk St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wayland",
+               "short_name" : "Wayland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02906",
+               "short_name" : "02906",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5125",
+               "short_name" : "5125",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Rhode Island Hospital, 17 Seekonk Street, Providence, RI 02906, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8277256,
+               "lng" : -71.3877918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8290745802915,
+                  "lng" : -71.38644281970849
+               },
+               "southwest" : {
+                  "lat" : 41.8263766197085,
+                  "lng" : -71.38914078029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

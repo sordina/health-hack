@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Meibergdreef",
+               "short_name" : "Meibergdreef",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amstel III en Bullewijk",
+               "short_name" : "Amstel III en Bullewijk",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zuidoost",
+               "short_name" : "Zuidoost",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Amsterdam",
+               "short_name" : "Government of Amsterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1105 AZ",
+               "short_name" : "1105 AZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Meibergdreef 9, 1105 AZ Amsterdam, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.29578069999999,
+               "lng" : 4.9563237
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.29712968029149,
+                  "lng" : 4.957672680291502
+               },
+               "southwest" : {
+                  "lat" : 52.2944317197085,
+                  "lng" : 4.954974719708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

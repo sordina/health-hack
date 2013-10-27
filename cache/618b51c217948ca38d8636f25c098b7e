@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "MUSC Institute of Psychiatry",
+               "short_name" : "MUSC Institute of Psychiatry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "President Street",
+               "short_name" : "President St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Charleston",
+               "short_name" : "Charleston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charleston",
+               "short_name" : "Charleston",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29425",
+               "short_name" : "29425",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "MUSC Institute of Psychiatry, 67 President Street, Charleston, SC 29425, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7848521,
+               "lng" : -79.94966430000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7942322,
+                  "lng" : -79.9336569
+               },
+               "southwest" : {
+                  "lat" : 32.775471,
+                  "lng" : -79.9656717
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

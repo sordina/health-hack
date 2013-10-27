@@ -1,0 +1,126 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlemore Hospital",
+               "short_name" : "Middlemore Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hospital Road",
+               "short_name" : "Hospital Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Papatoetoe",
+               "short_name" : "Papatoetoe",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2025",
+               "short_name" : "2025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Middlemore Hospital, 100 Hospital Road, Papatoetoe 2025, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.9620574,
+                  "lng" : 174.8456848
+               },
+               "southwest" : {
+                  "lat" : -36.9661294,
+                  "lng" : 174.8370695
+               }
+            },
+            "location" : {
+               "lat" : -36.9634637,
+               "lng" : 174.8414795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.9620574,
+                  "lng" : 174.8456848
+               },
+               "southwest" : {
+                  "lat" : -36.9661294,
+                  "lng" : 174.8370695
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middlemore Hospital",
+               "short_name" : "Middlemore Hospital",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middlemore Hospital, Auckland, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.9550969,
+                  "lng" : 174.8511002
+               },
+               "southwest" : {
+                  "lat" : -36.9656783,
+                  "lng" : 174.8371432
+               }
+            },
+            "location" : {
+               "lat" : -36.96339,
+               "lng" : 174.839542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.9550969,
+                  "lng" : 174.8511002
+               },
+               "southwest" : {
+                  "lat" : -36.9656783,
+                  "lng" : 174.8371432
+               }
+            }
+         },
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

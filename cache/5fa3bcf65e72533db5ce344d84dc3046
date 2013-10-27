@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ventura County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.901274,
+                  "lng" : -118.6324951
+               },
+               "southwest" : {
+                  "lat" : 33.2146254,
+                  "lng" : -119.5791314
+               }
+            },
+            "location" : {
+               "lat" : 34.3704884,
+               "lng" : -119.1390642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.901274,
+                  "lng" : -118.6324951
+               },
+               "southwest" : {
+                  "lat" : 34.0024501,
+                  "lng" : -119.478051
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

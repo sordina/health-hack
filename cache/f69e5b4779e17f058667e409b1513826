@@ -1,0 +1,153 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Medical Center Groningen",
+               "short_name" : "UMCG",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hanzeplein",
+               "short_name" : "Hanzeplein",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gorechtbuurt",
+               "short_name" : "Gorechtbuurt",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oosterparkwijk",
+               "short_name" : "Oosterparkwijk",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9700 RB",
+               "short_name" : "9700 RB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Medical Center Groningen, Hanzeplein 1, 9700 RB Groningen, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2249608,
+                  "lng" : 6.5782501
+               },
+               "southwest" : {
+                  "lat" : 53.22023189999999,
+                  "lng" : 6.5700675
+               }
+            },
+            "location" : {
+               "lat" : 53.22061189999999,
+               "lng" : 6.5767223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2249608,
+                  "lng" : 6.5782501
+               },
+               "southwest" : {
+                  "lat" : 53.22023189999999,
+                  "lng" : 6.5700675
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Medical Center Groningen",
+               "short_name" : "University Medical Center Groningen",
+               "types" : []
+            },
+            {
+               "long_name" : "Rijksuniversiteit Groningen",
+               "short_name" : "Rijksuniversiteit Groningen",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Oosterparkwijk",
+               "short_name" : "Oosterparkwijk",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9713",
+               "short_name" : "9713",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Medical Center Groningen, Rijksuniversiteit Groningen, 9713 Groningen, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.2225,
+               "lng" : 6.573888900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2238489802915,
+                  "lng" : 6.575237880291503
+               },
+               "southwest" : {
+                  "lat" : 53.2211510197085,
+                  "lng" : 6.572539919708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

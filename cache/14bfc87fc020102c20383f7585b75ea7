@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Univ Alabama At Birmingham",
+               "short_name" : "Univ Alabama At Birmingham",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "290",
+               "short_name" : "290",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1918",
+               "short_name" : "1918",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Boulevard",
+               "short_name" : "University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Five Points South",
+               "short_name" : "Five Points South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35205",
+               "short_name" : "35205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Univ Alabama At Birmingham, 1918 University Boulevard #290, Birmingham, AL 35205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.5045347,
+               "lng" : -86.80021459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5138382,
+                  "lng" : -86.7842072
+               },
+               "southwest" : {
+                  "lat" : 33.4952302,
+                  "lng" : -86.816222
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

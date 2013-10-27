@@ -1,0 +1,207 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital Israelita Albert Einstein",
+               "short_name" : "Hospital Israelita Albert Einstein",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "627",
+               "short_name" : "627",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Albert Einstein",
+               "short_name" : "Av. Albert Einstein",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Morumbi",
+               "short_name" : "Morumbi",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05652-900",
+               "short_name" : "05652-900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital Israelita Albert Einstein - Avenida Albert Einstein, 627 - Morumbi, São Paulo, 05652-900, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5989972,
+                  "lng" : -46.7139199
+               },
+               "southwest" : {
+                  "lat" : -23.6009622,
+                  "lng" : -46.7164149
+               }
+            },
+            "location" : {
+               "lat" : -23.6001397,
+               "lng" : -46.7149153
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5986307197085,
+                  "lng" : -46.7138184197085
+               },
+               "southwest" : {
+                  "lat" : -23.6013286802915,
+                  "lng" : -46.7165163802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital Israelita Albert Einstein",
+               "short_name" : "Hospital Israelita Albert Einstein",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "209",
+               "short_name" : "209",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Coronel Lisboa",
+               "short_name" : "R. Cel. Lisboa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Mariana",
+               "short_name" : "Vila Mariana",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04020-040",
+               "short_name" : "04020-040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital Israelita Albert Einstein - Rua Coronel Lisboa, 209 - Vila Mariana, São Paulo, 04020-040, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5923192,
+               "lng" : -46.6392477
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5909702197085,
+                  "lng" : -46.6378987197085
+               },
+               "southwest" : {
+                  "lat" : -23.5936681802915,
+                  "lng" : -46.64059668029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital Israelita Albert Einstein",
+               "short_name" : "Hospital Israelita Albert Einstein",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4293",
+               "short_name" : "4293",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Professor Francisco Morato",
+               "short_name" : "Av. Prof. Francisco Morato",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Sônia",
+               "short_name" : "Vila Sônia",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05521-200",
+               "short_name" : "05521-200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital Israelita Albert Einstein - Avenida Professor Francisco Morato, 4293 - Vila Sônia, São Paulo, 05521-200, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5947346,
+               "lng" : -46.73733910000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5933856197085,
+                  "lng" : -46.73599011970851
+               },
+               "southwest" : {
+                  "lat" : -23.5960835802915,
+                  "lng" : -46.73868808029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

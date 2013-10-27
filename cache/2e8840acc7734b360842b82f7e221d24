@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Chicago",
+               "short_name" : "The University of Chicago",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5801",
+               "short_name" : "5801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Ellis Avenue",
+               "short_name" : "S Ellis Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hyde Park",
+               "short_name" : "Hyde Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60637",
+               "short_name" : "60637",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of Chicago, 5801 South Ellis Avenue, Chicago, IL 60637, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.79504350000001,
+                  "lng" : -87.5893818
+               },
+               "southwest" : {
+                  "lat" : 41.7838115,
+                  "lng" : -87.6062357
+               }
+            },
+            "location" : {
+               "lat" : 41.789655,
+               "lng" : -87.5988385
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.79504350000001,
+                  "lng" : -87.590174
+               },
+               "southwest" : {
+                  "lat" : 41.7876869,
+                  "lng" : -87.6062357
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

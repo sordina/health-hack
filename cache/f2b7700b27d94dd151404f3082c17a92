@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maywood",
+               "short_name" : "Maywood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Proviso",
+               "short_name" : "Proviso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maywood, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.89863090000001,
+                  "lng" : -87.8252591
+               },
+               "southwest" : {
+                  "lat" : 41.8641639,
+                  "lng" : -87.86286
+               }
+            },
+            "location" : {
+               "lat" : 41.8791979,
+               "lng" : -87.8431155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.89863090000001,
+                  "lng" : -87.8252591
+               },
+               "southwest" : {
+                  "lat" : 41.8641639,
+                  "lng" : -87.86286
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

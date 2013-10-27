@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Miguel",
+               "short_name" : "São Miguel",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Miguel, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9106396,
+                  "lng" : -25.1341636
+               },
+               "southwest" : {
+                  "lat" : 37.703855,
+                  "lng" : -25.8548212
+               }
+            },
+            "location" : {
+               "lat" : 37.780411,
+               "lng" : -25.4970466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9106396,
+                  "lng" : -25.1341636
+               },
+               "southwest" : {
+                  "lat" : 37.703855,
+                  "lng" : -25.8548212
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

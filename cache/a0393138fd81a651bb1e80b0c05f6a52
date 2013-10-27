@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Cambridge",
+               "short_name" : "University of Cambridge",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "The Old Schools",
+               "short_name" : "The Old Schools",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Trinity Lane",
+               "short_name" : "Trinity Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CB2 1TN",
+               "short_name" : "CB2 1TN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Cambridge, The Old Schools, Trinity Lane, Cambridge, Cambridgeshire CB2 1TN, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2296673,
+                  "lng" : 0.1386524
+               },
+               "southwest" : {
+                  "lat" : 52.1839358,
+                  "lng" : 0.0363687
+               }
+            },
+            "location" : {
+               "lat" : 52.205246,
+               "lng" : 0.116633
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.218518,
+                  "lng" : 0.1386524
+               },
+               "southwest" : {
+                  "lat" : 52.1839358,
+                  "lng" : 0.0768856
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

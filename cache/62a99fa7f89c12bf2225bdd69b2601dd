@@ -1,0 +1,217 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emory University School Of Medicine:Scientific Director",
+               "short_name" : "Emory University School Of Medicine:Scientific Director",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "615",
+               "short_name" : "615",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Michael Street",
+               "short_name" : "Michael St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlanta-Decatur",
+               "short_name" : "Atlanta-Decatur",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emory University School Of Medicine:Scientific Director, Emory University, 615 Michael Street, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7958379,
+               "lng" : -84.3230471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.80511,
+                  "lng" : -84.30703969999999
+               },
+               "southwest" : {
+                  "lat" : 33.7865648,
+                  "lng" : -84.3390545
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emory University School of Medicine",
+               "short_name" : "Emory University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Pierce Drive Northeast",
+               "short_name" : "Pierce Dr NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emory University School of Medicine, Emory University, Pierce Drive Northeast, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7940123,
+               "lng" : -84.32185439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.79536128029149,
+                  "lng" : -84.32050541970848
+               },
+               "southwest" : {
+                  "lat" : 33.7926633197085,
+                  "lng" : -84.3232033802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emory University-School of Medicine",
+               "short_name" : "Emory University-School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1440",
+               "short_name" : "1440",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clifton Road Northeast",
+               "short_name" : "Clifton Rd NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1053",
+               "short_name" : "1053",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Emory University-School of Medicine, Emory University, 1440 Clifton Road Northeast, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.794288,
+               "lng" : -84.3213143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7956369802915,
+                  "lng" : -84.31996531970849
+               },
+               "southwest" : {
+                  "lat" : 33.7929390197085,
+                  "lng" : -84.32266328029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

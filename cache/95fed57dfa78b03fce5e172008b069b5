@@ -1,0 +1,168 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montefiore Medical Center Moses Division",
+               "short_name" : "Montefiore Medical Center Moses Division",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "111",
+               "short_name" : "111",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 210th Street",
+               "short_name" : "E 210th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Norwood",
+               "short_name" : "Norwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10467",
+               "short_name" : "10467",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montefiore Medical Center Moses Division, 111 East 210th Street, Bronx, NY 10467, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8821952,
+                  "lng" : -73.8784998
+               },
+               "southwest" : {
+                  "lat" : 40.8795875,
+                  "lng" : -73.88174359999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8798748,
+               "lng" : -73.8799564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.88224033029149,
+                  "lng" : -73.8784998
+               },
+               "southwest" : {
+                  "lat" : 40.8795423697085,
+                  "lng" : -73.88174359999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montefiore Medical Center",
+               "short_name" : "Montefiore Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "short_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1695",
+               "short_name" : "1695",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eastchester Road",
+               "short_name" : "Eastchester Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westchester Village",
+               "short_name" : "Westchester Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montefiore Medical Center, Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus, 1695 Eastchester Road, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.846407,
+               "lng" : -73.84526199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8477559802915,
+                  "lng" : -73.84391301970848
+               },
+               "southwest" : {
+                  "lat" : 40.8450580197085,
+                  "lng" : -73.8466109802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

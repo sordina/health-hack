@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Göttingen",
+               "short_name" : "Göttingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Göttingen",
+               "short_name" : "GÖ",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Göttingen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.590855,
+                  "lng" : 10.0535673
+               },
+               "southwest" : {
+                  "lat" : 51.4830199,
+                  "lng" : 9.800138200000001
+               }
+            },
+            "location" : {
+               "lat" : 51.5400673,
+               "lng" : 9.924345199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.590855,
+                  "lng" : 10.0535673
+               },
+               "southwest" : {
+                  "lat" : 51.4830199,
+                  "lng" : 9.800138200000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

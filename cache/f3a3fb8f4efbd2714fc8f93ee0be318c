@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Westmead Hospital",
+               "short_name" : "Westmead Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hawkesbury Road",
+               "short_name" : "Hawkesbury Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westmead",
+               "short_name" : "Westmead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2145",
+               "short_name" : "2145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Westmead Hospital, Hawkesbury Road, Westmead NSW 2145, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.7992298,
+                  "lng" : 150.9925291
+               },
+               "southwest" : {
+                  "lat" : -33.8064266,
+                  "lng" : 150.9834687
+               }
+            },
+            "location" : {
+               "lat" : -33.8027455,
+               "lng" : 150.9881962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.7992298,
+                  "lng" : 150.9925291
+               },
+               "southwest" : {
+                  "lat" : -33.8064266,
+                  "lng" : 150.9834687
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

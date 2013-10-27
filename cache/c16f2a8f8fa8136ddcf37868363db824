@@ -1,0 +1,419 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IMSS",
+               "short_name" : "IMSS",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "476",
+               "short_name" : "476",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Reforma",
+               "short_name" : "Reforma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Juárez",
+               "short_name" : "Juárez",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cuauhtémoc",
+               "short_name" : "Cuauhtémoc",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06600",
+               "short_name" : "06600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "IMSS, Reforma 476, Juárez, Cuauhtémoc, 06600 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.4239902,
+                  "lng" : -99.17269349999999
+               },
+               "southwest" : {
+                  "lat" : 19.4232186,
+                  "lng" : -99.1739194
+               }
+            },
+            "location" : {
+               "lat" : 19.4235197,
+               "lng" : -99.17325389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4249533802915,
+                  "lng" : -99.17195746970849
+               },
+               "southwest" : {
+                  "lat" : 19.4222554197085,
+                  "lng" : -99.17465543029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imss Hospital General de Zona 8",
+               "short_name" : "Imss Hospital General de Zona 8",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "289",
+               "short_name" : "289",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Av. Río Magdalena",
+               "short_name" : "Av. Río Magdalena",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tizapán San Angel",
+               "short_name" : "Tizapán San Angel",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Álvaro Obregón",
+               "short_name" : "Álvaro Obregón",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01090",
+               "short_name" : "01090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Imss Hospital General de Zona 8, Av. Río Magdalena 289, Tizapán San Angel, Álvaro Obregón, 01090 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3364995,
+               "lng" : -99.20110409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3378484802915,
+                  "lng" : -99.1997551197085
+               },
+               "southwest" : {
+                  "lat" : 19.3351505197085,
+                  "lng" : -99.20245308029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imss Clinica 15",
+               "short_name" : "Imss Clinica 15",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "411",
+               "short_name" : "411",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calzada Ermita Iztapalapa",
+               "short_name" : "Calzada Ermita Iztapalapa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prado Churubusco",
+               "short_name" : "Prado Churubusco",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Coyoacán",
+               "short_name" : "Coyoacán",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04230",
+               "short_name" : "04230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Imss Clinica 15, Calzada Ermita Iztapalapa 411, Prado Churubusco, Coyoacán, 04230 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3578569,
+               "lng" : -99.12407929999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3592058802915,
+                  "lng" : -99.1227303197085
+               },
+               "southwest" : {
+                  "lat" : 19.3565079197085,
+                  "lng" : -99.1254282802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imss Clinica 46",
+               "short_name" : "Imss Clinica 46",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2655",
+               "short_name" : "2655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Calzada de Tlalpan",
+               "short_name" : "Calz de Tlalpan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Xotepingo",
+               "short_name" : "Xotepingo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Coyoacán",
+               "short_name" : "Coyoacán",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04610",
+               "short_name" : "04610",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Imss Clinica 46, Calzada de Tlalpan 2655, Xotepingo, Coyoacán, 04610 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3243692,
+               "lng" : -99.13858569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3257181802915,
+                  "lng" : -99.13723671970848
+               },
+               "southwest" : {
+                  "lat" : 19.3230202197085,
+                  "lng" : -99.1399346802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "IMSS Hospital General Número 30",
+               "short_name" : "IMSS Hospital General Número 30",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "473",
+               "short_name" : "473",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Plutarco Elías Calles",
+               "short_name" : "Avenida Plutarco Elías Calles",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Anita",
+               "short_name" : "Santa Anita",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Iztacalco",
+               "short_name" : "Iztacalco",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08300",
+               "short_name" : "08300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "IMSS Hospital General Número 30, Avenida Plutarco Elías Calles 473, Santa Anita, Iztacalco, 08300 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.3986437,
+               "lng" : -99.11746389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.3999926802915,
+                  "lng" : -99.11611491970848
+               },
+               "southwest" : {
+                  "lat" : 19.39729471970849,
+                  "lng" : -99.1188128802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "I.m.s.s. Hospital Generall de Zona 24",
+               "short_name" : "I.m.s.s. Hospital Generall de Zona 24",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Magdalena de Las Salinas",
+               "short_name" : "Magdalena de Las Salinas",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Gustavo A. Madero",
+               "short_name" : "Gustavo A. Madero",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07760",
+               "short_name" : "07760",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "I.m.s.s. Hospital Generall de Zona 24, Magdalena de Las Salinas, Gustavo A. Madero, 07760 Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 19.4827657,
+               "lng" : -99.1289223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4841146802915,
+                  "lng" : -99.12757331970849
+               },
+               "southwest" : {
+                  "lat" : 19.4814167197085,
+                  "lng" : -99.13027128029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

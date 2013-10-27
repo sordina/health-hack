@@ -1,0 +1,291 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehigh Valley Health Network",
+               "short_name" : "Lehigh Valley Health Network",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Cedar Crest Boulevard",
+               "short_name" : "S Cedar Crest Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh",
+               "short_name" : "Lehigh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18103",
+               "short_name" : "18103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lehigh Valley Health Network, 1200 South Cedar Crest Boulevard, Allentown, PA 18103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5654983,
+               "lng" : -75.5233949
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5739741,
+                  "lng" : -75.50738749999999
+               },
+               "southwest" : {
+                  "lat" : 40.5570215,
+                  "lng" : -75.53940229999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehigh Valley Hospital",
+               "short_name" : "Lehigh Valley Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1627",
+               "short_name" : "1627",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Chew Street",
+               "short_name" : "W Chew St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehigh",
+               "short_name" : "Lehigh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18104",
+               "short_name" : "18104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lehigh Valley Hospital, 1627 West Chew Street, Allentown, PA 18104, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6035608,
+                  "lng" : -75.49284539999999
+               },
+               "southwest" : {
+                  "lat" : 40.6008713,
+                  "lng" : -75.4956552
+               }
+            },
+            "location" : {
+               "lat" : 40.6023252,
+               "lng" : -75.4945479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6035650302915,
+                  "lng" : -75.49284539999999
+               },
+               "southwest" : {
+                  "lat" : 40.6008670697085,
+                  "lng" : -75.4956552
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehigh Valley Health Network-Cedar Crest",
+               "short_name" : "Lehigh Valley Health Network-Cedar Crest",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "S Cedar Crest Blvd",
+               "short_name" : "S Cedar Crest Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehigh",
+               "short_name" : "Lehigh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18103",
+               "short_name" : "18103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lehigh Valley Health Network-Cedar Crest, 1200 S Cedar Crest Blvd, Allentown, PA 18103, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5688181,
+                  "lng" : -75.5179349
+               },
+               "southwest" : {
+                  "lat" : 40.56201480000001,
+                  "lng" : -75.530463
+               }
+            },
+            "location" : {
+               "lat" : 40.5663962,
+               "lng" : -75.52257469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5688181,
+                  "lng" : -75.5179349
+               },
+               "southwest" : {
+                  "lat" : 40.56201480000001,
+                  "lng" : -75.530463
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lehigh Valley Health Network",
+               "short_name" : "Lehigh Valley Health Network",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1-78",
+               "short_name" : "1-78",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Cedar Crest Boulevard",
+               "short_name" : "S Cedar Crest Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Whitehall",
+               "short_name" : "South Whitehall",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lehigh",
+               "short_name" : "Lehigh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18103",
+               "short_name" : "18103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lehigh Valley Health Network, 1-78 South Cedar Crest Boulevard, Allentown, PA 18103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5782047,
+               "lng" : -75.5208252
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5795536802915,
+                  "lng" : -75.51947621970851
+               },
+               "southwest" : {
+                  "lat" : 40.5768557197085,
+                  "lng" : -75.52217418029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

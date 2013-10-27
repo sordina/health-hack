@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hefei",
+               "short_name" : "Hefei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Anhui",
+               "short_name" : "Anhui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hefei, Anhui, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5366425,
+                  "lng" : 117.9660388
+               },
+               "southwest" : {
+                  "lat" : 30.9509903,
+                  "lng" : 116.6874752
+               }
+            },
+            "location" : {
+               "lat" : 31.820587,
+               "lng" : 117.227239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9945999,
+                  "lng" : 117.4541473
+               },
+               "southwest" : {
+                  "lat" : 31.7164494,
+                  "lng" : 117.1183777
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

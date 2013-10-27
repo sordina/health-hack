@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Innere Medizin II - Klinik für Pneumologie und Internistische Intensivmedizin",
+               "short_name" : "Innere Medizin II - Klinik für Pneumologie und Internistische Intensivmedizin",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Paulmannshöher Straße",
+               "short_name" : "Paulmannshöher Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lüdenscheid",
+               "short_name" : "Lüdenscheid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnsberg",
+               "short_name" : "Arnsberg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58515",
+               "short_name" : "58515",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Innere Medizin II - Klinik für Pneumologie und Internistische Intensivmedizin, Paulmannshöher Straße 14, 58515 Lüdenscheid, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.20717699999999,
+               "lng" : 7.6622152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.214167,
+                  "lng" : 7.6782226
+               },
+               "southwest" : {
+                  "lat" : 51.2001859,
+                  "lng" : 7.6462078
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

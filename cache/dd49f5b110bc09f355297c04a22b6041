@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Surgery",
+               "short_name" : "Department of Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pennsylvania",
+               "short_name" : "University of Pennsylvania",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3400",
+               "short_name" : "3400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spruce Street",
+               "short_name" : "Spruce St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4229",
+               "short_name" : "4229",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Department of Surgery, University of Pennsylvania, 3400 Spruce Street, Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.949915,
+               "lng" : -75.1934467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9584682,
+                  "lng" : -75.1774393
+               },
+               "southwest" : {
+                  "lat" : 39.9413607,
+                  "lng" : -75.2094541
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

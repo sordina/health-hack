@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Neurology",
+               "short_name" : "Department of Neurology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06032",
+               "short_name" : "06032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Neurology, Farmington, CT 06032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7299397,
+               "lng" : -72.79163299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7382663,
+                  "lng" : -72.77562560000001
+               },
+               "southwest" : {
+                  "lat" : 41.7216121,
+                  "lng" : -72.8076404
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

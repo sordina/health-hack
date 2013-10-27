@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayseri",
+               "short_name" : "Kayseri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kayseri Province",
+               "short_name" : "Kayseri Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayseri/Kayseri Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8248,
+                  "lng" : 35.6276751
+               },
+               "southwest" : {
+                  "lat" : 38.622002,
+                  "lng" : 35.3126992
+               }
+            },
+            "location" : {
+               "lat" : 38.73122,
+               "lng" : 35.478729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8248,
+                  "lng" : 35.6276751
+               },
+               "southwest" : {
+                  "lat" : 38.622002,
+                  "lng" : 35.3126992
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kayseri",
+               "short_name" : "Kayseri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siverek",
+               "short_name" : "Siverek",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Şanlıurfa Province",
+               "short_name" : "Şanlıurfa Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kayseri/Şanlıurfa Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.744984,
+                  "lng" : 39.21034280000001
+               },
+               "southwest" : {
+                  "lat" : 37.73643010000001,
+                  "lng" : 39.2000569
+               }
+            },
+            "location" : {
+               "lat" : 37.7412116,
+               "lng" : 39.2050704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.744984,
+                  "lng" : 39.21034280000001
+               },
+               "southwest" : {
+                  "lat" : 37.73643010000001,
+                  "lng" : 39.2000569
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

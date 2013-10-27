@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Thomas' Hospital",
+               "short_name" : "St Thomas' Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Westminster Bridge Road",
+               "short_name" : "Westminster Bridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lambeth",
+               "short_name" : "Lambeth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE1 7EH",
+               "short_name" : "SE1 7EH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "St Thomas' Hospital, Westminster Bridge Road, Lambeth, London SE1 7EH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5007993,
+                  "lng" : -0.1168048
+               },
+               "southwest" : {
+                  "lat" : 51.4959742,
+                  "lng" : -0.1209571
+               }
+            },
+            "location" : {
+               "lat" : 51.498828,
+               "lng" : -0.1178439
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5007993,
+                  "lng" : -0.1168048
+               },
+               "southwest" : {
+                  "lat" : 51.4959742,
+                  "lng" : -0.1209571
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

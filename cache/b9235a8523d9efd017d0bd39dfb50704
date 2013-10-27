@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "B18 7QH",
+               "short_name" : "B18 7QH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Birmingham, West Midlands B18 7QH, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4909279,
+                  "lng" : -1.9276882
+               },
+               "southwest" : {
+                  "lat" : 52.4891677,
+                  "lng" : -1.9319022
+               }
+            },
+            "location" : {
+               "lat" : 52.4898214,
+               "lng" : -1.9294268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4913967802915,
+                  "lng" : -1.9276882
+               },
+               "southwest" : {
+                  "lat" : 52.4886988197085,
+                  "lng" : -1.9319022
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Surgery",
+               "short_name" : "Department of Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "A27",
+               "short_name" : "A27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Maryland Avenue",
+               "short_name" : "S Maryland Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hyde Park",
+               "short_name" : "Hyde Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60637",
+               "short_name" : "60637",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Surgery, A27 South Maryland Avenue, Chicago, IL 60637, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7883798,
+               "lng" : -87.60465619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7966988,
+                  "lng" : -87.5886488
+               },
+               "southwest" : {
+                  "lat" : 41.7800597,
+                  "lng" : -87.6206636
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

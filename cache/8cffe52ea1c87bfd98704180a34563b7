@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke Institute for Genome Sciences and Policy",
+               "short_name" : "Duke Institute for Genome Sciences and Policy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Science Drive",
+               "short_name" : "Science Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27705",
+               "short_name" : "27705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke Institute for Genome Sciences and Policy, Duke University West Campus, Duke University, 101 Science Drive, Durham, NC 27705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.003447,
+               "lng" : -78.9395456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0124731,
+                  "lng" : -78.9235382
+               },
+               "southwest" : {
+                  "lat" : 35.9944199,
+                  "lng" : -78.95555299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

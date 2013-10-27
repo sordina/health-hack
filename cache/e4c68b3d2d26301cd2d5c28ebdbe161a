@@ -1,0 +1,206 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar",
+               "short_name" : "Bexar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            },
+            "location" : {
+               "lat" : 29.4241219,
+               "lng" : -98.49362819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pasco",
+               "short_name" : "Pasco",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.35361,
+                  "lng" : -82.2703379
+               },
+               "southwest" : {
+                  "lat" : 28.3281711,
+                  "lng" : -82.2893291
+               }
+            },
+            "location" : {
+               "lat" : 28.3361142,
+               "lng" : -82.2745307
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.35361,
+                  "lng" : -82.2703379
+               },
+               "southwest" : {
+                  "lat" : 28.3281711,
+                  "lng" : -82.2893291
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Socorro",
+               "short_name" : "Socorro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, NM, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9178438,
+               "lng" : -106.8658586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9191927802915,
+                  "lng" : -106.8645096197085
+               },
+               "southwest" : {
+                  "lat" : 33.9164948197085,
+                  "lng" : -106.8672075802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marin County",
+               "short_name" : "Marin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94952",
+               "short_name" : "94952",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, CA 94952, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.1838889,
+               "lng" : -122.5913889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1852378802915,
+                  "lng" : -122.5900399197085
+               },
+               "southwest" : {
+                  "lat" : 38.1825399197085,
+                  "lng" : -122.5927378802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

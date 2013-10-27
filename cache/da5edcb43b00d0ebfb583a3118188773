@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sayre",
+               "short_name" : "Sayre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bradford",
+               "short_name" : "Bradford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sayre, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.999877,
+                  "lng" : -76.50467300000001
+               },
+               "southwest" : {
+                  "lat" : 41.972497,
+                  "lng" : -76.5367859
+               }
+            },
+            "location" : {
+               "lat" : 41.9789631,
+               "lng" : -76.51549899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.999877,
+                  "lng" : -76.50467300000001
+               },
+               "southwest" : {
+                  "lat" : 41.972497,
+                  "lng" : -76.5367859
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

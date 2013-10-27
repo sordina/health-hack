@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oslo universitetssykehus HF Rikshospitalet",
+               "short_name" : "Oslo universitetssykehus HF Rikshospitalet",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sognsvannsveien",
+               "short_name" : "Sognsvannsveien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ris",
+               "short_name" : "Ris",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0372",
+               "short_name" : "0372",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Oslo universitetssykehus HF Rikshospitalet, Sognsvannsveien 20, 0372 Oslo, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.95156259999999,
+                  "lng" : 10.718534
+               },
+               "southwest" : {
+                  "lat" : 59.9457566,
+                  "lng" : 10.7121849
+               }
+            },
+            "location" : {
+               "lat" : 59.9481581,
+               "lng" : 10.7161586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.95156259999999,
+                  "lng" : 10.718534
+               },
+               "southwest" : {
+                  "lat" : 59.9457566,
+                  "lng" : 10.7121849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

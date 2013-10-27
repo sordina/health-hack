@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changsha",
+               "short_name" : "Changsha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunan",
+               "short_name" : "Hunan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Changsha, Hunan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6616127,
+                  "lng" : 114.2612647
+               },
+               "southwest" : {
+                  "lat" : 27.8480726,
+                  "lng" : 111.8962567
+               }
+            },
+            "location" : {
+               "lat" : 28.228209,
+               "lng" : 112.938814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.4369499,
+                  "lng" : 113.3432007
+               },
+               "southwest" : {
+                  "lat" : 27.9153089,
+                  "lng" : 112.7059937
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changsha",
+               "short_name" : "Changsha",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Changsha",
+               "short_name" : "Changsha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunan",
+               "short_name" : "Hunan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Changsha, Hunan, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6616127,
+                  "lng" : 113.5073659
+               },
+               "southwest" : {
+                  "lat" : 27.9127052,
+                  "lng" : 112.9433513
+               }
+            },
+            "location" : {
+               "lat" : 28.24615,
+               "lng" : 113.08081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6616127,
+                  "lng" : 113.5073659
+               },
+               "southwest" : {
+                  "lat" : 27.9127052,
+                  "lng" : 112.9433513
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

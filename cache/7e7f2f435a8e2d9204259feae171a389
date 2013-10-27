@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34668",
+               "short_name" : "34668",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34668, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.053495,
+                  "lng" : 29.1724977
+               },
+               "southwest" : {
+                  "lat" : 40.9455695,
+                  "lng" : 29.002346
+               }
+            },
+            "location" : {
+               "lat" : 41.00697419999999,
+               "lng" : 29.0168962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.025384,
+                  "lng" : 29.0343549
+               },
+               "southwest" : {
+                  "lat" : 40.9957475,
+                  "lng" : 29.002346
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

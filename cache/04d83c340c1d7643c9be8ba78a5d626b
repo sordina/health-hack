@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke Clinical Research Institute",
+               "short_name" : "Duke Clinical Research Institute",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2400",
+               "short_name" : "2400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pratt Street",
+               "short_name" : "Pratt St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Crest Street",
+               "short_name" : "Crest Street",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27705",
+               "short_name" : "27705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke Clinical Research Institute, Duke University, Duke University West Campus, 2400 Pratt Street, Durham, NC 27705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0113574,
+               "lng" : -78.9365572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0203826,
+                  "lng" : -78.9205498
+               },
+               "southwest" : {
+                  "lat" : 36.0023312,
+                  "lng" : -78.9525646
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

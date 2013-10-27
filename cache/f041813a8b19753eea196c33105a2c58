@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100069",
+               "short_name" : "100069",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fengtai",
+               "short_name" : "Fengtai",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fengtai, Beijing, China, 100069",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8987606,
+                  "lng" : 116.372171
+               },
+               "southwest" : {
+                  "lat" : 39.8488895,
+                  "lng" : 116.3397035
+               }
+            },
+            "location" : {
+               "lat" : 39.8606445,
+               "lng" : 116.3642945
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.87430750000001,
+                  "lng" : 116.372171
+               },
+               "southwest" : {
+                  "lat" : 39.8488895,
+                  "lng" : 116.3456068
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

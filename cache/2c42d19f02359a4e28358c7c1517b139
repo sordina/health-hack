@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johor Bahru",
+               "short_name" : "Johor Bahru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Johor",
+               "short_name" : "Johor",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.63564,
+                  "lng" : 103.8252219
+               },
+               "southwest" : {
+                  "lat" : 1.454105,
+                  "lng" : 103.568232
+               }
+            },
+            "location" : {
+               "lat" : 1.46343,
+               "lng" : 103.7547149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.63564,
+                  "lng" : 103.8252219
+               },
+               "southwest" : {
+                  "lat" : 1.454105,
+                  "lng" : 103.568232
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

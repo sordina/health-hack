@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faculty of Electrical Engineering and Computing",
+               "short_name" : "Faculty of Electrical Engineering and Computing",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Zagreb University",
+               "short_name" : "Zagreb University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Unska ulica",
+               "short_name" : "Unska ul.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zagreb",
+               "short_name" : "Zagreb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Zagreb",
+               "short_name" : "City of Zagreb",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Croatia",
+               "short_name" : "HR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10000",
+               "short_name" : "10000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faculty of Electrical Engineering and Computing, Zagreb University, Unska ulica 3, 10000, Zagreb, Croatia",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.80112099999999,
+               "lng" : 15.9708418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8088993,
+                  "lng" : 15.9868492
+               },
+               "southwest" : {
+                  "lat" : 45.7933417,
+                  "lng" : 15.9548344
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

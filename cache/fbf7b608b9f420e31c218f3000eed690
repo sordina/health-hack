@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kirkegata",
+               "short_name" : "Kirkegata",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Levanger",
+               "short_name" : "Levanger",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Levanger",
+               "short_name" : "Levanger",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Trondelag",
+               "short_name" : "Nord-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7600",
+               "short_name" : "7600",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Levanger",
+               "short_name" : "Levanger",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Kirkegata 2, 7600 Levanger, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 63.7429471,
+               "lng" : 11.2893393
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.74429608029151,
+                  "lng" : 11.2906882802915
+               },
+               "southwest" : {
+                  "lat" : 63.7415981197085,
+                  "lng" : 11.2879903197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

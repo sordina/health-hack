@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sun City",
+               "short_name" : "Sun City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa",
+               "short_name" : "Maricopa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sun City, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6666248,
+                  "lng" : -112.254632
+               },
+               "southwest" : {
+                  "lat" : 33.5652479,
+                  "lng" : -112.309963
+               }
+            },
+            "location" : {
+               "lat" : 33.5975393,
+               "lng" : -112.2718239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6666248,
+                  "lng" : -112.254632
+               },
+               "southwest" : {
+                  "lat" : 33.5652479,
+                  "lng" : -112.309963
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,429 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulane School of Public Health",
+               "short_name" : "Tulane School of Public Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1440",
+               "short_name" : "1440",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Canal Street",
+               "short_name" : "Canal St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70112",
+               "short_name" : "70112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tulane School of Public Health, 1440 Canal Street, New Orleans, LA 70112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9555854,
+               "lng" : -90.0761883
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9569343802915,
+                  "lng" : -90.0748393197085
+               },
+               "southwest" : {
+                  "lat" : 29.9542364197085,
+                  "lng" : -90.07753728029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yale School of Public Health",
+               "short_name" : "Yale School of Public Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "College Place",
+               "short_name" : "College Place",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "The Hill",
+               "short_name" : "The Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven",
+               "short_name" : "New Haven",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06510",
+               "short_name" : "06510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yale School of Public Health, Yale University, College Place, New Haven, CT 06510, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3029812,
+               "lng" : -72.9315172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.30433018029149,
+                  "lng" : -72.93016821970851
+               },
+               "southwest" : {
+                  "lat" : 41.30163221970849,
+                  "lng" : -72.93286618029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emory University Rollins School of Public Health",
+               "short_name" : "RSPH",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1518",
+               "short_name" : "1518",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clifton Road Northeast",
+               "short_name" : "Clifton Rd NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emory University Rollins School of Public Health, Emory University, 1518 Clifton Road Northeast, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7975293,
+               "lng" : -84.3230162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8068012,
+                  "lng" : -84.30700879999999
+               },
+               "southwest" : {
+                  "lat" : 33.7882564,
+                  "lng" : -84.33902359999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "UNC School of Public Health",
+               "short_name" : "UNC School of Public Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dauer Drive",
+               "short_name" : "Dauer Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27599",
+               "short_name" : "27599",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UNC School of Public Health, 135 Dauer Drive, Chapel Hill, NC 27599, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9060087,
+               "lng" : -79.053905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9073576802915,
+                  "lng" : -79.05255601970849
+               },
+               "southwest" : {
+                  "lat" : 35.9046597197085,
+                  "lng" : -79.05525398029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rutgers School of Public Health",
+               "short_name" : "Rutgers School of Public Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "683",
+               "short_name" : "683",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hoes Lane West",
+               "short_name" : "Hoes Ln W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Piscataway Township",
+               "short_name" : "Piscataway Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08854",
+               "short_name" : "08854",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8021",
+               "short_name" : "8021",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Rutgers School of Public Health, 683 Hoes Lane West, Piscataway Township, NJ 08854, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5234466,
+               "lng" : -74.4709062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5247955802915,
+                  "lng" : -74.46955721970849
+               },
+               "southwest" : {
+                  "lat" : 40.5220976197085,
+                  "lng" : -74.47225518029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Public Health 2",
+               "short_name" : "School of Public Health 2",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Harvard University Longwood Campus",
+               "short_name" : "Harvard University Longwood Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "655",
+               "short_name" : "655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huntington Avenue",
+               "short_name" : "Huntington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Public Health 2, 655 Huntington Avenue, Harvard University Longwood Campus, Boston, MA 02115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.33597719999999,
+                  "lng" : -71.1013191
+               },
+               "southwest" : {
+                  "lat" : 42.3352775,
+                  "lng" : -71.1022983
+               }
+            },
+            "location" : {
+               "lat" : 42.3356545,
+               "lng" : -71.1018258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3369763302915,
+                  "lng" : -71.1004597197085
+               },
+               "southwest" : {
+                  "lat" : 42.3342783697085,
+                  "lng" : -71.1031576802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

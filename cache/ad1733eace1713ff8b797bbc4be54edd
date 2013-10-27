@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ferdowsi University of Mashhad",
+               "short_name" : "Ferdowsi University of Mashhad",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Vakilabad Highway",
+               "short_name" : "Vakilabad Highway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mashhad",
+               "short_name" : "Mashhad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khorasan Razavi",
+               "short_name" : "Khorasan Razavi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9177948974",
+               "short_name" : "9177948974",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ferdowsi University of Mashhad, Vakilabad Highway, Mashhad 9177948974, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3188727,
+                  "lng" : 59.53996000000001
+               },
+               "southwest" : {
+                  "lat" : 36.2993637,
+                  "lng" : 59.5143181
+               }
+            },
+            "location" : {
+               "lat" : 36.3076995,
+               "lng" : 59.5267944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3188727,
+                  "lng" : 59.53996000000001
+               },
+               "southwest" : {
+                  "lat" : 36.2993637,
+                  "lng" : 59.5143181
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

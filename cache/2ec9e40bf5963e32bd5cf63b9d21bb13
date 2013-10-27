@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Leeds School of Food Science and Nutrition",
+               "short_name" : "University of Leeds School of Food Science and Nutrition",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Leeds",
+               "short_name" : "University of Leeds",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Woodhouse Lane",
+               "short_name" : "Woodhouse Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LS2 9JT",
+               "short_name" : "LS2 9JT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Leeds",
+               "short_name" : "Leeds",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Leeds School of Food Science and Nutrition, University of Leeds, Woodhouse Lane, Leeds, West Yorkshire LS2 9JT, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.8048204,
+               "lng" : -1.5535185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8114091,
+                  "lng" : -1.5375111
+               },
+               "southwest" : {
+                  "lat" : 53.7982307,
+                  "lng" : -1.5695259
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

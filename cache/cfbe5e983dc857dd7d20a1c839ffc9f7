@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Johns Hopkins University School of Medicine",
+               "short_name" : "The Johns Hopkins University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "733",
+               "short_name" : "733",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Broadway",
+               "short_name" : "N Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Middle East",
+               "short_name" : "Middle East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21205",
+               "short_name" : "21205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The Johns Hopkins University School of Medicine, Johns Hopkins University, 733 North Broadway, Baltimore, MD 21205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.2988678,
+               "lng" : -76.5922432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3075019,
+                  "lng" : -76.57623579999999
+               },
+               "southwest" : {
+                  "lat" : 39.2902326,
+                  "lng" : -76.60825059999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mamata Medical College",
+               "short_name" : "Mamata Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "# 4-2-161, Opp.: Rotary Nagar",
+               "short_name" : "# 4-2-161, Opp.: Rotary Nagar",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Raheem bagh",
+               "short_name" : "Raheem bagh",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khammam",
+               "short_name" : "Khammam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khammam",
+               "short_name" : "Khammam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "507002",
+               "short_name" : "507002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mamata Medical College, # 4-2-161, Opp.: Rotary Nagar, Raheem bagh, Khammam, Andhra Pradesh 507002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.2427991,
+               "lng" : 80.1681584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2534553,
+                  "lng" : 80.1841658
+               },
+               "southwest" : {
+                  "lat" : 17.2321423,
+                  "lng" : 80.152151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mamatha Medical College",
+               "short_name" : "Mamatha Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Manikya Nagar Basti",
+               "short_name" : "Manikya Nagar Basti",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Khammam",
+               "short_name" : "Khammam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khammam",
+               "short_name" : "Khammam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "507002",
+               "short_name" : "507002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mamatha Medical College, Manikya Nagar Basti, Khammam, Andhra Pradesh 507002, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 17.2380848,
+               "lng" : 80.1626873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2394337802915,
+                  "lng" : 80.16403628029151
+               },
+               "southwest" : {
+                  "lat" : 17.2367358197085,
+                  "lng" : 80.16133831970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Theodor-Kutzer-Ufer",
+               "short_name" : "Theodor-Kutzer-Ufer",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wohlgelegen",
+               "short_name" : "Wohlgelegen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "MA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Karlsruhe",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Wurttemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68167",
+               "short_name" : "68167",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Theodor-Kutzer-Ufer 1, 68167 Mannheim, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.4900332,
+               "lng" : 8.490293899999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4913821802915,
+                  "lng" : 8.491642880291501
+               },
+               "southwest" : {
+                  "lat" : 49.4886842197085,
+                  "lng" : 8.488944919708496
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

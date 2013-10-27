@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Izmir",
+               "short_name" : "Izmir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Izmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5452371,
+                  "lng" : 27.304485
+               },
+               "southwest" : {
+                  "lat" : 38.290113,
+                  "lng" : 26.8549492
+               }
+            },
+            "location" : {
+               "lat" : 38.41885,
+               "lng" : 27.12872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5452371,
+                  "lng" : 27.304485
+               },
+               "southwest" : {
+                  "lat" : 38.290113,
+                  "lng" : 26.8549492
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

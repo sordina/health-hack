@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Memphis",
+               "short_name" : "University of Memphis",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3720",
+               "short_name" : "3720",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alumni Avenue",
+               "short_name" : "Alumni Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Memphis",
+               "short_name" : "Memphis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby",
+               "short_name" : "Shelby",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38152",
+               "short_name" : "38152",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Memphis, 3720 Alumni Avenue, Memphis, TN 38152, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1262149,
+                  "lng" : -89.9312357
+               },
+               "southwest" : {
+                  "lat" : 35.1131818,
+                  "lng" : -89.9431153
+               }
+            },
+            "location" : {
+               "lat" : 35.1189522,
+               "lng" : -89.9371249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1262149,
+                  "lng" : -89.9312357
+               },
+               "southwest" : {
+                  "lat" : 35.1131818,
+                  "lng" : -89.9431153
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

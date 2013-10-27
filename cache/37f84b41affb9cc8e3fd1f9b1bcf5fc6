@@ -1,0 +1,162 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Icel",
+               "short_name" : "Icel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mersin, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.877854,
+                  "lng" : 34.70606
+               },
+               "southwest" : {
+                  "lat" : 36.631836,
+                  "lng" : 34.3512209
+               }
+            },
+            "location" : {
+               "lat" : 36.8,
+               "lng" : 34.6333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.877854,
+                  "lng" : 34.70606
+               },
+               "southwest" : {
+                  "lat" : 36.631836,
+                  "lng" : 34.3512209
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mersin",
+               "short_name" : "Mersin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Akçaabat",
+               "short_name" : "Akçaabat",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trabzon Province",
+               "short_name" : "Trabzon Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61300",
+               "short_name" : "61300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "61300 Mersin/Trabzon Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0950759,
+                  "lng" : 39.48538610000001
+               },
+               "southwest" : {
+                  "lat" : 41.0892549,
+                  "lng" : 39.4702099
+               }
+            },
+            "location" : {
+               "lat" : 41.0914357,
+               "lng" : 39.47957419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0950759,
+                  "lng" : 39.48538610000001
+               },
+               "southwest" : {
+                  "lat" : 41.0892549,
+                  "lng" : 39.4702099
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mersin",
+               "short_name" : "Mersin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perşembe",
+               "short_name" : "Perşembe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ordu Province",
+               "short_name" : "Ordu Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mersin/Ordu Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.118208,
+                  "lng" : 37.7628729
+               },
+               "southwest" : {
+                  "lat" : 41.1096539,
+                  "lng" : 37.7520761
+               }
+            },
+            "location" : {
+               "lat" : 41.1149978,
+               "lng" : 37.75715599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.118208,
+                  "lng" : 37.7628729
+               },
+               "southwest" : {
+                  "lat" : 41.1096539,
+                  "lng" : 37.7520761
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

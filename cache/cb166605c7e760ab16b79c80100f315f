@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shreveport",
+               "short_name" : "Shreveport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Caddo",
+               "short_name" : "Caddo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shreveport, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.589936,
+                  "lng" : -93.67962
+               },
+               "southwest" : {
+                  "lat" : 32.332715,
+                  "lng" : -93.94780039999999
+               }
+            },
+            "location" : {
+               "lat" : 32.5251516,
+               "lng" : -93.75017889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.589936,
+                  "lng" : -93.67962
+               },
+               "southwest" : {
+                  "lat" : 32.332715,
+                  "lng" : -93.94780039999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,2627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD eSummaryResult, 29 October 2004//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSummary_041029.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>24159346</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 12</Item>
+	<Item Name="Source" Type="String">Evid Based Complement Alternat Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lan C</Item>
+		<Item Name="Author" Type="String">Chen SY</Item>
+		<Item Name="Author" Type="String">Lai JS</Item>
+		<Item Name="Author" Type="String">Wong AM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wong AM</Item>
+	<Item Name="Title" Type="String">Tai Chi Chuan in Medicine and Health Promotion.</Item>
+	<Item Name="Volume" Type="String">2013</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">502131</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101215021</Item>
+	<Item Name="ISSN" Type="String">1741-427X</Item>
+	<Item Name="ESSN" Type="String">1741-4288</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1155/2013/502131</Item>
+		<Item Name="pubmed" Type="String">24159346</Item>
+		<Item Name="eid" Type="String">24159346</Item>
+		<Item Name="rid" Type="String">24159346</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2013/502131</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/04/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/29 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/09/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Evidence-based complementary and alternative medicine : eCAM</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013;2013:502131</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24158986</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">J Am Soc Nephrol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Scialla JJ</Item>
+		<Item Name="Author" Type="String">Xie H</Item>
+		<Item Name="Author" Type="String">Rahman M</Item>
+		<Item Name="Author" Type="String">Anderson AH</Item>
+		<Item Name="Author" Type="String">Isakova T</Item>
+		<Item Name="Author" Type="String">Ojo A</Item>
+		<Item Name="Author" Type="String">Zhang X</Item>
+		<Item Name="Author" Type="String">Nessel L</Item>
+		<Item Name="Author" Type="String">Hamano T</Item>
+		<Item Name="Author" Type="String">Grunwald JE</Item>
+		<Item Name="Author" Type="String">Raj DS</Item>
+		<Item Name="Author" Type="String">Yang W</Item>
+		<Item Name="Author" Type="String">He J</Item>
+		<Item Name="Author" Type="String">Lash JP</Item>
+		<Item Name="Author" Type="String">Go AS</Item>
+		<Item Name="Author" Type="String">Kusek JW</Item>
+		<Item Name="Author" Type="String">Feldman H</Item>
+		<Item Name="Author" Type="String">Wolf M</Item>
+		<Item Name="CollectiveName" Type="String">the Chronic Renal Insufficiency Cohort (CRIC) Study Investigators</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wolf M</Item>
+	<Item Name="Title" Type="String">Fibroblast Growth Factor-23 and Cardiovascular Events in CKD.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9013836</Item>
+	<Item Name="ISSN" Type="String">1046-6673</Item>
+	<Item Name="ESSN" Type="String">1533-3450</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">ASN.2013050465</Item>
+		<Item Name="doi" Type="String">10.1681/ASN.2013050465</Item>
+		<Item Name="pubmed" Type="String">24158986</Item>
+		<Item Name="eid" Type="String">24158986</Item>
+		<Item Name="rid" Type="String">24158986</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1681/ASN.2013050465</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of the American Society of Nephrology : JASN</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24158692</Id>
+	<Item Name="PubDate" Type="Date">2013 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 25</Item>
+	<Item Name="Source" Type="String">Basic Res Cardiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Tullio F</Item>
+		<Item Name="Author" Type="String">Angotti C</Item>
+		<Item Name="Author" Type="String">Perrelli MG</Item>
+		<Item Name="Author" Type="String">Penna C</Item>
+		<Item Name="Author" Type="String">Pagliaro P</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Pagliaro P</Item>
+	<Item Name="Title" Type="String">Redox balance and cardioprotection.</Item>
+	<Item Name="Volume" Type="String">108</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">392</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0360342</Item>
+	<Item Name="ISSN" Type="String">0300-8428</Item>
+	<Item Name="ESSN" Type="String">1435-1803</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1007/s00395-013-0392-7</Item>
+		<Item Name="pubmed" Type="String">24158692</Item>
+		<Item Name="eid" Type="String">24158692</Item>
+		<Item Name="rid" Type="String">24158692</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00395-013-0392-7</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/23 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/14 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/24 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/10/25 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Basic research in cardiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00395-013-0392-7</Item>
+	<Item Name="SO" Type="String">2013 Nov;108(6):392</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24158256</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">Europace</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nalliah CJ</Item>
+		<Item Name="Author" Type="String">Zaman S</Item>
+		<Item Name="Author" Type="String">Narayan A</Item>
+		<Item Name="Author" Type="String">Sullivan J</Item>
+		<Item Name="Author" Type="String">Kovoor P</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kovoor P</Item>
+	<Item Name="Title" Type="String">Coronary artery reperfusion for ST elevation myocardial infarction is associated with shorter cycle length ventricular tachycardia and fewer spontaneous arrhythmias.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100883649</Item>
+	<Item Name="ISSN" Type="String">1099-5129</Item>
+	<Item Name="ESSN" Type="String">1532-2092</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">eut307</Item>
+		<Item Name="doi" Type="String">10.1093/europace/eut307</Item>
+		<Item Name="pubmed" Type="String">24158256</Item>
+		<Item Name="eid" Type="String">24158256</Item>
+		<Item Name="rid" Type="String">24158256</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1093/europace/eut307</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157816</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">BMJ Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vaidya A</Item>
+		<Item Name="Author" Type="String">Aryal UR</Item>
+		<Item Name="Author" Type="String">Krettek A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Krettek A</Item>
+	<Item Name="Title" Type="String">Cardiovascular health knowledge, attitude and practice/behaviour in an urbanising community of Nepal: a population-based cross-sectional study from Jhaukhel-Duwakot Health Demographic Surveillance Site.</Item>
+	<Item Name="Volume" Type="String">3</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e002976</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101552874</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2044-6055</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">bmjopen-2013-002976</Item>
+		<Item Name="doi" Type="String">10.1136/bmjopen-2013-002976</Item>
+		<Item Name="pubmed" Type="String">24157816</Item>
+		<Item Name="eid" Type="String">24157816</Item>
+		<Item Name="rid" Type="String">24157816</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1136/bmjopen-2013-002976</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BMJ open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1136/bmjopen-2013-002976</Item>
+	<Item Name="SO" Type="String">2013 Oct 24;3(10):e002976</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157553</Id>
+	<Item Name="PubDate" Type="Date">2014</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 11</Item>
+	<Item Name="Source" Type="String">Front Neurol Neurosci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Uchiyama S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Uchiyama S</Item>
+	<Item Name="Title" Type="String">The concept of acute cerebrovascular syndrome.</Item>
+	<Item Name="Volume" Type="String">33</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">11-8</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101274949</Item>
+	<Item Name="ISSN" Type="String">1660-4431</Item>
+	<Item Name="ESSN" Type="String">1662-2804</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">000351888</Item>
+		<Item Name="doi" Type="String">10.1159/000351888</Item>
+		<Item Name="pubmed" Type="String">24157553</Item>
+		<Item Name="eid" Type="String">24157553</Item>
+		<Item Name="rid" Type="String">24157553</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1159/000351888</Item>
+	<Item Name="History" Type="List">
+		<Item Name="aheadofprint" Type="Date">2013/10/11 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Frontiers of neurology and neuroscience</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1159/000351888</Item>
+	<Item Name="SO" Type="String">2014;33:11-8</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157479</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">Eur J Cardiothorac Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Martin U</Item>
+		<Item Name="Author" Type="String">Haverich A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Haverich A</Item>
+	<Item Name="Title" Type="String">Engineering cardiac muscle: new ways to refurbish old hearts?</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8804069</Item>
+	<Item Name="ISSN" Type="String">1010-7940</Item>
+	<Item Name="ESSN" Type="String">1873-734X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">ezt490</Item>
+		<Item Name="doi" Type="String">10.1093/ejcts/ezt490</Item>
+		<Item Name="pubmed" Type="String">24157479</Item>
+		<Item Name="eid" Type="String">24157479</Item>
+		<Item Name="rid" Type="String">24157479</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1093/ejcts/ezt490</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">0</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">European journal of cardio-thoracic surgery : official journal of the European Association for Cardio-thoracic Surgery</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157289</Id>
+	<Item Name="PubDate" Type="Date">2013 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Am J Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Chu SY</Item>
+		<Item Name="Author" Type="String">Chen YJ</Item>
+		<Item Name="Author" Type="String">Liu CJ</Item>
+		<Item Name="Author" Type="String">Tseng WC</Item>
+		<Item Name="Author" Type="String">Lin MW</Item>
+		<Item Name="Author" Type="String">Hwang CY</Item>
+		<Item Name="Author" Type="String">Chen CC</Item>
+		<Item Name="Author" Type="String">Lee DD</Item>
+		<Item Name="Author" Type="String">Chen TJ</Item>
+		<Item Name="Author" Type="String">Chang YT</Item>
+		<Item Name="Author" Type="String">Wang WJ</Item>
+		<Item Name="Author" Type="String">Liu HN</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Liu HN</Item>
+	<Item Name="Title" Type="String">Increased Risk of Acute Myocardial Infarction in Systemic Sclerosis: A Nationwide Population-based Study.</Item>
+	<Item Name="Volume" Type="String">126</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">982-8</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0267200</Item>
+	<Item Name="ISSN" Type="String">0002-9343</Item>
+	<Item Name="ESSN" Type="String">1555-7162</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S0002-9343(13)00593-7</Item>
+		<Item Name="doi" Type="String">10.1016/j.amjmed.2013.06.025</Item>
+		<Item Name="pubmed" Type="String">24157289</Item>
+		<Item Name="eid" Type="String">24157289</Item>
+		<Item Name="rid" Type="String">24157289</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.amjmed.2013.06.025</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/11/10 00:00</Item>
+		<Item Name="revised" Type="Date">2013/03/25 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/06/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.amjmed.2013.06.025</Item>
+	<Item Name="SO" Type="String">2013 Nov;126(11):982-8</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157237</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 6</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 6</Item>
+	<Item Name="Source" Type="String">Int J Cardiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Bagó JR</Item>
+		<Item Name="Author" Type="String">Soler-Botija C</Item>
+		<Item Name="Author" Type="String">Casaní L</Item>
+		<Item Name="Author" Type="String">Aguilar E</Item>
+		<Item Name="Author" Type="String">Alieva M</Item>
+		<Item Name="Author" Type="String">Rubio N</Item>
+		<Item Name="Author" Type="String">Bayes-Genis A</Item>
+		<Item Name="Author" Type="String">Blanco J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Blanco J</Item>
+	<Item Name="Title" Type="String">Bioluminescence imaging of cardiomyogenic and vascular differentiation of cardiac and subcutaneous adipose tissue-derived progenitor cells in fibrin patches in a myocardium infarct model.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8200291</Item>
+	<Item Name="ISSN" Type="String">0167-5273</Item>
+	<Item Name="ESSN" Type="String">1874-1754</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S0167-5273(13)01797-X</Item>
+		<Item Name="doi" Type="String">10.1016/j.ijcard.2013.09.013</Item>
+		<Item Name="pubmed" Type="String">24157237</Item>
+		<Item Name="eid" Type="String">24157237</Item>
+		<Item Name="rid" Type="String">24157237</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.ijcard.2013.09.013</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/03/26 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/27 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">International journal of cardiology</Item>
+	<Item Name="ELocationID" Type="String">pii: S0167-5273(13)01797-X. doi: 10.1016/j.ijcard.2013.09.013</Item>
+	<Item Name="SO" Type="String">2013 Oct 6;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157192</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 2</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 2</Item>
+	<Item Name="Source" Type="String">Am J Cardiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Klempfner R</Item>
+		<Item Name="Author" Type="String">Goldenberg I</Item>
+		<Item Name="Author" Type="String">Fisman EZ</Item>
+		<Item Name="Author" Type="String">Matetzky S</Item>
+		<Item Name="Author" Type="String">Amit U</Item>
+		<Item Name="Author" Type="String">Shemesh J</Item>
+		<Item Name="Author" Type="String">Tenenbaum A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tenenbaum A</Item>
+	<Item Name="Title" Type="String">Comparison of Statin Alone Versus Bezafibrate and Statin Combination in Patients With Diabetes Mellitus and Acute Coronary Syndrome.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0207277</Item>
+	<Item Name="ISSN" Type="String">0002-9149</Item>
+	<Item Name="ESSN" Type="String">1879-1913</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S0002-9149(13)01917-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.amjcard.2013.08.033</Item>
+		<Item Name="pubmed" Type="String">24157192</Item>
+		<Item Name="eid" Type="String">24157192</Item>
+		<Item Name="rid" Type="String">24157192</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.amjcard.2013.08.033</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/04/30 00:00</Item>
+		<Item Name="revised" Type="Date">2013/08/14 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/08/14 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of cardiology</Item>
+	<Item Name="ELocationID" Type="String">pii: S0002-9149(13)01917-6. doi: 10.1016/j.amjcard.2013.08.033</Item>
+	<Item Name="SO" Type="String">2013 Oct 2;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157158</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Chin Med J (Engl)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang WY</Item>
+		<Item Name="Author" Type="String">Tang YD</Item>
+		<Item Name="Author" Type="String">Yang M</Item>
+		<Item Name="Author" Type="String">Cui C</Item>
+		<Item Name="Author" Type="String">Mu M</Item>
+		<Item Name="Author" Type="String">Qian J</Item>
+		<Item Name="Author" Type="String">Yang YJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Yang YJ</Item>
+	<Item Name="Title" Type="String">Free triiodothyronine level indicates the degree of myocardial injury in patients with acute ST-elevation myocardial infarction.</Item>
+	<Item Name="Volume" Type="String">126</Item>
+	<Item Name="Issue" Type="String">20</Item>
+	<Item Name="Pages" Type="String">3926-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7513795</Item>
+	<Item Name="ISSN" Type="String">0366-6999</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24157158</Item>
+		<Item Name="eid" Type="String">24157158</Item>
+		<Item Name="rid" Type="String">24157158</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Chinese medical journal</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct;126(20):3926-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157156</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Chin Med J (Engl)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jiao LQ</Item>
+		<Item Name="Author" Type="String">Song G</Item>
+		<Item Name="Author" Type="String">Li SM</Item>
+		<Item Name="Author" Type="String">Miao ZR</Item>
+		<Item Name="Author" Type="String">Zhu FS</Item>
+		<Item Name="Author" Type="String">Ji XM</Item>
+		<Item Name="Author" Type="String">Yin GY</Item>
+		<Item Name="Author" Type="String">Chen YF</Item>
+		<Item Name="Author" Type="String">Wang YB</Item>
+		<Item Name="Author" Type="String">Ma Y</Item>
+		<Item Name="Author" Type="String">Ling F</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ling F</Item>
+	<Item Name="Title" Type="String">Thirty-day outcome of carotid artery stenting in Chinese patients: a single-center experience.</Item>
+	<Item Name="Volume" Type="String">126</Item>
+	<Item Name="Issue" Type="String">20</Item>
+	<Item Name="Pages" Type="String">3915-20</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7513795</Item>
+	<Item Name="ISSN" Type="String">0366-6999</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24157156</Item>
+		<Item Name="eid" Type="String">24157156</Item>
+		<Item Name="rid" Type="String">24157156</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Chinese medical journal</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct;126(20):3915-20</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24157055</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 21</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 21</Item>
+	<Item Name="Source" Type="String">J Am Soc Hypertens</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yano Y</Item>
+		<Item Name="Author" Type="String">Briasoulis A</Item>
+		<Item Name="Author" Type="String">Bakris GL</Item>
+		<Item Name="Author" Type="String">Hoshide S</Item>
+		<Item Name="Author" Type="String">Wang JG</Item>
+		<Item Name="Author" Type="String">Shimada K</Item>
+		<Item Name="Author" Type="String">Kario K</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kario K</Item>
+	<Item Name="Title" Type="String">Effects of antihypertensive treatment in Asian populations: A meta-analysis of prospective randomized controlled studies (CARdiovascular protectioN group in Asia: CARNA).</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101312518</Item>
+	<Item Name="ISSN" Type="String">1933-1711</Item>
+	<Item Name="ESSN" Type="String">1878-7436</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1933-1711(13)00168-X</Item>
+		<Item Name="doi" Type="String">10.1016/j.jash.2013.09.002</Item>
+		<Item Name="pubmed" Type="String">24157055</Item>
+		<Item Name="eid" Type="String">24157055</Item>
+		<Item Name="rid" Type="String">24157055</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jash.2013.09.002</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/08/21 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/13 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of the American Society of Hypertension : JASH</Item>
+	<Item Name="ELocationID" Type="String">pii: S1933-1711(13)00168-X. doi: 10.1016/j.jash.2013.09.002</Item>
+	<Item Name="SO" Type="String">2013 Oct 21;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156966</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">JACC Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Crimi G</Item>
+		<Item Name="Author" Type="String">Pica S</Item>
+		<Item Name="Author" Type="String">Raineri C</Item>
+		<Item Name="Author" Type="String">Bramucci E</Item>
+		<Item Name="Author" Type="String">De Ferrari GM</Item>
+		<Item Name="Author" Type="String">Klersy C</Item>
+		<Item Name="Author" Type="String">Ferlini M</Item>
+		<Item Name="Author" Type="String">Marinoni B</Item>
+		<Item Name="Author" Type="String">Repetto A</Item>
+		<Item Name="Author" Type="String">Romeo M</Item>
+		<Item Name="Author" Type="String">Rosti V</Item>
+		<Item Name="Author" Type="String">Massa M</Item>
+		<Item Name="Author" Type="String">Raisaro A</Item>
+		<Item Name="Author" Type="String">Leonardi S</Item>
+		<Item Name="Author" Type="String">Rubartelli P</Item>
+		<Item Name="Author" Type="String">Oltrona Visconti L</Item>
+		<Item Name="Author" Type="String">Ferrario M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ferrario M</Item>
+	<Item Name="Title" Type="String">Remote ischemic post-conditioning of the lower limb during primary percutaneous coronary intervention safely reduces enzymatic infarct size in anterior myocardial infarction: a randomized controlled trial.</Item>
+	<Item Name="Volume" Type="String">6</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">1055-63</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101467004</Item>
+	<Item Name="ISSN" Type="String">1936-8798</Item>
+	<Item Name="ESSN" Type="String">1876-7605</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1936-8798(13)01130-8</Item>
+		<Item Name="doi" Type="String">10.1016/j.jcin.2013.05.011</Item>
+		<Item Name="pubmed" Type="String">24156966</Item>
+		<Item Name="eid" Type="String">24156966</Item>
+		<Item Name="rid" Type="String">24156966</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jcin.2013.05.011</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/04/12 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/14 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/05/17 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JACC. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jcin.2013.05.011</Item>
+	<Item Name="SO" Type="String">2013 Oct;6(10):1055-63</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156965</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">JACC Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kitabata H</Item>
+		<Item Name="Author" Type="String">Kubo T</Item>
+		<Item Name="Author" Type="String">Ishibashi K</Item>
+		<Item Name="Author" Type="String">Komukai K</Item>
+		<Item Name="Author" Type="String">Tanimoto T</Item>
+		<Item Name="Author" Type="String">Ino Y</Item>
+		<Item Name="Author" Type="String">Kashiwagi M</Item>
+		<Item Name="Author" Type="String">Ozaki Y</Item>
+		<Item Name="Author" Type="String">Shiono Y</Item>
+		<Item Name="Author" Type="String">Shimamura K</Item>
+		<Item Name="Author" Type="String">Orii M</Item>
+		<Item Name="Author" Type="String">Hirata K</Item>
+		<Item Name="Author" Type="String">Tanaka A</Item>
+		<Item Name="Author" Type="String">Imanishi T</Item>
+		<Item Name="Author" Type="String">Akasaka T</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Akasaka T</Item>
+	<Item Name="Title" Type="String">Prognostic Value of Microvascular Resistance Index Immediately After Primary Percutaneous Coronary Intervention on Left Ventricular Remodeling in Patients With Reperfused Anterior Acute ST-Segment Elevation Myocardial Infarction.</Item>
+	<Item Name="Volume" Type="String">6</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">1046-54</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101467004</Item>
+	<Item Name="ISSN" Type="String">1936-8798</Item>
+	<Item Name="ESSN" Type="String">1876-7605</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1936-8798(13)01228-4</Item>
+		<Item Name="doi" Type="String">10.1016/j.jcin.2013.05.014</Item>
+		<Item Name="pubmed" Type="String">24156965</Item>
+		<Item Name="eid" Type="String">24156965</Item>
+		<Item Name="rid" Type="String">24156965</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jcin.2013.05.014</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/12/07 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/05/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JACC. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jcin.2013.05.014</Item>
+	<Item Name="SO" Type="String">2013 Oct;6(10):1046-54</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156964</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">JACC Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Fujino Y</Item>
+		<Item Name="Author" Type="String">Attizzani GF</Item>
+		<Item Name="Author" Type="String">Bezerra HG</Item>
+		<Item Name="Author" Type="String">Wang W</Item>
+		<Item Name="Author" Type="String">Tahara S</Item>
+		<Item Name="Author" Type="String">Yamamoto H</Item>
+		<Item Name="Author" Type="String">Chamie D</Item>
+		<Item Name="Author" Type="String">Kanaya T</Item>
+		<Item Name="Author" Type="String">Mehanna E</Item>
+		<Item Name="Author" Type="String">Takagi K</Item>
+		<Item Name="Author" Type="String">Nakamura S</Item>
+		<Item Name="Author" Type="String">Costa MA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Costa MA</Item>
+	<Item Name="Title" Type="String">Serial assessment of vessel interactions after drug-eluting stent implantation in unprotected distal left main coronary artery disease using frequency-domain optical coherence tomography.</Item>
+	<Item Name="Volume" Type="String">6</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">1035-45</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101467004</Item>
+	<Item Name="ISSN" Type="String">1936-8798</Item>
+	<Item Name="ESSN" Type="String">1876-7605</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1936-8798(13)01229-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.jcin.2013.05.015</Item>
+		<Item Name="pubmed" Type="String">24156964</Item>
+		<Item Name="eid" Type="String">24156964</Item>
+		<Item Name="rid" Type="String">24156964</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jcin.2013.05.015</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/09/12 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/20 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/05/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JACC. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jcin.2013.05.015</Item>
+	<Item Name="SO" Type="String">2013 Oct;6(10):1035-45</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156961</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">JACC Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Onuma Y</Item>
+		<Item Name="Author" Type="String">Dudek D</Item>
+		<Item Name="Author" Type="String">Thuesen L</Item>
+		<Item Name="Author" Type="String">Webster M</Item>
+		<Item Name="Author" Type="String">Nieman K</Item>
+		<Item Name="Author" Type="String">Garcia-Garcia HM</Item>
+		<Item Name="Author" Type="String">Ormiston JA</Item>
+		<Item Name="Author" Type="String">Serruys PW</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Serruys PW</Item>
+	<Item Name="Title" Type="String">Five-Year Clinical and Functional Multislice Computed Tomography Angiographic Results After Coronary Implantation of the Fully Resorbable Polymeric Everolimus-Eluting Scaffold in Patients With De Novo Coronary Artery Disease: The ABSORB Cohort A Trial.</Item>
+	<Item Name="Volume" Type="String">6</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">999-1009</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101467004</Item>
+	<Item Name="ISSN" Type="String">1936-8798</Item>
+	<Item Name="ESSN" Type="String">1876-7605</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1936-8798(13)01237-5</Item>
+		<Item Name="doi" Type="String">10.1016/j.jcin.2013.05.017</Item>
+		<Item Name="pubmed" Type="String">24156961</Item>
+		<Item Name="eid" Type="String">24156961</Item>
+		<Item Name="rid" Type="String">24156961</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jcin.2013.05.017</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/01/16 00:00</Item>
+		<Item Name="revised" Type="Date">2013/05/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/05/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JACC. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jcin.2013.05.017</Item>
+	<Item Name="SO" Type="String">2013 Oct;6(10):999-1009</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156960</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">JACC Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Epstein SE</Item>
+		<Item Name="Author" Type="String">Waksman R</Item>
+		<Item Name="Author" Type="String">Pichard AD</Item>
+		<Item Name="Author" Type="String">Kent KM</Item>
+		<Item Name="Author" Type="String">Panza JA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Panza JA</Item>
+	<Item Name="Title" Type="String">Percutaneous coronary intervention versus medical therapy in stable coronary artery disease: the unresolved conundrum.</Item>
+	<Item Name="Volume" Type="String">6</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">993-8</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101467004</Item>
+	<Item Name="ISSN" Type="String">1936-8798</Item>
+	<Item Name="ESSN" Type="String">1876-7605</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">S1936-8798(13)01232-6</Item>
+		<Item Name="doi" Type="String">10.1016/j.jcin.2013.07.003</Item>
+		<Item Name="pubmed" Type="String">24156960</Item>
+		<Item Name="eid" Type="String">24156960</Item>
+		<Item Name="rid" Type="String">24156960</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jcin.2013.07.003</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/07/21 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JACC. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jcin.2013.07.003</Item>
+	<Item Name="SO" Type="String">2013 Oct;6(10):993-8</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156746</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">BMC Cardiovasc Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kruk M</Item>
+		<Item Name="Author" Type="String">Menon V</Item>
+		<Item Name="Author" Type="String">K Dziela J</Item>
+		<Item Name="Author" Type="String">Sadowski Z</Item>
+		<Item Name="Author" Type="String">Ru Y O W</Item>
+		<Item Name="Author" Type="String">Janas J</Item>
+		<Item Name="Author" Type="String">Roik M</Item>
+		<Item Name="Author" Type="String">Opolski G</Item>
+		<Item Name="Author" Type="String">Zmudka K</Item>
+		<Item Name="Author" Type="String">Czunko P</Item>
+		<Item Name="Author" Type="String">Kurowski M</Item>
+		<Item Name="Author" Type="String">Busz-Papie B</Item>
+		<Item Name="Author" Type="String">Zinka E</Item>
+		<Item Name="Author" Type="String">Jablonski W</Item>
+		<Item Name="Author" Type="String">Jaworska K</Item>
+		<Item Name="Author" Type="String">Raczynska A</Item>
+		<Item Name="Author" Type="String">Skonieczny G</Item>
+		<Item Name="Author" Type="String">Forman S</Item>
+		<Item Name="Author" Type="String">Li D</Item>
+		<Item Name="Author" Type="String">Hochman J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hochman J</Item>
+	<Item Name="Title" Type="String">Impact of percutaneous coronary intervention on biomarker levels in patients in the subacute phase following myocardial infarction: the Occluded Artery Trial (OAT) biomarker ancillary study.</Item>
+	<Item Name="Volume" Type="String">13</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">91</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968539</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2261</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">1471-2261-13-91</Item>
+		<Item Name="doi" Type="String">10.1186/1471-2261-13-91</Item>
+		<Item Name="pubmed" Type="String">24156746</Item>
+		<Item Name="eid" Type="String">24156746</Item>
+		<Item Name="rid" Type="String">24156746</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/1471-2261-13-91</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/12/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/24 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/10/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BMC cardiovascular disorders</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;13(1):91</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156215</Id>
+	<Item Name="PubDate" Type="Date">2013 May-Jun</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Acta Clin Belg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vrints H</Item>
+		<Item Name="Author" Type="String">Shivalkar B</Item>
+		<Item Name="Author" Type="String">Hilde H</Item>
+		<Item Name="Author" Type="String">Vanderveken OM</Item>
+		<Item Name="Author" Type="String">Hamans E</Item>
+		<Item Name="Author" Type="String">Van de Heyning P</Item>
+		<Item Name="Author" Type="String">De Backer W</Item>
+		<Item Name="Author" Type="String">Verbraecken J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Verbraecken J</Item>
+	<Item Name="Title" Type="String">Cardiovascular mechanisms and consequences of obstructive sleep apnoea.</Item>
+	<Item Name="Volume" Type="String">68</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">169-78</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0370306</Item>
+	<Item Name="ISSN" Type="String">0001-5512</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24156215</Item>
+		<Item Name="eid" Type="String">24156215</Item>
+		<Item Name="rid" Type="String">24156215</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/26 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Acta clinica Belgica</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 May-Jun;68(3):169-78</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24156098</Id>
+	<Item Name="PubDate" Type="Date">2013 Aug 21</Item>
+	<Item Name="EPubDate" Type="Date">2013 Aug 21</Item>
+	<Item Name="Source" Type="String">Cochrane Database Syst Rev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Meier P</Item>
+		<Item Name="Author" Type="String">Ebrahim S</Item>
+		<Item Name="Author" Type="String">Otto CM</Item>
+		<Item Name="Author" Type="String">Casas JP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Casas JP</Item>
+	<Item Name="Title" Type="String">Oxygen therapy in acute myocardial infarction – good or bad?</Item>
+	<Item Name="Volume" Type="String">8</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">ED000065</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100909747</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1469-493X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Editorial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24156098</Item>
+		<Item Name="eid" Type="String">24156098</Item>
+		<Item Name="rid" Type="String">24156098</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">0</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Cochrane database of systematic reviews</Item>
+	<Item Name="ELocationID" Type="String">doi: org/10.1002/14651858.ED000065</Item>
+	<Item Name="SO" Type="String">2013 Aug 21;8:ED000065</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155982</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Dun W</Item>
+		<Item Name="Author" Type="String">Lowe JS</Item>
+		<Item Name="Author" Type="String">Wright P</Item>
+		<Item Name="Author" Type="String">Hund TJ</Item>
+		<Item Name="Author" Type="String">Mohler PJ</Item>
+		<Item Name="Author" Type="String">Boyden PA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Boyden PA</Item>
+	<Item Name="Title" Type="String">Ankyrin-G Participates in INa Remodeling in Myocytes from the Border Zones of Infarcted Canine Heart.</Item>
+	<Item Name="Volume" Type="String">8</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e78087</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.pone.0078087</Item>
+		<Item Name="pii" Type="String">PONE-D-13-25188</Item>
+		<Item Name="pubmed" Type="String">24155982</Item>
+		<Item Name="eid" Type="String">24155982</Item>
+		<Item Name="rid" Type="String">24155982</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0078087</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/06/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/08 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/10/14 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0078087</Item>
+	<Item Name="SO" Type="String">2013 Oct 14;8(10):e78087</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155931</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 14</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hibert P</Item>
+		<Item Name="Author" Type="String">Prunier-Mirebeau D</Item>
+		<Item Name="Author" Type="String">Beseme O</Item>
+		<Item Name="Author" Type="String">Chwastyniak M</Item>
+		<Item Name="Author" Type="String">Tamareille S</Item>
+		<Item Name="Author" Type="String">Lamon D</Item>
+		<Item Name="Author" Type="String">Furber A</Item>
+		<Item Name="Author" Type="String">Pinet F</Item>
+		<Item Name="Author" Type="String">Prunier F</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Prunier F</Item>
+	<Item Name="Title" Type="String">Apolipoprotein a-I is a potential mediator of remote ischemic preconditioning.</Item>
+	<Item Name="Volume" Type="String">8</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e77211</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1371/journal.pone.0077211</Item>
+		<Item Name="pii" Type="String">PONE-D-13-27617</Item>
+		<Item Name="pubmed" Type="String">24155931</Item>
+		<Item Name="eid" Type="String">24155931</Item>
+		<Item Name="rid" Type="String">24155931</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0077211</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/04 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/10/14 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0077211</Item>
+	<Item Name="SO" Type="String">2013 Oct 14;8(10):e77211</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155798</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 20</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 20</Item>
+	<Item Name="Source" Type="String">Open Cardiovasc Med J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kasim M</Item>
+		<Item Name="Author" Type="String">Currie GM</Item>
+		<Item Name="Author" Type="String">Tjahjono M</Item>
+		<Item Name="Author" Type="String">Siswanto BB</Item>
+		<Item Name="Author" Type="String">Harimurti GM</Item>
+		<Item Name="Author" Type="String">Kiat H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kiat H</Item>
+	<Item Name="Title" Type="String">Myocardial Perfusion SPECT Utility in Predicting Cardiovascular Events Among Indonesian Diabetic Patients.</Item>
+	<Item Name="Volume" Type="String">7</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">82-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101480504</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1874-1924</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.2174/1874192401307010082</Item>
+		<Item Name="pii" Type="String">TOCMJ-7-82</Item>
+		<Item Name="pubmed" Type="String">24155798</Item>
+		<Item Name="eid" Type="String">24155798</Item>
+		<Item Name="rid" Type="String">24155798</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2174/1874192401307010082</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/08/06 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/09/01 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/09/20 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The open cardiovascular medicine journal</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.2174/1874192401307010082</Item>
+	<Item Name="SO" Type="String">2013 Sep 20;7:82-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155330</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">J Cell Sci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Cunnington RH</Item>
+		<Item Name="Author" Type="String">Northcott JM</Item>
+		<Item Name="Author" Type="String">Ghavami S</Item>
+		<Item Name="Author" Type="String">Bathe KL</Item>
+		<Item Name="Author" Type="String">Jahan F</Item>
+		<Item Name="Author" Type="String">Kavosh M</Item>
+		<Item Name="Author" Type="String">Davies J</Item>
+		<Item Name="Author" Type="String">Wigle JT</Item>
+		<Item Name="Author" Type="String">Dixon IM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Dixon IM</Item>
+	<Item Name="Title" Type="String">The Ski/Zeb2/Meox2 pathway provides a novel mechanism for regulation of the cardiac myofibroblast phenotype.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0052457</Item>
+	<Item Name="ISSN" Type="String">0021-9533</Item>
+	<Item Name="ESSN" Type="String">1477-9137</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">jcs.126722</Item>
+		<Item Name="doi" Type="String">10.1242/jcs.126722</Item>
+		<Item Name="pubmed" Type="String">24155330</Item>
+		<Item Name="eid" Type="String">24155330</Item>
+		<Item Name="rid" Type="String">24155330</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1242/jcs.126722</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cell science</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155103</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">Neth Heart J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yetgin T</Item>
+		<Item Name="Author" Type="String">van der Linden MM</Item>
+		<Item Name="Author" Type="String">de Vries AG</Item>
+		<Item Name="Author" Type="String">Smits PC</Item>
+		<Item Name="Author" Type="String">van Mechelen R</Item>
+		<Item Name="Author" Type="String">Yap SC</Item>
+		<Item Name="Author" Type="String">Boersma E</Item>
+		<Item Name="Author" Type="String">Zijlstra F</Item>
+		<Item Name="Author" Type="String">van Geuns RJ</Item>
+		<Item Name="CollectiveName" Type="String">on behalf of the CCR Study Investigators</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">van Geuns RJ</Item>
+	<Item Name="Title" Type="String">Current discharge management of acute coronary syndromes: data from the Rijnmond Collective Cardiology Research (CCR) study.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101095458</Item>
+	<Item Name="ISSN" Type="String">1568-5888</Item>
+	<Item Name="ESSN" Type="String">1876-6250</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1007/s12471-013-0484-x</Item>
+		<Item Name="pubmed" Type="String">24155103</Item>
+		<Item Name="eid" Type="String">24155103</Item>
+		<Item Name="rid" Type="String">24155103</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s12471-013-0484-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Netherlands heart journal : monthly journal of the Netherlands Society of Cardiology and the Netherlands Heart Foundation</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155092</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Catheter Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Dziewierz A</Item>
+		<Item Name="Author" Type="String">Siudak Z</Item>
+		<Item Name="Author" Type="String">Rakowski T</Item>
+		<Item Name="Author" Type="String">Kleczyński P</Item>
+		<Item Name="Author" Type="String">Zasada W</Item>
+		<Item Name="Author" Type="String">Dubiel JS</Item>
+		<Item Name="Author" Type="String">Dudek D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Dudek D</Item>
+	<Item Name="Title" Type="String">Impact of direct stenting on outcome of patients with st-elevation myocardial infarction transferred for primary percutaneous coronary intervention (from the EUROTRANSFER registry).</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100884139</Item>
+	<Item Name="ISSN" Type="String">1522-1946</Item>
+	<Item Name="ESSN" Type="String">1522-726X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1002/ccd.25266</Item>
+		<Item Name="pubmed" Type="String">24155092</Item>
+		<Item Name="eid" Type="String">24155092</Item>
+		<Item Name="rid" Type="String">24155092</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ccd.25266</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/09/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/17 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ccd.25266</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24155085</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">J Nucl Cardiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ghimire G</Item>
+		<Item Name="Author" Type="String">Gupta A</Item>
+		<Item Name="Author" Type="String">Hage FG</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hage FG</Item>
+	<Item Name="Title" Type="String">Guidelines in review: 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9423534</Item>
+	<Item Name="ISSN" Type="String">1071-3581</Item>
+	<Item Name="ESSN" Type="String">1532-6551</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1007/s12350-013-9808-x</Item>
+		<Item Name="pubmed" Type="String">24155085</Item>
+		<Item Name="eid" Type="String">24155085</Item>
+		<Item Name="rid" Type="String">24155085</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s12350-013-9808-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/10/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/10 00:00</Item>
+		<Item Name="aheadofprint" Type="Date">2013/10/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">0</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of nuclear cardiology : official publication of the American Society of Nuclear Cardiology</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24154941</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Emerg Med J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Soar J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Soar J</Item>
+	<Item Name="Title" Type="String">An observational study of extracorporeal CPR for in-hospital cardiac arrest secondary to myocardial infarction.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100963089</Item>
+	<Item Name="ISSN" Type="String">1472-0205</Item>
+	<Item Name="ESSN" Type="String">1472-0213</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">emermed-2013-203221</Item>
+		<Item Name="doi" Type="String">10.1136/emermed-2013-203221</Item>
+		<Item Name="pubmed" Type="String">24154941</Item>
+		<Item Name="eid" Type="String">24154941</Item>
+		<Item Name="rid" Type="String">24154941</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1136/emermed-2013-203221</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">0</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Emergency medicine journal : EMJ</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1136/emermed-2013-203221</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24154858</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">JAMA Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Antoniou GA</Item>
+		<Item Name="Author" Type="String">Georgiadis GS</Item>
+		<Item Name="Author" Type="String">Georgakarakos EI</Item>
+		<Item Name="Author" Type="String">Antoniou SA</Item>
+		<Item Name="Author" Type="String">Bessias N</Item>
+		<Item Name="Author" Type="String">Smyth JV</Item>
+		<Item Name="Author" Type="String">Murray D</Item>
+		<Item Name="Author" Type="String">Lazarides MK</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lazarides MK</Item>
+	<Item Name="Title" Type="String">Meta-analysis and Meta-Regression Analysis of Outcomes of Carotid Endarterectomy and Stenting in the Elderly.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101589553</Item>
+	<Item Name="ISSN" Type="String">2168-6254</Item>
+	<Item Name="ESSN" Type="String">2168-6262</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">1757343</Item>
+		<Item Name="doi" Type="String">10.1001/jamasurg.2013.4135</Item>
+		<Item Name="pubmed" Type="String">24154858</Item>
+		<Item Name="eid" Type="String">24154858</Item>
+		<Item Name="rid" Type="String">24154858</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1001/jamasurg.2013.4135</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">JAMA surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1001/jamasurg.2013.4135</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24154587</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Singapore Med J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lin J</Item>
+		<Item Name="Author" Type="String">Kristanto W</Item>
+		<Item Name="Author" Type="String">Lee CH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee CH</Item>
+	<Item Name="Title" Type="String">Pulmonary embolism as a cause of unexplained sinus tachycardia after right ventricular myocardial infarction.</Item>
+	<Item Name="Volume" Type="String">54</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e199-200</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0404516</Item>
+	<Item Name="ISSN" Type="String">0037-5675</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24154587</Item>
+		<Item Name="eid" Type="String">24154587</Item>
+		<Item Name="rid" Type="String">24154587</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Singapore medical journal</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct;54(10):e199-200</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24153412</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">Thromb Haemost</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">García Rodríguez LA</Item>
+		<Item Name="Author" Type="String">Johansson S</Item>
+		<Item Name="Author" Type="String">Nagy P</Item>
+		<Item Name="Author" Type="String">Cea Soriano L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Cea Soriano L</Item>
+	<Item Name="Title" Type="String">Use of proton pump inhibitors and the risk of coronary events in new users of low-dose acetylsalicylic acid in UK primary care.</Item>
+	<Item Name="Volume" Type="String">111</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7608063</Item>
+	<Item Name="ISSN" Type="String">0340-6245</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">13-07-0542</Item>
+		<Item Name="doi" Type="String">10.1160/TH13-07-0542</Item>
+		<Item Name="pubmed" Type="String">24153412</Item>
+		<Item Name="eid" Type="String">24153412</Item>
+		<Item Name="rid" Type="String">24153412</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1160/TH13-07-0542</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/23 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Thrombosis and haemostasis</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 24;111(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152981</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">J Am Heart Assoc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">White HD</Item>
+		<Item Name="Author" Type="String">Simes J</Item>
+		<Item Name="Author" Type="String">Stewart RA</Item>
+		<Item Name="Author" Type="String">Blankenberg S</Item>
+		<Item Name="Author" Type="String">Barnes EH</Item>
+		<Item Name="Author" Type="String">Marschner IC</Item>
+		<Item Name="Author" Type="String">Thompson P</Item>
+		<Item Name="Author" Type="String">West M</Item>
+		<Item Name="Author" Type="String">Zeller T</Item>
+		<Item Name="Author" Type="String">Colquhoun DM</Item>
+		<Item Name="Author" Type="String">Nestel P</Item>
+		<Item Name="Author" Type="String">Keech AC</Item>
+		<Item Name="Author" Type="String">Sullivan DR</Item>
+		<Item Name="Author" Type="String">Hunt D</Item>
+		<Item Name="Author" Type="String">Tonkin A</Item>
+		<Item Name="CollectiveName" Type="String">LIPID Study Investigators</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tonkin A</Item>
+	<Item Name="Title" Type="String">Changes in Lipoprotein-Associated Phospholipase A2 Activity Predict Coronary Events and Partly Account for the Treatment Effect of Pravastatin: Results From the Long-term Intervention with Pravastatin in Ischemic Disease Study.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">e000360</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101580524</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2047-9980</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">jah3351</Item>
+		<Item Name="doi" Type="String">10.1161/JAHA.113.000360</Item>
+		<Item Name="pubmed" Type="String">24152981</Item>
+		<Item Name="eid" Type="String">24152981</Item>
+		<Item Name="rid" Type="String">24152981</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1161/JAHA.113.000360</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of the American Heart Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1161/JAHA.113.000360</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;2(5):e000360</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152860</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Circulation</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rosenthal GE</Item>
+		<Item Name="Author" Type="String">Vaughan-Sarrazin M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Vaughan-Sarrazin M</Item>
+	<Item Name="Title" Type="String">The July Phenomenon Revisited: New Insights on a Lore of Academic Medicine.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0147763</Item>
+	<Item Name="ISSN" Type="String">0009-7322</Item>
+	<Item Name="ESSN" Type="String">1524-4539</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">CIRCULATIONAHA.113.006758</Item>
+		<Item Name="doi" Type="String">10.1161/CIRCULATIONAHA.113.006758</Item>
+		<Item Name="pubmed" Type="String">24152860</Item>
+		<Item Name="eid" Type="String">24152860</Item>
+		<Item Name="rid" Type="String">24152860</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1161/CIRCULATIONAHA.113.006758</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Circulation</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152859</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Circulation</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jena AB</Item>
+		<Item Name="Author" Type="String">Sun EC</Item>
+		<Item Name="Author" Type="String">Romley JA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Romley JA</Item>
+	<Item Name="Title" Type="String">Mortality among High Risk Patients with Acute Myocardial Infarction Admitted to U.S. Teaching-Intensive Hospitals in July: A Retrospective Observational Study.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0147763</Item>
+	<Item Name="ISSN" Type="String">0009-7322</Item>
+	<Item Name="ESSN" Type="String">1524-4539</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">CIRCULATIONAHA.113.004074</Item>
+		<Item Name="doi" Type="String">10.1161/CIRCULATIONAHA.113.004074</Item>
+		<Item Name="pubmed" Type="String">24152859</Item>
+		<Item Name="eid" Type="String">24152859</Item>
+		<Item Name="rid" Type="String">24152859</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1161/CIRCULATIONAHA.113.004074</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Circulation</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152820</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">J Hum Hypertens</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Triantafyllou AI</Item>
+		<Item Name="Author" Type="String">Vyssoulis GP</Item>
+		<Item Name="Author" Type="String">Karpanou EA</Item>
+		<Item Name="Author" Type="String">Karkalousos PL</Item>
+		<Item Name="Author" Type="String">Triantafyllou EA</Item>
+		<Item Name="Author" Type="String">Aessopos A</Item>
+		<Item Name="Author" Type="String">Farmakis DT</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Farmakis DT</Item>
+	<Item Name="Title" Type="String">Impact of β-thalassemia trait carrier state on cardiovascular risk factors and metabolic profile in patients with newly diagnosed hypertension.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8811625</Item>
+	<Item Name="ISSN" Type="String">0950-9240</Item>
+	<Item Name="ESSN" Type="String">1476-5527</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">jhh2013102</Item>
+		<Item Name="doi" Type="String">10.1038/jhh.2013.102</Item>
+		<Item Name="pubmed" Type="String">24152820</Item>
+		<Item Name="eid" Type="String">24152820</Item>
+		<Item Name="rid" Type="String">24152820</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/jhh.2013.102</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/06/02 00:00</Item>
+		<Item Name="revised" Type="Date">2013/09/07 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of human hypertension</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/jhh.2013.102</Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152722</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="Source" Type="String">Circ J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hirayama A</Item>
+		<Item Name="Author" Type="String">Tanahashi N</Item>
+		<Item Name="Author" Type="String">Daida H</Item>
+		<Item Name="Author" Type="String">Ishiguro N</Item>
+		<Item Name="Author" Type="String">Chachin M</Item>
+		<Item Name="Author" Type="String">Sugioka T</Item>
+		<Item Name="Author" Type="String">Kawai S</Item>
+		<Item Name="CollectiveName" Type="String">on behalf of all ACCEPT study investigators in Japan</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kawai S</Item>
+	<Item Name="Title" Type="String">Assessing the Cardiovascular Risk Between Celecoxib and Nonselective Nonsteroidal Antiinflammatory Drugs in Patients With Rheumatoid Arthritis and Osteoarthritis.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101137683</Item>
+	<Item Name="ISSN" Type="String">1346-9843</Item>
+	<Item Name="ESSN" Type="String">1347-4820</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">DN/JST.JSTAGE/circj/CJ-12-1573</Item>
+		<Item Name="pubmed" Type="String">24152722</Item>
+		<Item Name="eid" Type="String">24152722</Item>
+		<Item Name="rid" Type="String">24152722</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Circulation journal : official journal of the Japanese Circulation Society</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 22;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152361</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Ned Tijdschr Geneeskd</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Peters SA</Item>
+		<Item Name="Author" Type="String">Groenwold RH</Item>
+		<Item Name="Author" Type="String">Bots ML</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bots ML</Item>
+	<Item Name="Title" Type="String">[Intermediate endpoints in clinical research].</Item>
+	<Item Name="Volume" Type="String">157</Item>
+	<Item Name="Issue" Type="String">43</Item>
+	<Item Name="Pages" Type="String">A6400</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Dutch</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0400770</Item>
+	<Item Name="ISSN" Type="String">0028-2162</Item>
+	<Item Name="ESSN" Type="String">1876-8784</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24152361</Item>
+		<Item Name="eid" Type="String">24152361</Item>
+		<Item Name="rid" Type="String">24152361</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Nederlands tijdschrift voor geneeskunde</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013;157(43):A6400</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152197</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 24</Item>
+	<Item Name="Source" Type="String">J Interv Cardiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lee MS</Item>
+		<Item Name="Author" Type="String">Oyama J</Item>
+		<Item Name="Author" Type="String">Iqbal Z</Item>
+		<Item Name="Author" Type="String">Tarantini G</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tarantini G</Item>
+	<Item Name="Title" Type="String">Low-Dose Heparin for Elective Percutaneous Coronary Intervention.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8907826</Item>
+	<Item Name="ISSN" Type="String">0896-4327</Item>
+	<Item Name="ESSN" Type="String">1540-8183</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1111/joic.12081</Item>
+		<Item Name="pubmed" Type="String">24152197</Item>
+		<Item Name="eid" Type="String">24152197</Item>
+		<Item Name="rid" Type="String">24152197</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1111/joic.12081</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of interventional cardiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1111/joic.12081</Item>
+	<Item Name="SO" Type="String">2013 Oct 24;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24152063</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Chronobiol Int</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Fournier S</Item>
+		<Item Name="Author" Type="String">Puricel S</Item>
+		<Item Name="Author" Type="String">Morawiec B</Item>
+		<Item Name="Author" Type="String">Eeckhout E</Item>
+		<Item Name="Author" Type="String">Mangiacapra F</Item>
+		<Item Name="Author" Type="String">Trana C</Item>
+		<Item Name="Author" Type="String">Tapponnier M</Item>
+		<Item Name="Author" Type="String">Iglesias JF</Item>
+		<Item Name="Author" Type="String">Michiels V</Item>
+		<Item Name="Author" Type="String">Stauffer JC</Item>
+		<Item Name="Author" Type="String">Beggah A</Item>
+		<Item Name="Author" Type="String">Monney P</Item>
+		<Item Name="Author" Type="String">Gobet S</Item>
+		<Item Name="Author" Type="String">Vogt P</Item>
+		<Item Name="Author" Type="String">Cook S</Item>
+		<Item Name="Author" Type="String">Muller O</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Muller O</Item>
+	<Item Name="Title" Type="String">Relationship between time of day and periprocedural myocardial infarction after elective angioplasty.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8501362</Item>
+	<Item Name="ISSN" Type="String">0742-0528</Item>
+	<Item Name="ESSN" Type="String">1525-6073</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.3109/07420528.2013.839561</Item>
+		<Item Name="pubmed" Type="String">24152063</Item>
+		<Item Name="eid" Type="String">24152063</Item>
+		<Item Name="rid" Type="String">24152063</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3109/07420528.2013.839561</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Chronobiology international</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24151953</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">J Cardiovasc Electrophysiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">John RM</Item>
+		<Item Name="Author" Type="String">Connell J</Item>
+		<Item Name="Author" Type="String">Termin P</Item>
+		<Item Name="Author" Type="String">Houde-Walter H</Item>
+		<Item Name="Author" Type="String">Eberl G</Item>
+		<Item Name="Author" Type="String">Stohlman KM</Item>
+		<Item Name="Author" Type="String">Curley MG</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Curley MG</Item>
+	<Item Name="Title" Type="String">Characterization of Warm Saline Enhanced Radiofrequency Ablation Lesions in the Infarcted Porcine Ventricular Myocardium.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9010756</Item>
+	<Item Name="ISSN" Type="String">1045-3873</Item>
+	<Item Name="ESSN" Type="String">1540-8167</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1111/jce.12307</Item>
+		<Item Name="pubmed" Type="String">24151953</Item>
+		<Item Name="eid" Type="String">24151953</Item>
+		<Item Name="rid" Type="String">24151953</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1111/jce.12307</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/08/31 00:00</Item>
+		<Item Name="revised" Type="Date">2013/10/07 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/25 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cardiovascular electrophysiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1111/jce.12307</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24151600</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 15</Item>
+	<Item Name="Source" Type="String">Biomed Res Int</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Biondi-Zoccai G</Item>
+		<Item Name="Author" Type="String">De Falco E</Item>
+		<Item Name="Author" Type="String">Peruzzi M</Item>
+		<Item Name="Author" Type="String">Cavarretta E</Item>
+		<Item Name="Author" Type="String">Mancone M</Item>
+		<Item Name="Author" Type="String">Leoni O</Item>
+		<Item Name="Author" Type="String">Caristo ME</Item>
+		<Item Name="Author" Type="String">Lotrionte M</Item>
+		<Item Name="Author" Type="String">Marullo AG</Item>
+		<Item Name="Author" Type="String">Amodeo A</Item>
+		<Item Name="Author" Type="String">Pacini L</Item>
+		<Item Name="Author" Type="String">Calogero A</Item>
+		<Item Name="Author" Type="String">Petrozza V</Item>
+		<Item Name="Author" Type="String">Chimenti I</Item>
+		<Item Name="Author" Type="String">D'Ascenzo F</Item>
+		<Item Name="Author" Type="String">Frati G</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Frati G</Item>
+	<Item Name="Title" Type="String">A novel closed-chest porcine model of chronic ischemic heart failure suitable for experimental research in cardiovascular disease.</Item>
+	<Item Name="Volume" Type="String">2013</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">410631</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101600173</Item>
+	<Item Name="ISSN" Type="String">2314-6133</Item>
+	<Item Name="ESSN" Type="String">2314-6141</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1155/2013/410631</Item>
+		<Item Name="pubmed" Type="String">24151600</Item>
+		<Item Name="eid" Type="String">24151600</Item>
+		<Item Name="rid" Type="String">24151600</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2013/410631</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/08/12 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/09/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BioMed research international</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2013/410631</Item>
+	<Item Name="SO" Type="String">2013;2013:410631</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24151580</Id>
+	<Item Name="PubDate" Type="Date">2013</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 12</Item>
+	<Item Name="Source" Type="String">Biomed Res Int</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Arthur HM</Item>
+		<Item Name="Author" Type="String">Blanchard C</Item>
+		<Item Name="Author" Type="String">Gunn E</Item>
+		<Item Name="Author" Type="String">Kodis J</Item>
+		<Item Name="Author" Type="String">Walker S</Item>
+		<Item Name="Author" Type="String">Toner B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Toner B</Item>
+	<Item Name="Title" Type="String">Exercise trajectories of women from entry to a 6-month cardiac rehabilitation program to one year after discharge.</Item>
+	<Item Name="Volume" Type="String">2013</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">121030</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101600173</Item>
+	<Item Name="ISSN" Type="String">2314-6133</Item>
+	<Item Name="ESSN" Type="String">2314-6141</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1155/2013/121030</Item>
+		<Item Name="pubmed" Type="String">24151580</Item>
+		<Item Name="eid" Type="String">24151580</Item>
+		<Item Name="rid" Type="String">24151580</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2013/121030</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/04/24 00:00</Item>
+		<Item Name="revised" Type="Date">2013/08/13 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/08/14 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/09/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BioMed research international</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2013/121030</Item>
+	<Item Name="SO" Type="String">2013;2013:121030</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24151279</Id>
+	<Item Name="PubDate" Type="Date">2013 Nov 1</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Bone Joint J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Irwin A</Item>
+		<Item Name="Author" Type="String">Khan SK</Item>
+		<Item Name="Author" Type="String">Jameson SS</Item>
+		<Item Name="Author" Type="String">Tate RC</Item>
+		<Item Name="Author" Type="String">Copeland C</Item>
+		<Item Name="Author" Type="String">Reed MR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Reed MR</Item>
+	<Item Name="Title" Type="String">Oral versus intravenous tranexamic acid in enhanced-recovery primary total hip and knee replacement: Results of 3000 procedures.</Item>
+	<Item Name="Volume" Type="String">95-B</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">1556-61</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101599229</Item>
+	<Item Name="ISSN" Type="String">2049-4394</Item>
+	<Item Name="ESSN" Type="String">2049-4408</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">95-B/11/1556</Item>
+		<Item Name="doi" Type="String">10.1302/0301-620X.95B11.31055</Item>
+		<Item Name="pubmed" Type="String">24151279</Item>
+		<Item Name="eid" Type="String">24151279</Item>
+		<Item Name="rid" Type="String">24151279</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1302/0301-620X.95B11.31055</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The bone &amp; joint journal</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1302/0301-620X.95B11.31055</Item>
+	<Item Name="SO" Type="String">2013 Nov 1;95-B(11):1556-61</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24150889</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 21</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 21</Item>
+	<Item Name="Source" Type="String">Catheter Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lee CW</Item>
+		<Item Name="Author" Type="String">Ahn JM</Item>
+		<Item Name="Author" Type="String">Lee JY</Item>
+		<Item Name="Author" Type="String">Kim WJ</Item>
+		<Item Name="Author" Type="String">Park DW</Item>
+		<Item Name="Author" Type="String">Kang SJ</Item>
+		<Item Name="Author" Type="String">Lee SW</Item>
+		<Item Name="Author" Type="String">Kim YH</Item>
+		<Item Name="Author" Type="String">Park SW</Item>
+		<Item Name="Author" Type="String">Park SJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Park SJ</Item>
+	<Item Name="Title" Type="String">Long-Term (8 year) outcomes and predictors of major adverse cardiac events after full metal jacket drug-eluting stent implantation.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100884139</Item>
+	<Item Name="ISSN" Type="String">1522-1946</Item>
+	<Item Name="ESSN" Type="String">1522-726X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="doi" Type="String">10.1002/ccd.25228</Item>
+		<Item Name="pubmed" Type="String">24150889</Item>
+		<Item Name="eid" Type="String">24150889</Item>
+		<Item Name="rid" Type="String">24150889</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ccd.25228</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/07/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/30 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography &amp; Interventions</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ccd.25228</Item>
+	<Item Name="SO" Type="String">2013 Oct 21;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24149976</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="Source" Type="String">Circ Cardiovasc Interv</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Li J</Item>
+		<Item Name="Author" Type="String">Rihal CS</Item>
+		<Item Name="Author" Type="String">Matsuo Y</Item>
+		<Item Name="Author" Type="String">Elrashidi MY</Item>
+		<Item Name="Author" Type="String">Flammer AJ</Item>
+		<Item Name="Author" Type="String">Lee MS</Item>
+		<Item Name="Author" Type="String">Cassar A</Item>
+		<Item Name="Author" Type="String">Lennon RJ</Item>
+		<Item Name="Author" Type="String">Herrmann J</Item>
+		<Item Name="Author" Type="String">Bell MR</Item>
+		<Item Name="Author" Type="String">Holmes DR</Item>
+		<Item Name="Author" Type="String">Bresnahan JF</Item>
+		<Item Name="Author" Type="String">Hua Q</Item>
+		<Item Name="Author" Type="String">Lerman LO</Item>
+		<Item Name="Author" Type="String">Lerman A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lerman A</Item>
+	<Item Name="Title" Type="String">Sex-Related Differences in Fractional Flow Reserve-Guided Treatment.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101499602</Item>
+	<Item Name="ISSN" Type="String">1941-7640</Item>
+	<Item Name="ESSN" Type="String">1941-7632</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">CIRCINTERVENTIONS.113.000762</Item>
+		<Item Name="doi" Type="String">10.1161/CIRCINTERVENTIONS.113.000762</Item>
+		<Item Name="pubmed" Type="String">24149976</Item>
+		<Item Name="eid" Type="String">24149976</Item>
+		<Item Name="rid" Type="String">24149976</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1161/CIRCINTERVENTIONS.113.000762</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Circulation. Cardiovascular interventions</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 22;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24149818</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="Source" Type="String">BMJ</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Basu S</Item>
+		<Item Name="Author" Type="String">Babiarz KS</Item>
+		<Item Name="Author" Type="String">Ebrahim S</Item>
+		<Item Name="Author" Type="String">Vellakkal S</Item>
+		<Item Name="Author" Type="String">Stuckler D</Item>
+		<Item Name="Author" Type="String">Goldhaber-Fiebert JD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Goldhaber-Fiebert JD</Item>
+	<Item Name="Title" Type="String">Palm oil taxes and cardiovascular disease mortality in India: economic-epidemiologic model.</Item>
+	<Item Name="Volume" Type="String">347</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">f6048</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8900488</Item>
+	<Item Name="ISSN" Type="String">0959-8138</Item>
+	<Item Name="ESSN" Type="String">1756-1833</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24149818</Item>
+		<Item Name="eid" Type="String">24149818</Item>
+		<Item Name="rid" Type="String">24149818</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BMJ (Clinical research ed.)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1136/bmj.f6048</Item>
+	<Item Name="SO" Type="String">2013 Oct 22;347:f6048</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24149811</Id>
+	<Item Name="PubDate" Type="Date">2013 Jun 1</Item>
+	<Item Name="EPubDate" Type="Date">2013 Jun 1</Item>
+	<Item Name="Source" Type="String">J Sports Sci Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">García JP</Item>
+		<Item Name="Author" Type="String">Giraldo VM</Item>
+		<Item Name="Author" Type="String">Barrado JJ</Item>
+		<Item Name="Author" Type="String">Casasola CD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Casasola CD</Item>
+	<Item Name="Title" Type="String">Tennis training sessions as a rehabilitation instrument for patients after acute myocardial infarction.</Item>
+	<Item Name="Volume" Type="String">12</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">316-22</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101174629</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1303-2968</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24149811</Item>
+		<Item Name="eid" Type="String">24149811</Item>
+		<Item Name="rid" Type="String">24149811</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/08/31 00:00</Item>
+		<Item Name="accepted" Type="Date">2012/11/08 00:00</Item>
+		<Item Name="epublish" Type="Date">2013/06/01 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:01</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of sports science &amp; medicine</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Jun 1;12(2):316-22</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24149770</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 23</Item>
+	<Item Name="Source" Type="String">Int J Obes (Lond)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Joshy G</Item>
+		<Item Name="Author" Type="String">Korda RJ</Item>
+		<Item Name="Author" Type="String">Attia J</Item>
+		<Item Name="Author" Type="String">Liu B</Item>
+		<Item Name="Author" Type="String">Bauman AE</Item>
+		<Item Name="Author" Type="String">Banks E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Banks E</Item>
+	<Item Name="Title" Type="String">Body mass index and incident hospitalisation for cardiovascular disease in 158 546 participants from the 45 and Up Study.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101256108</Item>
+	<Item Name="ISSN" Type="String">0307-0565</Item>
+	<Item Name="ESSN" Type="String">1476-5497</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">ijo2013192</Item>
+		<Item Name="doi" Type="String">10.1038/ijo.2013.192</Item>
+		<Item Name="pubmed" Type="String">24149770</Item>
+		<Item Name="eid" Type="String">24149770</Item>
+		<Item Name="rid" Type="String">24149770</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/ijo.2013.192</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/02/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/10/06 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">International journal of obesity (2005)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/ijo.2013.192</Item>
+	<Item Name="SO" Type="String">2013 Oct 23;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24149074</Id>
+	<Item Name="PubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="EPubDate" Type="Date">2013 Oct 22</Item>
+	<Item Name="Source" Type="String">Psychosom Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hendrickson CM</Item>
+		<Item Name="Author" Type="String">Neylan TC</Item>
+		<Item Name="Author" Type="String">Na B</Item>
+		<Item Name="Author" Type="String">Regan M</Item>
+		<Item Name="Author" Type="String">Zhang Q</Item>
+		<Item Name="Author" Type="String">Cohen BE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Cohen BE</Item>
+	<Item Name="Title" Type="String">Lifetime Trauma Exposure and Prospective Cardiovascular Events and All-Cause Mortality: Findings From the Heart and Soul Study.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0376505</Item>
+	<Item Name="ISSN" Type="String">0033-3174</Item>
+	<Item Name="ESSN" Type="String">1534-7796</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pii" Type="String">PSY.0b013e3182a88846</Item>
+		<Item Name="doi" Type="String">10.1097/PSY.0b013e3182a88846</Item>
+		<Item Name="pubmed" Type="String">24149074</Item>
+		<Item Name="eid" Type="String">24149074</Item>
+		<Item Name="rid" Type="String">24149074</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/PSY.0b013e3182a88846</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/10/24 06:00</Item>
+		<Item Name="medline" Type="Date">2013/10/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Psychosomatic medicine</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2013 Oct 22;</Item>
+</DocSum>
+
+</eSummaryResult>

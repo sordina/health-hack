@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Selçuk University",
+               "short_name" : "Selçuk University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ardıçlı Mh.",
+               "short_name" : "Ardıçlı Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Selçuklu",
+               "short_name" : "Selçuklu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Konya Province",
+               "short_name" : "Konya Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42250",
+               "short_name" : "42250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Selçuk University, Ardıçlı Mh., 42250 Konya/Konya Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0322949,
+                  "lng" : 32.515832
+               },
+               "southwest" : {
+                  "lat" : 38.012209,
+                  "lng" : 32.501386
+               }
+            },
+            "location" : {
+               "lat" : 38.021464,
+               "lng" : 32.510074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0322949,
+                  "lng" : 32.515832
+               },
+               "southwest" : {
+                  "lat" : 38.012209,
+                  "lng" : 32.501386
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

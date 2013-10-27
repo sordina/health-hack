@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jinju-si",
+               "short_name" : "Jinju-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gyeongsangnam-do",
+               "short_name" : "Gyeongsangnam-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jinju-si, Gyeongsangnam-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3509734,
+                  "lng" : 128.3694307
+               },
+               "southwest" : {
+                  "lat" : 35.0508278,
+                  "lng" : 127.8880404
+               }
+            },
+            "location" : {
+               "lat" : 35.1799817,
+               "lng" : 128.1076213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2137,
+                  "lng" : 128.1283
+               },
+               "southwest" : {
+                  "lat" : 35.1508,
+                  "lng" : 128.0514
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

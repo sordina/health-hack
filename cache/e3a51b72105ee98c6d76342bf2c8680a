@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Al Ain",
+               "short_name" : "Al Ain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abu Dhabi",
+               "short_name" : "Abu Dhabi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Al Ain - United Arab Emirates",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.3699361,
+                  "lng" : 56.0149955
+               },
+               "southwest" : {
+                  "lat" : 24.0160482,
+                  "lng" : 55.4787378
+               }
+            },
+            "location" : {
+               "lat" : 24.2075,
+               "lng" : 55.7447222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.3699361,
+                  "lng" : 56.0149955
+               },
+               "southwest" : {
+                  "lat" : 24.0160482,
+                  "lng" : 55.4787378
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

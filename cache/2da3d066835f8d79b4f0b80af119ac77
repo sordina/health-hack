@@ -1,0 +1,296 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UNIVERSITY OF ALABAMA",
+               "short_name" : "UNIVERSITY OF ALABAMA",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1400",
+               "short_name" : "1400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Boulevard",
+               "short_name" : "University Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Five Points South",
+               "short_name" : "Five Points South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35233",
+               "short_name" : "35233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UNIVERSITY OF ALABAMA, 1400 University Boulevard, Birmingham, AL 35233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.5030121,
+               "lng" : -86.80362869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5123158,
+                  "lng" : -86.7876213
+               },
+               "southwest" : {
+                  "lat" : 33.4937074,
+                  "lng" : -86.8196361
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Alabama",
+               "short_name" : "University of Alabama",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1200",
+               "short_name" : "1200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "10th Ave N",
+               "short_name" : "10th Ave N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Five Points South",
+               "short_name" : "Five Points South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35203",
+               "short_name" : "35203",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1612",
+               "short_name" : "1612",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Alabama, 1200 10th Ave N, Birmingham, AL 35203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4967634,
+               "lng" : -86.80777399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4981123802915,
+                  "lng" : -86.80642501970848
+               },
+               "southwest" : {
+                  "lat" : 33.4954144197085,
+                  "lng" : -86.80912298029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Alabama",
+               "short_name" : "University of Alabama",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1150",
+               "short_name" : "1150",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "10th Avenue South",
+               "short_name" : "10th Ave S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Five Points South",
+               "short_name" : "Five Points South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35205",
+               "short_name" : "35205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Alabama, 1150 10th Avenue South, Birmingham, AL 35205, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4985708,
+                  "lng" : -86.80617269999999
+               },
+               "southwest" : {
+                  "lat" : 33.4977363,
+                  "lng" : -86.80731919999999
+               }
+            },
+            "location" : {
+               "lat" : 33.498047,
+               "lng" : -86.8068129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4995025302915,
+                  "lng" : -86.8053969697085
+               },
+               "southwest" : {
+                  "lat" : 33.4968045697085,
+                  "lng" : -86.8080949302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Alabama Birmingham",
+               "short_name" : "University of Alabama Birmingham",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "619",
+               "short_name" : "619",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "19th Street South",
+               "short_name" : "19th St S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Five Points South",
+               "short_name" : "Five Points South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson",
+               "short_name" : "Jefferson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35233",
+               "short_name" : "35233",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Alabama Birmingham, 619 19th Street South, Birmingham, AL 35233, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.5045838,
+               "lng" : -86.80565729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5059327802915,
+                  "lng" : -86.80430831970848
+               },
+               "southwest" : {
+                  "lat" : 33.5032348197085,
+                  "lng" : -86.8070062802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

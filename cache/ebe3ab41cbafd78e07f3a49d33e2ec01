@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97080",
+               "short_name" : "97080",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Franconia",
+               "short_name" : "Lower Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "97080 Würzburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8456359,
+                  "lng" : 9.959726999999999
+               },
+               "southwest" : {
+                  "lat" : 49.7960319,
+                  "lng" : 9.872259999999999
+               }
+            },
+            "location" : {
+               "lat" : 49.8158268,
+               "lng" : 9.9102608
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8456359,
+                  "lng" : 9.959726999999999
+               },
+               "southwest" : {
+                  "lat" : 49.7960319,
+                  "lng" : 9.872259999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

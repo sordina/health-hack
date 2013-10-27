@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            },
+            "location" : {
+               "lat" : 45.07098200000001,
+               "lng" : 7.685676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

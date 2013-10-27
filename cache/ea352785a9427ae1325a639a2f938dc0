@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarau",
+               "short_name" : "Aarau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aarau District",
+               "short_name" : "Aarau District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aargau",
+               "short_name" : "AG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aarau, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.40898,
+                  "lng" : 8.0721399
+               },
+               "southwest" : {
+                  "lat" : 47.36965,
+                  "lng" : 8.02655
+               }
+            },
+            "location" : {
+               "lat" : 47.3934,
+               "lng" : 8.04312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.40898,
+                  "lng" : 8.0721399
+               },
+               "southwest" : {
+                  "lat" : 47.36965,
+                  "lng" : 8.02655
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarau",
+               "short_name" : "Aarau",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Aarau",
+               "short_name" : "Aarau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aargau",
+               "short_name" : "AG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aarau, 5000 Aarau, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.3913523,
+               "lng" : 8.051257099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3927012802915,
+                  "lng" : 8.0526060802915
+               },
+               "southwest" : {
+                  "lat" : 47.3900033197085,
+                  "lng" : 8.049908119708496
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

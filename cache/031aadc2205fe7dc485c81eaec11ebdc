@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Drexel University",
+               "short_name" : "Drexel University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3141",
+               "short_name" : "3141",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chestnut Street",
+               "short_name" : "Chestnut Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Drexel University, 3141 Chestnut Street, Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.963197,
+                  "lng" : -75.16198059999999
+               },
+               "southwest" : {
+                  "lat" : 39.9530363,
+                  "lng" : -75.2093541
+               }
+            },
+            "location" : {
+               "lat" : 39.9566127,
+               "lng" : -75.18994409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.963197,
+                  "lng" : -75.1831059
+               },
+               "southwest" : {
+                  "lat" : 39.9530363,
+                  "lng" : -75.1939989
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

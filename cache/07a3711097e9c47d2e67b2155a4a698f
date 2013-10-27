@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Cincinnati College of Medicine",
+               "short_name" : "University of Cincinnati College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Cincinnati - Medical College",
+               "short_name" : "University of Cincinnati - Medical College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "231",
+               "short_name" : "231",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albert Sabin Way",
+               "short_name" : "Albert Sabin Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corryville",
+               "short_name" : "Corryville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45229",
+               "short_name" : "45229",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Cincinnati College of Medicine, University of Cincinnati - Medical College, 231 Albert Sabin Way, Cincinnati, OH 45229, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1391325,
+               "lng" : -84.50377159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1477863,
+                  "lng" : -84.48776420000002
+               },
+               "southwest" : {
+                  "lat" : 39.1304777,
+                  "lng" : -84.519779
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

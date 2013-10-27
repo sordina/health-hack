@@ -1,25 +1,18 @@
 require './lib.rb'
 
-term        = URI.encode "type I IFN dsRNA"
-results_max = 100
+term        = URI.encode( ARGV[0] || "type I IFN dsRNA" )
+results_max = ARGV[1].to_i || 100
+query       = meta_search term
+doc_list    = search query[:webenv], query[:querykey], results_max
+geostuff    = convert_geojson doc_list
+text        = JSON.pretty_generate(doc_list)
 
-query    = meta_search term
-doc_list = search query[:webenv], query[:querykey], results_max
-geostuff = convert_geojson doc_list
+puts "Outputting JSON:"
+puts
 
-text = JSON.pretty_generate(doc_list)
-# puts text
 File.open("json/#{term}__#{results_max}_results.json", "w") do |f|
+  print "."
   f.write text
 end
 
-text = JSON.pretty_generate(convert_geojson(doc_list).compact)
-# puts text
-File.open("json/geojson_#{term}__#{results_max}_results.geojson", "w") do |f|
-  f.write text
-end
-
-File.open("webapp/geojson.js", "w") do |f|
-  f.write "geojson = "
-  f.write text
-end
+puts

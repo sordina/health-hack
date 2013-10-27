@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chiba",
+               "short_name" : "Chiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chiba Prefecture",
+               "short_name" : "Chiba Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chiba, Chiba Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7148401,
+                  "lng" : 140.3008365
+               },
+               "southwest" : {
+                  "lat" : 35.493599,
+                  "lng" : 140.0182803
+               }
+            },
+            "location" : {
+               "lat" : 35.6072668,
+               "lng" : 140.1062907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7148401,
+                  "lng" : 140.3008365
+               },
+               "southwest" : {
+                  "lat" : 35.493599,
+                  "lng" : 140.0182803
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

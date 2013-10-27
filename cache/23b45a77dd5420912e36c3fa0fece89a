@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulane University School of Public Health and Tropical Medicine",
+               "short_name" : "Tulane University School of Public Health and Tropical Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1440",
+               "short_name" : "1440",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Canal Street",
+               "short_name" : "Canal St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70112",
+               "short_name" : "70112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tulane University School of Public Health and Tropical Medicine, 1440 Canal Street, New Orleans, LA 70112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9568803,
+               "lng" : -90.0754719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9665471,
+                  "lng" : -90.05946449999999
+               },
+               "southwest" : {
+                  "lat" : 29.9472125,
+                  "lng" : -90.09147929999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulane University School of Medicine",
+               "short_name" : "Tulane University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1430",
+               "short_name" : "1430",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tulane Avenue",
+               "short_name" : "Tulane Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70118",
+               "short_name" : "70118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tulane University School of Medicine, 1430 Tulane Avenue, New Orleans, LA 70118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9552016,
+               "lng" : -90.0770318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9565505802915,
+                  "lng" : -90.0756828197085
+               },
+               "southwest" : {
+                  "lat" : 29.9538526197085,
+                  "lng" : -90.07838078029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

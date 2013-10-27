@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dresden University of Technology",
+               "short_name" : "Dresden University of Technology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mommsenstraße",
+               "short_name" : "Mommsenstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Räcknitz",
+               "short_name" : "Räcknitz",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dresden",
+               "short_name" : "Dresden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dresden",
+               "short_name" : "Dresden",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dresden",
+               "short_name" : "DD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01069",
+               "short_name" : "01069",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dresden University of Technology, Mommsenstraße 9, 01069 Dresden, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.05227,
+                  "lng" : 13.7615845
+               },
+               "southwest" : {
+                  "lat" : 51.0196578,
+                  "lng" : 13.717506
+               }
+            },
+            "location" : {
+               "lat" : 51.0278478,
+               "lng" : 13.7287953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0319028,
+                  "lng" : 13.7552107
+               },
+               "southwest" : {
+                  "lat" : 51.0241248,
+                  "lng" : 13.717506
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National and Kapodistrian University of Athens",
+               "short_name" : "National and Kapodistrian University of Athens",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leoforos Eleftheriou Venizelou",
+               "short_name" : "Leoforos Eleftheriou Venizelou",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10679",
+               "short_name" : "10679",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National and Kapodistrian University of Athens, Leoforos Eleftheriou Venizelou 30, Athens 10679, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9856105,
+                  "lng" : 23.788496
+               },
+               "southwest" : {
+                  "lat" : 37.9498137,
+                  "lng" : 23.7328467
+               }
+            },
+            "location" : {
+               "lat" : 37.985066,
+               "lng" : 23.7667607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9856105,
+                  "lng" : 23.7679435
+               },
+               "southwest" : {
+                  "lat" : 37.9826083,
+                  "lng" : 23.7638854
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

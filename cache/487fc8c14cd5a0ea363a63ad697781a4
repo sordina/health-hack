@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Urbana",
+               "short_name" : "Urbana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cunningham",
+               "short_name" : "Cunningham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Champaign",
+               "short_name" : "Champaign",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Urbana, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1573951,
+                  "lng" : -88.15306
+               },
+               "southwest" : {
+                  "lat" : 40.073259,
+                  "lng" : -88.23304
+               }
+            },
+            "location" : {
+               "lat" : 40.1105875,
+               "lng" : -88.2072697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1573951,
+                  "lng" : -88.15306
+               },
+               "southwest" : {
+                  "lat" : 40.073259,
+                  "lng" : -88.23304
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

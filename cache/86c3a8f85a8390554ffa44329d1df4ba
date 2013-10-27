@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University Of Auckland",
+               "short_name" : "The University Of Auckland",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Auckland",
+               "short_name" : "The University of Auckland",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grafton Road",
+               "short_name" : "Grafton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grafton",
+               "short_name" : "Grafton",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1010",
+               "short_name" : "1010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University Of Auckland, The University of Auckland, 12 Grafton Road, Grafton 1010, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -36.8529287,
+               "lng" : 174.7710185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.8439998,
+                  "lng" : 174.7870259
+               },
+               "southwest" : {
+                  "lat" : -36.8618566,
+                  "lng" : 174.7550111
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,158 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Politecnico di Milano",
+               "short_name" : "Politecnico di Milano",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "32",
+               "short_name" : "32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Leonardo Da Vinci",
+               "short_name" : "Piazza Leonardo Da Vinci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20133",
+               "short_name" : "20133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Politecnico di Milano, Piazza Leonardo Da Vinci, 32, 20133 Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4780542,
+                  "lng" : 9.2353215
+               },
+               "southwest" : {
+                  "lat" : 45.47786079999999,
+                  "lng" : 9.2345545
+               }
+            },
+            "location" : {
+               "lat" : 45.4779535,
+               "lng" : 9.234976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4793064802915,
+                  "lng" : 9.236286980291503
+               },
+               "southwest" : {
+                  "lat" : 45.4766085197085,
+                  "lng" : 9.233589019708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Politecnico di Milano",
+               "short_name" : "Politecnico di Milano",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Privata Giuseppe. la Masa",
+               "short_name" : "Via Privata Giuseppe. La Masa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "MI",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20156",
+               "short_name" : "20156",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Politecnico di Milano, Via Privata Giuseppe. la Masa, 1, 20156 Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5046441,
+                  "lng" : 9.164478899999999
+               },
+               "southwest" : {
+                  "lat" : 45.5006149,
+                  "lng" : 9.153006599999999
+               }
+            },
+            "location" : {
+               "lat" : 45.50145999999999,
+               "lng" : 9.158454799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5029498802915,
+                  "lng" : 9.1585938
+               },
+               "southwest" : {
+                  "lat" : 45.5002519197085,
+                  "lng" : 9.153006599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

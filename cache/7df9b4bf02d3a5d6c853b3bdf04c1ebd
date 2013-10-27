@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "79",
+               "short_name" : "79",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bremserstraße",
+               "short_name" : "Bremserstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nord/Hemshof",
+               "short_name" : "Nord/Hemshof",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ludwigshafen",
+               "short_name" : "Ludwigshafen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67063",
+               "short_name" : "67063",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bremserstraße 79, 67063 Ludwigshafen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.4898237,
+               "lng" : 8.427361099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4911726802915,
+                  "lng" : 8.428710080291502
+               },
+               "southwest" : {
+                  "lat" : 49.4884747197085,
+                  "lng" : 8.426012119708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

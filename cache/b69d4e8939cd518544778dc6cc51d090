@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Calgary",
+               "short_name" : "University Of Calgary",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Drive Northwest",
+               "short_name" : "University Dr NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T2N 1N4",
+               "short_name" : "T2N 1N4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Of Calgary, 2500 University Drive Northwest, Calgary, AB T2N 1N4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0868414,
+                  "lng" : -114.1180104
+               },
+               "southwest" : {
+                  "lat" : 51.0663772,
+                  "lng" : -114.1521121
+               }
+            },
+            "location" : {
+               "lat" : 51.0766093,
+               "lng" : -114.1350612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0868414,
+                  "lng" : -114.1180104
+               },
+               "southwest" : {
+                  "lat" : 51.0663772,
+                  "lng" : -114.1521121
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

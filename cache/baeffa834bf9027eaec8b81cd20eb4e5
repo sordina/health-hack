@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montefiore Medical Center",
+               "short_name" : "Montefiore Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "short_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1695",
+               "short_name" : "1695",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Eastchester Road",
+               "short_name" : "Eastchester Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westchester Village",
+               "short_name" : "Westchester Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montefiore Medical Center, Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus, 1695 Eastchester Road, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.846407,
+               "lng" : -73.84526199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8548471,
+                  "lng" : -73.8292546
+               },
+               "southwest" : {
+                  "lat" : 40.8379658,
+                  "lng" : -73.8612694
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

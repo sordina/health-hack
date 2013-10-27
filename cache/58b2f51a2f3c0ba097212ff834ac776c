@@ -1,0 +1,736 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bordeaux Tourism Office",
+               "short_name" : "Bordeaux Tourism Office",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "12",
+               "short_name" : "12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cours du 30 Juillet",
+               "short_name" : "Cours du 30 Juillet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bordeaux Tourism Office, 12 Cours du 30 Juillet, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8436731,
+               "lng" : -0.574336
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8515839,
+                  "lng" : -0.5583286
+               },
+               "southwest" : {
+                  "lat" : 44.8357612,
+                  "lng" : -0.5903434
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Résidence Etudiante Campuséa Bordeaux Centre",
+               "short_name" : "Résidence Etudiante Campuséa Bordeaux Centre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rue des Belles Îles",
+               "short_name" : "Rue des Belles Îles",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Résidence Etudiante Campuséa Bordeaux Centre, Rue des Belles Îles, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8277438,
+               "lng" : -0.5944773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8290927802915,
+                  "lng" : -0.593128319708498
+               },
+               "southwest" : {
+                  "lat" : 44.8263948197085,
+                  "lng" : -0.5958262802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palais Rohan - Mairie de Bordeaux",
+               "short_name" : "Palais Rohan - Mairie de Bordeaux",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Place Pey Berland",
+               "short_name" : "Pl. Pey Berland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Palais Rohan - Mairie de Bordeaux, Place Pey Berland, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.83795,
+               "lng" : -0.5791052999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8392989802915,
+                  "lng" : -0.5777563197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8366010197085,
+                  "lng" : -0.580454280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "locality",
+            "political",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bordeaux Muséum of Wines",
+               "short_name" : "Bordeaux Muséum of Wines",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cellier des Chartrons",
+               "short_name" : "Cellier des Chartrons",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue Borie",
+               "short_name" : "Rue Borie",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chartrons",
+               "short_name" : "Chartrons",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bordeaux Muséum of Wines, Cellier des Chartrons, 41 Rue Borie, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8546089,
+               "lng" : -0.5694789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8559578802915,
+                  "lng" : -0.568129919708498
+               },
+               "southwest" : {
+                  "lat" : 44.8532599197085,
+                  "lng" : -0.5708278802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bordeaux I",
+               "short_name" : "University of Bordeaux I",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "351",
+               "short_name" : "351",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cours de la Libération",
+               "short_name" : "Cours de la Libération",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Talence",
+               "short_name" : "Talence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33400",
+               "short_name" : "33400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Bordeaux I, 351 Cours de la Libération, 33400 Talence, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8372234,
+                  "lng" : -0.5775367
+               },
+               "southwest" : {
+                  "lat" : 44.83681379999999,
+                  "lng" : -0.5782501999999999
+               }
+            },
+            "location" : {
+               "lat" : 44.83703060000001,
+               "lng" : -0.5778772999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8383675802915,
+                  "lng" : -0.5765444697084979
+               },
+               "southwest" : {
+                  "lat" : 44.8356696197085,
+                  "lng" : -0.579242430291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Musée des beaux-arts de Bordeaux",
+               "short_name" : "Musée des beaux-arts de Bordeaux",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cours d'Albret",
+               "short_name" : "Cours d'Albret",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Musée des beaux-arts de Bordeaux, 20 Cours d'Albret, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8373719,
+               "lng" : -0.5811029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8387208802915,
+                  "lng" : -0.579753919708498
+               },
+               "southwest" : {
+                  "lat" : 44.8360229197085,
+                  "lng" : -0.5824518802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Customs Muséum",
+               "short_name" : "National Customs Muséum",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Place de la Bourse",
+               "short_name" : "Pl. de la Bourse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hôtel de Ville - Quinconces",
+               "short_name" : "Hôtel de Ville - Quinconces",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National Customs Muséum, 1 Place de la Bourse, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8409659,
+               "lng" : -0.5699101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8423148802915,
+                  "lng" : -0.568561119708498
+               },
+               "southwest" : {
+                  "lat" : 44.8396169197085,
+                  "lng" : -0.5712590802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "City Centre Apartment Bordeaux",
+               "short_name" : "City Centre Apartment Bordeaux",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue des Remparts",
+               "short_name" : "Rue des Remparts",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "City Centre Apartment Bordeaux, 21 Rue des Remparts, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8397544,
+               "lng" : -0.5799698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.84110338029149,
+                  "lng" : -0.578620819708498
+               },
+               "southwest" : {
+                  "lat" : 44.83840541970849,
+                  "lng" : -0.5813187802915021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "amusement_park", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Synagogue de Bordeaux",
+               "short_name" : "Synagogue de Bordeaux",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue du Grand Rabin Joseph Cohen",
+               "short_name" : "Rue du Grand Rabin Joseph Cohen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Synagogue de Bordeaux, 8 Rue du Grand Rabin Joseph Cohen, 33000 Bordeaux, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.8338968,
+               "lng" : -0.5736723
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.83524578029149,
+                  "lng" : -0.5723233197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8325478197085,
+                  "lng" : -0.575021280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "synagogue", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-André Cathedral",
+               "short_name" : "Saint-André Cathedral",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Place Pey Berland",
+               "short_name" : "Pl. Pey Berland",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saint-André Cathedral, Place Pey Berland, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8379646,
+                  "lng" : -0.5768814
+               },
+               "southwest" : {
+                  "lat" : 44.8373693,
+                  "lng" : -0.5785551999999999
+               }
+            },
+            "location" : {
+               "lat" : 44.837604,
+               "lng" : -0.577572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8390159302915,
+                  "lng" : -0.5763693197084979
+               },
+               "southwest" : {
+                  "lat" : 44.8363179697085,
+                  "lng" : -0.579067280291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "church", "place_of_worship", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tramway de Bordeaux",
+               "short_name" : "Tramway de Bordeaux",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "33",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33000",
+               "short_name" : "33000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tramway de Bordeaux, 33000 Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.83975969999999,
+                  "lng" : -0.5718884
+               },
+               "southwest" : {
+                  "lat" : 44.82786550000001,
+                  "lng" : -0.610943
+               }
+            },
+            "location" : {
+               "lat" : 44.83381259999999,
+               "lng" : -0.5914157
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.83975969999999,
+                  "lng" : -0.5718884
+               },
+               "southwest" : {
+                  "lat" : 44.82786550000001,
+                  "lng" : -0.610943
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

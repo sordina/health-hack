@@ -1,0 +1,111 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. James Hospital",
+               "short_name" : "St. James Hospital",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. James Hospital, Dublin, Co. Dublin, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.3415845,
+               "lng" : -6.297129399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34293348029149,
+                  "lng" : -6.295780419708498
+               },
+               "southwest" : {
+                  "lat" : 53.3402355197085,
+                  "lng" : -6.298478380291502
+               }
+            }
+         },
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint James's Hospital",
+               "short_name" : "St. James's Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint James's Hospital, Dublin, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3426151,
+                  "lng" : -6.2901941
+               },
+               "southwest" : {
+                  "lat" : 53.33759120000001,
+                  "lng" : -6.3008079
+               }
+            },
+            "location" : {
+               "lat" : 53.3404222,
+               "lng" : -6.2948564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3426151,
+                  "lng" : -6.2901941
+               },
+               "southwest" : {
+                  "lat" : 53.33759120000001,
+                  "lng" : -6.3008079
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

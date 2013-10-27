@@ -1,0 +1,454 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Euclid Avenue",
+               "short_name" : "Euclid Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44195",
+               "short_name" : "44195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH 44195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5022055,
+               "lng" : -81.6175875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5105615,
+                  "lng" : -81.60158009999999
+               },
+               "southwest" : {
+                  "lat" : 41.4938484,
+                  "lng" : -81.63359489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2049",
+               "short_name" : "2049",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 100th Street",
+               "short_name" : "E 100th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44106",
+               "short_name" : "44106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 2049 East 100th Street, Cleveland, OH 44106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5057178,
+                  "lng" : -81.6124609
+               },
+               "southwest" : {
+                  "lat" : 41.4992881,
+                  "lng" : -81.6270998
+               }
+            },
+            "location" : {
+               "lat" : 41.5023186,
+               "lng" : -81.61758859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5057178,
+                  "lng" : -81.6124609
+               },
+               "southwest" : {
+                  "lat" : 41.4992881,
+                  "lng" : -81.6270998
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "146",
+               "short_name" : "146",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "6801",
+               "short_name" : "6801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mayfield Road",
+               "short_name" : "Mayfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44124",
+               "short_name" : "44124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 6801 Mayfield Road #146, Cleveland, OH 44124, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.521056,
+               "lng" : -81.43356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5224049802915,
+                  "lng" : -81.4322110197085
+               },
+               "southwest" : {
+                  "lat" : 41.51970701970851,
+                  "lng" : -81.43490898029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "10524",
+               "short_name" : "10524",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Euclid Avenue",
+               "short_name" : "Euclid Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "University Circle",
+               "short_name" : "University Circle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44106",
+               "short_name" : "44106",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2205",
+               "short_name" : "2205",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 10524 Euclid Avenue, Cleveland, OH 44106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5029319,
+               "lng" : -81.6139537
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5042808802915,
+                  "lng" : -81.61260471970849
+               },
+               "southwest" : {
+                  "lat" : 41.5015829197085,
+                  "lng" : -81.61530268029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "353",
+               "short_name" : "353",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "20455",
+               "short_name" : "20455",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lorain Road",
+               "short_name" : "Lorain Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44126",
+               "short_name" : "44126",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3531",
+               "short_name" : "3531",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 20455 Lorain Road #353, Cleveland, OH 44126, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.447663,
+               "lng" : -81.84592499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4490119802915,
+                  "lng" : -81.84457601970848
+               },
+               "southwest" : {
+                  "lat" : 41.4463140197085,
+                  "lng" : -81.84727398029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fairview Hospital",
+               "short_name" : "Fairview Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "18101",
+               "short_name" : "18101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lorain Avenue",
+               "short_name" : "Lorain Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kamm's Corners",
+               "short_name" : "Kamm's Corners",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44111",
+               "short_name" : "44111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fairview Hospital, 18101 Lorain Avenue, Cleveland, OH 44111, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.45104329999999,
+                  "lng" : -81.820898
+               },
+               "southwest" : {
+                  "lat" : 41.4476033,
+                  "lng" : -81.82524529999999
+               }
+            },
+            "location" : {
+               "lat" : 41.4506764,
+               "lng" : -81.8228369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.45104329999999,
+                  "lng" : -81.820898
+               },
+               "southwest" : {
+                  "lat" : 41.4476033,
+                  "lng" : -81.82524529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

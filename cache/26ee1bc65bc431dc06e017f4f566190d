@@ -1,0 +1,212 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "John Radcliffe Hospital",
+               "short_name" : "John Radcliffe Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Headley Way",
+               "short_name" : "Headley Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 9DU",
+               "short_name" : "OX3 9DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "John Radcliffe Hospital, Headley Way, Oxford, OX3 9DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7679792,
+                  "lng" : -1.215896
+               },
+               "southwest" : {
+                  "lat" : 51.76039309999999,
+                  "lng" : -1.2236762
+               }
+            },
+            "location" : {
+               "lat" : 51.7647798,
+               "lng" : -1.2200804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7679792,
+                  "lng" : -1.215896
+               },
+               "southwest" : {
+                  "lat" : 51.76039309999999,
+                  "lng" : -1.2236762
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "John Radcliffe Hospital",
+               "short_name" : "John Radcliffe Hospital",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Headington",
+               "short_name" : "Headington",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 9DU",
+               "short_name" : "OX3 9DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "John Radcliffe Hospital, Oxford, OX3 9DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7658645,
+                  "lng" : -1.2192503
+               },
+               "southwest" : {
+                  "lat" : 51.7636933,
+                  "lng" : -1.2229478
+               }
+            },
+            "location" : {
+               "lat" : 51.7650084,
+               "lng" : -1.2218914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76612788029151,
+                  "lng" : -1.2192503
+               },
+               "southwest" : {
+                  "lat" : 51.76342991970851,
+                  "lng" : -1.2229478
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "John Radcliffe Hospital",
+               "short_name" : "John Radcliffe Hospital",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Headley Way",
+               "short_name" : "Headley Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Headington",
+               "short_name" : "Headington",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 9DU",
+               "short_name" : "OX3 9DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "John Radcliffe Hospital, Headley Way, Oxford, Oxfordshire OX3 9DU, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7640818,
+               "lng" : -1.2197614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7654307802915,
+                  "lng" : -1.218412419708498
+               },
+               "southwest" : {
+                  "lat" : 51.7627328197085,
+                  "lng" : -1.221110380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

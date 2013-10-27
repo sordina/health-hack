@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leuven",
+               "short_name" : "Leuven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flemish Brabant",
+               "short_name" : "VB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leuven, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.94403,
+                  "lng" : 4.770309999999999
+               },
+               "southwest" : {
+                  "lat" : 50.82418999999999,
+                  "lng" : 4.64055
+               }
+            },
+            "location" : {
+               "lat" : 50.877571,
+               "lng" : 4.704327999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.94403,
+                  "lng" : 4.770309999999999
+               },
+               "southwest" : {
+                  "lat" : 50.82418999999999,
+                  "lng" : 4.64055
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liuzhou",
+               "short_name" : "Liuzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangxi",
+               "short_name" : "Guangxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liuzhou, Guangxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.0473133,
+                  "lng" : 110.1778252
+               },
+               "southwest" : {
+                  "lat" : 23.9071416,
+                  "lng" : 108.587687
+               }
+            },
+            "location" : {
+               "lat" : 24.325502,
+               "lng" : 109.415953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.4139129,
+                  "lng" : 109.5515442
+               },
+               "southwest" : {
+                  "lat" : 24.1936596,
+                  "lng" : 109.2761993
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

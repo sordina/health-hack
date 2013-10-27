@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UAE University",
+               "short_name" : "UAEU",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Al Muwaiji",
+               "short_name" : "Al Muwaiji",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Al Ain",
+               "short_name" : "Al Ain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abu Dhabi",
+               "short_name" : "Abu Dhabi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "UAE University - Al Ain - United Arab Emirates",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.2041904,
+                  "lng" : 55.6910949
+               },
+               "southwest" : {
+                  "lat" : 24.1923326,
+                  "lng" : 55.6717638
+               }
+            },
+            "location" : {
+               "lat" : 24.198831,
+               "lng" : 55.6786802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.2041904,
+                  "lng" : 55.6910949
+               },
+               "southwest" : {
+                  "lat" : 24.1923326,
+                  "lng" : 55.6717638
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "UAE University",
+               "short_name" : "UAE University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Al Ain",
+               "short_name" : "Al Ain",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Abu Dhabi",
+               "short_name" : "Abu Dhabi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Arab Emirates",
+               "short_name" : "AE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "UAE University - Al Ain - United Arab Emirates",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.2308457,
+                  "lng" : 55.7511391
+               },
+               "southwest" : {
+                  "lat" : 24.2277246,
+                  "lng" : 55.7441869
+               }
+            },
+            "location" : {
+               "lat" : 24.2287115,
+               "lng" : 55.7474205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.2308457,
+                  "lng" : 55.7511391
+               },
+               "southwest" : {
+                  "lat" : 24.2277246,
+                  "lng" : 55.7441869
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

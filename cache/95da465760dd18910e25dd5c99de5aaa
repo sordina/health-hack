@@ -1,0 +1,146 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Michigan Health System",
+               "short_name" : "University of Michigan Health System",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Medical Center Drive",
+               "short_name" : "E Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angell",
+               "short_name" : "Angell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Michigan Health System, 1500 East Medical Center Drive, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2848177,
+               "lng" : -83.7287711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2930719,
+                  "lng" : -83.7127637
+               },
+               "southwest" : {
+                  "lat" : 42.2765624,
+                  "lng" : -83.7447785
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Michigan Health System",
+               "short_name" : "University of Michigan Health System",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "475",
+               "short_name" : "475",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Market Place",
+               "short_name" : "Market Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bryant Pattengill West",
+               "short_name" : "Bryant Pattengill West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48108",
+               "short_name" : "48108",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3367",
+               "short_name" : "3367",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Michigan Health System, 475 Market Place, Ann Arbor, MI 48108, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2433319,
+               "lng" : -83.7418807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2446808802915,
+                  "lng" : -83.74053171970849
+               },
+               "southwest" : {
+                  "lat" : 42.24198291970851,
+                  "lng" : -83.74322968029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

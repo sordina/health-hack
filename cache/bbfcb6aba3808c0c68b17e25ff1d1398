@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virgilio",
+               "short_name" : "Virgilio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virgilio",
+               "short_name" : "Virgilio",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mantua",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46030",
+               "short_name" : "46030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "46030 Virgilio Mantua, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.1136006,
+               "lng" : 10.7827168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1214743,
+                  "lng" : 10.7987242
+               },
+               "southwest" : {
+                  "lat" : 45.10572579999999,
+                  "lng" : 10.7667094
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

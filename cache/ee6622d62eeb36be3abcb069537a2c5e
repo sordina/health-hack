@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic",
+               "short_name" : "Mayo Clinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street Southwest",
+               "short_name" : "1st St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayo Clinic, 200 1st Street Southwest, Rochester, MN 55905, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.0253652,
+                  "lng" : -92.46449629999999
+               },
+               "southwest" : {
+                  "lat" : 44.0215958,
+                  "lng" : -92.4673763
+               }
+            },
+            "location" : {
+               "lat" : 44.0234805,
+               "lng" : -92.4659363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0253652,
+                  "lng" : -92.46449629999999
+               },
+               "southwest" : {
+                  "lat" : 44.0215958,
+                  "lng" : -92.4673763
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

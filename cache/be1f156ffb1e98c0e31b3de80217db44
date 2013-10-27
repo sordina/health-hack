@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jewish General Hospital",
+               "short_name" : "Jewish General Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3755",
+               "short_name" : "3755",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Côte-Sainte-Catherine Road",
+               "short_name" : "Côte-Sainte-Catherine Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+               "short_name" : "Côte-Des-Neiges—Notre-Dame-De-Grâce",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3T 1E2",
+               "short_name" : "H3T 1E2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jewish General Hospital, 3755 Côte-Sainte-Catherine Road, Montreal, QC H3T 1E2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.49782829999999,
+               "lng" : -73.6286891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5056488,
+                  "lng" : -73.6126817
+               },
+               "southwest" : {
+                  "lat" : 45.4900067,
+                  "lng" : -73.64469649999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

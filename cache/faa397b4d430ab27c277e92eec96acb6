@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "91",
+               "short_name" : "91",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gewerbegebiet",
+               "short_name" : "Gewerbegebiet",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Henkestraße",
+               "short_name" : "Henkestraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Erlangen",
+               "short_name" : "ERH",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91052",
+               "short_name" : "91052",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Henkestraße 91, Gewerbegebiet, 91052 Erlangen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.59442000000001,
+               "lng" : 11.01869
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.59576898029151,
+                  "lng" : 11.0200389802915
+               },
+               "southwest" : {
+                  "lat" : 49.59307101970851,
+                  "lng" : 11.0173410197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bonn",
+               "short_name" : "University of Bonn",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Regina-Pacis-Weg",
+               "short_name" : "Regina-Pacis-Weg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bonn",
+               "short_name" : "BN",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53113",
+               "short_name" : "53113",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Bonn, Regina-Pacis-Weg 3, 53113 Bonn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7460627,
+                  "lng" : 7.121206399999999
+               },
+               "southwest" : {
+                  "lat" : 50.6946192,
+                  "lng" : 7.068301699999999
+               }
+            },
+            "location" : {
+               "lat" : 50.734051,
+               "lng" : 7.101875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7357634,
+                  "lng" : 7.1104369
+               },
+               "southwest" : {
+                  "lat" : 50.7297439,
+                  "lng" : 7.0996355
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

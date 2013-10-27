@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queen's University",
+               "short_name" : "Queen's University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Frontenac County",
+               "short_name" : "Frontenac County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K7L 3N6",
+               "short_name" : "K7L 3N6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Queen's University, 99 University Avenue, Kingston, ON K7L 3N6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2308358,
+                  "lng" : -76.49039759999999
+               },
+               "southwest" : {
+                  "lat" : 44.2223762,
+                  "lng" : -76.51746799999999
+               }
+            },
+            "location" : {
+               "lat" : 44.2261474,
+               "lng" : -76.4965691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2303484,
+                  "lng" : -76.49039759999999
+               },
+               "southwest" : {
+                  "lat" : 44.2223762,
+                  "lng" : -76.5012273
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19803",
+               "short_name" : "19803",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilmington, DE 19803, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8395141,
+                  "lng" : -75.4900949
+               },
+               "southwest" : {
+                  "lat" : 39.7594489,
+                  "lng" : -75.58766
+               }
+            },
+            "location" : {
+               "lat" : 39.7961255,
+               "lng" : -75.5393155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8395141,
+                  "lng" : -75.4900949
+               },
+               "southwest" : {
+                  "lat" : 39.7594489,
+                  "lng" : -75.58766
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

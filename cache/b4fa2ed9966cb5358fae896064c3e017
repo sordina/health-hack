@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Medicine and Pharmacy of Târgu Mureș",
+               "short_name" : "University of Medicine and Pharmacy of Târgu Mureș",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "nr. 38",
+               "short_name" : "nr. 38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Strada Gheorghe Marinescu",
+               "short_name" : "Strada Gheorghe Marinescu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Târgu Mureș",
+               "short_name" : "Târgu Mureș",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mureș",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "540139",
+               "short_name" : "540139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Medicine and Pharmacy of Târgu Mureș, Strada Gheorghe Marinescu nr. 38, Târgu Mureș 540139, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.55746509999999,
+                  "lng" : 24.5847845
+               },
+               "southwest" : {
+                  "lat" : 46.5523366,
+                  "lng" : 24.5788863
+               }
+            },
+            "location" : {
+               "lat" : 46.5544,
+               "lng" : 24.5794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.55746509999999,
+                  "lng" : 24.5847845
+               },
+               "southwest" : {
+                  "lat" : 46.5523366,
+                  "lng" : 24.5788863
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

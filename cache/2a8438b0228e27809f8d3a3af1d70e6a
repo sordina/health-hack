@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Biology",
+               "short_name" : "Department of Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Massachusetts Institute of Technology",
+               "short_name" : "Massachusetts Institute of Technology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "MIT",
+               "short_name" : "MIT",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cambridge",
+               "short_name" : "Cambridge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02142",
+               "short_name" : "02142",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02142, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3616135,
+               "lng" : -71.08862959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3698577,
+                  "lng" : -71.0726222
+               },
+               "southwest" : {
+                  "lat" : 42.3533682,
+                  "lng" : -71.104637
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

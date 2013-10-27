@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36688",
+               "short_name" : "36688",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "USA",
+               "short_name" : "USA",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mobile",
+               "short_name" : "Mobile",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mobile",
+               "short_name" : "Mobile",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mobile, AL 36688, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.6962531,
+                  "lng" : -88.173948
+               },
+               "southwest" : {
+                  "lat" : 30.694507,
+                  "lng" : -88.1748229
+               }
+            },
+            "location" : {
+               "lat" : 30.6954595,
+               "lng" : -88.174414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6967290302915,
+                  "lng" : -88.17303646970849
+               },
+               "southwest" : {
+                  "lat" : 30.6940310697085,
+                  "lng" : -88.1757344302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

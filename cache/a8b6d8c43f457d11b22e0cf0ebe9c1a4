@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muscat",
+               "short_name" : "Muscat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muscat",
+               "short_name" : "Muscat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Oman",
+               "short_name" : "OM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muscat, Oman",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.6455689,
+                  "lng" : 58.6189567
+               },
+               "southwest" : {
+                  "lat" : 23.5211218,
+                  "lng" : 58.2283758
+               }
+            },
+            "location" : {
+               "lat" : 23.61,
+               "lng" : 58.54
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.6455689,
+                  "lng" : 58.6189567
+               },
+               "southwest" : {
+                  "lat" : 23.5211218,
+                  "lng" : 58.2283758
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

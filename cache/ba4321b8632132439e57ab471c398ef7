@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temple University",
+               "short_name" : "Temple University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1801",
+               "short_name" : "1801",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Broad Street",
+               "short_name" : "N Broad St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19122",
+               "short_name" : "19122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Temple University, 1801 North Broad Street, Philadelphia, PA 19122, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1664952,
+                  "lng" : -75.1496525
+               },
+               "southwest" : {
+                  "lat" : 39.976075,
+                  "lng" : -75.1958281
+               }
+            },
+            "location" : {
+               "lat" : 39.9820942,
+               "lng" : -75.1546786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9861097,
+                  "lng" : -75.1496525
+               },
+               "southwest" : {
+                  "lat" : 39.976075,
+                  "lng" : -75.16096209999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

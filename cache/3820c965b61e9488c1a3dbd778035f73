@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Johannes Gutenberg University Mainz",
+               "short_name" : "Johannes Gutenberg University Mainz",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Langenbeckstraße",
+               "short_name" : "Langenbeckstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mainz",
+               "short_name" : "MZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55131",
+               "short_name" : "55131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Langenbeckstraße 1, Johannes Gutenberg University Mainz, 55131 Mainz, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.9927476,
+               "lng" : 8.2599704
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9940965802915,
+                  "lng" : 8.261319380291502
+               },
+               "southwest" : {
+                  "lat" : 49.99139861970851,
+                  "lng" : 8.258621419708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital de São João",
+               "short_name" : "Hospital de S. João",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Porto",
+               "short_name" : "Porto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porto District",
+               "short_name" : "Porto District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4200",
+               "short_name" : "4200",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital de São João, 4200 Porto, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1831777,
+                  "lng" : -8.598335799999999
+               },
+               "southwest" : {
+                  "lat" : 41.1787599,
+                  "lng" : -8.6034507
+               }
+            },
+            "location" : {
+               "lat" : 41.1813399,
+               "lng" : -8.600669
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1831777,
+                  "lng" : -8.598335799999999
+               },
+               "southwest" : {
+                  "lat" : 41.1787599,
+                  "lng" : -8.6034507
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

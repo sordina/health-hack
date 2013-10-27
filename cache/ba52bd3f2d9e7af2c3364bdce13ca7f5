@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hartford Hospital",
+               "short_name" : "Hartford Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seymour Street",
+               "short_name" : "Seymour St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06102",
+               "short_name" : "06102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hartford Hospital, 80 Seymour Street, Hartford, CT 06102, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7553974,
+                  "lng" : -72.6767237
+               },
+               "southwest" : {
+                  "lat" : 41.7529115,
+                  "lng" : -72.6827498
+               }
+            },
+            "location" : {
+               "lat" : 41.7544392,
+               "lng" : -72.67941859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7555034302915,
+                  "lng" : -72.6767237
+               },
+               "southwest" : {
+                  "lat" : 41.75280546970851,
+                  "lng" : -72.6827498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

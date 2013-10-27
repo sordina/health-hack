@@ -1,0 +1,156 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia University Medical Center",
+               "short_name" : "Columbia University Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West 168th Street",
+               "short_name" : "West 168th Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Columbia University Medical Center, West 168th Street, New York, NY 10032, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8483244,
+                  "lng" : -73.9383722
+               },
+               "southwest" : {
+                  "lat" : 40.8385257,
+                  "lng" : -73.9455025
+               }
+            },
+            "location" : {
+               "lat" : 40.8411617,
+               "lng" : -73.9412347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8464477,
+                  "lng" : -73.9383722
+               },
+               "southwest" : {
+                  "lat" : 40.8385257,
+                  "lng" : -73.9455025
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia University Medical Center Ob/gyn",
+               "short_name" : "Columbia University Medical Center Ob/gyn",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "161",
+               "short_name" : "161",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fort Washington Avenue",
+               "short_name" : "Fort Washington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Washington Heights",
+               "short_name" : "Washington Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Columbia University Medical Center Ob/gyn, 161 Fort Washington Avenue, New York, NY 10032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.840569,
+               "lng" : -73.9431654
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8419179802915,
+                  "lng" : -73.94181641970849
+               },
+               "southwest" : {
+                  "lat" : 40.8392200197085,
+                  "lng" : -73.94451438029149
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

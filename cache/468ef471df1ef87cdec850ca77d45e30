@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syktyvkar",
+               "short_name" : "Syktyvkar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Syktyvkar",
+               "short_name" : "g. Syktyvkar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Komi",
+               "short_name" : "Komi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syktyvkar, Komi Republic, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.85345499999999,
+                  "lng" : 50.94333899999999
+               },
+               "southwest" : {
+                  "lat" : 61.62576799999999,
+                  "lng" : 50.6947501
+               }
+            },
+            "location" : {
+               "lat" : 61.6666667,
+               "lng" : 50.8166667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.85345499999999,
+                  "lng" : 50.94333899999999
+               },
+               "southwest" : {
+                  "lat" : 61.62576799999999,
+                  "lng" : 50.6947501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

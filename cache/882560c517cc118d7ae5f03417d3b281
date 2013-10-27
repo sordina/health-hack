@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Helsinki",
+               "short_name" : "University of Helsinki",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yliopistonkatu",
+               "short_name" : "Yliopistonkatu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00100",
+               "short_name" : "00100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Helsinki, Yliopistonkatu 4, 00100 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.16976889999999,
+               "lng" : 24.9487803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.17531880000001,
+                  "lng" : 24.9647877
+               },
+               "southwest" : {
+                  "lat" : 60.16421809999999,
+                  "lng" : 24.9327729
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

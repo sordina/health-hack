@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Pansini",
+               "short_name" : "Via Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Azienda Ospedaliera Universitaria Policlinico Federico II, Via Pansini, 5, Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8746479,
+                  "lng" : 14.2226366
+               },
+               "southwest" : {
+                  "lat" : 40.8654097,
+                  "lng" : 14.2154666
+               }
+            },
+            "location" : {
+               "lat" : 40.8707889,
+               "lng" : 14.221751
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8746479,
+                  "lng" : 14.2226366
+               },
+               "southwest" : {
+                  "lat" : 40.8654097,
+                  "lng" : 14.2154666
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

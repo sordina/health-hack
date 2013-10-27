@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Informatics and Computing",
+               "short_name" : "School of Informatics and Computing",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "535",
+               "short_name" : "535",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Michigan Street",
+               "short_name" : "W Michigan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Informatics and Computing, 535 West Michigan Street, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7738989,
+               "lng" : -86.167796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7824741,
+                  "lng" : -86.15178859999999
+               },
+               "southwest" : {
+                  "lat" : 39.7653226,
+                  "lng" : -86.1838034
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of BioHealth Informatics",
+               "short_name" : "Department of BioHealth Informatics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of BioHealth Informatics, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7761484,
+               "lng" : -86.16720590000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.77749738029149,
+                  "lng" : -86.16585691970852
+               },
+               "southwest" : {
+                  "lat" : 39.77479941970849,
+                  "lng" : -86.16855488029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

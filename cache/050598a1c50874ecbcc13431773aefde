@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "010030",
+               "short_name" : "010030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Huimin",
+               "short_name" : "Huimin",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hohhot",
+               "short_name" : "Hohhot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nei Mongol",
+               "short_name" : "Nei Mongol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huimin, Hohhot, Inner Mongolia, China, 010030",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8377025,
+                  "lng" : 111.727184
+               },
+               "southwest" : {
+                  "lat" : 40.7878513,
+                  "lng" : 111.6049609
+               }
+            },
+            "location" : {
+               "lat" : 40.8020122,
+               "lng" : 111.6348161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8285409,
+                  "lng" : 111.6660724
+               },
+               "southwest" : {
+                  "lat" : 40.7878513,
+                  "lng" : 111.6049609
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

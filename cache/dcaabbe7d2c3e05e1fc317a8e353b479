@@ -1,0 +1,385 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staten Island University Hospital",
+               "short_name" : "Staten Island University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "475",
+               "short_name" : "475",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seaview Avenue",
+               "short_name" : "Seaview Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10305",
+               "short_name" : "10305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staten Island University Hospital, 475 Seaview Avenue, Staten Island, NY 10305, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.587496,
+                  "lng" : -74.0825018
+               },
+               "southwest" : {
+                  "lat" : 40.5828194,
+                  "lng" : -74.08820829999999
+               }
+            },
+            "location" : {
+               "lat" : 40.5843988,
+               "lng" : -74.08507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.587496,
+                  "lng" : -74.0825018
+               },
+               "southwest" : {
+                  "lat" : 40.5828194,
+                  "lng" : -74.08820829999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staten Island University Hospital",
+               "short_name" : "Staten Island University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "375",
+               "short_name" : "375",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Seguine Avenue",
+               "short_name" : "Seguine Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prince's Bay",
+               "short_name" : "Prince's Bay",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10309",
+               "short_name" : "10309",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staten Island University Hospital, 375 Seguine Avenue, Staten Island, NY 10309, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5180642,
+                  "lng" : -74.19494419999999
+               },
+               "southwest" : {
+                  "lat" : 40.5159115,
+                  "lng" : -74.19798299999999
+               }
+            },
+            "location" : {
+               "lat" : 40.516974,
+               "lng" : -74.196167
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5183368302915,
+                  "lng" : -74.19494419999999
+               },
+               "southwest" : {
+                  "lat" : 40.5156388697085,
+                  "lng" : -74.19798299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staten Island University Hospital",
+               "short_name" : "Staten Island University Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "584",
+               "short_name" : "584",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Forest Avenue",
+               "short_name" : "Forest Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Brighton",
+               "short_name" : "West Brighton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10310",
+               "short_name" : "10310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staten Island University Hospital, 584 Forest Avenue, Staten Island, NY 10310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6298971,
+               "lng" : -74.1087979
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6312460802915,
+                  "lng" : -74.1074489197085
+               },
+               "southwest" : {
+                  "lat" : 40.6285481197085,
+                  "lng" : -74.11014688029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staten Island University Hospital",
+               "short_name" : "Staten Island University Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ralph Place",
+               "short_name" : "Ralph Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Todt Hill",
+               "short_name" : "Todt Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10304",
+               "short_name" : "10304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Staten Island University Hospital, 11 Ralph Place, Staten Island, NY 10304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6052369,
+               "lng" : -74.09165399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6065858802915,
+                  "lng" : -74.0903050197085
+               },
+               "southwest" : {
+                  "lat" : 40.60388791970851,
+                  "lng" : -74.0930029802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Staten Island University Hospital",
+               "short_name" : "Staten Island University Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1534",
+               "short_name" : "1534",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victory Boulevard",
+               "short_name" : "Victory Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sunnyside",
+               "short_name" : "Sunnyside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Staten Island",
+               "short_name" : "Staten Island",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10314",
+               "short_name" : "10314",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3548",
+               "short_name" : "3548",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Staten Island University Hospital, 1534 Victory Boulevard, Staten Island, NY 10314, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6135408,
+               "lng" : -74.1145241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6148897802915,
+                  "lng" : -74.11317511970849
+               },
+               "southwest" : {
+                  "lat" : 40.6121918197085,
+                  "lng" : -74.11587308029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

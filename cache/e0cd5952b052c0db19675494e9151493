@@ -1,0 +1,163 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of California Los Angeles",
+               "short_name" : "University of California Los Angeles",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "405",
+               "short_name" : "405",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hilgard Avenue",
+               "short_name" : "Hilgard Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of California Los Angeles, 405 Hilgard Avenue, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0782598,
+                  "lng" : -118.4372222
+               },
+               "southwest" : {
+                  "lat" : 34.0577617,
+                  "lng" : -118.4555991
+               }
+            },
+            "location" : {
+               "lat" : 34.068921,
+               "lng" : -118.4451812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0782598,
+                  "lng" : -118.4372222
+               },
+               "southwest" : {
+                  "lat" : 34.0577617,
+                  "lng" : -118.4555991
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ronald Reagan UCLA Medical Center | UCLA Health System",
+               "short_name" : "Ronald Reagan UCLA Medical Center | UCLA Health System",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "757",
+               "short_name" : "757",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Westwood Plaza",
+               "short_name" : "Westwood Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westwood",
+               "short_name" : "Westwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90095",
+               "short_name" : "90095",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ronald Reagan UCLA Medical Center | UCLA Health System, 757 Westwood Plaza, Los Angeles, CA 90095, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0670981,
+                  "lng" : -118.4451969
+               },
+               "southwest" : {
+                  "lat" : 34.0659275,
+                  "lng" : -118.4476702
+               }
+            },
+            "location" : {
+               "lat" : 34.06626019999999,
+               "lng" : -118.445531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0678617802915,
+                  "lng" : -118.4450845697085
+               },
+               "southwest" : {
+                  "lat" : 34.0651638197085,
+                  "lng" : -118.4477825302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

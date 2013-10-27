@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monopoli",
+               "short_name" : "Monopoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monopoli",
+               "short_name" : "Monopoli",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bari",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Apulia",
+               "short_name" : "Apulia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monopoli Bari, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9636952,
+                  "lng" : 17.318101
+               },
+               "southwest" : {
+                  "lat" : 40.9362192,
+                  "lng" : 17.2804176
+               }
+            },
+            "location" : {
+               "lat" : 40.9527139,
+               "lng" : 17.2994048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9636952,
+                  "lng" : 17.318101
+               },
+               "southwest" : {
+                  "lat" : 40.9362192,
+                  "lng" : 17.2804176
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

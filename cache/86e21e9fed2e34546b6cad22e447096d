@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedburg",
+               "short_name" : "Bedburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhein-Erft-Kreis",
+               "short_name" : "Rhein-Erft-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.059354,
+                  "lng" : 6.6602084
+               },
+               "southwest" : {
+                  "lat" : 50.9693192,
+                  "lng" : 6.452892299999999
+               }
+            },
+            "location" : {
+               "lat" : 50.989348,
+               "lng" : 6.5711524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.059354,
+                  "lng" : 6.6602084
+               },
+               "southwest" : {
+                  "lat" : 50.9693192,
+                  "lng" : 6.452892299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

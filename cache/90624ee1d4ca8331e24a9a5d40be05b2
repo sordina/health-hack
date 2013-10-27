@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "319",
+               "short_name" : "319",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1639",
+               "short_name" : "1639",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pierce Drive Northeast",
+               "short_name" : "Pierce Dr NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1639 Pierce Drive Northeast #319, Emory University, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7933457,
+               "lng" : -84.32249779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.79469468029149,
+                  "lng" : -84.32114881970848
+               },
+               "southwest" : {
+                  "lat" : 33.7919967197085,
+                  "lng" : -84.3238467802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

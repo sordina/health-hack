@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St Vincent's Hospital Melbourne",
+               "short_name" : "St Vincent's Hospital Melbourne",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Victoria Parade",
+               "short_name" : "Victoria Parade",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fitzroy",
+               "short_name" : "Fitzroy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3065",
+               "short_name" : "3065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Vincent's Hospital Melbourne, 55 Victoria Parade, Fitzroy VIC 3065, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.8059398,
+                  "lng" : 144.9760526
+               },
+               "southwest" : {
+                  "lat" : -37.8079763,
+                  "lng" : 144.9733062
+               }
+            },
+            "location" : {
+               "lat" : -37.806958,
+               "lng" : 144.9746794
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8056090697085,
+                  "lng" : 144.9760526
+               },
+               "southwest" : {
+                  "lat" : -37.80830703029149,
+                  "lng" : 144.9733062
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

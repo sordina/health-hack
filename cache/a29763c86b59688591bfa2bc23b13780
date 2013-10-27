@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Reading",
+               "short_name" : "University of Reading",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Whiteknights",
+               "short_name" : "Whiteknights",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Shinfield Road",
+               "short_name" : "Shinfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Berkshire",
+               "short_name" : "West Berkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "RG6 6UR",
+               "short_name" : "RG6 6UR",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Reading",
+               "short_name" : "Reading",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Reading, Whiteknights, Shinfield Road, Reading, West Berkshire RG6 6UR, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4518498,
+                  "lng" : -0.91691
+               },
+               "southwest" : {
+                  "lat" : 51.4343168,
+                  "lng" : -0.9632953
+               }
+            },
+            "location" : {
+               "lat" : 51.4373144,
+               "lng" : -0.9457294999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4464395,
+                  "lng" : -0.9313462000000001
+               },
+               "southwest" : {
+                  "lat" : 51.4343168,
+                  "lng" : -0.9601374999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

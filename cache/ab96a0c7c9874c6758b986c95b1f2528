@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shijiazhuang",
+               "short_name" : "Shijiazhuang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hebei",
+               "short_name" : "Hebei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shijiazhuang, Hebei, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7632982,
+                  "lng" : 115.483612
+               },
+               "southwest" : {
+                  "lat" : 37.43487260000001,
+                  "lng" : 113.5254376
+               }
+            },
+            "location" : {
+               "lat" : 38.042307,
+               "lng" : 114.51486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2236627,
+                  "lng" : 114.7892761
+               },
+               "southwest" : {
+                  "lat" : 37.8635113,
+                  "lng" : 114.2193604
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

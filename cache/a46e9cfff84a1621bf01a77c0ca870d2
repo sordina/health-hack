@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke University Hospital",
+               "short_name" : "Duke University Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2301",
+               "short_name" : "2301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Erwin Road",
+               "short_name" : "Erwin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27705",
+               "short_name" : "27705",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4699",
+               "short_name" : "4699",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Duke University Hospital, Duke University West Campus, Duke University, 2301 Erwin Road, Durham, NC 27705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0070013,
+               "lng" : -78.93719329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.016027,
+                  "lng" : -78.9211859
+               },
+               "southwest" : {
+                  "lat" : 35.9979746,
+                  "lng" : -78.9532007
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

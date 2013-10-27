@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "MA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baden-Wurttemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mannheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5904894,
+                  "lng" : 8.5899901
+               },
+               "southwest" : {
+                  "lat" : 49.4103619,
+                  "lng" : 8.4141602
+               }
+            },
+            "location" : {
+               "lat" : 49.4874592,
+               "lng" : 8.466039499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5904894,
+                  "lng" : 8.5899901
+               },
+               "southwest" : {
+                  "lat" : 49.4103619,
+                  "lng" : 8.4141602
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "Mannheim",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nordermeldorf",
+               "short_name" : "Nordermeldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dithmarschen",
+               "short_name" : "Dithmarschen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25704",
+               "short_name" : "25704",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mannheim, 25704 Nordermeldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.094779,
+                  "lng" : 9.04753
+               },
+               "southwest" : {
+                  "lat" : 54.0939979,
+                  "lng" : 9.041146899999999
+               }
+            },
+            "location" : {
+               "lat" : 54.09452650000001,
+               "lng" : 9.044701399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.09573743029149,
+                  "lng" : 9.04753
+               },
+               "southwest" : {
+                  "lat" : 54.09303946970849,
+                  "lng" : 9.041146899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

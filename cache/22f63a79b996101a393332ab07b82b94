@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "44195",
+               "short_name" : "44195",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, OH 44195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5034433,
+               "lng" : -81.62059529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5047922802915,
+                  "lng" : -81.61924631970848
+               },
+               "southwest" : {
+                  "lat" : 41.5020943197085,
+                  "lng" : -81.6219442802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

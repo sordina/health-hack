@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bialystok",
+               "short_name" : "B-stok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Białystok",
+               "short_name" : "Białystok",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Białystok County",
+               "short_name" : "Białystok County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bialystok, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1885513,
+                  "lng" : 23.2471714
+               },
+               "southwest" : {
+                  "lat" : 53.0666992,
+                  "lng" : 23.0649606
+               }
+            },
+            "location" : {
+               "lat" : 53.13248859999999,
+               "lng" : 23.1688403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1885513,
+                  "lng" : 23.2471714
+               },
+               "southwest" : {
+                  "lat" : 53.0666992,
+                  "lng" : 23.0649606
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

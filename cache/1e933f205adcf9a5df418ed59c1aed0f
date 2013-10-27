@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Strümpellstraße",
+               "short_name" : "Strümpellstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Probstheida",
+               "short_name" : "Probstheida",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Südost",
+               "short_name" : "Südost",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04289",
+               "short_name" : "04289",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strümpellstraße 39, 04289 Leipzig, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.30742,
+               "lng" : 12.43722
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3087689802915,
+                  "lng" : 12.4385689802915
+               },
+               "southwest" : {
+                  "lat" : 51.3060710197085,
+                  "lng" : 12.4358710197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

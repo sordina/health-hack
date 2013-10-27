@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aston University",
+               "short_name" : "Aston University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Aston Street",
+               "short_name" : "Aston St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B4 7ET",
+               "short_name" : "B4 7ET",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Aston University, Aston Street, Birmingham, West Midlands B4 7ET, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4917782,
+                  "lng" : -1.883251
+               },
+               "southwest" : {
+                  "lat" : 52.48193500000001,
+                  "lng" : -1.8918963
+               }
+            },
+            "location" : {
+               "lat" : 52.486648,
+               "lng" : -1.89095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4917782,
+                  "lng" : -1.883251
+               },
+               "southwest" : {
+                  "lat" : 52.48193500000001,
+                  "lng" : -1.8918963
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

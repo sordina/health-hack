@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalla Lana School of Public Health",
+               "short_name" : "Dalla Lana School of Public Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "155",
+               "short_name" : "155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "College Street",
+               "short_name" : "College St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chinatown",
+               "short_name" : "Chinatown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5T 3M7",
+               "short_name" : "M5T 3M7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dalla Lana School of Public Health, 155 College Street, Toronto, ON M5T 3M7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6591274,
+               "lng" : -79.3931173
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6671992,
+                  "lng" : -79.37710989999999
+               },
+               "southwest" : {
+                  "lat" : 43.6510545,
+                  "lng" : -79.40912469999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

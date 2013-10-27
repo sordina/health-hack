@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Philipps-Universität",
+               "short_name" : "Philipps-Universität",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10 / 12",
+               "short_name" : "10 / 12",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Biegenstraße",
+               "short_name" : "Biegenstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marburg",
+               "short_name" : "Marburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35037",
+               "short_name" : "35037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Philipps-Universität, Biegenstraße 10 / 12, 35037 Marburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.818103,
+                  "lng" : 8.812431999999999
+               },
+               "southwest" : {
+                  "lat" : 50.79901719999999,
+                  "lng" : 8.7724142
+               }
+            },
+            "location" : {
+               "lat" : 50.8107007,
+               "lng" : 8.7748232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8117704,
+                  "lng" : 8.777446599999999
+               },
+               "southwest" : {
+                  "lat" : 50.80789,
+                  "lng" : 8.7724142
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

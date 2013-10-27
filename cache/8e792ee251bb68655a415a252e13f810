@@ -1,0 +1,686 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center",
+               "short_name" : "Albert Einstein Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3044",
+               "short_name" : "3044",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center, 5501 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0385961,
+                  "lng" : -75.1394938
+               },
+               "southwest" : {
+                  "lat" : 40.0347683,
+                  "lng" : -75.14481169999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0366997,
+               "lng" : -75.14341899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0385961,
+                  "lng" : -75.1394938
+               },
+               "southwest" : {
+                  "lat" : 40.0347683,
+                  "lng" : -75.14481169999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center",
+               "short_name" : "Albert Einstein Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5401",
+               "short_name" : "5401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center, 5401 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0375425,
+               "lng" : -75.1445454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0388914802915,
+                  "lng" : -75.14319641970849
+               },
+               "southwest" : {
+                  "lat" : 40.0361935197085,
+                  "lng" : -75.14589438029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Alan J. Borislow, DDS",
+               "short_name" : "Dr. Alan J. Borislow, DDS",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dr. Alan J. Borislow, DDS, 5501 Old York Road #200, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0368315,
+               "lng" : -75.14445049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0381804802915,
+                  "lng" : -75.14310151970849
+               },
+               "southwest" : {
+                  "lat" : 40.0354825197085,
+                  "lng" : -75.1457994802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "dentist", "doctor", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center: Cohen Arnold Will MD",
+               "short_name" : "Albert Einstein Medical Center: Cohen Arnold Will MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3091",
+               "short_name" : "3091",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center: Cohen Arnold Will MD, 5501 Old York Road #3, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0375256,
+               "lng" : -75.1441038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.03887458029149,
+                  "lng" : -75.14275481970849
+               },
+               "southwest" : {
+                  "lat" : 40.03617661970849,
+                  "lng" : -75.14545278029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Michael D. Walkenstein, MD",
+               "short_name" : "Dr. Michael D. Walkenstein, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5401",
+               "short_name" : "5401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3045",
+               "short_name" : "3045",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Michael D. Walkenstein, MD, 5401 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.03726899999999,
+               "lng" : -75.1437119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.03861798029149,
+                  "lng" : -75.1423629197085
+               },
+               "southwest" : {
+                  "lat" : 40.03592001970849,
+                  "lng" : -75.14506088029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center: Brent Lawrence H MD",
+               "short_name" : "Albert Einstein Medical Center: Brent Lawrence H MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3091",
+               "short_name" : "3091",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center: Brent Lawrence H MD, 5501 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0368315,
+               "lng" : -75.14445049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0381804802915,
+                  "lng" : -75.14310151970849
+               },
+               "southwest" : {
+                  "lat" : 40.0354825197085,
+                  "lng" : -75.1457994802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center: Goldfinger Michael MD",
+               "short_name" : "Albert Einstein Medical Center: Goldfinger Michael MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3091",
+               "short_name" : "3091",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center: Goldfinger Michael MD, 5501 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0368315,
+               "lng" : -75.14445049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0381804802915,
+                  "lng" : -75.14310151970849
+               },
+               "southwest" : {
+                  "lat" : 40.0354825197085,
+                  "lng" : -75.1457994802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center: Hassan Tahmina MD",
+               "short_name" : "Albert Einstein Medical Center: Hassan Tahmina MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3091",
+               "short_name" : "3091",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center: Hassan Tahmina MD, 5501 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0368315,
+               "lng" : -75.14445049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0381804802915,
+                  "lng" : -75.14310151970849
+               },
+               "southwest" : {
+                  "lat" : 40.0354825197085,
+                  "lng" : -75.1457994802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein Medical Center: Borgman Jody MD",
+               "short_name" : "Albert Einstein Medical Center: Borgman Jody MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5501",
+               "short_name" : "5501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Old York Road",
+               "short_name" : "Old York Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Logan/ Ogontz/ Fern Rock",
+               "short_name" : "Logan/ Ogontz/ Fern Rock",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19141",
+               "short_name" : "19141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3091",
+               "short_name" : "3091",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein Medical Center: Borgman Jody MD, 5501 Old York Road, Philadelphia, PA 19141, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.0368315,
+               "lng" : -75.14445049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0381804802915,
+                  "lng" : -75.14310151970849
+               },
+               "southwest" : {
+                  "lat" : 40.0354825197085,
+                  "lng" : -75.1457994802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

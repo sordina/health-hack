@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Luke's Episcopal Hospital",
+               "short_name" : "St. Luke's Episcopal Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6720",
+               "short_name" : "6720",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bertner Avenue",
+               "short_name" : "Bertner Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. Luke's Episcopal Hospital, 6720 Bertner Avenue, Houston, TX 77030, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7096634,
+                  "lng" : -95.3979614
+               },
+               "southwest" : {
+                  "lat" : 29.70634,
+                  "lng" : -95.4028083
+               }
+            },
+            "location" : {
+               "lat" : 29.7076716,
+               "lng" : -95.4004132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7096634,
+                  "lng" : -95.3979614
+               },
+               "southwest" : {
+                  "lat" : 29.70634,
+                  "lng" : -95.4028083
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

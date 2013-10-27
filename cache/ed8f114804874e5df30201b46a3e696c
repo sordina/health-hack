@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vanderbilt University Medical School",
+               "short_name" : "Vanderbilt University Medical School",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Vanderbilt University",
+               "short_name" : "Vanderbilt University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1161",
+               "short_name" : "1161",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "21st Ave S # T1217",
+               "short_name" : "21st Ave S # T1217",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson",
+               "short_name" : "Davidson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37232",
+               "short_name" : "37232",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0011",
+               "short_name" : "0011",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Vanderbilt University Medical School, Vanderbilt University, 1161 21st Ave S # T1217, Nashville, TN 37232, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1445512,
+               "lng" : -86.8002151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1535611,
+                  "lng" : -86.7842077
+               },
+               "southwest" : {
+                  "lat" : 36.1355403,
+                  "lng" : -86.81622249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

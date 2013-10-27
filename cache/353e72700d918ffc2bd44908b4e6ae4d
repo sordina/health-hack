@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caracas",
+               "short_name" : "Caracas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Libertador",
+               "short_name" : "Libertador",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caracas Metropolitan District",
+               "short_name" : "Dto. Capital",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Venezuela",
+               "short_name" : "VE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caracas, Venezuela",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.5401335,
+                  "lng" : -66.71795329999999
+               },
+               "southwest" : {
+                  "lat" : 10.39665,
+                  "lng" : -67.0627784
+               }
+            },
+            "location" : {
+               "lat" : 10.491016,
+               "lng" : -66.902061
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.5401335,
+                  "lng" : -66.71795329999999
+               },
+               "southwest" : {
+                  "lat" : 10.39665,
+                  "lng" : -67.0627784
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

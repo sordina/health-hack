@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "90-236",
+               "short_name" : "90-236",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Widzew",
+               "short_name" : "Widzew",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lodz",
+               "short_name" : "Lodz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Łódź",
+               "short_name" : "Łódź",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Łódź Voivodeship",
+               "short_name" : "Łódź Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90",
+               "short_name" : "90",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "90-236 Lodz, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.7933979,
+               "lng" : 19.5896854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.79474688029149,
+                  "lng" : 19.5910343802915
+               },
+               "southwest" : {
+                  "lat" : 51.79204891970849,
+                  "lng" : 19.5883364197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

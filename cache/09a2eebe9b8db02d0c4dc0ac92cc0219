@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45221",
+               "short_name" : "45221",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cincinnati, OH 45221, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1331454,
+               "lng" : -84.509213
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1344943802915,
+                  "lng" : -84.50786401970849
+               },
+               "southwest" : {
+                  "lat" : 39.1317964197085,
+                  "lng" : -84.51056198029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

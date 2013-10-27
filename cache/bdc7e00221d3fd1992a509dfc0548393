@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porto Alegre",
+               "short_name" : "Porto Alegre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porto Alegre - Rio Grande do Sul, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.9306356,
+                  "lng" : -51.012471
+               },
+               "southwest" : {
+                  "lat" : -30.2688069,
+                  "lng" : -51.3061478
+               }
+            },
+            "location" : {
+               "lat" : -30.0277041,
+               "lng" : -51.2287346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.9306356,
+                  "lng" : -51.012471
+               },
+               "southwest" : {
+                  "lat" : -30.2688069,
+                  "lng" : -51.3061478
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National University Hospital",
+               "short_name" : "National University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lower Kent Ridge Road",
+               "short_name" : "Lower Kent Ridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "119074",
+               "short_name" : "119074",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National University Hospital, National University of Singapore, 5 Lower Kent Ridge Road, Singapore 119074",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 1.2969939,
+                  "lng" : 103.7850752
+               },
+               "southwest" : {
+                  "lat" : 1.2915648,
+                  "lng" : 103.7814953
+               }
+            },
+            "location" : {
+               "lat" : 1.294373,
+               "lng" : 103.783401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.2969939,
+                  "lng" : 103.7850752
+               },
+               "southwest" : {
+                  "lat" : 1.2915648,
+                  "lng" : 103.7814953
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groningen, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.6669044
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            },
+            "location" : {
+               "lat" : 53.2193835,
+               "lng" : 6.566501799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.26472589999999,
+                  "lng" : 6.6669044
+               },
+               "southwest" : {
+                  "lat" : 53.1786842,
+                  "lng" : 6.4625995
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Schilders- en Zeeheldenwijk",
+               "short_name" : "Schilders- en Zeeheldenwijk",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "Groningen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Groningen",
+               "short_name" : "GR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9726",
+               "short_name" : "9726",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Groningen, 9726 Groningen, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.210933,
+               "lng" : 6.563731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.21228198029149,
+                  "lng" : 6.565079980291502
+               },
+               "southwest" : {
+                  "lat" : 53.2095840197085,
+                  "lng" : 6.562382019708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

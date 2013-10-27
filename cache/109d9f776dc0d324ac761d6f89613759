@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "443000",
+               "short_name" : "443000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xiling",
+               "short_name" : "Xiling",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Yichang",
+               "short_name" : "Yichang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hubei",
+               "short_name" : "Hubei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xiling, Yichang, Hubei, China, 443000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.089197,
+                  "lng" : 111.7674282
+               },
+               "southwest" : {
+                  "lat" : 30.5281132,
+                  "lng" : 111.2725789
+               }
+            },
+            "location" : {
+               "lat" : 30.69202009999999,
+               "lng" : 111.2866833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.7329116,
+                  "lng" : 111.3754214
+               },
+               "southwest" : {
+                  "lat" : 30.6186267,
+                  "lng" : 111.2725789
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

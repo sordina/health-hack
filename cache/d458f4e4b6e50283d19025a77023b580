@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20007",
+               "short_name" : "20007",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, DC 20007, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.92821,
+                  "lng" : -77.0499729
+               },
+               "southwest" : {
+                  "lat" : 38.8917629,
+                  "lng" : -77.104619
+               }
+            },
+            "location" : {
+               "lat" : 38.9156487,
+               "lng" : -77.0737149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.92821,
+                  "lng" : -77.0499729
+               },
+               "southwest" : {
+                  "lat" : 38.8917629,
+                  "lng" : -77.104619
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

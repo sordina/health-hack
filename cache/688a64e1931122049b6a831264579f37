@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical College Ajmer",
+               "short_name" : "Medical College Ajmer",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "JLN Medical College Circle",
+               "short_name" : "JLN Medical College Circle",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kala Bagh",
+               "short_name" : "Kala Bagh",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "305001",
+               "short_name" : "305001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medical College Ajmer, JLN Medical College Circle, Kala Bagh, Ajmer, Rajasthan 305001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.468585,
+                  "lng" : 74.63572730000001
+               },
+               "southwest" : {
+                  "lat" : 26.4675813,
+                  "lng" : 74.6347189
+               }
+            },
+            "location" : {
+               "lat" : 26.4681302,
+               "lng" : 74.635194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.4694321302915,
+                  "lng" : 74.63657208029151
+               },
+               "southwest" : {
+                  "lat" : 26.4667341697085,
+                  "lng" : 74.63387411970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

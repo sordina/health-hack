@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester Royal Infirmary",
+               "short_name" : "Manchester Royal Infirmary",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Oxford Road",
+               "short_name" : "Oxford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M13 9WL",
+               "short_name" : "M13 9WL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Manchester Royal Infirmary, Oxford Road, Manchester, Greater Manchester M13 9WL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4629029,
+               "lng" : -2.2263197
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4695452,
+                  "lng" : -2.2103123
+               },
+               "southwest" : {
+                  "lat" : 53.45625949999999,
+                  "lng" : -2.2423271
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

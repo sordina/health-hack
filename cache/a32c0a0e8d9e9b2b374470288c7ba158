@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwestern University",
+               "short_name" : "Northwestern University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1775",
+               "short_name" : "1775",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "676",
+               "short_name" : "676",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Saint Clair Street",
+               "short_name" : "N St Clair St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Streeterville",
+               "short_name" : "Streeterville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60611",
+               "short_name" : "60611",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northwestern University, 676 North Saint Clair Street #1775, Chicago, IL 60611, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8945661,
+               "lng" : -87.62308829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9028713,
+                  "lng" : -87.6070809
+               },
+               "southwest" : {
+                  "lat" : 41.8862598,
+                  "lng" : -87.6390957
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwestern University",
+               "short_name" : "Northwestern University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "420",
+               "short_name" : "420",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Superior Street",
+               "short_name" : "E Superior St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Streeterville",
+               "short_name" : "Streeterville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60611",
+               "short_name" : "60611",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Northwestern University, 420 East Superior Street #9, Chicago, IL 60611, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.8961114,
+               "lng" : -87.6168735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8974603802915,
+                  "lng" : -87.61552451970849
+               },
+               "southwest" : {
+                  "lat" : 41.8947624197085,
+                  "lng" : -87.61822248029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northwestern College",
+               "short_name" : "Northwestern College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4811",
+               "short_name" : "4811",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Milwaukee Avenue",
+               "short_name" : "N Milwaukee Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jefferson Park",
+               "short_name" : "Jefferson Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60630",
+               "short_name" : "60630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2298",
+               "short_name" : "2298",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Northwestern College, 4811 North Milwaukee Avenue, Chicago, IL 60630, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.968196,
+               "lng" : -87.7608568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9695449802915,
+                  "lng" : -87.75950781970849
+               },
+               "southwest" : {
+                  "lat" : 41.9668470197085,
+                  "lng" : -87.7622057802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

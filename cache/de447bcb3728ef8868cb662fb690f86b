@@ -1,0 +1,162 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kartal",
+               "short_name" : "Kartal",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kartal/Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.964925,
+                  "lng" : 29.2551991
+               },
+               "southwest" : {
+                  "lat" : 40.878129,
+                  "lng" : 29.1382891
+               }
+            },
+            "location" : {
+               "lat" : 40.899651,
+               "lng" : 29.193649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.964925,
+                  "lng" : 29.2551991
+               },
+               "southwest" : {
+                  "lat" : 40.878129,
+                  "lng" : 29.1382891
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kartal",
+               "short_name" : "Kartal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kartal",
+               "short_name" : "Kartal",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34860",
+               "short_name" : "34860",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kartal, 34860 Kartal/Istanbul Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.887368,
+               "lng" : 29.1893479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.88871698029149,
+                  "lng" : 29.1906968802915
+               },
+               "southwest" : {
+                  "lat" : 40.8860190197085,
+                  "lng" : 29.1879989197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kartal",
+               "short_name" : "Kartal",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Kartal",
+               "short_name" : "Kartal",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34865",
+               "short_name" : "34865",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kartal, 34890 Kartal/Istanbul Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8877816,
+               "lng" : 29.1833729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8891305802915,
+                  "lng" : 29.1847218802915
+               },
+               "southwest" : {
+                  "lat" : 40.8864326197085,
+                  "lng" : 29.1820239197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

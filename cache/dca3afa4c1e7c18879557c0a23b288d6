@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.448026,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.235539,
+                  "lng" : 12.2366321
+               }
+            },
+            "location" : {
+               "lat" : 51.3396955,
+               "lng" : 12.3730747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.448026,
+                  "lng" : 12.5506377
+               },
+               "southwest" : {
+                  "lat" : 51.235539,
+                  "lng" : 12.2366321
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

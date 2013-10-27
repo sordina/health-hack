@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hongo",
+               "short_name" : "Hongo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bunkyo",
+               "short_name" : "Bunkyo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hongo, Bunkyo, Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7156319,
+                  "lng" : 139.7677997
+               },
+               "southwest" : {
+                  "lat" : 35.7012446,
+                  "lng" : 139.7526531
+               }
+            },
+            "location" : {
+               "lat" : 35.7055238,
+               "lng" : 139.7596611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7156319,
+                  "lng" : 139.7677997
+               },
+               "southwest" : {
+                  "lat" : 35.7012446,
+                  "lng" : 139.7526531
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

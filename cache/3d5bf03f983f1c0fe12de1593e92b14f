@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "China Medical University",
+               "short_name" : "China Medical University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "91",
+               "short_name" : "91",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Xuéshì Road",
+               "short_name" : "Xuéshì Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bei District",
+               "short_name" : "Bei District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taichung City",
+               "short_name" : "Taichung City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "404",
+               "short_name" : "404",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "China Medical University, No. 91, Xuéshì Road, Bei District, Taichung City, Taiwan 404",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.1571718,
+                  "lng" : 120.6813291
+               },
+               "southwest" : {
+                  "lat" : 24.1553373,
+                  "lng" : 120.6792918
+               }
+            },
+            "location" : {
+               "lat" : 24.155966,
+               "lng" : 120.68121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.1578729802915,
+                  "lng" : 120.6816594302915
+               },
+               "southwest" : {
+                  "lat" : 24.1551750197085,
+                  "lng" : 120.6789614697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

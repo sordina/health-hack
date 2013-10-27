@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Froedtert Hospital",
+               "short_name" : "Froedtert Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9200",
+               "short_name" : "9200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Wisconsin Avenue",
+               "short_name" : "W Wisconsin Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53226",
+               "short_name" : "53226",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Froedtert Hospital, 9200 West Wisconsin Avenue, Milwaukee, WI 53226, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0414076,
+               "lng" : -88.0248163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.04956199999999,
+                  "lng" : -88.00880889999999
+               },
+               "southwest" : {
+                  "lat" : 43.0332521,
+                  "lng" : -88.04082369999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

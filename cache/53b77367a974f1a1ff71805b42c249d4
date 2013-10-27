@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Glasgow",
+               "short_name" : "University of Glasgow",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University Avenue",
+               "short_name" : "University Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lanarkshire",
+               "short_name" : "Lanarkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G12 8QQ",
+               "short_name" : "G12 8QQ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Glasgow, University Avenue, Glasgow, Lanarkshire G12 8QQ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.87603009999999,
+                  "lng" : -4.2781644
+               },
+               "southwest" : {
+                  "lat" : 55.8689918,
+                  "lng" : -4.298408999999999
+               }
+            },
+            "location" : {
+               "lat" : 55.87232599999999,
+               "lng" : -4.2890704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.87603009999999,
+                  "lng" : -4.2781644
+               },
+               "southwest" : {
+                  "lat" : 55.8689918,
+                  "lng" : -4.298408999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

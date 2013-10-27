@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14642",
+               "short_name" : "14642",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester, NY 14642, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.124702,
+                  "lng" : -77.6174949
+               },
+               "southwest" : {
+                  "lat" : 43.118471,
+                  "lng" : -77.62948399999999
+               }
+            },
+            "location" : {
+               "lat" : 43.12247660000001,
+               "lng" : -77.62425739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.124702,
+                  "lng" : -77.6174949
+               },
+               "southwest" : {
+                  "lat" : 43.118471,
+                  "lng" : -77.62948399999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

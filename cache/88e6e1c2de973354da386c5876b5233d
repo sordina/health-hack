@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheyenne",
+               "short_name" : "Cheyenne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheyenne, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.192884,
+                  "lng" : -104.673909
+               },
+               "southwest" : {
+                  "lat" : 41.102181,
+                  "lng" : -104.8609001
+               }
+            },
+            "location" : {
+               "lat" : 41.1399814,
+               "lng" : -104.8202462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.192884,
+                  "lng" : -104.673909
+               },
+               "southwest" : {
+                  "lat" : 41.102181,
+                  "lng" : -104.8609001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheyenne",
+               "short_name" : "Cheyenne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roger Mills",
+               "short_name" : "Roger Mills",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "73628",
+               "short_name" : "73628",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheyenne, OK 73628, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.619899,
+                  "lng" : -99.6604169
+               },
+               "southwest" : {
+                  "lat" : 35.594402,
+                  "lng" : -99.7067919
+               }
+            },
+            "location" : {
+               "lat" : 35.6139371,
+               "lng" : -99.6714939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.619899,
+                  "lng" : -99.6604169
+               },
+               "southwest" : {
+                  "lat" : 35.594402,
+                  "lng" : -99.7067919
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

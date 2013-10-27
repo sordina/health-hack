@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hiroshima",
+               "short_name" : "Hiroshima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hiroshima Prefecture",
+               "short_name" : "Hiroshima Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hiroshima, Hiroshima Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6156543,
+                  "lng" : 132.6960795
+               },
+               "southwest" : {
+                  "lat" : 34.296681,
+                  "lng" : 132.1788743
+               }
+            },
+            "location" : {
+               "lat" : 34.3852029,
+               "lng" : 132.4552927
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4426,
+                  "lng" : 132.4865
+               },
+               "southwest" : {
+                  "lat" : 34.3451,
+                  "lng" : 132.3969
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

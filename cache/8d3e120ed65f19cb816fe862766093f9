@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Leipziger Straße",
+               "short_name" : "Leipziger Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leipziger Straße",
+               "short_name" : "Leipziger Straße",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Magdeburg",
+               "short_name" : "MD",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saxony-Anhalt",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "39120",
+               "short_name" : "39120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leipziger Straße 44, 39120 Magdeburg, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.10162,
+               "lng" : 11.6191782
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.10296898029149,
+                  "lng" : 11.6205271802915
+               },
+               "southwest" : {
+                  "lat" : 52.1002710197085,
+                  "lng" : 11.6178292197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bucharest",
+               "short_name" : "Bucharest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Romania",
+               "short_name" : "RO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bucharest, Romania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5413641,
+                  "lng" : 26.2253093
+               },
+               "southwest" : {
+                  "lat" : 44.3343011,
+                  "lng" : 25.9664761
+               }
+            },
+            "location" : {
+               "lat" : 44.4325,
+               "lng" : 26.1038889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5413641,
+                  "lng" : 26.2253093
+               },
+               "southwest" : {
+                  "lat" : 44.3343011,
+                  "lng" : 25.9664761
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

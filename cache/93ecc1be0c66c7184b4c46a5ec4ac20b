@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal College Of Physicians",
+               "short_name" : "Royal College Of Physicians",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "St Andrews Place",
+               "short_name" : "St. Andrews Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Regents Park",
+               "short_name" : "Regents Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW1 4LE",
+               "short_name" : "NW1 4LE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Royal College Of Physicians, 11 St Andrews Place, Regents Park, London NW1 4LE, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.52575359999999,
+               "lng" : -0.1450021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5326952,
+                  "lng" : -0.1289947
+               },
+               "southwest" : {
+                  "lat" : 51.518811,
+                  "lng" : -0.1610095
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "610041",
+               "short_name" : "610041",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Wuhou",
+               "short_name" : "Wuhou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chengdu",
+               "short_name" : "Chengdu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sichuan",
+               "short_name" : "Sichuan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuhou, Chengdu, Sichuan, China, 610041",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.679946,
+                  "lng" : 104.0769025
+               },
+               "southwest" : {
+                  "lat" : 30.58723699999999,
+                  "lng" : 104.0072349
+               }
+            },
+            "location" : {
+               "lat" : 30.630391,
+               "lng" : 104.0282129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.679946,
+                  "lng" : 104.0536761
+               },
+               "southwest" : {
+                  "lat" : 30.58723699999999,
+                  "lng" : 104.0072349
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

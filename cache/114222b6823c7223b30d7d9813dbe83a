@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hellerup",
+               "short_name" : "Hellerup",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gentofte",
+               "short_name" : "Gentofte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2900",
+               "short_name" : "2900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2900 Hellerup, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7472664,
+                  "lng" : 12.5880186
+               },
+               "southwest" : {
+                  "lat" : 55.7212664,
+                  "lng" : 12.5309506
+               }
+            },
+            "location" : {
+               "lat" : 55.73665399999999,
+               "lng" : 12.569196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7472664,
+                  "lng" : 12.5880186
+               },
+               "southwest" : {
+                  "lat" : 55.7212664,
+                  "lng" : 12.5309506
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

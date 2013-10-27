@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kamigyo Ward",
+               "short_name" : "Kamigyo Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto",
+               "short_name" : "Kyoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kyoto Prefecture",
+               "short_name" : "Kyoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kamigyo Ward, Kyoto, Kyoto Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.0393601,
+                  "lng" : 135.7716603
+               },
+               "southwest" : {
+                  "lat" : 35.014648,
+                  "lng" : 135.7326735
+               }
+            },
+            "location" : {
+               "lat" : 35.03237319999999,
+               "lng" : 135.749697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.0393601,
+                  "lng" : 135.7716603
+               },
+               "southwest" : {
+                  "lat" : 35.014648,
+                  "lng" : 135.7326735
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

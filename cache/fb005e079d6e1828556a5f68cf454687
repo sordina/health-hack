@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke University School of Medicine",
+               "short_name" : "Duke University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Trent Drive",
+               "short_name" : "Trent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27710",
+               "short_name" : "27710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke University School of Medicine, Duke University West Campus, Duke University, 201 Trent Drive, Durham, NC 27710, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0034778,
+               "lng" : -78.9358103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0125039,
+                  "lng" : -78.91980290000001
+               },
+               "southwest" : {
+                  "lat" : 35.9944507,
+                  "lng" : -78.95181769999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

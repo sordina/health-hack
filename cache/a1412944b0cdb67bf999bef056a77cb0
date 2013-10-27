@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çanakkale, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.17119599999999,
+                  "lng" : 26.468447
+               },
+               "southwest" : {
+                  "lat" : 40.0899209,
+                  "lng" : 26.3857388
+               }
+            },
+            "location" : {
+               "lat" : 40.155312,
+               "lng" : 26.41416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.17119599999999,
+                  "lng" : 26.468447
+               },
+               "southwest" : {
+                  "lat" : 40.0899209,
+                  "lng" : 26.3857388
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canakkale Airport",
+               "short_name" : "Canakkale Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Çanakkale",
+               "short_name" : "Çanakkale",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Çanakkale Province",
+               "short_name" : "Çanakkale Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17020",
+               "short_name" : "17020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Canakkale Airport (CKZ), 17020 Çanakkale Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1443709,
+                  "lng" : 26.442446
+               },
+               "southwest" : {
+                  "lat" : 40.128582,
+                  "lng" : 26.416636
+               }
+            },
+            "location" : {
+               "lat" : 40.1377,
+               "lng" : 26.422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1443709,
+                  "lng" : 26.442446
+               },
+               "southwest" : {
+                  "lat" : 40.128582,
+                  "lng" : 26.416636
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

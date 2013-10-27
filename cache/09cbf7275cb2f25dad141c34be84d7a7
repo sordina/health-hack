@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Xi'an",
+               "short_name" : "Xi'an",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaanxi",
+               "short_name" : "Shaanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xi'an, Shaanxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7431038,
+                  "lng" : 109.8224326
+               },
+               "southwest" : {
+                  "lat" : 33.6938769,
+                  "lng" : 107.6637529
+               }
+            },
+            "location" : {
+               "lat" : 34.341568,
+               "lng" : 108.940175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.5166142,
+                  "lng" : 109.3029785
+               },
+               "southwest" : {
+                  "lat" : 34.0021465,
+                  "lng" : 108.6314392
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

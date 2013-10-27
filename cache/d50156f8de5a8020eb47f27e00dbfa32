@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "OHSU: Oregon Health & Science University",
+               "short_name" : "OHSU: Oregon Health & Science University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3181",
+               "short_name" : "3181",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Sam Jackson Park Road",
+               "short_name" : "SW Sam Jackson Park Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Homestead",
+               "short_name" : "Homestead",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah",
+               "short_name" : "Multnomah",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97239",
+               "short_name" : "97239",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "OHSU: Oregon Health & Science University, 3181 Southwest Sam Jackson Park Road, Portland, OR 97239, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5029569,
+                  "lng" : -122.6803984
+               },
+               "southwest" : {
+                  "lat" : 45.4940595,
+                  "lng" : -122.689611
+               }
+            },
+            "location" : {
+               "lat" : 45.499248,
+               "lng" : -122.685731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5029569,
+                  "lng" : -122.6803984
+               },
+               "southwest" : {
+                  "lat" : 45.4940595,
+                  "lng" : -122.689611
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

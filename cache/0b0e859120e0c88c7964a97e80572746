@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital de Sant Pau",
+               "short_name" : "Hospital de Sant Pau",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "89",
+               "short_name" : "89",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer Sant Quintí",
+               "short_name" : "Carrer Sant Quintí",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08026",
+               "short_name" : "08026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital de Sant Pau, Carrer Sant Quintí, 89, 08026 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4161071,
+                  "lng" : 2.177729
+               },
+               "southwest" : {
+                  "lat" : 41.4111723,
+                  "lng" : 2.1712735
+               }
+            },
+            "location" : {
+               "lat" : 41.4114937,
+               "lng" : 2.1742702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4161071,
+                  "lng" : 2.177729
+               },
+               "southwest" : {
+                  "lat" : 41.4111723,
+                  "lng" : 2.1712735
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

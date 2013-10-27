@@ -3,6 +3,10 @@
 
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
   <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+
+  <script src="plugins.js"></script>
+  <script src="d3.v2.js"></script>
+  <script src="vis.js"></script>
 </head>
 
 <body>
@@ -14,24 +18,42 @@
 
   {{> paper_info }}
 
-  <table>
-    <tr>
-      <td id="sidebar"> {{> sidebar}} </td>
-      <td id="mapbar" > {{> mapbar }}     </td>
-    </tr>
-  </table>
+  {{> main_table }}
 </body>
 
-<template name="mapbar">
-  <div id="map"> </div>
+<template name="main_table">
+  <table>
+    <tr> <td> &nbsp; </td> <td>
+        <div id="tab_header">
+          <a class="section-link active" href="#map"     > Map </a>
+          <a class="section-link"        href="#clusters"> Clusters </a>
+          <a class="section-link"        href="#bubbles" > Bubbles </a>
+          <a class="section-link"        href="#knalij"  > Author Network </a>
+    </div> </td> </tr>
+    <tr>
+      <td id="sidebar"> {{> sidebar}} </td>
+      <td id="tab_body" >
+        {{#if section "map"      }} {{> mapbar   }} {{/if}}
+        {{#if section "clusters" }} {{> clusters }} {{/if}}
+        {{#if section "bubbles"  }} {{> bubbles  }} {{/if}}
+        {{#if section "knalij"   }} {{> knalij   }} {{/if}}
+      </td>
+    </tr>
+  </table>
 </template>
+
+<template name="clusters"> <h1>Clusters</h1> <img src="cluster.png" /> </template>
+
+<template name="knalij"> <h1>Author Network</h1> <img src="knalij.png" /> </template>
+
+<template name="mapbar"> <div id="map"> </div> </template>
 
 <template name="sidebar">
   <div id="information">
     {{#each items}}
       <div class="item">
         <p class="pubmed-link">
-          <a href="http://www.ncbi.nlm.nih.gov/pubmed/{{get_id this}}">Pubmed Link</a>
+          <a target="_blank" href="http://www.ncbi.nlm.nih.gov/pubmed/{{get_id this}}">Pubmed Link</a>
           <a class="info" data-id="{{get_id}}" href="#">(Info)</a>
         </p>
         <p class="title"> {{Title}} </p>

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "210093",
+               "short_name" : "210093",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gulou, Nanjing, Jiangsu, China, 210093",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.0731433,
+                  "lng" : 118.7839275
+               },
+               "southwest" : {
+                  "lat" : 32.0450988,
+                  "lng" : 118.773727
+               }
+            },
+            "location" : {
+               "lat" : 32.0562661,
+               "lng" : 118.7768171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0603534,
+                  "lng" : 118.7824703
+               },
+               "southwest" : {
+                  "lat" : 32.050304,
+                  "lng" : 118.773727
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

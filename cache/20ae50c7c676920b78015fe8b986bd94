@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Suita",
+               "short_name" : "Suita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osaka Prefecture",
+               "short_name" : "Osaka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Suita, Osaka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.831005,
+                  "lng" : 135.5556706
+               },
+               "southwest" : {
+                  "lat" : 34.7445078,
+                  "lng" : 135.4867801
+               }
+            },
+            "location" : {
+               "lat" : 34.7594526,
+               "lng" : 135.51686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.831005,
+                  "lng" : 135.5556706
+               },
+               "southwest" : {
+                  "lat" : 34.7445078,
+                  "lng" : 135.4867801
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

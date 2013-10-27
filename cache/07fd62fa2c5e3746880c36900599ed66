@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "710032",
+               "short_name" : "710032",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Baqiao",
+               "short_name" : "Baqiao",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Xi'an",
+               "short_name" : "Xi'an",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaanxi",
+               "short_name" : "Shaanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baqiao, Xi'an, Shaanxi, China, 710032",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3190562,
+                  "lng" : 109.0245159
+               },
+               "southwest" : {
+                  "lat" : 34.2510113,
+                  "lng" : 108.9977688
+               }
+            },
+            "location" : {
+               "lat" : 34.2918804,
+               "lng" : 109.0033174
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3190562,
+                  "lng" : 109.0245159
+               },
+               "southwest" : {
+                  "lat" : 34.2510113,
+                  "lng" : 108.9977688
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

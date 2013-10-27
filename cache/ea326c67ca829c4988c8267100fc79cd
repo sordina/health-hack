@@ -1,0 +1,384 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "08018",
+               "short_name" : "08018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "08018 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4065039,
+                  "lng" : 2.1932938
+               },
+               "southwest" : {
+                  "lat" : 41.40441939999999,
+                  "lng" : 2.1894909
+               }
+            },
+            "location" : {
+               "lat" : 41.4055924,
+               "lng" : 2.1915482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4068106302915,
+                  "lng" : 2.1932938
+               },
+               "southwest" : {
+                  "lat" : 41.4041126697085,
+                  "lng" : 2.1894909
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carrer de Sant Pau",
+               "short_name" : "Carrer de Sant Pau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carrer de Sant Pau, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3810387,
+                  "lng" : 2.1732737
+               },
+               "southwest" : {
+                  "lat" : 41.3749735,
+                  "lng" : 2.1676436
+               }
+            },
+            "location" : {
+               "lat" : 41.3779619,
+               "lng" : 2.170566
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3810387,
+                  "lng" : 2.1732737
+               },
+               "southwest" : {
+                  "lat" : 41.3749735,
+                  "lng" : 2.1676436
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ronda de Sant Pau",
+               "short_name" : "Ronda de Sant Pau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ronda de Sant Pau, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3786674,
+                  "lng" : 2.1676831
+               },
+               "southwest" : {
+                  "lat" : 41.3752579,
+                  "lng" : 2.1632115
+               }
+            },
+            "location" : {
+               "lat" : 41.3769445,
+               "lng" : 2.1654251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3786674,
+                  "lng" : 2.1676831
+               },
+               "southwest" : {
+                  "lat" : 41.3752579,
+                  "lng" : 2.1632115
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sant Pau del Camp",
+               "short_name" : "Sant Pau del Camp",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer de Sant Pau",
+               "short_name" : "Carrer de Sant Pau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08001",
+               "short_name" : "08001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sant Pau del Camp, Carrer de Sant Pau, 101, 08001 Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3761926,
+               "lng" : 2.1689638
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.37754158029149,
+                  "lng" : 2.170312780291502
+               },
+               "southwest" : {
+                  "lat" : 41.3748436197085,
+                  "lng" : 2.167614819708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Passatge de Sant Pau",
+               "short_name" : "Passatge de Sant Pau",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08025",
+               "short_name" : "08025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Passatge de Sant Pau, 08025 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4116174,
+                  "lng" : 2.175445
+               },
+               "southwest" : {
+                  "lat" : 41.411076,
+                  "lng" : 2.1748917
+               }
+            },
+            "location" : {
+               "lat" : 41.411291,
+               "lng" : 2.1753363
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.41269568029149,
+                  "lng" : 2.176517330291502
+               },
+               "southwest" : {
+                  "lat" : 41.4099977197085,
+                  "lng" : 2.173819369708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital de Sant Pau",
+               "short_name" : "Hospital de Sant Pau",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "89",
+               "short_name" : "89",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carrer Sant Quintí",
+               "short_name" : "Carrer Sant Quintí",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08026",
+               "short_name" : "08026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital de Sant Pau, Carrer Sant Quintí, 89, 08026 Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4161071,
+                  "lng" : 2.177729
+               },
+               "southwest" : {
+                  "lat" : 41.4111723,
+                  "lng" : 2.1712735
+               }
+            },
+            "location" : {
+               "lat" : 41.4114937,
+               "lng" : 2.1742702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4161071,
+                  "lng" : 2.177729
+               },
+               "southwest" : {
+                  "lat" : 41.4111723,
+                  "lng" : 2.1712735
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

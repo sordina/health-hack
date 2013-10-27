@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wansbeck General Hospital",
+               "short_name" : "Wansbeck General Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Woodhorn Ln",
+               "short_name" : "Woodhorn Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ashington",
+               "short_name" : "Ashington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Nthumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE63 9JJ",
+               "short_name" : "NE63 9JJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ashington",
+               "short_name" : "Ashington",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Wansbeck General Hospital, Woodhorn Ln, Ashington, Northumberland NE63 9JJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.18580859999999,
+                  "lng" : -1.5438053
+               },
+               "southwest" : {
+                  "lat" : 55.1828578,
+                  "lng" : -1.5497572
+               }
+            },
+            "location" : {
+               "lat" : 55.1835853,
+               "lng" : -1.5444134
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.18580859999999,
+                  "lng" : -1.5438053
+               },
+               "southwest" : {
+                  "lat" : 55.1828578,
+                  "lng" : -1.5497572
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

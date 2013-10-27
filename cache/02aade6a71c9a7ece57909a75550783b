@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Physiological Sciences GIDP",
+               "short_name" : "Physiological Sciences GIDP",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Arizona",
+               "short_name" : "The University of Arizona",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ward 6",
+               "short_name" : "Ward 6",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima",
+               "short_name" : "Pima",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "85724",
+               "short_name" : "85724",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Physiological Sciences GIDP, The University of Arizona, Tucson, AZ 85724, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2401335,
+               "lng" : -110.9464135
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2495707,
+                  "lng" : -110.9304061
+               },
+               "southwest" : {
+                  "lat" : 32.2306954,
+                  "lng" : -110.9624209
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

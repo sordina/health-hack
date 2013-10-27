@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "166",
+               "short_name" : "166",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "UFABC",
+               "short_name" : "UFABC",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rua Santa Adélia",
+               "short_name" : "R. Santa Adélia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bairro Santa Terezinha",
+               "short_name" : "Bairro Santa Terezinha",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santo André",
+               "short_name" : "Santo André",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09210-170",
+               "short_name" : "09210-170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Santa Adélia, 166 - UFABC, Bairro Santa Terezinha, Santo André - São Paulo, 09210-170, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.643841,
+               "lng" : -46.5294853
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6424920197085,
+                  "lng" : -46.5281363197085
+               },
+               "southwest" : {
+                  "lat" : -23.6451899802915,
+                  "lng" : -46.5308342802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

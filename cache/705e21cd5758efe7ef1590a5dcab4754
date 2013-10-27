@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orangeburg",
+               "short_name" : "Orangeburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orangetown",
+               "short_name" : "Orangetown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rockland",
+               "short_name" : "Rockland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orangeburg, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.070437,
+                  "lng" : -73.92197689999999
+               },
+               "southwest" : {
+                  "lat" : 41.0329539,
+                  "lng" : -73.96892799999999
+               }
+            },
+            "location" : {
+               "lat" : 41.0464858,
+               "lng" : -73.94958179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.070437,
+                  "lng" : -73.92197689999999
+               },
+               "southwest" : {
+                  "lat" : 41.0329539,
+                  "lng" : -73.96892799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

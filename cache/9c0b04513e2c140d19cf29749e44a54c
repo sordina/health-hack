@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalhousie University",
+               "short_name" : "Dalhousie University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "B3H 4R2",
+               "short_name" : "B3H 4R2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dalhousie University, Halifax, NS B3H 4R2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6441866,
+                  "lng" : -63.5712931
+               },
+               "southwest" : {
+                  "lat" : 44.6334035,
+                  "lng" : -63.5975757
+               }
+            },
+            "location" : {
+               "lat" : 44.6369358,
+               "lng" : -63.58957539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6410575,
+                  "lng" : -63.5796081
+               },
+               "southwest" : {
+                  "lat" : 44.6334035,
+                  "lng" : -63.5975757
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

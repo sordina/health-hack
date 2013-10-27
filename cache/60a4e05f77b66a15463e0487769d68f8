@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harvard Medical School",
+               "short_name" : "Harvard Medical School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shattuck Street",
+               "short_name" : "Shattuck St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Harvard Medical School, Harvard University Longwood Campus, 25 Shattuck Street, Boston, MA 02115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3391363,
+                  "lng" : -71.100352
+               },
+               "southwest" : {
+                  "lat" : 42.3353201,
+                  "lng" : -71.1054053
+               }
+            },
+            "location" : {
+               "lat" : 42.3366043,
+               "lng" : -71.1042154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3391363,
+                  "lng" : -71.100352
+               },
+               "southwest" : {
+                  "lat" : 42.3353201,
+                  "lng" : -71.1054053
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

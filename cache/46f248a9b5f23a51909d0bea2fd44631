@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Arkansas For Medical Sciences",
+               "short_name" : "University Of Arkansas For Medical Sciences",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4301",
+               "short_name" : "4301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Markham Street",
+               "short_name" : "W Markham St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Little Rock",
+               "short_name" : "Little Rock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Big Rock",
+               "short_name" : "Big Rock",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pulaski",
+               "short_name" : "Pulaski",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72205",
+               "short_name" : "72205",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Of Arkansas For Medical Sciences, 4301 West Markham Street, Little Rock, AR 72205, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.7501115,
+               "lng" : -92.32036549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7592789,
+                  "lng" : -92.3043581
+               },
+               "southwest" : {
+                  "lat" : 34.7409431,
+                  "lng" : -92.3363729
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

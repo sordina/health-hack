@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Tromsø",
+               "short_name" : "University of Tromsø",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hansine Hansens veg",
+               "short_name" : "Hansine Hansens veg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tromsø",
+               "short_name" : "Tromsø",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tromsø",
+               "short_name" : "Tromsø",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Troms",
+               "short_name" : "Troms",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9019",
+               "short_name" : "9019",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tromsø",
+               "short_name" : "Tromsø",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Tromsø, Hansine Hansens veg 18, 9019 Tromsø, Norway",
+         "geometry" : {
+            "location" : {
+               "lat" : 69.67988389999999,
+               "lng" : 18.9714378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.68375829999999,
+                  "lng" : 18.9874452
+               },
+               "southwest" : {
+                  "lat" : 69.67600879999999,
+                  "lng" : 18.9554304
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100730",
+               "short_name" : "100730",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dongcheng",
+               "short_name" : "Dongcheng",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dongcheng, Beijing, China, 100730",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9167931,
+                  "lng" : 116.4341428
+               },
+               "southwest" : {
+                  "lat" : 39.9060151,
+                  "lng" : 116.4311919
+               }
+            },
+            "location" : {
+               "lat" : 39.9159492,
+               "lng" : 116.4336059
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9173628302915,
+                  "lng" : 116.4347540302915
+               },
+               "southwest" : {
+                  "lat" : 39.9146648697085,
+                  "lng" : 116.4320560697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

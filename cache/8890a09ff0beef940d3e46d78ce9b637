@@ -1,0 +1,349 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            },
+            "location" : {
+               "lat" : 51.7520209,
+               "lng" : -1.2577263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7963006,
+                  "lng" : -1.1751763
+               },
+               "southwest" : {
+                  "lat" : 51.704532,
+                  "lng" : -1.3199994
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lafayette",
+               "short_name" : "Lafayette",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.398561,
+                  "lng" : -89.47525709999999
+               },
+               "southwest" : {
+                  "lat" : 34.3214469,
+                  "lng" : -89.571518
+               }
+            },
+            "location" : {
+               "lat" : 34.3664951,
+               "lng" : -89.5192484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.398561,
+                  "lng" : -89.47525709999999
+               },
+               "southwest" : {
+                  "lat" : 34.3214469,
+                  "lng" : -89.571518
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Butler",
+               "short_name" : "Butler",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45056",
+               "short_name" : "45056",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford, OH 45056, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5292521,
+                  "lng" : -84.7124759
+               },
+               "southwest" : {
+                  "lat" : 39.4838839,
+                  "lng" : -84.77857809999999
+               }
+            },
+            "location" : {
+               "lat" : 39.5069974,
+               "lng" : -84.74523099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5292521,
+                  "lng" : -84.7124759
+               },
+               "southwest" : {
+                  "lat" : 39.4838839,
+                  "lng" : -84.77857809999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calhoun",
+               "short_name" : "Calhoun",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.63627,
+                  "lng" : -85.7422019
+               },
+               "southwest" : {
+                  "lat" : 33.549275,
+                  "lng" : -86.0217409
+               }
+            },
+            "location" : {
+               "lat" : 33.6142714,
+               "lng" : -85.83496479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.63627,
+                  "lng" : -85.7422019
+               },
+               "southwest" : {
+                  "lat" : 33.549275,
+                  "lng" : -86.0217409
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oxford, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.192293,
+                  "lng" : -71.797034
+               },
+               "southwest" : {
+                  "lat" : 42.0728528,
+                  "lng" : -71.91721699999999
+               }
+            },
+            "location" : {
+               "lat" : 42.1167606,
+               "lng" : -71.8647577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.192293,
+                  "lng" : -71.797034
+               },
+               "southwest" : {
+                  "lat" : 42.0728528,
+                  "lng" : -71.91721699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Granville",
+               "short_name" : "Granville",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27565",
+               "short_name" : "27565",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oxford, NC 27565, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.354883,
+                  "lng" : -78.55519699999999
+               },
+               "southwest" : {
+                  "lat" : 36.2848689,
+                  "lng" : -78.612161
+               }
+            },
+            "location" : {
+               "lat" : 36.3107004,
+               "lng" : -78.5908345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.354883,
+                  "lng" : -78.55519699999999
+               },
+               "southwest" : {
+                  "lat" : 36.2848689,
+                  "lng" : -78.612161
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

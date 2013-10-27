@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clínica Moncloa",
+               "short_name" : "Clínica Moncloa",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "83",
+               "short_name" : "83",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Av de Valladolid",
+               "short_name" : "Av de Valladolid",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28008",
+               "short_name" : "28008",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clínica Moncloa, Av de Valladolid, 83, 28008 Madrid, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4332955,
+               "lng" : -3.7339887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.441788,
+                  "lng" : -3.7179813
+               },
+               "southwest" : {
+                  "lat" : 40.4248019,
+                  "lng" : -3.7499961
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "EH16 4SU",
+               "short_name" : "EH16 4SU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Edinburgh, City of Edinburgh EH16 4SU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9235291,
+                  "lng" : -3.140792
+               },
+               "southwest" : {
+                  "lat" : 55.9207026,
+                  "lng" : -3.1447294
+               }
+            },
+            "location" : {
+               "lat" : 55.9209158,
+               "lng" : -3.1425866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9235291,
+                  "lng" : -3.140792
+               },
+               "southwest" : {
+                  "lat" : 55.9207026,
+                  "lng" : -3.1447294
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

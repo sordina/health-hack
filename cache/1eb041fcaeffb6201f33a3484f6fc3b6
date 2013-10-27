@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bradenton",
+               "short_name" : "Bradenton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manatee",
+               "short_name" : "Manatee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bradenton, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.522849,
+                  "lng" : -82.48613089999999
+               },
+               "southwest" : {
+                  "lat" : 27.455408,
+                  "lng" : -82.6882722
+               }
+            },
+            "location" : {
+               "lat" : 27.4989278,
+               "lng" : -82.5748194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.522849,
+                  "lng" : -82.48613089999999
+               },
+               "southwest" : {
+                  "lat" : 27.455408,
+                  "lng" : -82.6882722
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "87",
+               "short_name" : "87",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "2411",
+               "short_name" : "2411",
+               "types" : []
+            },
+            {
+               "long_name" : "Ruská",
+               "short_name" : "Ruská",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prague 10",
+               "short_name" : "Prague 10",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Prague",
+               "short_name" : "Prague",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hlavní město Praha",
+               "short_name" : "Hlavní město Praha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hlavní město Praha",
+               "short_name" : "Hlavní město Praha",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "100 00",
+               "short_name" : "100 00",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Praha 10",
+               "short_name" : "Praha 10",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Ruská 2411/87, 100 00 Prague-Prague 10, Czech Republic",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.0743468,
+               "lng" : 14.4738896
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0756957802915,
+                  "lng" : 14.4752385802915
+               },
+               "southwest" : {
+                  "lat" : 50.0729978197085,
+                  "lng" : 14.4725406197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warren Alpert Medical School of Brown University",
+               "short_name" : "Warren Alpert Medical School of Brown University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Brown University",
+               "short_name" : "Brown University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "222",
+               "short_name" : "222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Richmond Street",
+               "short_name" : "Richmond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jewelry District",
+               "short_name" : "Jewelry District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02903",
+               "short_name" : "02903",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warren Alpert Medical School of Brown University, Brown University, 222 Richmond Street, Providence, RI 02903, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.81896709999999,
+               "lng" : -71.40838149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8272821,
+                  "lng" : -71.3923741
+               },
+               "southwest" : {
+                  "lat" : 41.810651,
+                  "lng" : -71.4243889
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

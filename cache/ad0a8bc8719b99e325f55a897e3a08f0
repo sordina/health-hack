@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Jose M. Bayona, MD",
+               "short_name" : "Dr. Jose M. Bayona, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6431",
+               "short_name" : "6431",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fannin Street",
+               "short_name" : "Fannin St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1503",
+               "short_name" : "1503",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Jose M. Bayona, MD, 6431 Fannin Street, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.71306599999999,
+               "lng" : -95.39705499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7227565,
+                  "lng" : -95.3810476
+               },
+               "southwest" : {
+                  "lat" : 29.7033746,
+                  "lng" : -95.4130624
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

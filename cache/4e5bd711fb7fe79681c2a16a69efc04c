@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreal Heart Institute",
+               "short_name" : "Montreal Heart Institute",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bélanger Street",
+               "short_name" : "Bélanger Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nouveau-Rosemont",
+               "short_name" : "Nouveau-Rosemont",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rosemont-La Petite-Patrie",
+               "short_name" : "Rosemont-La Petite-Patrie",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H1T 1C8",
+               "short_name" : "H1T 1C8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montreal Heart Institute, 5000 Bélanger Street, Montreal, QC H1T 1C8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5741802,
+               "lng" : -73.5784582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5819901,
+                  "lng" : -73.56245079999999
+               },
+               "southwest" : {
+                  "lat" : 45.5663692,
+                  "lng" : -73.59446559999999
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

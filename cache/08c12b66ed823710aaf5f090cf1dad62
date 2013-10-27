@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Klinikstraße",
+               "short_name" : "Klinikstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "Giessen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35392",
+               "short_name" : "35392",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Klinikstraße 33, 35392 Giessen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.5754043,
+               "lng" : 8.6651092
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5767532802915,
+                  "lng" : 8.666458180291503
+               },
+               "southwest" : {
+                  "lat" : 50.5740553197085,
+                  "lng" : 8.663760219708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

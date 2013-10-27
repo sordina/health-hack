@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stanford School of Medicine: Department of Anesthesia",
+               "short_name" : "Stanford School of Medicine: Department of Anesthesia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "H3580",
+               "short_name" : "H3580",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pasteur Drive",
+               "short_name" : "Pasteur Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stanford School of Medicine: Department of Anesthesia, Stanford University, 300 Pasteur Drive H3580, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4330923,
+               "lng" : -122.175016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4419519,
+                  "lng" : -122.1590086
+               },
+               "southwest" : {
+                  "lat" : 37.4242316,
+                  "lng" : -122.1910234
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

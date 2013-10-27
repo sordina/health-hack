@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temple University School of Medicine",
+               "short_name" : "Temple University School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3500",
+               "short_name" : "3500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Broad Street",
+               "short_name" : "N Broad St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Philadelphia",
+               "short_name" : "North Philadelphia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19140",
+               "short_name" : "19140",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4106",
+               "short_name" : "4106",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Temple University School of Medicine, 3500 North Broad Street, Philadelphia, PA 19140, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.00776800000001,
+                  "lng" : -75.1489579
+               },
+               "southwest" : {
+                  "lat" : 40.0014293,
+                  "lng" : -75.15420499999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0068652,
+               "lng" : -75.15190539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.00776800000001,
+                  "lng" : -75.1489579
+               },
+               "southwest" : {
+                  "lat" : 40.0014293,
+                  "lng" : -75.15420499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

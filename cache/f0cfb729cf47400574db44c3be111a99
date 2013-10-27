@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hospital Universitario A Coruña",
+               "short_name" : "Hospital Universitario A Coruña",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "84",
+               "short_name" : "84",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "As Xubias",
+               "short_name" : "As Xubias",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "A Coruña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "A Coruña",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15006",
+               "short_name" : "15006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hospital Universitario A Coruña, As Xubias, 84, 15006 A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.345017,
+                  "lng" : -8.3870653
+               },
+               "southwest" : {
+                  "lat" : 43.3428029,
+                  "lng" : -8.390554999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.34451869999999,
+               "lng" : -8.388784299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.34525893029151,
+                  "lng" : -8.3870653
+               },
+               "southwest" : {
+                  "lat" : 43.34256096970851,
+                  "lng" : -8.390554999999999
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

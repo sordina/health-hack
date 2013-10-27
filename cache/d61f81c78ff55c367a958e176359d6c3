@@ -1,0 +1,199 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heart Herning Museum Of Contemporary Art",
+               "short_name" : "Heart Herning Museum Of Contemporary Art",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Birk Centerpark",
+               "short_name" : "Birk Centerpark",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Herning",
+               "short_name" : "Herning",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Herning Municipality",
+               "short_name" : "Herning Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7400",
+               "short_name" : "7400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heart Herning Museum Of Contemporary Art, Birk Centerpark 8, 7400 Herning, Denmark",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.1317524,
+               "lng" : 9.0211916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.1379701,
+                  "lng" : 9.037198999999999
+               },
+               "southwest" : {
+                  "lat" : 56.1255337,
+                  "lng" : 9.0051842
+               }
+            }
+         },
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heart",
+               "short_name" : "Heart",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Homewood North",
+               "short_name" : "Homewood North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15208",
+               "short_name" : "15208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Heart, Pittsburgh, PA 15208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4611528,
+                  "lng" : -79.88783819999999
+               },
+               "southwest" : {
+                  "lat" : 40.4607284,
+                  "lng" : -79.8884781
+               }
+            },
+            "location" : {
+               "lat" : 40.4610843,
+               "lng" : -79.8881621
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4622895802915,
+                  "lng" : -79.88680916970849
+               },
+               "southwest" : {
+                  "lat" : 40.4595916197085,
+                  "lng" : -79.88950713029151
+               }
+            }
+         },
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heart",
+               "short_name" : "Heart",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "De Beauvoir Road",
+               "short_name" : "De Beauvoir Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "N1 4EN",
+               "short_name" : "N1 4EN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Heart, 100 De Beauvoir Road, London N1 4EN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.54253079999999,
+               "lng" : -0.0800877
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.54387978029149,
+                  "lng" : -0.07873871970849797
+               },
+               "southwest" : {
+                  "lat" : 51.54118181970849,
+                  "lng" : -0.08143668029150203
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

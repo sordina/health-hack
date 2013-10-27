@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Rochester",
+               "short_name" : "University of Rochester",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "500",
+               "short_name" : "500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Wilson Boulevard",
+               "short_name" : "Wilson Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14627",
+               "short_name" : "14627",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Rochester, 500 Wilson Boulevard, Rochester, NY 14627, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1595548,
+                  "lng" : -77.5857068
+               },
+               "southwest" : {
+                  "lat" : 43.1065431,
+                  "lng" : -77.6378247
+               }
+            },
+            "location" : {
+               "lat" : 43.1305531,
+               "lng" : -77.62600329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1389289,
+                  "lng" : -77.61067919999999
+               },
+               "southwest" : {
+                  "lat" : 43.1065431,
+                  "lng" : -77.6378247
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

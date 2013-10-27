@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centre de Recherche Public Henri Tudor",
+               "short_name" : "Centre de Recherche Public Henri Tudor",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Université du Luxembourg",
+               "short_name" : "Université du Luxembourg",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenue J-f Kennedy",
+               "short_name" : "Avenue J-f Kennedy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kirchberg",
+               "short_name" : "Kirchberg",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Luxemburg City",
+               "short_name" : "Luxemburg City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "Luxembourg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Luxembourg",
+               "short_name" : "LU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1855",
+               "short_name" : "1855",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Centre de Recherche Public Henri Tudor, Université du Luxembourg, Campus Kirchberg, 29 Avenue J-f Kennedy, 1855 Luxemburg City, Luxembourg",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.6256434,
+               "lng" : 6.159807100000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.6328708,
+                  "lng" : 6.1758145
+               },
+               "southwest" : {
+                  "lat" : 49.618415,
+                  "lng" : 6.1437997
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

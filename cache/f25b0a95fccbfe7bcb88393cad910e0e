@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Ramachandra University",
+               "short_name" : "Sri Ramachandra University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Ramachandra Entry Road",
+               "short_name" : "Ramachandra Entry Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sri Ramachandra Nagar",
+               "short_name" : "Sri Ramachandra Nagar",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Iyappanthangal",
+               "short_name" : "Iyappanthangal",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "MAS",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600116",
+               "short_name" : "600116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sri Ramachandra University, Ramachandra Entry Road, Sri Ramachandra Nagar, Iyappanthangal, Chennai, Tamil Nadu 600116, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.0368654,
+               "lng" : 80.14264489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.0477356,
+                  "lng" : 80.1586523
+               },
+               "southwest" : {
+                  "lat" : 13.0259948,
+                  "lng" : 80.1266375
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

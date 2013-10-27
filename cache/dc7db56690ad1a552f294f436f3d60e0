@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "University of Minnesota",
+               "short_name" : "University of Minnesota",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 2nd Street",
+               "short_name" : "S 2nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mill District",
+               "short_name" : "Mill District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55454",
+               "short_name" : "55454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1300 South 2nd Street #300, University of Minnesota, Minneapolis, MN 55454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9754884,
+               "lng" : -93.24861199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97683738029149,
+                  "lng" : -93.24726301970848
+               },
+               "southwest" : {
+                  "lat" : 44.97413941970849,
+                  "lng" : -93.2499609802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

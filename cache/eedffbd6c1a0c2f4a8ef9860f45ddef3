@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poitiers",
+               "short_name" : "Poitiers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vienne",
+               "short_name" : "86",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poitiers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.627038,
+                  "lng" : 0.4518499
+               },
+               "southwest" : {
+                  "lat" : 46.54223,
+                  "lng" : 0.291089
+               }
+            },
+            "location" : {
+               "lat" : 46.58022400000001,
+               "lng" : 0.340375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.627038,
+                  "lng" : 0.4518499
+               },
+               "southwest" : {
+                  "lat" : 46.54223,
+                  "lng" : 0.291089
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nam-gu",
+               "short_name" : "Nam-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Daegu",
+               "short_name" : "Daegu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nam-gu, Daegu, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.8599048,
+                  "lng" : 128.6086556
+               },
+               "southwest" : {
+                  "lat" : 35.8060504,
+                  "lng" : 128.555302
+               }
+            },
+            "location" : {
+               "lat" : 35.8460224,
+               "lng" : 128.5975291
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.8599048,
+                  "lng" : 128.6086556
+               },
+               "southwest" : {
+                  "lat" : 35.8060504,
+                  "lng" : 128.555302
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

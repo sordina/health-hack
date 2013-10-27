@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bruna stråket",
+               "short_name" : "Bruna stråket",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gothenburg",
+               "short_name" : "Gothenburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Västra Götaland County",
+               "short_name" : "Västra Götaland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41345",
+               "short_name" : "41345",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Göteborg",
+               "short_name" : "Göteborg",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Bruna stråket 16, 413 45 Gothenburg, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.68282180000001,
+               "lng" : 11.9566918
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.68417078029151,
+                  "lng" : 11.9580407802915
+               },
+               "southwest" : {
+                  "lat" : 57.6814728197085,
+                  "lng" : 11.9553428197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

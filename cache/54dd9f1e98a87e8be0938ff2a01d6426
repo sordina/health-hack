@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "569-1192",
+               "short_name" : "569-1192",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "1 Chome",
+               "short_name" : "1 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kosobecho",
+               "short_name" : "Kosobecho",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Takatsuki",
+               "short_name" : "Takatsuki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osaka Prefecture",
+               "short_name" : "Osaka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "1 Chome-3 Kosobecho, Takatsuki, Osaka Prefecture 569-1192, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.8558493,
+               "lng" : 135.6207904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.85719828029151,
+                  "lng" : 135.6221393802915
+               },
+               "southwest" : {
+                  "lat" : 34.85450031970851,
+                  "lng" : 135.6194414197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

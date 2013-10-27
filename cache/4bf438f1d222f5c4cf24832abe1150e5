@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Consorzio Mario Negri Sud",
+               "short_name" : "Consorzio Mario Negri Sud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Maria Imbaro",
+               "short_name" : "Santa Maria Imbaro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Chieti",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66030",
+               "short_name" : "66030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "66030 Consorzio Mario Negri Sud Chieti, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2230681,
+                  "lng" : 14.4467193
+               },
+               "southwest" : {
+                  "lat" : 42.2183488,
+                  "lng" : 14.4415543
+               }
+            },
+            "location" : {
+               "lat" : 42.2209665,
+               "lng" : 14.4443095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2230681,
+                  "lng" : 14.4467193
+               },
+               "southwest" : {
+                  "lat" : 42.2183488,
+                  "lng" : 14.4415543
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaohsiung Medical University Library",
+               "short_name" : "Kaohsiung Medical University Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Kaohsiung Medical University",
+               "short_name" : "Kaohsiung Medical University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "100號",
+               "short_name" : "100號",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Shíquán 1st Road",
+               "short_name" : "Shíquán 1st Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "安生里",
+               "short_name" : "安生里",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sanmin District",
+               "short_name" : "Sanmin District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaohsiung City",
+               "short_name" : "Kaohsiung City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "807",
+               "short_name" : "807",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kaohsiung Medical University Library, Kaohsiung Medical University, No. 100號, Shíquán 1st Road, Sanmin District, Kaohsiung City, Taiwan 807",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6470497,
+               "lng" : 120.3104288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.657347,
+                  "lng" : 120.3264362
+               },
+               "southwest" : {
+                  "lat" : 22.6367517,
+                  "lng" : 120.2944214
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "library", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

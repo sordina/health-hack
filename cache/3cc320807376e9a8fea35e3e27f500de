@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37614",
+               "short_name" : "37614",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Johnson City",
+               "short_name" : "Johnson City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Johnson City, TN 37614, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.30409,
+               "lng" : -82.36247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3054389802915,
+                  "lng" : -82.36112101970849
+               },
+               "southwest" : {
+                  "lat" : 36.3027410197085,
+                  "lng" : -82.36381898029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

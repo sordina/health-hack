@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "John Radcliffe Hospital",
+               "short_name" : "John Radcliffe Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Headley Way",
+               "short_name" : "Headley Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX3 9DU",
+               "short_name" : "OX3 9DU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "John Radcliffe Hospital, Headley Way, Oxford, OX3 9DU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7679792,
+                  "lng" : -1.215896
+               },
+               "southwest" : {
+                  "lat" : 51.76039309999999,
+                  "lng" : -1.2236762
+               }
+            },
+            "location" : {
+               "lat" : 51.7647798,
+               "lng" : -1.2200804
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7679792,
+                  "lng" : -1.215896
+               },
+               "southwest" : {
+                  "lat" : 51.76039309999999,
+                  "lng" : -1.2236762
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

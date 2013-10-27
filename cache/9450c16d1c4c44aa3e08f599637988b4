@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Institute for Health & Healing: Integrative Medicine: California Pacific Med Ctr",
+               "short_name" : "Institute for Health & Healing: Integrative Medicine: California Pacific Med Ctr",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "2300",
+               "short_name" : "2300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "California Street",
+               "short_name" : "California St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pacific Heights",
+               "short_name" : "Pacific Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94115",
+               "short_name" : "94115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Institute for Health & Healing: Integrative Medicine: California Pacific Med Ctr, 2300 California Street #103, San Francisco, CA 94115, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.789484,
+               "lng" : -122.432548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7983013,
+                  "lng" : -122.4165406
+               },
+               "southwest" : {
+                  "lat" : 37.7806657,
+                  "lng" : -122.4485554
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

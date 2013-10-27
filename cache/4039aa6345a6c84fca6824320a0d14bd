@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Allegheny General Hospital",
+               "short_name" : "Allegheny General Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "320",
+               "short_name" : "320",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East North Avenue",
+               "short_name" : "E North Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15212",
+               "short_name" : "15212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Allegheny General Hospital, 320 East North Avenue, Pittsburgh, PA 15212, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.458134,
+                  "lng" : -80.00160529999999
+               },
+               "southwest" : {
+                  "lat" : 40.4559039,
+                  "lng" : -80.0051179
+               }
+            },
+            "location" : {
+               "lat" : 40.456532,
+               "lng" : -80.00259199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.45836793029149,
+                  "lng" : -80.00160529999999
+               },
+               "southwest" : {
+                  "lat" : 40.4556699697085,
+                  "lng" : -80.0051179
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

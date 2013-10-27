@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "CCB Cardioangiologisches Centrum Bethanien",
+               "short_name" : "CCB Cardioangiologisches Centrum Bethanien",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Im Prüfling",
+               "short_name" : "Im Prüfling",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Innenstadt",
+               "short_name" : "Innenstadt",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Frankfurt",
+               "short_name" : "Frankfurt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60389",
+               "short_name" : "60389",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "CCB Cardioangiologisches Centrum Bethanien, Im Prüfling 23, 60389 Frankfurt, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.1292719,
+               "lng" : 8.7066189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.13642429999999,
+                  "lng" : 8.7226263
+               },
+               "southwest" : {
+                  "lat" : 50.1221185,
+                  "lng" : 8.690611499999999
+               }
+            }
+         },
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Lund",
+               "short_name" : "University of Lund",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Paradisgatan",
+               "short_name" : "Paradisgatan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lund",
+               "short_name" : "Lund",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skåne County",
+               "short_name" : "Skåne County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "221 00",
+               "short_name" : "221 00",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Lund",
+               "short_name" : "Lund",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Lund, Paradisgatan 2, 221 00 Lund, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7188179,
+                  "lng" : 13.217456
+               },
+               "southwest" : {
+                  "lat" : 55.7024474,
+                  "lng" : 13.1866271
+               }
+            },
+            "location" : {
+               "lat" : 55.7122051,
+               "lng" : 13.2024555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7188179,
+                  "lng" : 13.217456
+               },
+               "southwest" : {
+                  "lat" : 55.7024474,
+                  "lng" : 13.1866271
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

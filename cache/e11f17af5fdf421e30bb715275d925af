@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haerbin",
+               "short_name" : "Haerbin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Heilongjiang",
+               "short_name" : "Heilongjiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haerbin, Heilongjiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6743866,
+                  "lng" : 130.24084
+               },
+               "southwest" : {
+                  "lat" : 44.0622367,
+                  "lng" : 125.6878944
+               }
+            },
+            "location" : {
+               "lat" : 45.80227,
+               "lng" : 126.53626
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8838096,
+                  "lng" : 126.8799341
+               },
+               "southwest" : {
+                  "lat" : 45.6306503,
+                  "lng" : 126.4241087
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

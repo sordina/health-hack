@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belfast Health and Social Care Trust",
+               "short_name" : "Belfast Health and Social Care Trust",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Knockbracken Healthcare Park",
+               "short_name" : "Knockbracken Healthcare Park",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Saintfield Road",
+               "short_name" : "Saintfield Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "County Antrim",
+               "short_name" : "County Antrim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT8 8BH",
+               "short_name" : "BT8 8BH",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Belfast Health and Social Care Trust, Knockbracken Healthcare Park, Saintfield Road, Belfast, County Antrim BT8 8BH, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.54,
+               "lng" : -5.904999999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.54647259999999,
+                  "lng" : -5.888992600000001
+               },
+               "southwest" : {
+                  "lat" : 54.5335264,
+                  "lng" : -5.9210074
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Toronto Scarborough",
+               "short_name" : "University of Toronto Scarborough",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1265",
+               "short_name" : "1265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Military Trail",
+               "short_name" : "Military Trail",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Scarborough",
+               "short_name" : "Scarborough",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M1C 1A4",
+               "short_name" : "M1C 1A4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Toronto Scarborough, 1265 Military Trail, Toronto, ON M1C 1A4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7918268,
+                  "lng" : -79.1794926
+               },
+               "southwest" : {
+                  "lat" : 43.7766789,
+                  "lng" : -79.19477990000001
+               }
+            },
+            "location" : {
+               "lat" : 43.7847122,
+               "lng" : -79.1859984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7918268,
+                  "lng" : -79.1794926
+               },
+               "southwest" : {
+                  "lat" : 43.7766789,
+                  "lng" : -79.19477990000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Toronto - St. George Campus",
+               "short_name" : "University of Toronto - St. George Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Toronto - St. George Campus, Toronto, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.66911710000001,
+                  "lng" : -79.3874039
+               },
+               "southwest" : {
+                  "lat" : 43.6577194,
+                  "lng" : -79.4041364
+               }
+            },
+            "location" : {
+               "lat" : 43.6634183,
+               "lng" : -79.3957702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66911710000001,
+                  "lng" : -79.3874039
+               },
+               "southwest" : {
+                  "lat" : 43.6577194,
+                  "lng" : -79.4041364
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niteroi",
+               "short_name" : "Niteroi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niterói - Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.8560254,
+                  "lng" : -42.954409
+               },
+               "southwest" : {
+                  "lat" : -22.98297,
+                  "lng" : -43.1386482
+               }
+            },
+            "location" : {
+               "lat" : -22.8807655,
+               "lng" : -43.104335
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8560254,
+                  "lng" : -42.954409
+               },
+               "southwest" : {
+                  "lat" : -22.98297,
+                  "lng" : -43.1386482
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

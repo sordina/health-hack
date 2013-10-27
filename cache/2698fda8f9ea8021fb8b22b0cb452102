@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hong Kong",
+               "short_name" : "HK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hong Kong",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.561968,
+                  "lng" : 114.4069561
+               },
+               "southwest" : {
+                  "lat" : 22.1533884,
+                  "lng" : 113.835078
+               }
+            },
+            "location" : {
+               "lat" : 22.396428,
+               "lng" : 114.109497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.561968,
+                  "lng" : 114.4069474
+               },
+               "southwest" : {
+                  "lat" : 22.1533884,
+                  "lng" : 113.835079
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

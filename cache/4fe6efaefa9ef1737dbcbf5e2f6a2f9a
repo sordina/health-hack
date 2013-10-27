@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lazarettstraße",
+               "short_name" : "Lazarettstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neuhausen-Nymphenburg",
+               "short_name" : "Neuhausen-Nymphenburg",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80636",
+               "short_name" : "80636",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lazarettstraße 36, 80636 Munich, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.15294,
+               "lng" : 11.549
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1542889802915,
+                  "lng" : 11.5503489802915
+               },
+               "southwest" : {
+                  "lat" : 48.1515910197085,
+                  "lng" : 11.5476510197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

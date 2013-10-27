@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "683-8504",
+               "short_name" : "683-8504",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yonago",
+               "short_name" : "Yonago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tottori Prefecture",
+               "short_name" : "Tottori Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yonago, Tottori Prefecture 683-8504, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4296292,
+                  "lng" : 133.3258446
+               },
+               "southwest" : {
+                  "lat" : 35.4279748,
+                  "lng" : 133.3246373
+               }
+            },
+            "location" : {
+               "lat" : 35.4291798,
+               "lng" : 133.3246895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.43015098029151,
+                  "lng" : 133.3265899302915
+               },
+               "southwest" : {
+                  "lat" : 35.42745301970851,
+                  "lng" : 133.3238919697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

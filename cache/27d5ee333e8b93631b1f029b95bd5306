@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Technical University Berlin",
+               "short_name" : "Technical University Berlin",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Straße des 17. Juni",
+               "short_name" : "Straße des 17. Juni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Berlin",
+               "short_name" : "Berlin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10623",
+               "short_name" : "10623",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Technical University Berlin, Straße des 17. Juni 135, 10623 Berlin, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.540052,
+                  "lng" : 13.3859313
+               },
+               "southwest" : {
+                  "lat" : 52.5097152,
+                  "lng" : 13.3195955
+               }
+            },
+            "location" : {
+               "lat" : 52.51219889999999,
+               "lng" : 13.3269095
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.52455,
+                  "lng" : 13.3371027
+               },
+               "southwest" : {
+                  "lat" : 52.5097152,
+                  "lng" : 13.3195955
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanyang University",
+               "short_name" : "Hanyang University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wangsimni-ro",
+               "short_name" : "Wangsimni-ro",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Haengdang-dong",
+               "short_name" : "Haengdang-dong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seongdong-gu",
+               "short_name" : "Seongdong-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "133-070",
+               "short_name" : "133-070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanyang University, Wangsimni-ro, Haengdang-dong, Seongdong-gu, Seoul, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.555954,
+               "lng" : 127.04538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.56479909999999,
+                  "lng" : 127.0613874
+               },
+               "southwest" : {
+                  "lat" : 37.5471079,
+                  "lng" : 127.0293726
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanyang University",
+               "short_name" : "Hanyang University",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Haengdang-dong",
+               "short_name" : "Haengdang-dong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seongdong-gu",
+               "short_name" : "Seongdong-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "133-070",
+               "short_name" : "133-070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanyang University, Haengdang-dong, Seongdong-gu, Seoul, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.555619,
+               "lng" : 127.043655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5569679802915,
+                  "lng" : 127.0450039802915
+               },
+               "southwest" : {
+                  "lat" : 37.5542700197085,
+                  "lng" : 127.0423060197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

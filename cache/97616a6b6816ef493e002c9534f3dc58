@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kragujevac",
+               "short_name" : "Kragujevac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sumadija",
+               "short_name" : "Sumadija",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kragujevac, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.06959579999999,
+                  "lng" : 20.9904957
+               },
+               "southwest" : {
+                  "lat" : 43.9653917,
+                  "lng" : 20.8231688
+               }
+            },
+            "location" : {
+               "lat" : 44.012711,
+               "lng" : 20.926741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.06959579999999,
+                  "lng" : 20.9904957
+               },
+               "southwest" : {
+                  "lat" : 43.9653917,
+                  "lng" : 20.8231688
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

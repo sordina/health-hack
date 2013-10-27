@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Isehara",
+               "short_name" : "Isehara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanagawa Prefecture",
+               "short_name" : "Kanagawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Isehara, Kanagawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4471825,
+                  "lng" : 139.3575097
+               },
+               "southwest" : {
+                  "lat" : 35.36938920000001,
+                  "lng" : 139.2298286
+               }
+            },
+            "location" : {
+               "lat" : 35.4029686,
+               "lng" : 139.3149729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4471825,
+                  "lng" : 139.3575097
+               },
+               "southwest" : {
+                  "lat" : 35.36938920000001,
+                  "lng" : 139.2298286
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

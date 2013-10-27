@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liverpool School of Tropical Medicine",
+               "short_name" : "Liverpool School of Tropical Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Liverpool",
+               "short_name" : "University of Liverpool",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Pembroke Place",
+               "short_name" : "Pembroke Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L3 5QA",
+               "short_name" : "L3 5QA",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Liverpool School of Tropical Medicine, University of Liverpool, Pembroke Place, Liverpool, Merseyside L3 5QA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4086013,
+               "lng" : -2.9691249
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4152521,
+                  "lng" : -2.9531175
+               },
+               "southwest" : {
+                  "lat" : 53.4019495,
+                  "lng" : -2.9851323
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Tropical Medicine",
+               "short_name" : "School of Tropical Medicine",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Liverpool",
+               "short_name" : "University of Liverpool",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Pembroke Place",
+               "short_name" : "Pembroke Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Mersyd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L3 5QA",
+               "short_name" : "L3 5QA",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "School of Tropical Medicine, Pembroke Place, London Road, University of Liverpool, Liverpool, Merseyside L3 5QA, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.4085633,
+               "lng" : -2.9691349
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.40991228029149,
+                  "lng" : -2.967785919708498
+               },
+               "southwest" : {
+                  "lat" : 53.4072143197085,
+                  "lng" : -2.970483880291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

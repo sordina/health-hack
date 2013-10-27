@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Geneva",
+               "short_name" : "University of Geneva",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue du Général- Dufour",
+               "short_name" : "Rue du Général- Dufour",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centre-Plainpalais-Acacias",
+               "short_name" : "Centre-Plainpalais-Acacias",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Genève 4",
+               "short_name" : "Genève 4",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genève",
+               "short_name" : "Genève",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Geneva",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1211",
+               "short_name" : "1211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Geneva, Rue du Général- Dufour 24, 1211 Genève 4, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3091228,
+                  "lng" : 6.153264900000001
+               },
+               "southwest" : {
+                  "lat" : 46.1741579,
+                  "lng" : 6.1313777
+               }
+            },
+            "location" : {
+               "lat" : 46.1755868,
+               "lng" : 6.1397837
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1770156,
+                  "lng" : 6.141322199999999
+               },
+               "southwest" : {
+                  "lat" : 46.1741579,
+                  "lng" : 6.138245299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

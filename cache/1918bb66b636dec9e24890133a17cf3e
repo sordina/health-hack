@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abha",
+               "short_name" : "Abha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asir Province",
+               "short_name" : "Asir Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abha Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.3169665,
+                  "lng" : 42.684803
+               },
+               "southwest" : {
+                  "lat" : 18.1664042,
+                  "lng" : 42.4120331
+               }
+            },
+            "location" : {
+               "lat" : 18.2233333,
+               "lng" : 42.5072222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3169665,
+                  "lng" : 42.684803
+               },
+               "southwest" : {
+                  "lat" : 18.1664042,
+                  "lng" : 42.4120331
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

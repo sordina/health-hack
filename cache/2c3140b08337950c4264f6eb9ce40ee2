@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trishal Upazila Health Complex",
+               "short_name" : "Trishal Upazila Health Complex",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Dhaka - Mymensingh Highway",
+               "short_name" : "N3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mymensingh",
+               "short_name" : "Mymensingh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trishal Upazila Health Complex, Dhaka - Mymensingh Highway, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5766851,
+                  "lng" : 90.3951833
+               },
+               "southwest" : {
+                  "lat" : 24.5762972,
+                  "lng" : 90.3945851
+               }
+            },
+            "location" : {
+               "lat" : 24.576546,
+               "lng" : 90.3948185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5778401302915,
+                  "lng" : 90.3962331802915
+               },
+               "southwest" : {
+                  "lat" : 24.5751421697085,
+                  "lng" : 90.3935352197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

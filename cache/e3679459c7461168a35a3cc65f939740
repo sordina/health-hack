@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "34846",
+               "short_name" : "34846",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "34846 Istanbul/Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9443284,
+                  "lng" : 29.1724977
+               },
+               "southwest" : {
+                  "lat" : 40.90665449999999,
+                  "lng" : 29.1274335
+               }
+            },
+            "location" : {
+               "lat" : 40.9221721,
+               "lng" : 29.1565087
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.937375,
+                  "lng" : 29.1724977
+               },
+               "southwest" : {
+                  "lat" : 40.90665449999999,
+                  "lng" : 29.1274335
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

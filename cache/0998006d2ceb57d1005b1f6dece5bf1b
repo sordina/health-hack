@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Cologne",
+               "short_name" : "University of Cologne",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Frangenheimstraße",
+               "short_name" : "Frangenheimstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lindenthal",
+               "short_name" : "Lindenthal",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50931",
+               "short_name" : "50931",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Cologne, Frangenheimstraße 4, 50931 Cologne, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.9329731,
+               "lng" : 6.9207206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9400047,
+                  "lng" : 6.936728
+               },
+               "southwest" : {
+                  "lat" : 50.9259405,
+                  "lng" : 6.9047132
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

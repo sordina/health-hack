@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taiyuan",
+               "short_name" : "Taiyuan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanxi",
+               "short_name" : "Shanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taiyuan, Shanxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.421313,
+                  "lng" : 113.156613
+               },
+               "southwest" : {
+                  "lat" : 37.4588587,
+                  "lng" : 111.515924
+               }
+            },
+            "location" : {
+               "lat" : 37.87059,
+               "lng" : 112.548879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9998902,
+                  "lng" : 112.6757812
+               },
+               "southwest" : {
+                  "lat" : 37.7266996,
+                  "lng" : 112.4093628
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

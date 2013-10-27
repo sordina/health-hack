@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stony Brook, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9481109,
+                  "lng" : -73.0964919
+               },
+               "southwest" : {
+                  "lat" : 40.868922,
+                  "lng" : -73.1515325
+               }
+            },
+            "location" : {
+               "lat" : 40.9256538,
+               "lng" : -73.1409429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9481109,
+                  "lng" : -73.0964919
+               },
+               "southwest" : {
+                  "lat" : 40.868922,
+                  "lng" : -73.1515325
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ludwig Maximilian University of Munich",
+               "short_name" : "Ludwig Maximilian University of Munich",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Juristische Fakultät der Ludwig-Maximilians-Universität Juristisches Seminar",
+               "short_name" : "Juristische Fakultät der Ludwig-Maximilians-Universität Juristisches Seminar",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Geschwister-Scholl-Platz",
+               "short_name" : "Geschwister-Scholl-Platz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maxvorstadt",
+               "short_name" : "Maxvorstadt",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80539",
+               "short_name" : "80539",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ludwig Maximilian University of Munich, Juristische Fakultät der Ludwig-Maximilians-Universität Juristisches Seminar, Geschwister-Scholl-Platz 1, 80539 Munich, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.15069,
+               "lng" : 11.58036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.15813379999999,
+                  "lng" : 11.5963674
+               },
+               "southwest" : {
+                  "lat" : 48.14324509999999,
+                  "lng" : 11.5643526
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

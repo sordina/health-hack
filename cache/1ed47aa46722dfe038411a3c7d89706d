@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.3884899,
+                  "lng" : -5.994700099999999
+               },
+               "southwest" : {
+                  "lat" : 51.4219377,
+                  "lng" : -10.66958
+               }
+            },
+            "location" : {
+               "lat" : 53.41291,
+               "lng" : -8.24389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.3884899,
+                  "lng" : -5.99471
+               },
+               "southwest" : {
+                  "lat" : 51.4221955,
+                  "lng" : -10.6694501
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

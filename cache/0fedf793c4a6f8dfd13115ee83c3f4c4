@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ancona",
+               "short_name" : "Ancona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ancona",
+               "short_name" : "Ancona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ancona",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marche",
+               "short_name" : "Marche",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ancona, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6314669,
+                  "lng" : 13.5498571
+               },
+               "southwest" : {
+                  "lat" : 43.532833,
+                  "lng" : 13.4208746
+               }
+            },
+            "location" : {
+               "lat" : 43.6158299,
+               "lng" : 13.518915
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6314669,
+                  "lng" : 13.5498571
+               },
+               "southwest" : {
+                  "lat" : 43.532833,
+                  "lng" : 13.4208746
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

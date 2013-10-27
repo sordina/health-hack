@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Zurich",
+               "short_name" : "Uzh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "71",
+               "short_name" : "71",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rämistrasse",
+               "short_name" : "Rämistrasse",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rathaus",
+               "short_name" : "Rathaus",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "District 6",
+               "short_name" : "District 6",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zurich",
+               "short_name" : "Zurich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zurich District",
+               "short_name" : "Zurich District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8006",
+               "short_name" : "8006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Zurich, Rämistrasse 71, 8006 Zurich, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4014069,
+                  "lng" : 8.5608998
+               },
+               "southwest" : {
+                  "lat" : 47.3573665,
+                  "lng" : 8.545276099999999
+               }
+            },
+            "location" : {
+               "lat" : 47.3745947,
+               "lng" : 8.5488838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3759717,
+                  "lng" : 8.557107199999999
+               },
+               "southwest" : {
+                  "lat" : 47.3699592,
+                  "lng" : 8.547324
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

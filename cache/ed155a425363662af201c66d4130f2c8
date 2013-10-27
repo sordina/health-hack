@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "300193",
+               "short_name" : "300193",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nankai",
+               "short_name" : "Nankai",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tianjin",
+               "short_name" : "Tianjin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nankai, Tianjin, China, 300193",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1389665,
+                  "lng" : 117.1720612
+               },
+               "southwest" : {
+                  "lat" : 39.1093459,
+                  "lng" : 117.142652
+               }
+            },
+            "location" : {
+               "lat" : 39.122907,
+               "lng" : 117.1588198
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1317219,
+                  "lng" : 117.1720612
+               },
+               "southwest" : {
+                  "lat" : 39.1093459,
+                  "lng" : 117.1485344
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

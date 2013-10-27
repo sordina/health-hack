@@ -1,0 +1,365 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital",
+               "short_name" : "Massachusetts General Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fruit Street",
+               "short_name" : "Fruit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital, 55 Fruit Street, Boston, MA 02114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3629682,
+               "lng" : -71.0686975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3712122,
+                  "lng" : -71.05269009999999
+               },
+               "southwest" : {
+                  "lat" : 42.3547231,
+                  "lng" : -71.08470489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital Genetics Unit",
+               "short_name" : "Massachusetts General Hospital Genetics Unit",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Charles River Plaza Shopping Center",
+               "short_name" : "Charles River Plaza Shopping Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "175",
+               "short_name" : "175",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cambridge Street",
+               "short_name" : "Cambridge St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital Genetics Unit, Charles River Plaza Shopping Center, 175 Cambridge Street, Boston, MA 02114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.36144789999999,
+               "lng" : -71.06570289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.36279688029149,
+                  "lng" : -71.06435391970848
+               },
+               "southwest" : {
+                  "lat" : 42.3600989197085,
+                  "lng" : -71.0670518802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital",
+               "short_name" : "Massachusetts General Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "15",
+               "short_name" : "15",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parkman Street",
+               "short_name" : "Parkman St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital, 15 Parkman Street, Boston, MA 02114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3623739,
+               "lng" : -71.0674935
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3637228802915,
+                  "lng" : -71.06614451970849
+               },
+               "southwest" : {
+                  "lat" : 42.36102491970851,
+                  "lng" : -71.06884248029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital",
+               "short_name" : "Massachusetts General Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "275",
+               "short_name" : "275",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cambridge Street",
+               "short_name" : "Cambridge St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital, 275 Cambridge Street, Boston, MA 02114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3613383,
+               "lng" : -71.06818659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3626872802915,
+                  "lng" : -71.06683761970849
+               },
+               "southwest" : {
+                  "lat" : 42.3599893197085,
+                  "lng" : -71.0695355802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital - Children's Center",
+               "short_name" : "Massachusetts General Hospital - Children's Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "13th Street",
+               "short_name" : "13th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thompson Square / Bunker Hill",
+               "short_name" : "Thompson Square / Bunker Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Charlestown",
+               "short_name" : "Charlestown",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02129",
+               "short_name" : "02129",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2017",
+               "short_name" : "2017",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital - Children's Center, 3 13th Street, Charlestown, MA 02129, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3778946,
+               "lng" : -71.05228199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.37924358029149,
+                  "lng" : -71.05093301970849
+               },
+               "southwest" : {
+                  "lat" : 42.37654561970849,
+                  "lng" : -71.0536309802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

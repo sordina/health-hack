@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ansan-si",
+               "short_name" : "Ansan-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gyeonggi-do",
+               "short_name" : "Gyeonggi-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ansan-si, Gyeonggi-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3771543,
+                  "lng" : 126.9397483
+               },
+               "southwest" : {
+                  "lat" : 37.095806,
+                  "lng" : 126.3763885
+               }
+            },
+            "location" : {
+               "lat" : 37.3218778,
+               "lng" : 126.8308848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.358,
+                  "lng" : 126.8792
+               },
+               "southwest" : {
+                  "lat" : 37.2823,
+                  "lng" : 126.7249
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

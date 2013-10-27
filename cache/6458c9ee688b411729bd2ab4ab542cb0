@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carnegie Mellon University",
+               "short_name" : "Carnegie Mellon University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Forbes Avenue",
+               "short_name" : "Forbes Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15213",
+               "short_name" : "15213",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3890",
+               "short_name" : "3890",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.474248,
+                  "lng" : -79.91220299999999
+               },
+               "southwest" : {
+                  "lat" : 40.4322636,
+                  "lng" : -79.96652589999999
+               }
+            },
+            "location" : {
+               "lat" : 40.4429007,
+               "lng" : -79.94374859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4490303,
+                  "lng" : -79.9374246
+               },
+               "southwest" : {
+                  "lat" : 40.4402484,
+                  "lng" : -79.9518791
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

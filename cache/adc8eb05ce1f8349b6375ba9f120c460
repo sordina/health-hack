@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fukuoka",
+               "short_name" : "Fukuoka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fukuoka Prefecture",
+               "short_name" : "Fukuoka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fukuoka, Fukuoka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.874113,
+                  "lng" : 130.4952853
+               },
+               "southwest" : {
+                  "lat" : 33.4251209,
+                  "lng" : 130.0327989
+               }
+            },
+            "location" : {
+               "lat" : 33.5903547,
+               "lng" : 130.4017155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6501,
+                  "lng" : 130.4499
+               },
+               "southwest" : {
+                  "lat" : 33.5474,
+                  "lng" : 130.3246
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University at Albany",
+               "short_name" : "University at Albany",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1400",
+               "short_name" : "1400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington Avenue",
+               "short_name" : "Washington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "12222",
+               "short_name" : "12222",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University at Albany, 1400 Washington Avenue, Albany, NY 12222, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6926451,
+                  "lng" : -73.81521459999999
+               },
+               "southwest" : {
+                  "lat" : 42.67751370000001,
+                  "lng" : -73.83685749999999
+               }
+            },
+            "location" : {
+               "lat" : 42.686744,
+               "lng" : -73.822852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6926451,
+                  "lng" : -73.81521459999999
+               },
+               "southwest" : {
+                  "lat" : 42.67751370000001,
+                  "lng" : -73.83685749999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

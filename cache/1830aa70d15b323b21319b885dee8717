@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ambala City",
+               "short_name" : "Ambala City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ambala",
+               "short_name" : "Ambala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Haryana",
+               "short_name" : "HR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ambala City, Haryana, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.40811699999999,
+                  "lng" : 76.81297289999999
+               },
+               "southwest" : {
+                  "lat" : 30.3361391,
+                  "lng" : 76.74188079999999
+               }
+            },
+            "location" : {
+               "lat" : 30.3781788,
+               "lng" : 76.7766974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.40811699999999,
+                  "lng" : 76.81297289999999
+               },
+               "southwest" : {
+                  "lat" : 30.3361391,
+                  "lng" : 76.74188079999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

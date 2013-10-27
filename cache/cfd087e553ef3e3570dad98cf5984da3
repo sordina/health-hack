@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Changchun",
+               "short_name" : "Changchun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jilin",
+               "short_name" : "Jilin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Changchun, Jilin, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2526866,
+                  "lng" : 127.0937265
+               },
+               "southwest" : {
+                  "lat" : 43.2627224,
+                  "lng" : 124.5454312
+               }
+            },
+            "location" : {
+               "lat" : 43.817072,
+               "lng" : 125.323544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1758638,
+                  "lng" : 125.6651402
+               },
+               "southwest" : {
+                  "lat" : 43.6008978,
+                  "lng" : 124.9214387
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

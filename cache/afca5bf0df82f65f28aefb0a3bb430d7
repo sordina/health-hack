@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Brody School of Medicine at East Carolina University",
+               "short_name" : "The Brody School of Medicine at East Carolina University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Moye Boulevard",
+               "short_name" : "Moye Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical District",
+               "short_name" : "Medical District",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greenville",
+               "short_name" : "Greenville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greenville",
+               "short_name" : "Greenville",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pitt",
+               "short_name" : "Pitt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27834",
+               "short_name" : "27834",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4354",
+               "short_name" : "4354",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "The Brody School of Medicine at East Carolina University, 600 Moye Boulevard, Greenville, NC 27834, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.607596,
+               "lng" : -77.40246019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.61666719999999,
+                  "lng" : -77.3864528
+               },
+               "southwest" : {
+                  "lat" : 35.5985238,
+                  "lng" : -77.4184676
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

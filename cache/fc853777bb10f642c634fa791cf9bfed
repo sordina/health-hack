@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of South Carolina School of Medicine",
+               "short_name" : "University of South Carolina School of Medicine",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6439",
+               "short_name" : "6439",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Garners Ferry Road",
+               "short_name" : "Garners Ferry Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland",
+               "short_name" : "Richland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "29209",
+               "short_name" : "29209",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1638",
+               "short_name" : "1638",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of South Carolina School of Medicine, 6439 Garners Ferry Road, Columbia, SC 29209, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0297414,
+                  "lng" : -80.95944300000001
+               },
+               "southwest" : {
+                  "lat" : 33.9753292,
+                  "lng" : -81.0381039
+               }
+            },
+            "location" : {
+               "lat" : 33.978453,
+               "lng" : -80.96295119999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9815769,
+                  "lng" : -80.95944300000001
+               },
+               "southwest" : {
+                  "lat" : 33.9753292,
+                  "lng" : -80.9664595
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

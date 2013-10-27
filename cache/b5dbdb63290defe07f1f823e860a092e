@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Connecticut Health Center",
+               "short_name" : "University of Connecticut Health Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "263",
+               "short_name" : "263",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Farmington Ave",
+               "short_name" : "Farmington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06030",
+               "short_name" : "06030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06030, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7378679,
+                  "lng" : -72.7852384
+               },
+               "southwest" : {
+                  "lat" : 41.7246217,
+                  "lng" : -72.80141879999999
+               }
+            },
+            "location" : {
+               "lat" : 41.7318197,
+               "lng" : -72.7910717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7378679,
+                  "lng" : -72.7852384
+               },
+               "southwest" : {
+                  "lat" : 41.7246217,
+                  "lng" : -72.80141879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Connecticut Health Center: Dean",
+               "short_name" : "University of Connecticut Health Center: Dean",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "263",
+               "short_name" : "263",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Farmington Avenue",
+               "short_name" : "Farmington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06030",
+               "short_name" : "06030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Connecticut Health Center: Dean, 263 Farmington Avenue, Farmington, CT 06030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.73416,
+               "lng" : -72.7965169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7355089802915,
+                  "lng" : -72.79516791970849
+               },
+               "southwest" : {
+                  "lat" : 41.7328110197085,
+                  "lng" : -72.7978658802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Connecticut Health Center Library",
+               "short_name" : "University of Connecticut Health Center Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "263",
+               "short_name" : "263",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Farmington Avenue",
+               "short_name" : "Farmington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hartford",
+               "short_name" : "Hartford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06032",
+               "short_name" : "06032",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1941",
+               "short_name" : "1941",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Connecticut Health Center Library, 263 Farmington Avenue, Farmington, CT 06032, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.7345973,
+               "lng" : -72.7955709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.73594628029149,
+                  "lng" : -72.79422191970849
+               },
+               "southwest" : {
+                  "lat" : 41.73324831970849,
+                  "lng" : -72.7969198802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kurume",
+               "short_name" : "Kurume",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fukuoka Prefecture",
+               "short_name" : "Fukuoka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kurume, Fukuoka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.3686402,
+                  "lng" : 130.7318748
+               },
+               "southwest" : {
+                  "lat" : 33.2239194,
+                  "lng" : 130.3852111
+               }
+            },
+            "location" : {
+               "lat" : 33.3192865,
+               "lng" : 130.5083735
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.3686402,
+                  "lng" : 130.7318748
+               },
+               "southwest" : {
+                  "lat" : 33.2239194,
+                  "lng" : 130.3852111
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

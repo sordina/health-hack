@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "RWTH Aachen University",
+               "short_name" : "RWTH Aachen University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Templergraben",
+               "short_name" : "Templergraben",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Aachen",
+               "short_name" : "Aachen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aachen",
+               "short_name" : "AC",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aachen",
+               "short_name" : "AC",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52062",
+               "short_name" : "52062",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "RWTH Aachen University, Templergraben 55, 52062 Aachen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7938418,
+                  "lng" : 6.082644999999999
+               },
+               "southwest" : {
+                  "lat" : 50.7716962,
+                  "lng" : 6.0306104
+               }
+            },
+            "location" : {
+               "lat" : 50.777531,
+               "lng" : 6.077843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7938418,
+                  "lng" : 6.082644999999999
+               },
+               "southwest" : {
+                  "lat" : 50.7716962,
+                  "lng" : 6.0306104
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

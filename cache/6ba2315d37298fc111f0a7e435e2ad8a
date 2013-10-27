@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "27705",
+               "short_name" : "27705",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, NC 27705, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1059459,
+                  "lng" : -78.90533789999999
+               },
+               "southwest" : {
+                  "lat" : 35.952911,
+                  "lng" : -79.04770599999999
+               }
+            },
+            "location" : {
+               "lat" : 36.025609,
+               "lng" : -78.9853813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1059459,
+                  "lng" : -78.90533789999999
+               },
+               "southwest" : {
+                  "lat" : 35.952911,
+                  "lng" : -79.04770599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.07927,
+                  "lng" : -78.86009199999999
+               },
+               "southwest" : {
+                  "lat" : 35.956765,
+                  "lng" : -78.98835
+               }
+            },
+            "location" : {
+               "lat" : 36.028997,
+               "lng" : -78.9061921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.07927,
+                  "lng" : -78.86009199999999
+               },
+               "southwest" : {
+                  "lat" : 35.956765,
+                  "lng" : -78.98835
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

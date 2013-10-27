@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stony Brook University",
+               "short_name" : "Stony Brook University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stony Brook University",
+               "short_name" : "Stony Brook University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Nicolls Road",
+               "short_name" : "Nicolls Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stony Brook",
+               "short_name" : "Stony Brook",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookhaven",
+               "short_name" : "Brookhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11790",
+               "short_name" : "11790",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stony Brook University, 100 Nicolls Road, Stony Brook, NY 11790, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.9148018,
+               "lng" : -73.1203893
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9232332,
+                  "lng" : -73.10438189999999
+               },
+               "southwest" : {
+                  "lat" : 40.9063693,
+                  "lng" : -73.13639669999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

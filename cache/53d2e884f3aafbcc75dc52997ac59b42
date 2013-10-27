@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vandœuvre-lès-Nancy",
+               "short_name" : "Vandœuvre-lès-Nancy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "54",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vandœuvre-lès-Nancy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.677393,
+                  "lng" : 6.19685
+               },
+               "southwest" : {
+                  "lat" : 48.642649,
+                  "lng" : 6.1236549
+               }
+            },
+            "location" : {
+               "lat" : 48.66111799999999,
+               "lng" : 6.17376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.677393,
+                  "lng" : 6.19685
+               },
+               "southwest" : {
+                  "lat" : 48.642649,
+                  "lng" : 6.1236549
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

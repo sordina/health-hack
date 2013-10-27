@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rajampet",
+               "short_name" : "Rajampet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kadapa",
+               "short_name" : "Kadapa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rajampet, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.2100971,
+                  "lng" : 79.1703699
+               },
+               "southwest" : {
+                  "lat" : 14.1793472,
+                  "lng" : 79.14602959999999
+               }
+            },
+            "location" : {
+               "lat" : 14.19547,
+               "lng" : 79.160263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.2100971,
+                  "lng" : 79.1703699
+               },
+               "southwest" : {
+                  "lat" : 14.1793472,
+                  "lng" : 79.14602959999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

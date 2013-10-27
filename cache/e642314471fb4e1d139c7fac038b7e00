@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Qingdao",
+               "short_name" : "Qingdao",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shandong",
+               "short_name" : "Shandong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Qingdao, Shandong, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1491186,
+                  "lng" : 121.3940285
+               },
+               "southwest" : {
+                  "lat" : 35.5819046,
+                  "lng" : 119.5148251
+               }
+            },
+            "location" : {
+               "lat" : 36.067082,
+               "lng" : 120.38264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3313685,
+                  "lng" : 120.6326294
+               },
+               "southwest" : {
+                  "lat" : 35.9407727,
+                  "lng" : 120.0970459
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

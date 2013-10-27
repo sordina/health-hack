@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Tennessee State University",
+               "short_name" : "East Tennessee State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "807",
+               "short_name" : "807",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University Parkway",
+               "short_name" : "University Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Johnson City",
+               "short_name" : "Johnson City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37604",
+               "short_name" : "37604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East Tennessee State University, 807 University Parkway, Johnson City, TN 37604, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3080825,
+                  "lng" : -82.3623357
+               },
+               "southwest" : {
+                  "lat" : 36.2969923,
+                  "lng" : -82.38044529999999
+               }
+            },
+            "location" : {
+               "lat" : 36.3048487,
+               "lng" : -82.36503450000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3080825,
+                  "lng" : -82.3623357
+               },
+               "southwest" : {
+                  "lat" : 36.2969923,
+                  "lng" : -82.38044529999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

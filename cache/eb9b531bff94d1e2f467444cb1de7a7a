@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aichi Prefecture",
+               "short_name" : "Aichi Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aichi Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4248195,
+                  "lng" : 137.8378674
+               },
+               "southwest" : {
+                  "lat" : 34.5780875,
+                  "lng" : 136.6710227
+               }
+            },
+            "location" : {
+               "lat" : 35.1801883,
+               "lng" : 136.9065647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4248195,
+                  "lng" : 137.8378674
+               },
+               "southwest" : {
+                  "lat" : 34.5780875,
+                  "lng" : 136.6710227
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

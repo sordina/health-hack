@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50141",
+               "short_name" : "50141",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Florence",
+               "short_name" : "FI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "50141 Florence, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8352291,
+                  "lng" : 11.269377
+               },
+               "southwest" : {
+                  "lat" : 43.7961089,
+                  "lng" : 11.217722
+               }
+            },
+            "location" : {
+               "lat" : 43.8183793,
+               "lng" : 11.2438778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8352291,
+                  "lng" : 11.269377
+               },
+               "southwest" : {
+                  "lat" : 43.7961089,
+                  "lng" : 11.217722
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

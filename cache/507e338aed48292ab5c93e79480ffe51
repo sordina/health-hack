@@ -1,0 +1,270 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatih/Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.040882,
+                  "lng" : 28.9880719
+               },
+               "southwest" : {
+                  "lat" : 40.987637,
+                  "lng" : 28.919037
+               }
+            },
+            "location" : {
+               "lat" : 41.0168639,
+               "lng" : 28.9470422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.040882,
+                  "lng" : 28.9880719
+               },
+               "southwest" : {
+                  "lat" : 40.987637,
+                  "lng" : 28.919037
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuzla",
+               "short_name" : "Tuzla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatih/Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.933671,
+                  "lng" : 29.353361
+               },
+               "southwest" : {
+                  "lat" : 40.923407,
+                  "lng" : 29.3404411
+               }
+            },
+            "location" : {
+               "lat" : 40.92850079999999,
+               "lng" : 29.3468128
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.933671,
+                  "lng" : 29.353361
+               },
+               "southwest" : {
+                  "lat" : 40.923407,
+                  "lng" : 29.3404411
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34200",
+               "short_name" : "34200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fatih, 34250 Fatih/Istanbul Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.016066,
+               "lng" : 28.9416301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0174149802915,
+                  "lng" : 28.9429790802915
+               },
+               "southwest" : {
+                  "lat" : 41.0147170197085,
+                  "lng" : 28.9402811197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Çatalca",
+               "short_name" : "Çatalca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatih/Istanbul Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.399185,
+                  "lng" : 28.15322
+               },
+               "southwest" : {
+                  "lat" : 41.388921,
+                  "lng" : 28.1402078
+               }
+            },
+            "location" : {
+               "lat" : 41.3937986,
+               "lng" : 28.1459144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.399185,
+                  "lng" : 28.15322
+               },
+               "southwest" : {
+                  "lat" : 41.388921,
+                  "lng" : 28.1402078
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34200",
+               "short_name" : "34200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "İstanbul, 34200 Fatih/Istanbul Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.00892899999999,
+               "lng" : 28.9671149
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.01027798029149,
+                  "lng" : 28.9684638802915
+               },
+               "southwest" : {
+                  "lat" : 41.0075800197085,
+                  "lng" : 28.9657659197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

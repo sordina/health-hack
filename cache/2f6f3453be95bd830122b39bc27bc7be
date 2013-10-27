@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "health care",
+               "short_name" : "health care",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bhagwanpur",
+               "short_name" : "Bhagwanpur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gurdaspur",
+               "short_name" : "Gurdaspur",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "PB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "143511",
+               "short_name" : "143511",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "health care, Bhagwanpur, Punjab 143511, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9407414,
+               "lng" : 75.1158428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9502095,
+                  "lng" : 75.1318502
+               },
+               "southwest" : {
+                  "lat" : 31.9312723,
+                  "lng" : 75.09983540000002
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hangzhou",
+               "short_name" : "Hangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hangzhou, Zhejiang, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5665161,
+                  "lng" : 120.7058943
+               },
+               "southwest" : {
+                  "lat" : 29.18875719999999,
+                  "lng" : 118.3449334
+               }
+            },
+            "location" : {
+               "lat" : 30.274085,
+               "lng" : 120.15507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4743515,
+                  "lng" : 120.4307556
+               },
+               "southwest" : {
+                  "lat" : 30.0484295,
+                  "lng" : 119.9130249
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

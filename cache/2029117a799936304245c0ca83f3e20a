@@ -1,0 +1,725 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Univ-Florida College Dentistry",
+               "short_name" : "Univ-Florida College Dentistry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Univ-Florida College Dentistry, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6395662,
+               "lng" : -82.3450187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6492637,
+                  "lng" : -82.32901129999999
+               },
+               "southwest" : {
+                  "lat" : 29.6298677,
+                  "lng" : -82.36102609999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32603",
+               "short_name" : "32603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Southwest Archer Road, University of Florida, Gainesville, FL 32603, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.639843,
+               "lng" : -82.34338529999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6411919802915,
+                  "lng" : -82.3420363197085
+               },
+               "southwest" : {
+                  "lat" : 29.6384940197085,
+                  "lng" : -82.3447342802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Florida Psychiatry",
+               "short_name" : "University of Florida Psychiatry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Florida Psychiatry, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6398366,
+               "lng" : -82.34336499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6411855802915,
+                  "lng" : -82.34201601970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384876197085,
+                  "lng" : -82.3447139802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Florida: College of Dentistry",
+               "short_name" : "University of Florida: College of Dentistry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Florida: College of Dentistry, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6395662,
+               "lng" : -82.3450187
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6409151802915,
+                  "lng" : -82.34366971970849
+               },
+               "southwest" : {
+                  "lat" : 29.6382172197085,
+                  "lng" : -82.34636768029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shands Department of Otolaryngology: Cassisi Nicholas J MD",
+               "short_name" : "Shands Department of Otolaryngology: Cassisi Nicholas J MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Shands Department of Otolaryngology: Cassisi Nicholas J MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6397986,
+               "lng" : -82.34334489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.64114758029149,
+                  "lng" : -82.34199591970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384496197085,
+                  "lng" : -82.3446938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Florida: Barrett Douglas J MD",
+               "short_name" : "University of Florida: Barrett Douglas J MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Florida: Barrett Douglas J MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6412182,
+               "lng" : -82.3437201
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6425671802915,
+                  "lng" : -82.3423711197085
+               },
+               "southwest" : {
+                  "lat" : 29.6398692197085,
+                  "lng" : -82.34506908029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Univ of Florida Dentistry: Polyak Steven F MD",
+               "short_name" : "Univ of Florida Dentistry: Polyak Steven F MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Univ of Florida Dentistry: Polyak Steven F MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6397986,
+               "lng" : -82.34334489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.64114758029149,
+                  "lng" : -82.34199591970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384496197085,
+                  "lng" : -82.3446938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Lorena M. Acosta, MD",
+               "short_name" : "Dr. Lorena M. Acosta, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Lorena M. Acosta, MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6397986,
+               "lng" : -82.34334489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.64114758029149,
+                  "lng" : -82.34199591970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384496197085,
+                  "lng" : -82.3446938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Richard L. Bucciarelli, MD",
+               "short_name" : "Dr. Richard L. Bucciarelli, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Richard L. Bucciarelli, MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6397986,
+               "lng" : -82.34334489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.64114758029149,
+                  "lng" : -82.34199591970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384496197085,
+                  "lng" : -82.3446938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fernandez Hubert MD",
+               "short_name" : "Fernandez Hubert MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32610",
+               "short_name" : "32610",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3003",
+               "short_name" : "3003",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Fernandez Hubert MD, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32610, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6397986,
+               "lng" : -82.34334489999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.64114758029149,
+                  "lng" : -82.34199591970848
+               },
+               "southwest" : {
+                  "lat" : 29.6384496197085,
+                  "lng" : -82.3446938802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

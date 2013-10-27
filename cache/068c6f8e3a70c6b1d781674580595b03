@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "410078",
+               "short_name" : "410078",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Wujialing Shangquan",
+               "short_name" : "Wujialing Shangquan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kaifu",
+               "short_name" : "Kaifu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Changsha",
+               "short_name" : "Changsha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunan",
+               "short_name" : "Hunan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wujialing Shangquan, Kaifu, Changsha, Hunan, China, 410078",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2146427,
+                  "lng" : 112.9833276
+               },
+               "southwest" : {
+                  "lat" : 28.212735,
+                  "lng" : 112.980349
+               }
+            },
+            "location" : {
+               "lat" : 28.2139566,
+               "lng" : 112.98212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2150378302915,
+                  "lng" : 112.9833276
+               },
+               "southwest" : {
+                  "lat" : 28.2123398697085,
+                  "lng" : 112.980349
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

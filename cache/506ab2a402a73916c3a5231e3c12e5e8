@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Chicago",
+               "short_name" : "North Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shields",
+               "short_name" : "Shields",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lake",
+               "short_name" : "Lake",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Chicago, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3417221,
+                  "lng" : -87.82679569999999
+               },
+               "southwest" : {
+                  "lat" : 42.28763,
+                  "lng" : -87.892415
+               }
+            },
+            "location" : {
+               "lat" : 42.325578,
+               "lng" : -87.8411818
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3417221,
+                  "lng" : -87.82679569999999
+               },
+               "southwest" : {
+                  "lat" : 42.28763,
+                  "lng" : -87.892415
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

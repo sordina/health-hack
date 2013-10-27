@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queen's Medical Research Institute",
+               "short_name" : "Queen's Medical Research Institute",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "The University of Edinburgh Little France Campus",
+               "short_name" : "The University of Edinburgh Little France Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Edinburgh",
+               "short_name" : "City of Edinburgh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EH16 4TJ",
+               "short_name" : "EH16 4TJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Edinburgh",
+               "short_name" : "Edinburgh",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Queen's Medical Research Institute, The University of Edinburgh Little France Campus, Edinburgh, City of Edinburgh EH16 4TJ, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9224967,
+                  "lng" : -3.1384622
+               },
+               "southwest" : {
+                  "lat" : 55.92143249999999,
+                  "lng" : -3.1402722
+               }
+            },
+            "location" : {
+               "lat" : 55.9219565,
+               "lng" : -3.1392233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9233135802915,
+                  "lng" : -3.138018219708498
+               },
+               "southwest" : {
+                  "lat" : 55.9206156197085,
+                  "lng" : -3.140716180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,364 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "King's College London, Strand Campus",
+               "short_name" : "King's College London, Strand Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Strand",
+               "short_name" : "Strand",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2R 2LS",
+               "short_name" : "WC2R 2LS",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "King's College London, Strand Campus, Strand, London WC2R 2LS, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5063456,
+                  "lng" : -0.1108548
+               },
+               "southwest" : {
+                  "lat" : 51.5045911,
+                  "lng" : -0.1140323
+               }
+            },
+            "location" : {
+               "lat" : 51.5054684,
+               "lng" : -0.1124436
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5068173302915,
+                  "lng" : -0.1108548
+               },
+               "southwest" : {
+                  "lat" : 51.5041193697085,
+                  "lng" : -0.1140323
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings College",
+               "short_name" : "Kings College",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "33-41",
+               "short_name" : "33-41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Surrey Street",
+               "short_name" : "Surrey St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC2R 2ND",
+               "short_name" : "WC2R 2ND",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Kings College, 33-41 Surrey Street, London WC2R 2ND, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5119006,
+               "lng" : -0.1157655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51324958029149,
+                  "lng" : -0.114416519708498
+               },
+               "southwest" : {
+                  "lat" : 51.51055161970849,
+                  "lng" : -0.117114480291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings College London",
+               "short_name" : "Kings College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cutcombe Road",
+               "short_name" : "Cutcombe Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE5 9RJ",
+               "short_name" : "SE5 9RJ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Kings College London, 10 Cutcombe Road, London SE5 9RJ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4684068,
+               "lng" : -0.0958306
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.46975578029149,
+                  "lng" : -0.09448161970849797
+               },
+               "southwest" : {
+                  "lat" : 51.46705781970849,
+                  "lng" : -0.09717958029150203
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "King's College London",
+               "short_name" : "King's College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "De Crespigny Park",
+               "short_name" : "De Crespigny Park",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE5 8AF",
+               "short_name" : "SE5 8AF",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "King's College London, De Crespigny Park, London SE5 8AF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.46985950000001,
+               "lng" : -0.0890468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.47120848029151,
+                  "lng" : -0.08769781970849796
+               },
+               "southwest" : {
+                  "lat" : 51.46851051970851,
+                  "lng" : -0.09039578029150204
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings College London",
+               "short_name" : "Kings College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "18-20",
+               "short_name" : "18-20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Newcomen Street",
+               "short_name" : "Newcomen St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE1 1UL",
+               "short_name" : "SE1 1UL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Kings College London, 18-20 Newcomen Street, London SE1 1UL, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5027999,
+               "lng" : -0.08962869999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5041488802915,
+                  "lng" : -0.08827971970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5014509197085,
+                  "lng" : -0.09097768029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kings College London",
+               "short_name" : "Kings College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Kings College Hall of Residence",
+               "short_name" : "Kings College Hall of Residence",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Champion Hill",
+               "short_name" : "Champion Hill",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SE5 8AN",
+               "short_name" : "SE5 8AN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Kings College London, 10 Champion Hill, Kings College Hall of Residence, London SE5 8AN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4645296,
+               "lng" : -0.08798539999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4658785802915,
+                  "lng" : -0.08663641970849796
+               },
+               "southwest" : {
+                  "lat" : 51.4631806197085,
+                  "lng" : -0.08933438029150202
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

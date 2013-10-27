@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahey Clinic",
+               "short_name" : "Lahey Clinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "41",
+               "short_name" : "41",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Burlington Mall Road",
+               "short_name" : "Burlington Mall Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01805",
+               "short_name" : "01805",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lahey Clinic, 41 Burlington Mall Road, Burlington, MA 01805, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4867879,
+                  "lng" : -71.2021929
+               },
+               "southwest" : {
+                  "lat" : 42.4819842,
+                  "lng" : -71.207424
+               }
+            },
+            "location" : {
+               "lat" : 42.4846958,
+               "lng" : -71.20500439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4867879,
+                  "lng" : -71.2021929
+               },
+               "southwest" : {
+                  "lat" : 42.4819842,
+                  "lng" : -71.207424
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

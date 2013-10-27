@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Georgetown University Hospital",
+               "short_name" : "Georgetown University Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Georgetown University",
+               "short_name" : "Georgetown University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3800",
+               "short_name" : "3800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Reservoir Road Northwest",
+               "short_name" : "Reservoir Rd NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20007",
+               "short_name" : "20007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Georgetown University Hospital, Georgetown University, 3800 Reservoir Road Northwest, Washington, DC 20007, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.9105638,
+               "lng" : -77.07434019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9192456,
+                  "lng" : -77.0583328
+               },
+               "southwest" : {
+                  "lat" : 38.90188089999999,
+                  "lng" : -77.0903476
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

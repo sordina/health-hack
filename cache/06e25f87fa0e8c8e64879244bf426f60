@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Triemli",
+               "short_name" : "Triemli",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zurich",
+               "short_name" : "Zurich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zurich District",
+               "short_name" : "Zurich District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8055",
+               "short_name" : "8055",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Triemli, 8055 Zurich, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.3680702,
+               "lng" : 8.4953859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3756268,
+                  "lng" : 8.5113933
+               },
+               "southwest" : {
+                  "lat" : 47.3605125,
+                  "lng" : 8.479378499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khamis Mushait",
+               "short_name" : "Khamis Mushait",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Asir Province",
+               "short_name" : "Asir Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Saudi Arabia",
+               "short_name" : "SA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Khamis Mushait Saudi Arabia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.3535886,
+                  "lng" : 42.8322113
+               },
+               "southwest" : {
+                  "lat" : 18.2170887,
+                  "lng" : 42.6563931
+               }
+            },
+            "location" : {
+               "lat" : 18.3,
+               "lng" : 42.7333333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.3535886,
+                  "lng" : 42.8322113
+               },
+               "southwest" : {
+                  "lat" : 18.2170887,
+                  "lng" : 42.6563931
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

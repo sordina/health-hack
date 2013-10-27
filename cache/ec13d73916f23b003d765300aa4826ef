@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical University of Warsaw",
+               "short_name" : "Medical University of Warsaw",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Żwirki i Wigury",
+               "short_name" : "Żwirki i Wigury",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ochota",
+               "short_name" : "Ochota",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical University of Warsaw, Żwirki i Wigury 61, Warsaw, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.2054756,
+               "lng" : 20.9856428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.21231299999999,
+                  "lng" : 21.0016502
+               },
+               "southwest" : {
+                  "lat" : 52.1986371,
+                  "lng" : 20.9696354
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

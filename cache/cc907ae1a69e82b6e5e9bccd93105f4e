@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "330-8503",
+               "short_name" : "330-8503",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Omiya Ward",
+               "short_name" : "Omiya Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saitama",
+               "short_name" : "Saitama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saitama Prefecture",
+               "short_name" : "Saitama Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omiya Ward, Saitama, Saitama Prefecture 330-8503, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.9112836,
+                  "lng" : 139.6464844
+               },
+               "southwest" : {
+                  "lat" : 35.9065954,
+                  "lng" : 139.6413835
+               }
+            },
+            "location" : {
+               "lat" : 35.9071426,
+               "lng" : 139.6452834
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9087736302915,
+                  "lng" : 139.6471957302915
+               },
+               "southwest" : {
+                  "lat" : 35.9060756697085,
+                  "lng" : 139.6444977697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

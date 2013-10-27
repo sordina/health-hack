@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cona",
+               "short_name" : "Cona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "Ferrara",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "FE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cona Ferrara, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8098605,
+                  "lng" : 11.7186363
+               },
+               "southwest" : {
+                  "lat" : 44.8014635,
+                  "lng" : 11.6903828
+               }
+            },
+            "location" : {
+               "lat" : 44.8060573,
+               "lng" : 11.7097416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8098605,
+                  "lng" : 11.7186363
+               },
+               "southwest" : {
+                  "lat" : 44.8014635,
+                  "lng" : 11.6903828
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

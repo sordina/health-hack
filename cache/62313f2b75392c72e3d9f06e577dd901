@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mashhad University of Medical Sciences",
+               "short_name" : "Mashhad University of Medical Sciences",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mashhad",
+               "short_name" : "Mashhad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khorasan Razavi",
+               "short_name" : "Khorasan Razavi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mashhad University of Medical Sciences, Mashhad, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2861071,
+                  "lng" : 59.5436187
+               },
+               "southwest" : {
+                  "lat" : 36.2719271,
+                  "lng" : 59.5265704
+               }
+            },
+            "location" : {
+               "lat" : 36.2789496,
+               "lng" : 59.5339941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2861071,
+                  "lng" : 59.5436187
+               },
+               "southwest" : {
+                  "lat" : 36.2719271,
+                  "lng" : 59.5265704
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

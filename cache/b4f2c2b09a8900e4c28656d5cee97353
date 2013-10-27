@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Washington",
+               "short_name" : "UW",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1410",
+               "short_name" : "1410",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northeast Campus Parkway",
+               "short_name" : "Northeast Campus Parkway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98195",
+               "short_name" : "98195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Washington, 1410 Northeast Campus Parkway, Seattle, WA 98195, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.66326919999999,
+                  "lng" : -122.2876033
+               },
+               "southwest" : {
+                  "lat" : 47.6473445,
+                  "lng" : -122.3219292
+               }
+            },
+            "location" : {
+               "lat" : 47.6554211,
+               "lng" : -122.3061342
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.66326919999999,
+                  "lng" : -122.2876033
+               },
+               "southwest" : {
+                  "lat" : 47.6473445,
+                  "lng" : -122.3219292
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

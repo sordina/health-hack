@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "310058",
+               "short_name" : "310058",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xihu",
+               "short_name" : "Xihu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hangzhou",
+               "short_name" : "Hangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xihu, Hangzhou, Zhejiang, China, 310058",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3101186,
+                  "lng" : 120.1026277
+               },
+               "southwest" : {
+                  "lat" : 30.29528079999999,
+                  "lng" : 120.0852988
+               }
+            },
+            "location" : {
+               "lat" : 30.30874979999999,
+               "lng" : 120.0863657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3106313802915,
+                  "lng" : 120.0873698802915
+               },
+               "southwest" : {
+                  "lat" : 30.3079334197085,
+                  "lng" : 120.0846719197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

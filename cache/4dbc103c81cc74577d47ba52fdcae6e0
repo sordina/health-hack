@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Incheon",
+               "short_name" : "Incheon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Incheon, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.982666,
+                  "lng" : 126.7936272
+               },
+               "southwest" : {
+                  "lat" : 37.0063057,
+                  "lng" : 124.6081391
+               }
+            },
+            "location" : {
+               "lat" : 37.4562557,
+               "lng" : 126.7052062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.57000000000001,
+                  "lng" : 126.7521
+               },
+               "southwest" : {
+                  "lat" : 37.35910000000001,
+                  "lng" : 126.5966
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

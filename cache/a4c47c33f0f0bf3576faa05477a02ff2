@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mcfarland Clinic",
+               "short_name" : "Mcfarland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Duff Avenue",
+               "short_name" : "Duff Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ames",
+               "short_name" : "Ames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Story",
+               "short_name" : "Story",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50010",
+               "short_name" : "50010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mcfarland Clinic, 1015 Duff Avenue, Ames, IA 50010, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.031623,
+               "lng" : -93.61106300000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0399103,
+                  "lng" : -93.59505559999999
+               },
+               "southwest" : {
+                  "lat" : 42.0233346,
+                  "lng" : -93.62707039999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

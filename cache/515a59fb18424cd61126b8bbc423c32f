@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tunis",
+               "short_name" : "Tunis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Médina de Tunis",
+               "short_name" : "Médina de Tunis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tunis",
+               "short_name" : "Tunis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Tunisia",
+               "short_name" : "TN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tunis, Tunisia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9051768,
+                  "lng" : 10.2945716
+               },
+               "southwest" : {
+                  "lat" : 36.7413872,
+                  "lng" : 10.0748061
+               }
+            },
+            "location" : {
+               "lat" : 36.81881,
+               "lng" : 10.16596
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9051768,
+                  "lng" : 10.2945716
+               },
+               "southwest" : {
+                  "lat" : 36.7413872,
+                  "lng" : 10.0748061
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

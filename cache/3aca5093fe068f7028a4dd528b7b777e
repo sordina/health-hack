@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pasteur Drive",
+               "short_name" : "Pasteur Drive",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Prunyard / Dry Creek",
+               "short_name" : "Prunyard / Dry Creek",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94304",
+               "short_name" : "94304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "300 Pasteur Drive, Stanford, CA 94304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.2910091,
+               "lng" : -121.9331475
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.29235808029149,
+                  "lng" : -121.9317985197085
+               },
+               "southwest" : {
+                  "lat" : 37.28966011970849,
+                  "lng" : -121.9344964802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

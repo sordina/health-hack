@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14214",
+               "short_name" : "14214",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY 14214, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.958228,
+                  "lng" : -78.8173559
+               },
+               "southwest" : {
+                  "lat" : 42.919143,
+                  "lng" : -78.866085
+               }
+            },
+            "location" : {
+               "lat" : 42.9334868,
+               "lng" : -78.84392679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.958228,
+                  "lng" : -78.8173559
+               },
+               "southwest" : {
+                  "lat" : 42.919143,
+                  "lng" : -78.866085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

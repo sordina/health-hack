@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Illinois at Chicago - West",
+               "short_name" : "UIC",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Near West Side",
+               "short_name" : "Near West Side",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chicago",
+               "short_name" : "Chicago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cook",
+               "short_name" : "Cook",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60612",
+               "short_name" : "60612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Illinois at Chicago - West, Chicago, IL 60612, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8749694,
+                  "lng" : -87.66388189999999
+               },
+               "southwest" : {
+                  "lat" : 41.8610116,
+                  "lng" : -87.68378919999999
+               }
+            },
+            "location" : {
+               "lat" : 41.8700726,
+               "lng" : -87.6716747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8727086,
+                  "lng" : -87.6665103
+               },
+               "southwest" : {
+                  "lat" : 41.8650307,
+                  "lng" : -87.6825607
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Timone",
+               "short_name" : "La Timone",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "13",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "PACA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Timone, Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2916732,
+                  "lng" : 5.425815699999999
+               },
+               "southwest" : {
+                  "lat" : 43.28284499999999,
+                  "lng" : 5.398727699999999
+               }
+            },
+            "location" : {
+               "lat" : 43.2877314,
+               "lng" : 5.413799399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2916732,
+                  "lng" : 5.425815699999999
+               },
+               "southwest" : {
+                  "lat" : 43.28284499999999,
+                  "lng" : 5.398727699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

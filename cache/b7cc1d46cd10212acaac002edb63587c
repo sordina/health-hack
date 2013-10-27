@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Würzburg",
+               "short_name" : "University of Würzburg",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sanderring",
+               "short_name" : "Sanderring",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Altstadt",
+               "short_name" : "Altstadt",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Franconia",
+               "short_name" : "Lower Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "97070",
+               "short_name" : "97070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Würzburg, Sanderring 2, 97070 Würzburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8089609,
+                  "lng" : 9.978048299999999
+               },
+               "southwest" : {
+                  "lat" : 49.773495,
+                  "lng" : 9.9260149
+               }
+            },
+            "location" : {
+               "lat" : 49.7822291,
+               "lng" : 9.9676168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7892428,
+                  "lng" : 9.978048299999999
+               },
+               "southwest" : {
+                  "lat" : 49.773495,
+                  "lng" : 9.9618787
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

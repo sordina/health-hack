@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40225",
+               "short_name" : "40225",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dusseldorf",
+               "short_name" : "Dusseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "40225 Dusseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.20919800000001,
+                  "lng" : 6.807941899999999
+               },
+               "southwest" : {
+                  "lat" : 51.17991300000001,
+                  "lng" : 6.772607
+               }
+            },
+            "location" : {
+               "lat" : 51.19743750000001,
+               "lng" : 6.7898817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.20919800000001,
+                  "lng" : 6.807941899999999
+               },
+               "southwest" : {
+                  "lat" : 51.17991300000001,
+                  "lng" : 6.772607
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

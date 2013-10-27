@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virginia Commonwealth University",
+               "short_name" : "Virginia Commonwealth University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "821",
+               "short_name" : "821",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Franklin Street",
+               "short_name" : "West Franklin Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23284",
+               "short_name" : "23284",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Virginia Commonwealth University, 821 West Franklin Street, Richmond, VA 23284, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5545334,
+                  "lng" : -77.42299659999999
+               },
+               "southwest" : {
+                  "lat" : 37.5381966,
+                  "lng" : -77.4578875
+               }
+            },
+            "location" : {
+               "lat" : 37.5489872,
+               "lng" : -77.4534286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5545334,
+                  "lng" : -77.44611069999999
+               },
+               "southwest" : {
+                  "lat" : 37.5418817,
+                  "lng" : -77.4578875
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

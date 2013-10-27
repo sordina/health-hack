@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Copenhagen",
+               "short_name" : "University of Copenhagen",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6",
+               "short_name" : "6",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Studiestræde",
+               "short_name" : "Studiestræde",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "København K",
+               "short_name" : "København K",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1455",
+               "short_name" : "1455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Copenhagen, Studiestræde 6, 1455 København K, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7044989,
+                  "lng" : 12.593187
+               },
+               "southwest" : {
+                  "lat" : 55.6601882,
+                  "lng" : 12.5379086
+               }
+            },
+            "location" : {
+               "lat" : 55.6801792,
+               "lng" : 12.5407215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6864037,
+                  "lng" : 12.5463676
+               },
+               "southwest" : {
+                  "lat" : 55.6783971,
+                  "lng" : 12.5379086
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

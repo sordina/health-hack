@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maastricht University",
+               "short_name" : "Maastricht University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Minderbroedersberg",
+               "short_name" : "Minderbroedersberg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Maastricht",
+               "short_name" : "Maastricht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maastricht",
+               "short_name" : "Maastricht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6211 LK",
+               "short_name" : "6211 LK",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Maastricht University, Minderbroedersberg 4, 6211 LK Maastricht, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8507845,
+                  "lng" : 5.6912721
+               },
+               "southwest" : {
+                  "lat" : 50.8439815,
+                  "lng" : 5.6834495
+               }
+            },
+            "location" : {
+               "lat" : 50.8457732,
+               "lng" : 5.6872376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8464166302915,
+                  "lng" : 5.690707799999999
+               },
+               "southwest" : {
+                  "lat" : 50.8437186697085,
+                  "lng" : 5.6834495
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

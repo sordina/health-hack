@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universidade Federal de São Paulo - UNIFESP",
+               "short_name" : "Universidade Federal de São Paulo - UNIFESP",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Sena Madureira",
+               "short_name" : "R. Sena Madureira",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Mariana",
+               "short_name" : "Vila Mariana",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04021-001",
+               "short_name" : "04021-001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universidade Federal de São Paulo - UNIFESP - Rua Sena Madureira, 1500 - Vila Mariana, São Paulo, 04021-001, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.5918478,
+               "lng" : -46.6494544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.581622,
+                  "lng" : -46.633447
+               },
+               "southwest" : {
+                  "lat" : -23.6020728,
+                  "lng" : -46.6654618
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

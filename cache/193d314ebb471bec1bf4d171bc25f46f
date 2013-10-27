@@ -1,0 +1,390 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weill Cornell Medical College",
+               "short_name" : "Weill Cornell Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "445",
+               "short_name" : "445",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 69th Street",
+               "short_name" : "E 69th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5664",
+               "short_name" : "5664",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Weill Cornell Medical College, 445 East 69th Street, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7654321,
+               "lng" : -73.9550206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7738825,
+                  "lng" : -73.93901319999999
+               },
+               "southwest" : {
+                  "lat" : 40.7569806,
+                  "lng" : -73.97102799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weill Cornell Medical College",
+               "short_name" : "Weill Cornell Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "York Avenue",
+               "short_name" : "York Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10065",
+               "short_name" : "10065",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Weill Cornell Medical College, York Avenue, Manhattan, NY 10065, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7654968,
+               "lng" : -73.9549504
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7668457802915,
+                  "lng" : -73.95360141970849
+               },
+               "southwest" : {
+                  "lat" : 40.7641478197085,
+                  "lng" : -73.95629938029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weill Cornell Medical College",
+               "short_name" : "Weill Cornell Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "530",
+               "short_name" : "530",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 70th Street",
+               "short_name" : "E 70th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9800",
+               "short_name" : "9800",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Weill Cornell Medical College, 530 East 70th Street, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7654726,
+               "lng" : -73.9541036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7668215802915,
+                  "lng" : -73.95275461970849
+               },
+               "southwest" : {
+                  "lat" : 40.7641236197085,
+                  "lng" : -73.95545258029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weill Cornell Medical College",
+               "short_name" : "Weill Cornell Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "400",
+               "short_name" : "400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 67th Street",
+               "short_name" : "E 67th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10065",
+               "short_name" : "10065",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "6324",
+               "short_name" : "6324",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Weill Cornell Medical College, 400 East 67th Street, New York, NY 10065, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7645809,
+               "lng" : -73.95807049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7659298802915,
+                  "lng" : -73.95672151970849
+               },
+               "southwest" : {
+                  "lat" : 40.7632319197085,
+                  "lng" : -73.9594194802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weill Cornell Medical College",
+               "short_name" : "Weill Cornell Medical College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1305",
+               "short_name" : "1305",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "York Avenue",
+               "short_name" : "York Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5663",
+               "short_name" : "5663",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Weill Cornell Medical College, 1305 York Avenue, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7654751,
+               "lng" : -73.9553901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76682408029149,
+                  "lng" : -73.95404111970851
+               },
+               "southwest" : {
+                  "lat" : 40.76412611970849,
+                  "lng" : -73.95673908029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

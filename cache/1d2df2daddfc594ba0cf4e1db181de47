@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ochsner Clinic Foundation",
+               "short_name" : "Ochsner Clinic Foundation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "101",
+               "short_name" : "101",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Robert E Lee Boulevard",
+               "short_name" : "Robert E Lee Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lake Shore - Lake Vista",
+               "short_name" : "Lake Shore - Lake Vista",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70124",
+               "short_name" : "70124",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2476",
+               "short_name" : "2476",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Ochsner Clinic Foundation, 101 Robert E Lee Boulevard, New Orleans, LA 70124, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.02062549999999,
+               "lng" : -90.11386619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.0302861,
+                  "lng" : -90.09785880000001
+               },
+               "southwest" : {
+                  "lat" : 30.0109639,
+                  "lng" : -90.1298736
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

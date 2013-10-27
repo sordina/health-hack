@@ -1,0 +1,567 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Angell",
+               "short_name" : "Angell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2841973,
+               "lng" : -83.7346575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2855462802915,
+                  "lng" : -83.7333085197085
+               },
+               "southwest" : {
+                  "lat" : 42.2828483197085,
+                  "lng" : -83.73600648029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92161",
+               "short_name" : "92161",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, University of California - San Diego, School of Medicine, San Diego, CA 92161, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8755664,
+               "lng" : -117.2360738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8769153802915,
+                  "lng" : -117.2347248197085
+               },
+               "southwest" : {
+                  "lat" : 32.8742174197085,
+                  "lng" : -117.2374227802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Washington",
+               "short_name" : "UW",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Northeast Seattle",
+               "short_name" : "Northeast Seattle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Seattle",
+               "short_name" : "Seattle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "King County",
+               "short_name" : "King County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98195",
+               "short_name" : "98195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, University of Washington, Seattle, WA 98195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.6504784,
+               "lng" : -122.3091839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6518273802915,
+                  "lng" : -122.3078349197085
+               },
+               "southwest" : {
+                  "lat" : 47.6491294197085,
+                  "lng" : -122.3105328802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pennsylvania",
+               "short_name" : "University of Pennsylvania",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University City",
+               "short_name" : "University City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19104",
+               "short_name" : "19104",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, University of Pennsylvania, Philadelphia, PA 19104, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9482048,
+               "lng" : -75.1965864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9495537802915,
+                  "lng" : -75.1952374197085
+               },
+               "southwest" : {
+                  "lat" : 39.9468558197085,
+                  "lng" : -75.19793538029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Druid Hills",
+               "short_name" : "Druid Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30329",
+               "short_name" : "30329",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, Emory University, Druid Hills, GA 30329, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7966585,
+               "lng" : -84.3234427
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8059305,
+                  "lng" : -84.30743529999999
+               },
+               "southwest" : {
+                  "lat" : 33.78738550000001,
+                  "lng" : -84.33945009999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Tennessee Health Science Center",
+               "short_name" : "The University of Tennessee Health Science Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Memphis",
+               "short_name" : "Memphis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby",
+               "short_name" : "Shelby",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38103",
+               "short_name" : "38103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, The University of Tennessee Health Science Center, Memphis, TN 38103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.1411524,
+               "lng" : -90.0300575
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.14250138029149,
+                  "lng" : -90.02870851970849
+               },
+               "southwest" : {
+                  "lat" : 35.13980341970849,
+                  "lng" : -90.03140648029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Minnesota",
+               "short_name" : "University of Minnesota",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University of Minnesota - Twin Cities",
+               "short_name" : "University of Minnesota - Twin Cities",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, Mississippi National River and Recreation Area, University of Minnesota, Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9731798,
+               "lng" : -93.2335126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.97452878029149,
+                  "lng" : -93.23216361970849
+               },
+               "southwest" : {
+                  "lat" : 44.9718308197085,
+                  "lng" : -93.23486158029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Vanderbilt University",
+               "short_name" : "Vanderbilt University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson",
+               "short_name" : "Davidson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37212",
+               "short_name" : "37212",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, Vanderbilt University, Nashville, TN 37212, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1408081,
+               "lng" : -86.8027965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1421570802915,
+                  "lng" : -86.80144751970849
+               },
+               "southwest" : {
+                  "lat" : 36.1394591197085,
+                  "lng" : -86.8041454802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pharmacology",
+               "short_name" : "Department of Pharmacology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The Ohio State University",
+               "short_name" : "The Ohio State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "The Ohio State University",
+               "short_name" : "The Ohio State University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin",
+               "short_name" : "Franklin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "43210",
+               "short_name" : "43210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pharmacology, The Ohio State University, Columbus, OH 43210, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9938985,
+               "lng" : -83.0162033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9952474802915,
+                  "lng" : -83.0148543197085
+               },
+               "southwest" : {
+                  "lat" : 39.9925495197085,
+                  "lng" : -83.01755228029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

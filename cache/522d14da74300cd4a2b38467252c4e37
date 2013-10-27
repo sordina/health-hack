@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waid",
+               "short_name" : "Waid",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Zurich",
+               "short_name" : "Zurich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zurich District",
+               "short_name" : "Zurich District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canton of Zurich",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8037",
+               "short_name" : "8037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waid, 8037 Zurich, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.3999877,
+               "lng" : 8.518132699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4075397,
+                  "lng" : 8.5341401
+               },
+               "southwest" : {
+                  "lat" : 47.39243459999999,
+                  "lng" : 8.502125299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

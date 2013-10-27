@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walden University",
+               "short_name" : "Walden University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "900",
+               "short_name" : "900",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "100",
+               "short_name" : "100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Washington Avenue South",
+               "short_name" : "Washington Ave S",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown West",
+               "short_name" : "Downtown West",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55401",
+               "short_name" : "55401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Walden University, 100 Washington Avenue South #900, Minneapolis, MN 55401, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.981374,
+               "lng" : -93.265738
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9892659,
+                  "lng" : -93.24973059999999
+               },
+               "southwest" : {
+                  "lat" : 44.973481,
+                  "lng" : -93.28174539999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

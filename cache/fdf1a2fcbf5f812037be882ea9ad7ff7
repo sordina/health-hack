@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faculty Of Health Sciences",
+               "short_name" : "Faculty Of Health Sciences",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "McMaster University",
+               "short_name" : "McMaster University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1280",
+               "short_name" : "1280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street West",
+               "short_name" : "Main St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cootes Paradise A",
+               "short_name" : "Cootes Paradise A",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "L8S 4K1",
+               "short_name" : "L8S 4K1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faculty Of Health Sciences, McMaster University, 1280 Main Street West, Hamilton, ON L8S 4K1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2600234,
+               "lng" : -79.91822519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2681487,
+                  "lng" : -79.9022178
+               },
+               "southwest" : {
+                  "lat" : 43.251897,
+                  "lng" : -79.9342326
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

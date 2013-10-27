@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Miami Beach",
+               "short_name" : "Miami Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miami-Dade",
+               "short_name" : "Miami-Dade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Miami Beach, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8728059,
+                  "lng" : -80.11852209999999
+               },
+               "southwest" : {
+                  "lat" : 25.7551026,
+                  "lng" : -80.170091
+               }
+            },
+            "location" : {
+               "lat" : 25.790654,
+               "lng" : -80.13004549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8728059,
+                  "lng" : -80.11852209999999
+               },
+               "southwest" : {
+                  "lat" : 25.7551026,
+                  "lng" : -80.170091
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

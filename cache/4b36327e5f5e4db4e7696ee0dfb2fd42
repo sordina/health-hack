@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Para",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belém - Pará, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.048881,
+                  "lng" : -48.298632
+               },
+               "southwest" : {
+                  "lat" : -1.5224489,
+                  "lng" : -48.56579370000001
+               }
+            },
+            "location" : {
+               "lat" : -1.4550205,
+               "lng" : -48.5023682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.048881,
+                  "lng" : -48.298632
+               },
+               "southwest" : {
+                  "lat" : -1.5224489,
+                  "lng" : -48.56579370000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bupyeong-gu",
+               "short_name" : "Bupyeong-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Incheon",
+               "short_name" : "Incheon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bupyeong-gu, Incheon, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5243026,
+                  "lng" : 126.7703415
+               },
+               "southwest" : {
+                  "lat" : 37.46496399999999,
+                  "lng" : 126.6829138
+               }
+            },
+            "location" : {
+               "lat" : 37.5069818,
+               "lng" : 126.7217739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5243026,
+                  "lng" : 126.7703415
+               },
+               "southwest" : {
+                  "lat" : 37.46496399999999,
+                  "lng" : 126.6829138
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical University of Silesia",
+               "short_name" : "Medical University of Silesia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medyków",
+               "short_name" : "Medyków",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Katowice",
+               "short_name" : "Katowice",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Silesian Voivodeship",
+               "short_name" : "Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical University of Silesia, Medyków 18, Katowice, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.2250632,
+               "lng" : 18.9539479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2322013,
+                  "lng" : 18.9699553
+               },
+               "southwest" : {
+                  "lat" : 50.2179241,
+                  "lng" : 18.9379405
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

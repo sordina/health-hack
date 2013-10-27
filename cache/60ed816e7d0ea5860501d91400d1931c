@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joan C. Edwards School of Medicine at Marshall University",
+               "short_name" : "Joan C. Edwards School of Medicine at Marshall University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Drive",
+               "short_name" : "Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Huntington",
+               "short_name" : "Huntington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cabell",
+               "short_name" : "Cabell",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25701",
+               "short_name" : "25701",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Joan C. Edwards School of Medicine at Marshall University, 1600 Medical Center Drive, Huntington, WV 25701, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.408767,
+               "lng" : -82.426782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4175099,
+                  "lng" : -82.4107746
+               },
+               "southwest" : {
+                  "lat" : 38.4000231,
+                  "lng" : -82.4427894
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

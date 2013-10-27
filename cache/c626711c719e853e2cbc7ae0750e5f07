@@ -1,0 +1,251 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Medical Imaging",
+               "short_name" : "Department of Medical Imaging",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Plzeň 1",
+               "short_name" : "Plzeň 1",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Plzen",
+               "short_name" : "Plzen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plzeň-City District",
+               "short_name" : "Plzeň-City District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plzeň Region",
+               "short_name" : "Plzeň Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "323 00",
+               "short_name" : "323 00",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Medical Imaging, 323 00 Plzeň 1, Czech Republic",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.7627489,
+               "lng" : 13.3792058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.76409788029149,
+                  "lng" : 13.3805547802915
+               },
+               "southwest" : {
+                  "lat" : 49.7613999197085,
+                  "lng" : 13.3778568197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of \"Diagnostic Imaging\"",
+               "short_name" : "Department of \"Diagnostic Imaging\"",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4027",
+               "short_name" : "4027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of \"Diagnostic Imaging\", 4027 Plovdiv, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1586349,
+               "lng" : 24.7170293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1669057,
+                  "lng" : 24.7330367
+               },
+               "southwest" : {
+                  "lat" : 42.1503631,
+                  "lng" : 24.7010219
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Imaging Department",
+               "short_name" : "Medical Imaging Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Woodland Road",
+               "short_name" : "Woodland Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint Helena",
+               "short_name" : "St Helena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Napa County",
+               "short_name" : "Napa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94574",
+               "short_name" : "94574",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9554",
+               "short_name" : "9554",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Medical Imaging Department, 10 Woodland Road, Saint Helena, CA 94574, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.5393669,
+               "lng" : -122.4730562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5407158802915,
+                  "lng" : -122.4717072197085
+               },
+               "southwest" : {
+                  "lat" : 38.5380179197085,
+                  "lng" : -122.4744051802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pathology and Imaging Department",
+               "short_name" : "Pathology and Imaging Department",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Lanmadaw Street",
+               "short_name" : "Lanmadaw Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Latha",
+               "short_name" : "Latha",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Yangon",
+               "short_name" : "Yangon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yangon Region",
+               "short_name" : "Yangon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Myanmar (Burma)",
+               "short_name" : "MM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pathology and Imaging Department, Lanmadaw Street, Yangon, Myanmar (Burma)",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.7788524,
+                  "lng" : 96.1492485
+               },
+               "southwest" : {
+                  "lat" : 16.7784673,
+                  "lng" : 96.14852429999999
+               }
+            },
+            "location" : {
+               "lat" : 16.7787149,
+               "lng" : 96.1486391
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.7800088302915,
+                  "lng" : 96.15023538029151
+               },
+               "southwest" : {
+                  "lat" : 16.7773108697085,
+                  "lng" : 96.1475374197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

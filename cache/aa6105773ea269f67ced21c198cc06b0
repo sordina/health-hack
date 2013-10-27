@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UniMi Facoltà di Farmacia",
+               "short_name" : "UniMi Facoltà di Farmacia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giuseppe Balzaretti",
+               "short_name" : "Via Giuseppe Balzaretti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20133",
+               "short_name" : "20133",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UniMi Facoltà di Farmacia, Via Giuseppe Balzaretti, 9, 20133 Milan, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.47696939999999,
+               "lng" : 9.220880899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4847928,
+                  "lng" : 9.2368883
+               },
+               "southwest" : {
+                  "lat" : 45.4691449,
+                  "lng" : 9.2048735
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Statistics",
+               "short_name" : "Department of Statistics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Rice University",
+               "short_name" : "Rice University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "6100",
+               "short_name" : "6100",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Central Houston",
+               "short_name" : "South Central Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77005",
+               "short_name" : "77005",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Statistics, Rice University, 6100, Houston, TX 77005, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.720139,
+               "lng" : -95.3987212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7298288,
+                  "lng" : -95.38271379999999
+               },
+               "southwest" : {
+                  "lat" : 29.7104483,
+                  "lng" : -95.41472859999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Statistics",
+               "short_name" : "Department of Statistics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Texas A&M University",
+               "short_name" : "Texas A&M University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "155",
+               "short_name" : "155",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ireland Street",
+               "short_name" : "Ireland St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "College Station",
+               "short_name" : "College Station",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos",
+               "short_name" : "Brazos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77840",
+               "short_name" : "77840",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Statistics, Texas A&M University, 155 Ireland Street, College Station, TX 77840, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.6195719,
+               "lng" : -96.34213389999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.6209208802915,
+                  "lng" : -96.34078491970848
+               },
+               "southwest" : {
+                  "lat" : 30.6182229197085,
+                  "lng" : -96.3434828802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Irwon-dong",
+               "short_name" : "Irwon-dong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gangnam-gu",
+               "short_name" : "Gangnam-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "135-239",
+               "short_name" : "135-239",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Irwon-dong, Gangnam-gu, Seoul, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4889432,
+               "lng" : 127.0876424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4977962,
+                  "lng" : 127.1036498
+               },
+               "southwest" : {
+                  "lat" : 37.4800891,
+                  "lng" : 127.071635
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "political" ]
+      }
+   ],
+   "status" : "OK"
+}

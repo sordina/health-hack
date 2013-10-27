@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Otago, Christchurch",
+               "short_name" : "University of Otago, Christchurch",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Riccarton Avenue",
+               "short_name" : "Riccarton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Christchurch Central",
+               "short_name" : "Christchurch Central",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "8011",
+               "short_name" : "8011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Otago, Christchurch, 2 Riccarton Avenue, Christchurch Central, Christchurch 8011, New Zealand",
+         "geometry" : {
+            "location" : {
+               "lat" : -43.5346791,
+               "lng" : 172.6258416
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.5265895,
+                  "lng" : 172.641849
+               },
+               "southwest" : {
+                  "lat" : -43.5427676,
+                  "lng" : 172.6098342
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alexandroupolis",
+               "short_name" : "Alexandroupolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alexandroupoli",
+               "short_name" : "Alexandroupoli",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Alexandroupoli",
+               "short_name" : "Alexandroupoli",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Evros",
+               "short_name" : "Evros",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Macedonia and Thrace",
+               "short_name" : "East Macedonia and Thrace",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Makedonia Thraki",
+               "short_name" : "Makedonia Thraki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alexandroupolis, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.86421989999999,
+                  "lng" : 25.8996343
+               },
+               "southwest" : {
+                  "lat" : 40.8385054,
+                  "lng" : 25.851028
+               }
+            },
+            "location" : {
+               "lat" : 40.8457193,
+               "lng" : 25.873962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86421989999999,
+                  "lng" : 25.8996343
+               },
+               "southwest" : {
+                  "lat" : 40.8385054,
+                  "lng" : 25.851028
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

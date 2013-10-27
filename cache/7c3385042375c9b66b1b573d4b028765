@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Wolverhampton",
+               "short_name" : "University of Wolverhampton",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Wulfruna Street",
+               "short_name" : "Wulfruna St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wolverhampton",
+               "short_name" : "Wolverhampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Midlands",
+               "short_name" : "West Mids",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WV1 1LY",
+               "short_name" : "WV1 1LY",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Wolverhampton",
+               "short_name" : "Wolverhampton",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Wolverhampton, Wulfruna Street, Wolverhampton, West Midlands WV1 1LY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6856571,
+                  "lng" : -2.1260411
+               },
+               "southwest" : {
+                  "lat" : 52.5861348,
+                  "lng" : -2.4276612
+               }
+            },
+            "location" : {
+               "lat" : 52.5878537,
+               "lng" : -2.1272885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.59622,
+                  "lng" : -2.1260411
+               },
+               "southwest" : {
+                  "lat" : 52.5870939,
+                  "lng" : -2.1310783
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

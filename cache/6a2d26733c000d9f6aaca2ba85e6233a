@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bad Apotheke Stübler",
+               "short_name" : "Bad Apotheke Stübler",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bahnhofstraße",
+               "short_name" : "Bahnhofstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bad Krozingen",
+               "short_name" : "Bad Krozingen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bad Krozingen",
+               "short_name" : "Bad Krozingen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breisgau-Hochschwarzwald",
+               "short_name" : "Breisgau-Hochschwarzwald",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Wurttemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79189",
+               "short_name" : "79189",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bad Apotheke Stübler, Bahnhofstraße 23, 79189 Bad Krozingen, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.9174854,
+               "lng" : 7.6980151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9249629,
+                  "lng" : 7.7140225
+               },
+               "southwest" : {
+                  "lat" : 47.9100068,
+                  "lng" : 7.682007700000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

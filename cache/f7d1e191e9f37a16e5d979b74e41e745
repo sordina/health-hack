@@ -1,0 +1,68 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physiology",
+               "short_name" : "Department of Physiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wayne State University",
+               "short_name" : "Wayne State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48201",
+               "short_name" : "48201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physiology, Wayne State University, Wayne State University School of Medicine, Wayne State University, Detroit, MI 48201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3544337,
+               "lng" : -83.0559105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3626788,
+                  "lng" : -83.03990309999999
+               },
+               "southwest" : {
+                  "lat" : 42.3461875,
+                  "lng" : -83.0719179
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sri Aurobindo Institute of Medical Sciences",
+               "short_name" : "Sri Aurobindo Institute of Medical Sciences",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Indore",
+               "short_name" : "Indore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Madhya Pradesh",
+               "short_name" : "MP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "453111",
+               "short_name" : "453111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sri Aurobindo Institute of Medical Sciences, Madhya Pradesh 453111, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.7971064,
+               "lng" : 75.8453682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.8073924,
+                  "lng" : 75.8613756
+               },
+               "southwest" : {
+                  "lat" : 22.7868197,
+                  "lng" : 75.8293608
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Oxford",
+               "short_name" : "University of Oxford",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University Offices",
+               "short_name" : "University Offices",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Wellington Square",
+               "short_name" : "Wellington Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Oxfordshire",
+               "short_name" : "Oxon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "OX1 2JD",
+               "short_name" : "OX1 2JD",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oxford",
+               "short_name" : "Oxford",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Oxford, University Offices, Wellington Square, Oxford, OX1 2JD, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7773253,
+                  "lng" : -1.213425
+               },
+               "southwest" : {
+                  "lat" : 51.74616080000001,
+                  "lng" : -1.2720446
+               }
+            },
+            "location" : {
+               "lat" : 51.7564118,
+               "lng" : -1.2564042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7721459,
+                  "lng" : -1.2357408
+               },
+               "southwest" : {
+                  "lat" : 51.74616080000001,
+                  "lng" : -1.2720446
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

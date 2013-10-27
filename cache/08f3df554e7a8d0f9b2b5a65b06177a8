@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, MA 02114, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.371942,
+                  "lng" : -71.057408
+               },
+               "southwest" : {
+                  "lat" : 42.35532509999999,
+                  "lng" : -71.0792381
+               }
+            },
+            "location" : {
+               "lat" : 42.3652917,
+               "lng" : -71.0646337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.371942,
+                  "lng" : -71.057408
+               },
+               "southwest" : {
+                  "lat" : 42.35532509999999,
+                  "lng" : -71.0792381
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

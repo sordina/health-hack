@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Tesserete",
+               "short_name" : "Via Tesserete",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugano",
+               "short_name" : "Lugano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugano District",
+               "short_name" : "Lugano District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ticino",
+               "short_name" : "TI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6900",
+               "short_name" : "6900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Tesserete 48, 6900 Lugano, Switzerland",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0185229,
+               "lng" : 8.9530704
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0198718802915,
+                  "lng" : 8.954419380291501
+               },
+               "southwest" : {
+                  "lat" : 46.0171739197085,
+                  "lng" : 8.951721419708496
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

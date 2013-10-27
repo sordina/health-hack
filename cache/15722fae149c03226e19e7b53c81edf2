@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Oulu",
+               "short_name" : "University of Oulu",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pentti Kaiteran katu",
+               "short_name" : "Pentti Kaiteran katu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oulu",
+               "short_name" : "Oulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oulu",
+               "short_name" : "Oulu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90570",
+               "short_name" : "90570",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Oulu, Pentti Kaiteran katu 1, 90570 Oulu, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.0591,
+                  "lng" : 25.4664837
+               },
+               "southwest" : {
+                  "lat" : 65.0590074,
+                  "lng" : 25.4663281
+               }
+            },
+            "location" : {
+               "lat" : 65.0590607,
+               "lng" : 25.4663976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.06040268029152,
+                  "lng" : 25.4677548802915
+               },
+               "southwest" : {
+                  "lat" : 65.0577047197085,
+                  "lng" : 25.4650569197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

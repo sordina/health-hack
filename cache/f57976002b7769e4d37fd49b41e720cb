@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erciyes University",
+               "short_name" : "Erciyes University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Erciyes Üniversitesi Rektörlüğü",
+               "short_name" : "Erciyes Üniversitesi Rektörlüğü",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Yenidoğan Mh.",
+               "short_name" : "Yenidoğan Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kayseri",
+               "short_name" : "Kayseri",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Talas",
+               "short_name" : "Talas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kayseri Province",
+               "short_name" : "Kayseri Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38039",
+               "short_name" : "38039",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Erciyes University, Erciyes Üniversitesi Rektörlüğü, Yenidoğan Mh., 38039 Kayseri/Kayseri Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.70524899999999,
+                  "lng" : 35.526731
+               },
+               "southwest" : {
+                  "lat" : 38.7005721,
+                  "lng" : 35.521133
+               }
+            },
+            "location" : {
+               "lat" : 38.704204,
+               "lng" : 35.5242802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.70524899999999,
+                  "lng" : 35.526731
+               },
+               "southwest" : {
+                  "lat" : 38.7005721,
+                  "lng" : 35.521133
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

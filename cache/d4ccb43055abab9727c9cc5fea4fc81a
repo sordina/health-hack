@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universiti Sains Malaysia",
+               "short_name" : "Universiti Sains Malaysia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Jalan Sungai Dua",
+               "short_name" : "Jalan Sungai Dua",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Georgetown",
+               "short_name" : "Georgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pulau Penang",
+               "short_name" : "Pulau Penang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11800",
+               "short_name" : "11800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universiti Sains Malaysia, Jalan Sungai Dua, 11800 Georgetown, Pulau Penang, Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.362515699999999,
+                  "lng" : 100.3108513
+               },
+               "southwest" : {
+                  "lat" : 5.351903,
+                  "lng" : 100.2918345
+               }
+            },
+            "location" : {
+               "lat" : 5.354771,
+               "lng" : 100.30112
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.362515699999999,
+                  "lng" : 100.3108513
+               },
+               "southwest" : {
+                  "lat" : 5.351903,
+                  "lng" : 100.2918345
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

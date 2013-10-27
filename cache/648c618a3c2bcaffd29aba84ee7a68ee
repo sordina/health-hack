@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical University of Białystok",
+               "short_name" : "Medical University of Białystok",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jana Kilińskiego",
+               "short_name" : "Jana Kilińskiego",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Osiedle Centrum",
+               "short_name" : "Osiedle Centrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bialystok",
+               "short_name" : "B-stok",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Białystok",
+               "short_name" : "Białystok",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Białystok County",
+               "short_name" : "Białystok County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Podlaskie Voivodeship",
+               "short_name" : "Podlaskie Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical University of Białystok, Jana Kilińskiego 1, Bialystok, Poland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.1305815,
+               "lng" : 23.1653094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1372757,
+                  "lng" : 23.1813168
+               },
+               "southwest" : {
+                  "lat" : 53.1238863,
+                  "lng" : 23.149302
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

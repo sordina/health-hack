@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Martinsried",
+               "short_name" : "Martinsried",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Planegg",
+               "short_name" : "Planegg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Martinsried, Planegg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1149473,
+                  "lng" : 11.4632068
+               },
+               "southwest" : {
+                  "lat" : 48.1016747,
+                  "lng" : 11.4437204
+               }
+            },
+            "location" : {
+               "lat" : 48.109754,
+               "lng" : 11.449687
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1149473,
+                  "lng" : 11.4632068
+               },
+               "southwest" : {
+                  "lat" : 48.1016747,
+                  "lng" : 11.4437204
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

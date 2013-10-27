@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National University of Ireland",
+               "short_name" : "National University of Ireland",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University Road",
+               "short_name" : "University Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Galway City",
+               "short_name" : "Galway City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galway",
+               "short_name" : "Galway",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Galway",
+               "short_name" : "Galway",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "National University of Ireland, University Road, Galway, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 53.279251,
+               "lng" : -9.058142
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.285922,
+                  "lng" : -9.042134599999999
+               },
+               "southwest" : {
+                  "lat" : 53.2725789,
+                  "lng" : -9.0741494
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

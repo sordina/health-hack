@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York Medical College",
+               "short_name" : "New York Medical College",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "7",
+               "short_name" : "7",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Dana Road",
+               "short_name" : "Dana Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Valhalla",
+               "short_name" : "Valhalla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mount Pleasant",
+               "short_name" : "Mt Pleasant",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Westchester",
+               "short_name" : "Westchester",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10595",
+               "short_name" : "10595",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York Medical College, 7 Dana Road, Valhalla, NY 10595, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.090149,
+                  "lng" : -73.8030357
+               },
+               "southwest" : {
+                  "lat" : 41.0810418,
+                  "lng" : -73.8163787
+               }
+            },
+            "location" : {
+               "lat" : 41.08505419999999,
+               "lng" : -73.81006549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.090149,
+                  "lng" : -73.8030357
+               },
+               "southwest" : {
+                  "lat" : 41.0810418,
+                  "lng" : -73.8163787
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

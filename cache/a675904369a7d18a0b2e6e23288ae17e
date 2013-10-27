@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Surgery",
+               "short_name" : "Department of Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Surgery, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.63652099999999,
+               "lng" : -90.2648605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6452362,
+                  "lng" : -90.24885309999999
+               },
+               "southwest" : {
+                  "lat" : 38.6278047,
+                  "lng" : -90.28086789999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

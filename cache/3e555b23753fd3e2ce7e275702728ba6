@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Yonsei",
+               "short_name" : "University of Yonsei",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Yonsei-ro",
+               "short_name" : "Yonsei-ro",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sinchon-dong",
+               "short_name" : "Sinchon-dong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seodaemun-gu",
+               "short_name" : "Seodaemun-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Seoul",
+               "short_name" : "Seoul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "120-140",
+               "short_name" : "120-140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Yonsei, Yonsei-ro, Sinchon-dong, Seodaemun-gu, Seoul, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.564919,
+               "lng" : 126.940287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.573763,
+                  "lng" : 126.9562944
+               },
+               "southwest" : {
+                  "lat" : 37.5560739,
+                  "lng" : 126.9242796
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

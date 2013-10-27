@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "421001",
+               "short_name" : "421001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Zhengxiang",
+               "short_name" : "Zhengxiang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hengyang",
+               "short_name" : "Hengyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunan",
+               "short_name" : "Hunan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhengxiang, Hengyang, Hunan, China, 421001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.9363023,
+                  "lng" : 112.6198649
+               },
+               "southwest" : {
+                  "lat" : 26.8040686,
+                  "lng" : 112.4649082
+               }
+            },
+            "location" : {
+               "lat" : 26.8938523,
+               "lng" : 112.6001039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9363023,
+                  "lng" : 112.6198649
+               },
+               "southwest" : {
+                  "lat" : 26.8512582,
+                  "lng" : 112.548349
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "30912",
+               "short_name" : "30912",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Augusta",
+               "short_name" : "Augusta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Augusta, GA 30912, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.475407,
+                  "lng" : -81.98751799999999
+               },
+               "southwest" : {
+                  "lat" : 33.472604,
+                  "lng" : -81.99193009999999
+               }
+            },
+            "location" : {
+               "lat" : 33.474324,
+               "lng" : -81.9899547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.475407,
+                  "lng" : -81.98751799999999
+               },
+               "southwest" : {
+                  "lat" : 33.472604,
+                  "lng" : -81.99193009999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

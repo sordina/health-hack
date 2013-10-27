@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giuseppe Massarenti",
+               "short_name" : "Via Giuseppe Massarenti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bologna",
+               "short_name" : "BO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40138",
+               "short_name" : "40138",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuseppe Massarenti, 9, 40138 Bologna, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4931032,
+               "lng" : 11.3603882
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4944521802915,
+                  "lng" : 11.3617371802915
+               },
+               "southwest" : {
+                  "lat" : 44.4917542197085,
+                  "lng" : 11.3590392197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,399 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnes Jewish Hospital",
+               "short_name" : "Barnes Jewish Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barnes Jewish Hospital Plaza",
+               "short_name" : "Barnes Jewish Hospital Plaza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barnes Jewish Hospital, 1 Barnes Jewish Hospital Plaza, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6392899,
+                  "lng" : -90.2626549
+               },
+               "southwest" : {
+                  "lat" : 38.635041,
+                  "lng" : -90.2661244
+               }
+            },
+            "location" : {
+               "lat" : 38.6353172,
+               "lng" : -90.2648464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6372616302915,
+                  "lng" : -90.26309959999999
+               },
+               "southwest" : {
+                  "lat" : 38.6345636697085,
+                  "lng" : -90.2661244
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnes Jewish Hospital",
+               "short_name" : "Barnes Jewish Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barnes Jewish Hospital, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6333848,
+               "lng" : -90.25011289999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6347337802915,
+                  "lng" : -90.24876391970848
+               },
+               "southwest" : {
+                  "lat" : 38.6320358197085,
+                  "lng" : -90.25146188029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnes-Jewish Hospital",
+               "short_name" : "Barnes-Jewish Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4921",
+               "short_name" : "4921",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parkview Place",
+               "short_name" : "Parkview Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1032",
+               "short_name" : "1032",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Barnes-Jewish Hospital, 4921 Parkview Place, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6389168,
+               "lng" : -90.2639679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6402657802915,
+                  "lng" : -90.2626189197085
+               },
+               "southwest" : {
+                  "lat" : 38.6375678197085,
+                  "lng" : -90.26531688029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnes Jewish Hospital",
+               "short_name" : "Barnes Jewish Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "216",
+               "short_name" : "216",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Kingshighway Boulevard",
+               "short_name" : "S Kingshighway Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barnes Jewish Hospital, 216 South Kingshighway Boulevard, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6387481,
+               "lng" : -90.2643657
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6400970802915,
+                  "lng" : -90.2630167197085
+               },
+               "southwest" : {
+                  "lat" : 38.6373991197085,
+                  "lng" : -90.26571468029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dermatology Outpatient Center",
+               "short_name" : "Dermatology Outpatient Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4921",
+               "short_name" : "4921",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Parkview Place",
+               "short_name" : "Parkview Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1032",
+               "short_name" : "1032",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dermatology Outpatient Center, 4921 Parkview Place, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6382309,
+               "lng" : -90.2632053
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6395798802915,
+                  "lng" : -90.26185631970849
+               },
+               "southwest" : {
+                  "lat" : 38.6368819197085,
+                  "lng" : -90.26455428029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnes-Jewish Hospital",
+               "short_name" : "Barnes-Jewish Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "13303",
+               "short_name" : "13303",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Tesson Ferry Road",
+               "short_name" : "Tesson Ferry Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tesson Ferry",
+               "short_name" : "Tesson Ferry",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63128",
+               "short_name" : "63128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barnes-Jewish Hospital, 13303 Tesson Ferry Road, St. Louis, MO 63128, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.483401,
+               "lng" : -90.386217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4847499802915,
+                  "lng" : -90.38486801970849
+               },
+               "southwest" : {
+                  "lat" : 38.4820520197085,
+                  "lng" : -90.38756598029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

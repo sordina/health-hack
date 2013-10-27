@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Iowa Hospitals and Clinics",
+               "short_name" : "University of Iowa Hospitals and Clinics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hawkins Drive",
+               "short_name" : "Hawkins Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Horn",
+               "short_name" : "Horn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Iowa City",
+               "short_name" : "Iowa City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Johnson",
+               "short_name" : "Johnson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52242",
+               "short_name" : "52242",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Iowa Hospitals and Clinics, 200 Hawkins Drive, Iowa City, IA 52242, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6612411,
+               "lng" : -91.54764299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6695766,
+                  "lng" : -91.5316356
+               },
+               "southwest" : {
+                  "lat" : 41.6529046,
+                  "lng" : -91.5636504
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

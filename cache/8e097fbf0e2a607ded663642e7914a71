@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "State University of Campinas",
+               "short_name" : "State University of Campinas",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cidade Universitária",
+               "short_name" : "Cidade Universitária",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Campinas",
+               "short_name" : "Campinas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13083-970",
+               "short_name" : "13083-970",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "State University of Campinas - Cidade Universitária, Campinas - São Paulo, 13083-970, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.8177078,
+               "lng" : -47.0683157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.8074226,
+                  "lng" : -47.0523083
+               },
+               "southwest" : {
+                  "lat" : -22.8279922,
+                  "lng" : -47.08432310000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

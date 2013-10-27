@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lille",
+               "short_name" : "Lille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "59",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59800",
+               "short_name" : "59800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59800 Lille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.6384437,
+                  "lng" : 3.0769073
+               },
+               "southwest" : {
+                  "lat" : 50.6361974,
+                  "lng" : 3.0717848
+               }
+            },
+            "location" : {
+               "lat" : 50.6372843,
+               "lng" : 3.0747992
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.6386695302915,
+                  "lng" : 3.0769073
+               },
+               "southwest" : {
+                  "lat" : 50.6359715697085,
+                  "lng" : 3.0717848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

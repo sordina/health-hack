@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tsukuba",
+               "short_name" : "Tsukuba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ibaraki Prefecture",
+               "short_name" : "Ibaraki Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tsukuba, Ibaraki Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2367217,
+                  "lng" : 140.1732953
+               },
+               "southwest" : {
+                  "lat" : 35.9473772,
+                  "lng" : 139.9957831
+               }
+            },
+            "location" : {
+               "lat" : 36.0834857,
+               "lng" : 140.0766423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2367217,
+                  "lng" : 140.1732953
+               },
+               "southwest" : {
+                  "lat" : 35.9473772,
+                  "lng" : 139.9957831
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

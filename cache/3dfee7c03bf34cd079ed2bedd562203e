@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elizabeth Street",
+               "short_name" : "Elizabeth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Newtown",
+               "short_name" : "Newtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2042",
+               "short_name" : "2042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Elizabeth Street, Newtown NSW 2042, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.8913827,
+                  "lng" : 151.1841045
+               },
+               "southwest" : {
+                  "lat" : -33.8920752,
+                  "lng" : 151.18372
+               }
+            },
+            "location" : {
+               "lat" : -33.8917059,
+               "lng" : 151.1839547
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8903799697085,
+                  "lng" : 151.1852612302915
+               },
+               "southwest" : {
+                  "lat" : -33.8930779302915,
+                  "lng" : 151.1825632697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

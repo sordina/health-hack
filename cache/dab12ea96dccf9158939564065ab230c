@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emory University Rollins School of Public Health",
+               "short_name" : "RSPH",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1518",
+               "short_name" : "1518",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clifton Road Northeast",
+               "short_name" : "Clifton Rd NE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Atlanta",
+               "short_name" : "Atlanta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30322",
+               "short_name" : "30322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emory University Rollins School of Public Health, Emory University, 1518 Clifton Road Northeast, Atlanta, GA 30322, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7975293,
+               "lng" : -84.3230162
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8068012,
+                  "lng" : -84.30700879999999
+               },
+               "southwest" : {
+                  "lat" : 33.7882564,
+                  "lng" : -84.33902359999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

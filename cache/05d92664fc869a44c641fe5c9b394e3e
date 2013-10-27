@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "310009",
+               "short_name" : "310009",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Shangcheng",
+               "short_name" : "Shangcheng",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hangzhou",
+               "short_name" : "Hangzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Zhejiang",
+               "short_name" : "Zhejiang",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shangcheng, Hangzhou, Zhejiang, China, 310009",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2610345,
+                  "lng" : 120.1978953
+               },
+               "southwest" : {
+                  "lat" : 30.2335166,
+                  "lng" : 120.1618171
+               }
+            },
+            "location" : {
+               "lat" : 30.249785,
+               "lng" : 120.179217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2610345,
+                  "lng" : 120.1877944
+               },
+               "southwest" : {
+                  "lat" : 30.2335166,
+                  "lng" : 120.166147
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

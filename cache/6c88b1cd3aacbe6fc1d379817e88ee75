@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johns Hopkins University",
+               "short_name" : "Johns Hopkins University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3400",
+               "short_name" : "3400",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North Charles Street",
+               "short_name" : "North Charles Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21287",
+               "short_name" : "21287",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johns Hopkins University, 3400 North Charles Street, Baltimore, MD 21287, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3358848,
+                  "lng" : -76.5878421
+               },
+               "southwest" : {
+                  "lat" : 38.907632,
+                  "lng" : -77.201212
+               }
+            },
+            "location" : {
+               "lat" : 39.329901,
+               "lng" : -76.62051839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3358848,
+                  "lng" : -76.61544359999999
+               },
+               "southwest" : {
+                  "lat" : 39.3218633,
+                  "lng" : -76.62559419999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

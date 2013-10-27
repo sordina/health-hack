@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ahvaz",
+               "short_name" : "Ahvaz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khuzestan",
+               "short_name" : "Khuzestan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahvaz, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3894723,
+                  "lng" : 48.7884809
+               },
+               "southwest" : {
+                  "lat" : 31.2377564,
+                  "lng" : 48.54978560000001
+               }
+            },
+            "location" : {
+               "lat" : 31.31671,
+               "lng" : 48.68438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3894723,
+                  "lng" : 48.7884809
+               },
+               "southwest" : {
+                  "lat" : 31.2377564,
+                  "lng" : 48.54978560000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

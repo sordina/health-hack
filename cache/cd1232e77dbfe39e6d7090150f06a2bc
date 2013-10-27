@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "36617",
+               "short_name" : "36617",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mobile",
+               "short_name" : "Mobile",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mobile",
+               "short_name" : "Mobile",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mobile, AL 36617, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.740678,
+                  "lng" : -88.0663229
+               },
+               "southwest" : {
+                  "lat" : 30.696799,
+                  "lng" : -88.121837
+               }
+            },
+            "location" : {
+               "lat" : 30.7153357,
+               "lng" : -88.09496089999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.740678,
+                  "lng" : -88.0663229
+               },
+               "southwest" : {
+                  "lat" : 30.696799,
+                  "lng" : -88.121837
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

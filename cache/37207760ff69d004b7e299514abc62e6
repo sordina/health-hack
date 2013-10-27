@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Wales",
+               "short_name" : "North Wales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19454",
+               "short_name" : "19454",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Wales, PA 19454, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2191629,
+                  "lng" : -75.2641368
+               },
+               "southwest" : {
+                  "lat" : 40.2035423,
+                  "lng" : -75.2845322
+               }
+            },
+            "location" : {
+               "lat" : 40.2109404,
+               "lng" : -75.27823170000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2191629,
+                  "lng" : -75.2641368
+               },
+               "southwest" : {
+                  "lat" : 40.2035423,
+                  "lng" : -75.2845322
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

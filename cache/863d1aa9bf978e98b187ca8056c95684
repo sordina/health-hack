@@ -1,0 +1,172 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.972366,
+                  "lng" : -78.9954109
+               },
+               "southwest" : {
+                  "lat" : 35.869552,
+                  "lng" : -79.08317099999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9131996,
+               "lng" : -79.05584450000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.972366,
+                  "lng" : -78.9954109
+               },
+               "southwest" : {
+                  "lat" : 35.869552,
+                  "lng" : -79.08317099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marshall",
+               "short_name" : "Marshall",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37034",
+               "short_name" : "37034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, TN 37034, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6563159,
+                  "lng" : -86.67744399999999
+               },
+               "southwest" : {
+                  "lat" : 35.5942099,
+                  "lng" : -86.711618
+               }
+            },
+            "location" : {
+               "lat" : 35.6264581,
+               "lng" : -86.6933305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6563159,
+                  "lng" : -86.67744399999999
+               },
+               "southwest" : {
+                  "lat" : 35.5942099,
+                  "lng" : -86.711618
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Covington",
+               "short_name" : "Covington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36442",
+               "short_name" : "36442",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Chapel Hill, AL 36442, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.029346,
+               "lng" : -86.231055
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.0306949802915,
+                  "lng" : -86.2297060197085
+               },
+               "southwest" : {
+                  "lat" : 31.0279970197085,
+                  "lng" : -86.23240398029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

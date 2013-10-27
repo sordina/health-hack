@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cartagena",
+               "short_name" : "Cartagena",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Murcia",
+               "short_name" : "MU",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region of Murcia",
+               "short_name" : "Region of Murcia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cartagena, Murcia, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6397102,
+                  "lng" : -0.9642878999999999
+               },
+               "southwest" : {
+                  "lat" : 37.5951131,
+                  "lng" : -1.0127269
+               }
+            },
+            "location" : {
+               "lat" : 37.6256827,
+               "lng" : -0.9965839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6397102,
+                  "lng" : -0.9642878999999999
+               },
+               "southwest" : {
+                  "lat" : 37.5951131,
+                  "lng" : -1.0127269
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

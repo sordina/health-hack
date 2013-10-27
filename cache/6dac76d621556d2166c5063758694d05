@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22908",
+               "short_name" : "22908",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlottesville, VA 22908, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.031942,
+               "lng" : -78.49858499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0332909802915,
+                  "lng" : -78.49723601970848
+               },
+               "southwest" : {
+                  "lat" : 38.0305930197085,
+                  "lng" : -78.4999339802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

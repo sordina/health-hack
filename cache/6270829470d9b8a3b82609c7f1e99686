@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Patra",
+               "short_name" : "Patra",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Patra",
+               "short_name" : "Patra",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Patra",
+               "short_name" : "Patra",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Achaea",
+               "short_name" : "Achaea",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dytiki Ellada",
+               "short_name" : "Dytiki Ellada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Peloponnisos Dytiki Ellada ke Ionio",
+               "short_name" : "Peloponnisos Dytiki Ellada ke Ionio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Patra, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2958083,
+                  "lng" : 21.7817796
+               },
+               "southwest" : {
+                  "lat" : 38.2022205,
+                  "lng" : 21.709432
+               }
+            },
+            "location" : {
+               "lat" : 38.2466395,
+               "lng" : 21.734574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2958083,
+                  "lng" : 21.7817796
+               },
+               "southwest" : {
+                  "lat" : 38.2022205,
+                  "lng" : 21.709432
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

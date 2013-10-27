@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jena",
+               "short_name" : "J",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thuringia",
+               "short_name" : "TH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jena, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9890093,
+                  "lng" : 11.6730448
+               },
+               "southwest" : {
+                  "lat" : 50.8560167,
+                  "lng" : 11.4989028
+               }
+            },
+            "location" : {
+               "lat" : 50.927054,
+               "lng" : 11.5892372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9890093,
+                  "lng" : 11.6730448
+               },
+               "southwest" : {
+                  "lat" : 50.8560167,
+                  "lng" : 11.4989028
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keele University",
+               "short_name" : "Keele University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Staffordshire",
+               "short_name" : "Staffordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ST5 5BG",
+               "short_name" : "ST5 5BG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Keele",
+               "short_name" : "Keele",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Keele University, Keele, Staffordshire ST5 5BG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.0082873,
+                  "lng" : -2.2641388
+               },
+               "southwest" : {
+                  "lat" : 52.9982852,
+                  "lng" : -2.2905246
+               }
+            },
+            "location" : {
+               "lat" : 53.0040801,
+               "lng" : -2.272594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.00752310000001,
+                  "lng" : -2.2641388
+               },
+               "southwest" : {
+                  "lat" : 52.9982852,
+                  "lng" : -2.2822473
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Navarre",
+               "short_name" : "Navarre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pamplona, Navarre, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.8381176,
+                  "lng" : -1.6046592
+               },
+               "southwest" : {
+                  "lat" : 42.7934144,
+                  "lng" : -1.695384
+               }
+            },
+            "location" : {
+               "lat" : 42.8116631,
+               "lng" : -1.6482653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.8381176,
+                  "lng" : -1.6046592
+               },
+               "southwest" : {
+                  "lat" : 42.7934144,
+                  "lng" : -1.695384
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

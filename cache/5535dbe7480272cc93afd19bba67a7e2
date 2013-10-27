@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tel Aviv",
+               "short_name" : "Tel Aviv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tel Aviv, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.146611,
+                  "lng" : 34.8519761
+               },
+               "southwest" : {
+                  "lat" : 32.0292531,
+                  "lng" : 34.7425159
+               }
+            },
+            "location" : {
+               "lat" : 32.066158,
+               "lng" : 34.777819
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.146611,
+                  "lng" : 34.8519761
+               },
+               "southwest" : {
+                  "lat" : 32.0292531,
+                  "lng" : 34.7425159
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

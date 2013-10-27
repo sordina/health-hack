@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Tennessee Health Science Center",
+               "short_name" : "The University of Tennessee Health Science Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "920",
+               "short_name" : "920",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Madison Avenue",
+               "short_name" : "Madison Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Memphis",
+               "short_name" : "Memphis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby",
+               "short_name" : "Shelby",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38163",
+               "short_name" : "38163",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of Tennessee Health Science Center, 920 Madison Avenue, Memphis, TN 38163, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.1437567,
+                  "lng" : -90.0266086
+               },
+               "southwest" : {
+                  "lat" : 35.1351972,
+                  "lng" : -90.0384505
+               }
+            },
+            "location" : {
+               "lat" : 35.1394973,
+               "lng" : -90.03043529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1437567,
+                  "lng" : -90.0266086
+               },
+               "southwest" : {
+                  "lat" : 35.1351972,
+                  "lng" : -90.0384505
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

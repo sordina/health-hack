@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "27599",
+               "short_name" : "27599",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "South Campus",
+               "short_name" : "South Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Campus, Chapel Hill, NC 27599, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.90039489999999,
+                  "lng" : -79.0119941
+               },
+               "southwest" : {
+                  "lat" : 35.8995331,
+                  "lng" : -79.01320319999999
+               }
+            },
+            "location" : {
+               "lat" : 35.8998949,
+               "lng" : -79.0127643
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.90131298029149,
+                  "lng" : -79.01124966970849
+               },
+               "southwest" : {
+                  "lat" : 35.8986150197085,
+                  "lng" : -79.01394763029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

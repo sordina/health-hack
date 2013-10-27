@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of The West Indies - Mona",
+               "short_name" : "University Of The West Indies - Mona",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Mona",
+               "short_name" : "Mona",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "August Town",
+               "short_name" : "August Town",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Papine",
+               "short_name" : "Papine",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kingston",
+               "short_name" : "Kingston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint Andrew Parish",
+               "short_name" : "Saint Andrew Parish",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "JM",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University Of The West Indies - Mona, Mona, Kingston, Jamaica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.0148958,
+                  "lng" : -76.739266
+               },
+               "southwest" : {
+                  "lat" : 17.9956113,
+                  "lng" : -76.7524196
+               }
+            },
+            "location" : {
+               "lat" : 18.0050379,
+               "lng" : -76.7466378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.0148958,
+                  "lng" : -76.739266
+               },
+               "southwest" : {
+                  "lat" : 17.9956113,
+                  "lng" : -76.7524196
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

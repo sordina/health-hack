@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Henry Ford Hospital",
+               "short_name" : "Henry Ford Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2799",
+               "short_name" : "2799",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Grand Boulevard",
+               "short_name" : "W Grand Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Center",
+               "short_name" : "New Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48202",
+               "short_name" : "48202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Henry Ford Hospital, 2799 West Grand Boulevard, Detroit, MI 48202, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3701341,
+                  "lng" : -83.08228509999999
+               },
+               "southwest" : {
+                  "lat" : 42.3654616,
+                  "lng" : -83.0887154
+               }
+            },
+            "location" : {
+               "lat" : 42.3679457,
+               "lng" : -83.0861113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3701341,
+                  "lng" : -83.08228509999999
+               },
+               "southwest" : {
+                  "lat" : 42.3654616,
+                  "lng" : -83.0887154
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

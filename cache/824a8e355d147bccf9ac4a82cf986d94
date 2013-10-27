@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "410008",
+               "short_name" : "410008",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kaifu",
+               "short_name" : "Kaifu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Changsha",
+               "short_name" : "Changsha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hunan",
+               "short_name" : "Hunan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaifu, Changsha, Hunan, China, 410008",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.2301664,
+                  "lng" : 112.9952417
+               },
+               "southwest" : {
+                  "lat" : 28.2089192,
+                  "lng" : 112.9714131
+               }
+            },
+            "location" : {
+               "lat" : 28.2238448,
+               "lng" : 112.9774746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.2301664,
+                  "lng" : 112.9952417
+               },
+               "southwest" : {
+                  "lat" : 28.2089192,
+                  "lng" : 112.9714131
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

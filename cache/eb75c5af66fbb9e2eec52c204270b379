@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalamata",
+               "short_name" : "Kalamata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalamata",
+               "short_name" : "Kalamata",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Kalamata",
+               "short_name" : "Kalamata",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Messinia",
+               "short_name" : "Messinia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Peloponnese",
+               "short_name" : "Peloponnese",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Peloponnisos Dytiki Ellada ke Ionio",
+               "short_name" : "Peloponnisos Dytiki Ellada ke Ionio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalamata, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0500757,
+                  "lng" : 22.130733
+               },
+               "southwest" : {
+                  "lat" : 37.0198663,
+                  "lng" : 22.0958752
+               }
+            },
+            "location" : {
+               "lat" : 37.0422371,
+               "lng" : 22.1141264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0500757,
+                  "lng" : 22.130733
+               },
+               "southwest" : {
+                  "lat" : 37.0198663,
+                  "lng" : 22.0958752
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

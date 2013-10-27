@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Porto",
+               "short_name" : "University of Porto",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Praça de Gomes Teixeira",
+               "short_name" : "Praça de Gomes Teixeira",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Porto District",
+               "short_name" : "Porto District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4099-002",
+               "short_name" : "4099-002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Porto, Praça de Gomes Teixeira, 4099-002, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3312943,
+                  "lng" : -8.5884813
+               },
+               "southwest" : {
+                  "lat" : 41.106219,
+                  "lng" : -8.6870706
+               }
+            },
+            "location" : {
+               "lat" : 41.1780456,
+               "lng" : -8.5997916
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1823992,
+                  "lng" : -8.593291799999999
+               },
+               "southwest" : {
+                  "lat" : 41.1736919,
+                  "lng" : -8.606291299999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

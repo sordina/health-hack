@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wonju-si",
+               "short_name" : "Wonju-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gangwon-do",
+               "short_name" : "Gangwon-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wonju-si, Gangwon-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5022224,
+                  "lng" : 128.218881
+               },
+               "southwest" : {
+                  "lat" : 37.14374189999999,
+                  "lng" : 127.7439802
+               }
+            },
+            "location" : {
+               "lat" : 37.3422186,
+               "lng" : 127.9201621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.38939999999999,
+                  "lng" : 127.968
+               },
+               "southwest" : {
+                  "lat" : 37.3106,
+                  "lng" : 127.9132
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

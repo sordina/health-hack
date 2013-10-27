@@ -1,0 +1,192 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7919337,
+                  "lng" : 14.1394899
+               }
+            },
+            "location" : {
+               "lat" : 40.8517746,
+               "lng" : 14.2681244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7919337,
+                  "lng" : 14.1394899
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nola",
+               "short_name" : "Nola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8764789,
+                  "lng" : 14.520785
+               },
+               "southwest" : {
+                  "lat" : 40.8757361,
+                  "lng" : 14.5181075
+               }
+            },
+            "location" : {
+               "lat" : 40.87613410000001,
+               "lng" : 14.5198315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87745648029149,
+                  "lng" : 14.5207952302915
+               },
+               "southwest" : {
+                  "lat" : 40.87475851970849,
+                  "lng" : 14.5180972697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Capodichino Airport",
+               "short_name" : "Capodichino Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Viale F. Ruffo di Calabria",
+               "short_name" : "Viale F. Ruffo di Calabria",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80144",
+               "short_name" : "80144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Capodichino Airport (NAP), Viale F. Ruffo di Calabria, 80144 Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8936115,
+                  "lng" : 14.3060962
+               },
+               "southwest" : {
+                  "lat" : 40.8720112,
+                  "lng" : 14.2723137
+               }
+            },
+            "location" : {
+               "lat" : 40.883655,
+               "lng" : 14.281466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8936115,
+                  "lng" : 14.3060962
+               },
+               "southwest" : {
+                  "lat" : 40.8720112,
+                  "lng" : 14.2723137
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

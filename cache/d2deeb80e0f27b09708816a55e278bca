@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "030001",
+               "short_name" : "030001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yingze",
+               "short_name" : "Yingze",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Taiyuan",
+               "short_name" : "Taiyuan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanxi",
+               "short_name" : "Shanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yingze, Taiyuan, Shanxi, China, 030001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8742785,
+                  "lng" : 112.5781477
+               },
+               "southwest" : {
+                  "lat" : 37.8370796,
+                  "lng" : 112.5364293
+               }
+            },
+            "location" : {
+               "lat" : 37.8551329,
+               "lng" : 112.560801
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8742785,
+                  "lng" : 112.5781477
+               },
+               "southwest" : {
+                  "lat" : 37.8370796,
+                  "lng" : 112.5364293
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

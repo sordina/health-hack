@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IIT Guwahati",
+               "short_name" : "IIT Guwahati",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Guwahati",
+               "short_name" : "Guwahati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kamrup",
+               "short_name" : "Kamrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Assam",
+               "short_name" : "AS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "IIT Guwahati, Guwahati, Assam, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2022169,
+                  "lng" : 91.70440739999999
+               },
+               "southwest" : {
+                  "lat" : 26.1823656,
+                  "lng" : 91.6867049
+               }
+            },
+            "location" : {
+               "lat" : 26.1939663,
+               "lng" : 91.69309779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2022169,
+                  "lng" : 91.70440739999999
+               },
+               "southwest" : {
+                  "lat" : 26.1823656,
+                  "lng" : 91.6867049
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

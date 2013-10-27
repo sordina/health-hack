@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tongji University",
+               "short_name" : "Tongji University",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Yangpu",
+               "short_name" : "Yangpu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200092",
+               "short_name" : "200092",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tongji University, Yangpu, China, 200092",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.281339,
+               "lng" : 121.505905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2826879802915,
+                  "lng" : 121.5072539802915
+               },
+               "southwest" : {
+                  "lat" : 31.2799900197085,
+                  "lng" : 121.5045560197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

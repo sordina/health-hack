@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Southern California",
+               "short_name" : "The University of Southern California",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "850",
+               "short_name" : "850",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 37th Street",
+               "short_name" : "West 37th Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90089",
+               "short_name" : "90089",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0050",
+               "short_name" : "0050",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "The University of Southern California, 850 West 37th Street, Los Angeles, CA 90089, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0655129,
+                  "lng" : -118.1985295
+               },
+               "southwest" : {
+                  "lat" : 34.0159543,
+                  "lng" : -118.2915375
+               }
+            },
+            "location" : {
+               "lat" : 34.0223383,
+               "lng" : -118.2851232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0273863,
+                  "lng" : -118.276113
+               },
+               "southwest" : {
+                  "lat" : 34.0159543,
+                  "lng" : -118.2915375
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

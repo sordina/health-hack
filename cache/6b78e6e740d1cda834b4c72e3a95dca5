@@ -1,0 +1,344 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3988669,
+                  "lng" : -70.9232011
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            },
+            "location" : {
+               "lat" : 42.3584308,
+               "lng" : -71.0597732
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3988669,
+                  "lng" : -70.9232011
+               },
+               "southwest" : {
+                  "lat" : 42.22788,
+                  "lng" : -71.191113
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boston, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7447779,
+                  "lng" : -84.847769
+               },
+               "southwest" : {
+                  "lat" : 39.737455,
+                  "lng" : -84.855762
+               }
+            },
+            "location" : {
+               "lat" : 39.74116009999999,
+               "lng" : -84.8519034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7447779,
+                  "lng" : -84.847769
+               },
+               "southwest" : {
+                  "lat" : 39.737455,
+                  "lng" : -84.855762
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thomas",
+               "short_name" : "Thomas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "31626",
+               "short_name" : "31626",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston, GA 31626, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.8030511,
+                  "lng" : -83.77721409999999
+               },
+               "southwest" : {
+                  "lat" : 30.781034,
+                  "lng" : -83.80265
+               }
+            },
+            "location" : {
+               "lat" : 30.7918613,
+               "lng" : -83.78988679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.8030511,
+                  "lng" : -83.77721409999999
+               },
+               "southwest" : {
+                  "lat" : 30.781034,
+                  "lng" : -83.80265
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nelson",
+               "short_name" : "Nelson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40107",
+               "short_name" : "40107",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston, KY 40107, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.787563,
+               "lng" : -85.6727374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78891198029149,
+                  "lng" : -85.67138841970849
+               },
+               "southwest" : {
+                  "lat" : 37.7862140197085,
+                  "lng" : -85.67408638029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14025",
+               "short_name" : "14025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston, NY 14025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.6289495,
+               "lng" : -78.7375289
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.63029848029151,
+                  "lng" : -78.73617991970849
+               },
+               "southwest" : {
+                  "lat" : 42.62760051970851,
+                  "lng" : -78.73887788029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Culpeper",
+               "short_name" : "Culpeper",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22713",
+               "short_name" : "22713",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston, VA 22713, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5511563,
+                  "lng" : -78.1254703
+               },
+               "southwest" : {
+                  "lat" : 38.5376298,
+                  "lng" : -78.1401872
+               }
+            },
+            "location" : {
+               "lat" : 38.5421671,
+               "lng" : -78.13227329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5511563,
+                  "lng" : -78.1254703
+               },
+               "southwest" : {
+                  "lat" : 38.5376298,
+                  "lng" : -78.1401872
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

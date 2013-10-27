@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "435000",
+               "short_name" : "435000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Huangshigang",
+               "short_name" : "Huangshigang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Huangshi",
+               "short_name" : "Huangshi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hubei",
+               "short_name" : "Hubei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huangshigang, Huangshi, Hubei, China, 435000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2543862,
+                  "lng" : 115.2126294
+               },
+               "southwest" : {
+                  "lat" : 30.184096,
+                  "lng" : 115.0050783
+               }
+            },
+            "location" : {
+               "lat" : 30.2134469,
+               "lng" : 115.0732907
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2543862,
+                  "lng" : 115.1236953
+               },
+               "southwest" : {
+                  "lat" : 30.1907614,
+                  "lng" : 115.0050783
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

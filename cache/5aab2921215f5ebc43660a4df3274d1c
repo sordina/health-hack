@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goudi",
+               "short_name" : "Goudi",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "115 27",
+               "short_name" : "115 27",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Goudi, Athina 115 27, Greece",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9860376,
+               "lng" : 23.7676309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9948314,
+                  "lng" : 23.7836383
+               },
+               "southwest" : {
+                  "lat" : 37.9772428,
+                  "lng" : 23.7516235
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Western Infirmary Lecture Theatre",
+               "short_name" : "Western Infirmary Lecture Theatre",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "University of Glasgow",
+               "short_name" : "University of Glasgow",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glasgow City",
+               "short_name" : "Glasgow City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G12 8SU",
+               "short_name" : "G12 8SU",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Glasgow",
+               "short_name" : "Glasgow",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Western Infirmary Lecture Theatre, University of Glasgow, Glasgow, Glasgow City G12 8SU, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.8721884,
+                  "lng" : -4.2938778
+               },
+               "southwest" : {
+                  "lat" : 55.8717992,
+                  "lng" : -4.2944409
+               }
+            },
+            "location" : {
+               "lat" : 55.8720121,
+               "lng" : -4.2941918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.87334278029149,
+                  "lng" : -4.292810369708498
+               },
+               "southwest" : {
+                  "lat" : 55.8706448197085,
+                  "lng" : -4.295508330291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

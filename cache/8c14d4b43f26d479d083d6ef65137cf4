@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "V6T 1Z3",
+               "short_name" : "V6T 1Z3",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Vancouver",
+               "short_name" : "Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver A",
+               "short_name" : "Greater Vancouver A",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vancouver, BC V6T 1Z3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.26978399999999,
+                  "lng" : -123.2368058
+               },
+               "southwest" : {
+                  "lat" : 49.25480899999999,
+                  "lng" : -123.2552159
+               }
+            },
+            "location" : {
+               "lat" : 49.26019549999999,
+               "lng" : -123.2426367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26978399999999,
+                  "lng" : -123.2368058
+               },
+               "southwest" : {
+                  "lat" : 49.25480899999999,
+                  "lng" : -123.2552159
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

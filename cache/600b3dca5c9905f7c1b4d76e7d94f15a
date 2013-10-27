@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagasaki",
+               "short_name" : "Nagasaki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nagasaki Prefecture",
+               "short_name" : "Nagasaki Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagasaki, Nagasaki Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.9686443,
+                  "lng" : 129.9938171
+               },
+               "southwest" : {
+                  "lat" : 32.5491743,
+                  "lng" : 129.5528386
+               }
+            },
+            "location" : {
+               "lat" : 32.7502856,
+               "lng" : 129.877667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.9686443,
+                  "lng" : 129.9938171
+               },
+               "southwest" : {
+                  "lat" : 32.5491743,
+                  "lng" : 129.5528386
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nagasaki",
+               "short_name" : "Nagasaki",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toshima",
+               "short_name" : "Toshima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nagasaki, Toshima, Tokyo, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.7377658,
+                  "lng" : 139.6976565
+               },
+               "southwest" : {
+                  "lat" : 35.7262583,
+                  "lng" : 139.6785331
+               }
+            },
+            "location" : {
+               "lat" : 35.7307047,
+               "lng" : 139.6850438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.7377658,
+                  "lng" : 139.6976565
+               },
+               "southwest" : {
+                  "lat" : 35.7262583,
+                  "lng" : 139.6785331
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

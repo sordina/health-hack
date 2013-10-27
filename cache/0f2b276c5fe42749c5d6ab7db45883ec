@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2300",
+               "short_name" : "2300",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "København S",
+               "short_name" : "København S",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "2300 København S, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6698339,
+                  "lng" : 12.6171529
+               },
+               "southwest" : {
+                  "lat" : 55.614064,
+                  "lng" : 12.5134037
+               }
+            },
+            "location" : {
+               "lat" : 55.6417953,
+               "lng" : 12.5780211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6698339,
+                  "lng" : 12.6171529
+               },
+               "southwest" : {
+                  "lat" : 55.614064,
+                  "lng" : 12.5134037
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

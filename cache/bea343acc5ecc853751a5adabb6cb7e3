@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Einsteinweg",
+               "short_name" : "Einsteinweg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2333 CC",
+               "short_name" : "2333 CC",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Einsteinweg 55, 2333 CC Leiden, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.16715749999999,
+               "lng" : 4.459666299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.16850648029149,
+                  "lng" : 4.461015280291502
+               },
+               "southwest" : {
+                  "lat" : 52.16580851970849,
+                  "lng" : 4.458317319708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ardabil",
+               "short_name" : "Ardabil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ardabil",
+               "short_name" : "Ardabil",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iran",
+               "short_name" : "IR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ardabil, Iran",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3550081,
+                  "lng" : 48.4719989
+               },
+               "southwest" : {
+                  "lat" : 38.17842570000001,
+                  "lng" : 48.2100678
+               }
+            },
+            "location" : {
+               "lat" : 38.246471,
+               "lng" : 48.295052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3550081,
+                  "lng" : 48.4719989
+               },
+               "southwest" : {
+                  "lat" : 38.17842570000001,
+                  "lng" : 48.2100678
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,700 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic",
+               "short_name" : "Mayo Clinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street Southwest",
+               "short_name" : "1st St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayo Clinic, 200 1st Street Southwest, Rochester, MN 55905, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.0253652,
+                  "lng" : -92.46449629999999
+               },
+               "southwest" : {
+                  "lat" : 44.0215958,
+                  "lng" : -92.4673763
+               }
+            },
+            "location" : {
+               "lat" : 44.0234805,
+               "lng" : -92.4659363
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0253652,
+                  "lng" : -92.46449629999999
+               },
+               "southwest" : {
+                  "lat" : 44.0215958,
+                  "lng" : -92.4673763
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Josephs Keith A MD",
+               "short_name" : "Mayo Clinic: Josephs Keith A MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street Southwest",
+               "short_name" : "1st St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Josephs Keith A MD, 200 1st Street Southwest, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Jones Lyell K MD",
+               "short_name" : "Mayo Clinic: Jones Lyell K MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Jones Lyell K MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Poeschla Eric M MD",
+               "short_name" : "Mayo Clinic: Poeschla Eric M MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street Southwest",
+               "short_name" : "1st St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Poeschla Eric M MD, 200 1st Street Southwest, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Temesgen Zelalem MD",
+               "short_name" : "Mayo Clinic: Temesgen Zelalem MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Street Southwest",
+               "short_name" : "1st St SW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Temesgen Zelalem MD, 200 1st Street Southwest, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Sandborn William J MD",
+               "short_name" : "Mayo Clinic: Sandborn William J MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Sandborn William J MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Weenig Roger H MD",
+               "short_name" : "Mayo Clinic: Weenig Roger H MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Weenig Roger H MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Murray Joseph A MD",
+               "short_name" : "Mayo Clinic: Murray Joseph A MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Murray Joseph A MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.022136,
+               "lng" : -92.46666599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.02348498029149,
+                  "lng" : -92.46531701970849
+               },
+               "southwest" : {
+                  "lat" : 44.02078701970849,
+                  "lng" : -92.4680149802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Multari Adamarie L MD",
+               "short_name" : "Mayo Clinic: Multari Adamarie L MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Multari Adamarie L MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mayo Clinic: Wilhelm Mark P MD",
+               "short_name" : "Mayo Clinic: Wilhelm Mark P MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st St SW # W4",
+               "short_name" : "1st St SW # W4",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted",
+               "short_name" : "Olmsted",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55905",
+               "short_name" : "55905",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0002",
+               "short_name" : "0002",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Mayo Clinic: Wilhelm Mark P MD, 200 1st St SW # W4, Rochester, MN 55905, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0221363,
+               "lng" : -92.4666658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0234852802915,
+                  "lng" : -92.46531681970849
+               },
+               "southwest" : {
+                  "lat" : 44.0207873197085,
+                  "lng" : -92.46801478029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

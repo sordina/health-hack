@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taxi conventionné Institut Gustave Roussy",
+               "short_name" : "Taxi conventionné Institut Gustave Roussy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Villejuif",
+               "short_name" : "Villejuif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Val-de-Marne",
+               "short_name" : "94",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94800",
+               "short_name" : "94800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taxi conventionné Institut Gustave Roussy, 94800 Villejuif, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7959225,
+               "lng" : 2.348933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.80327219999999,
+                  "lng" : 2.3649404
+               },
+               "southwest" : {
+                  "lat" : 48.7885717,
+                  "lng" : 2.3329256
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trinity College Dublin",
+               "short_name" : "Trinity College Dublin",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "College Green",
+               "short_name" : "College Green",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dublin City",
+               "short_name" : "Dublin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dublin",
+               "short_name" : "Dublin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Dublin 2",
+               "short_name" : "Dublin 2",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Trinity College Dublin, College Green, Dublin 2, Co. Dublin, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.34563439999999,
+                  "lng" : -6.249471700000001
+               },
+               "southwest" : {
+                  "lat" : 53.3418173,
+                  "lng" : -6.259468699999999
+               }
+            },
+            "location" : {
+               "lat" : 53.34374709999999,
+               "lng" : -6.2547592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.34563439999999,
+                  "lng" : -6.249471700000001
+               },
+               "southwest" : {
+                  "lat" : 53.3418173,
+                  "lng" : -6.259468699999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

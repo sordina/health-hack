@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Overlook Medical Center",
+               "short_name" : "Overlook Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "99",
+               "short_name" : "99",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beauvoir Avenue",
+               "short_name" : "Beauvoir Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Summit",
+               "short_name" : "Summit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Union",
+               "short_name" : "Union",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07902",
+               "short_name" : "07902",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Overlook Medical Center, 99 Beauvoir Avenue, Summit, NJ 07902, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7147108,
+                  "lng" : -74.3516104
+               },
+               "southwest" : {
+                  "lat" : 40.7109297,
+                  "lng" : -74.3578598
+               }
+            },
+            "location" : {
+               "lat" : 40.7126425,
+               "lng" : -74.35459969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7147108,
+                  "lng" : -74.3516104
+               },
+               "southwest" : {
+                  "lat" : 40.7109297,
+                  "lng" : -74.3578598
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

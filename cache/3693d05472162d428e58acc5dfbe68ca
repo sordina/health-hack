@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leiden, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1846511,
+                  "lng" : 4.5240515
+               },
+               "southwest" : {
+                  "lat" : 52.1188225,
+                  "lng" : 4.439287999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.158494,
+               "lng" : 4.496199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1846511,
+                  "lng" : 4.5240515
+               },
+               "southwest" : {
+                  "lat" : 52.1188225,
+                  "lng" : 4.439287999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

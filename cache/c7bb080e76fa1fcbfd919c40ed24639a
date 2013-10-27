@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kanazawa",
+               "short_name" : "Kanazawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ishikawa Prefecture",
+               "short_name" : "Ishikawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kanazawa, Ishikawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.6740771,
+                  "lng" : 136.8172838
+               },
+               "southwest" : {
+                  "lat" : 36.3381495,
+                  "lng" : 136.5569852
+               }
+            },
+            "location" : {
+               "lat" : 36.56132540000001,
+               "lng" : 136.6562051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.6740771,
+                  "lng" : 136.8172838
+               },
+               "southwest" : {
+                  "lat" : 36.3381495,
+                  "lng" : 136.5569852
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,249 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of \"Cardiology\"",
+               "short_name" : "Department of \"Cardiology\"",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plovdiv",
+               "short_name" : "Plovdiv",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bulgaria",
+               "short_name" : "BG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4027",
+               "short_name" : "4027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of \"Cardiology\", 4027 Plovdiv, Bulgaria",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.1586349,
+               "lng" : 24.7170293
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1669057,
+                  "lng" : 24.7330367
+               },
+               "southwest" : {
+                  "lat" : 42.1503631,
+                  "lng" : 24.7010219
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cardiology",
+               "short_name" : "Department of Cardiology",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Bidhan Sarani",
+               "short_name" : "Bidhan Sarani",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shyam Bazar",
+               "short_name" : "Shyam Bazar",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kolkata",
+               "short_name" : "Kolkata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Bengal",
+               "short_name" : "WB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "700004",
+               "short_name" : "700004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cardiology, Bidhan Sarani, Shyam Bazar, Kolkata, West Bengal 700004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 22.6040595,
+               "lng" : 88.37811649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6054084802915,
+                  "lng" : 88.3794654802915
+               },
+               "southwest" : {
+                  "lat" : 22.6027105197085,
+                  "lng" : 88.37676751970849
+               }
+            }
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiology Department",
+               "short_name" : "Cardiology Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2316",
+               "short_name" : "2316",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Blenheim Square - Research Hospital",
+               "short_name" : "Blenheim Square - Research Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brooking",
+               "short_name" : "Brooking",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64132",
+               "short_name" : "64132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cardiology Department, 2316, Kansas City, MO 64132, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0086002,
+               "lng" : -94.5584468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0099491802915,
+                  "lng" : -94.5570978197085
+               },
+               "southwest" : {
+                  "lat" : 39.0072512197085,
+                  "lng" : -94.55979578029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiology Department",
+               "short_name" : "Cardiology Department",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "P.S.S Hospital Road",
+               "short_name" : "P.S.S Hospital Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allama Iqbal Town",
+               "short_name" : "Allama Iqbal Town",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lahore",
+               "short_name" : "Lahore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Punjab",
+               "short_name" : "Punjab",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Pakistan",
+               "short_name" : "PK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiology Department, P.S.S Hospital Road, Lahore, Pakistan",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.4974276,
+               "lng" : 74.2635301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.4987765802915,
+                  "lng" : 74.26487908029151
+               },
+               "southwest" : {
+                  "lat" : 31.4960786197085,
+                  "lng" : 74.26218111970849
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "230",
+               "short_name" : "230",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "'s-Gravendijkwal",
+               "short_name" : "'s-Gravendijkwal",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centrum",
+               "short_name" : "Centrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Rotterdam",
+               "short_name" : "Government of Rotterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3015 CE",
+               "short_name" : "3015 CE",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "'s-Gravendijkwal 230, 3015 CE Rotterdam, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.910457,
+               "lng" : 4.4651004
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9118059802915,
+                  "lng" : 4.466449380291502
+               },
+               "southwest" : {
+                  "lat" : 51.9091080197085,
+                  "lng" : 4.463751419708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

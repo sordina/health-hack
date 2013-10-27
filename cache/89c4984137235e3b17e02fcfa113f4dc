@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshfield",
+               "short_name" : "Marshfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wood",
+               "short_name" : "Wood",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marshfield, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7070771,
+                  "lng" : -90.124206
+               },
+               "southwest" : {
+                  "lat" : 44.624261,
+                  "lng" : -90.22300799999999
+               }
+            },
+            "location" : {
+               "lat" : 44.6688524,
+               "lng" : -90.1717987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7070771,
+                  "lng" : -90.124206
+               },
+               "southwest" : {
+                  "lat" : 44.624261,
+                  "lng" : -90.22300799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

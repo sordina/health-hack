@@ -1,0 +1,58 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Heart Centre Singapore",
+               "short_name" : "National Heart Centre Singapore",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "17",
+               "short_name" : "17",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Third Hospital Avenue",
+               "short_name" : "Third Hospital Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "Singapore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Singapore",
+               "short_name" : "SG",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "168752",
+               "short_name" : "168752",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National Heart Centre Singapore, 17 Third Hospital Avenue, Singapore 168752",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2815129,
+               "lng" : 103.8368314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.2926681,
+                  "lng" : 103.8528388
+               },
+               "southwest" : {
+                  "lat" : 1.2703577,
+                  "lng" : 103.820824
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

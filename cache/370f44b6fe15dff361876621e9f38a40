@@ -1,0 +1,256 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cardiothoracic Surgery",
+               "short_name" : "Department of Cardiothoracic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Horn",
+               "short_name" : "Horn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Iowa City",
+               "short_name" : "Iowa City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Johnson",
+               "short_name" : "Johnson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "52242",
+               "short_name" : "52242",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cardiothoracic Surgery, Iowa City, IA 52242, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6608957,
+               "lng" : -91.5475872
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6692312,
+                  "lng" : -91.5315798
+               },
+               "southwest" : {
+                  "lat" : 41.6525591,
+                  "lng" : -91.5635946
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cardiothoracic Surgery",
+               "short_name" : "Department of Cardiothoracic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Center City",
+               "short_name" : "Center City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Philadelphia",
+               "short_name" : "Philadelphia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19102",
+               "short_name" : "19102",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cardiothoracic Surgery, Philadelphia, PA 19102, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.9575611,
+               "lng" : -75.16309260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9589100802915,
+                  "lng" : -75.16174361970852
+               },
+               "southwest" : {
+                  "lat" : 39.9562121197085,
+                  "lng" : -75.16444158029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cardiothoracic Surgery",
+               "short_name" : "Department of Cardiothoracic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pasteur Drive",
+               "short_name" : "Pasteur Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stanford",
+               "short_name" : "Stanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94305",
+               "short_name" : "94305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cardiothoracic Surgery, Stanford University, 300 Pasteur Drive, Stanford, CA 94305, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4349542,
+               "lng" : -122.1739886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4363031802915,
+                  "lng" : -122.1726396197085
+               },
+               "southwest" : {
+                  "lat" : 37.4336052197085,
+                  "lng" : -122.1753375802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cardiothoracic Surgery",
+               "short_name" : "Department of Cardiothoracic Surgery",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Pittsburgh",
+               "short_name" : "University of Pittsburgh",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "West Oakland",
+               "short_name" : "West Oakland",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Pittsburgh",
+               "short_name" : "Pittsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegheny",
+               "short_name" : "Allegheny",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15213",
+               "short_name" : "15213",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Cardiothoracic Surgery, University of Pittsburgh, Pittsburgh, PA 15213, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.4425174,
+               "lng" : -79.9607175
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4438663802915,
+                  "lng" : -79.95936851970849
+               },
+               "southwest" : {
+                  "lat" : 40.4411684197085,
+                  "lng" : -79.96206648029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

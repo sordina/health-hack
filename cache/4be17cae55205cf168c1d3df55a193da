@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tyne and Wear",
+               "short_name" : "T & W",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, Tyne and Wear, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            },
+            "location" : {
+               "lat" : 54.978252,
+               "lng" : -1.61778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.0453044,
+                  "lng" : -1.5326051
+               },
+               "southwest" : {
+                  "lat" : 54.9594399,
+                  "lng" : -1.7810817
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Nthumb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE19",
+               "short_name" : "NE19",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Newcastle upon Tyne",
+               "short_name" : "Newcastle upon Tyne",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Newcastle upon Tyne, Northumberland NE19, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.292907,
+               "lng" : -2.310372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.2942559802915,
+                  "lng" : -2.309023019708498
+               },
+               "southwest" : {
+                  "lat" : 55.2915580197085,
+                  "lng" : -2.311720980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

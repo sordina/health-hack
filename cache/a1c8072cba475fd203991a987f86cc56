@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Istanbul University",
+               "short_name" : "Istanbul University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "İstanbul Ünv. Beyazıt Kampüsü",
+               "short_name" : "İstanbul Ünv. Beyazıt Kampüsü",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Paşa Sk",
+               "short_name" : "Paşa Sk",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Osman Gazi Mh.",
+               "short_name" : "Osman Gazi Mh.",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Fatih/istanbul",
+               "short_name" : "Fatih/istanbul",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Istanbul",
+               "short_name" : "Istanbul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sancaktepe",
+               "short_name" : "Sancaktepe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Istanbul Province",
+               "short_name" : "Istanbul Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34116",
+               "short_name" : "34116",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Istanbul University, İstanbul Ünv. Beyazıt Kampüsü, Osman Gazi Mh., Paşa Sk, 34116 Fatih/istanbul/Istanbul Province, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.013001,
+               "lng" : 28.961913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0214198,
+                  "lng" : 28.9779204
+               },
+               "southwest" : {
+                  "lat" : 41.0045811,
+                  "lng" : 28.9459056
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

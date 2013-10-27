@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Málaga",
+               "short_name" : "Málaga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Málaga",
+               "short_name" : "Málaga",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Málaga",
+               "short_name" : "Málaga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andalusia",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Málaga, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.7575526,
+                  "lng" : -4.3394965
+               },
+               "southwest" : {
+                  "lat" : 36.6788914,
+                  "lng" : -4.5590373
+               }
+            },
+            "location" : {
+               "lat" : 36.721261,
+               "lng" : -4.4212655
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7575526,
+                  "lng" : -4.3394965
+               },
+               "southwest" : {
+                  "lat" : 36.6788914,
+                  "lng" : -4.5590373
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Málaga",
+               "short_name" : "Málaga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Málaga del Fresno",
+               "short_name" : "Málaga del Fresno",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Guadalajara",
+               "short_name" : "Guadalajara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castile-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19219",
+               "short_name" : "19219",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19219 Málaga, Guadalajara, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7919719,
+                  "lng" : -3.2447526
+               },
+               "southwest" : {
+                  "lat" : 40.7859045,
+                  "lng" : -3.2507123
+               }
+            },
+            "location" : {
+               "lat" : 40.789342,
+               "lng" : -3.249749
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7919719,
+                  "lng" : -3.2447526
+               },
+               "southwest" : {
+                  "lat" : 40.7859045,
+                  "lng" : -3.2507123
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

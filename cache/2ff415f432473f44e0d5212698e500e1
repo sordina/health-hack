@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gangneung-si",
+               "short_name" : "Gangneung-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gangwon-do",
+               "short_name" : "Gangwon-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gangneung-si, Gangwon-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.9149614,
+                  "lng" : 129.0712701
+               },
+               "southwest" : {
+                  "lat" : 37.5027247,
+                  "lng" : 128.5863625
+               }
+            },
+            "location" : {
+               "lat" : 37.751853,
+               "lng" : 128.8760574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7917,
+                  "lng" : 128.9286
+               },
+               "southwest" : {
+                  "lat" : 37.7357,
+                  "lng" : 128.8714
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

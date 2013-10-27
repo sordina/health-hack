@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Michael's Hospital",
+               "short_name" : "St. Michael's Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "30",
+               "short_name" : "30",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bond Street",
+               "short_name" : "Bond St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5B 1W8",
+               "short_name" : "M5B 1W8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St. Michael's Hospital, 30 Bond Street, Toronto, ON M5B 1W8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6545591,
+                  "lng" : -79.37695169999999
+               },
+               "southwest" : {
+                  "lat" : 43.65267660000001,
+                  "lng" : -79.37876679999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6538007,
+               "lng" : -79.37788139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6549668302915,
+                  "lng" : -79.37651026970849
+               },
+               "southwest" : {
+                  "lat" : 43.65226886970851,
+                  "lng" : -79.37920823029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

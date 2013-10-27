@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shenyang",
+               "short_name" : "Shenyang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shenyang, Liaoning, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.042711,
+                  "lng" : 123.8141585
+               },
+               "southwest" : {
+                  "lat" : 41.19985450000001,
+                  "lng" : 122.4221059
+               }
+            },
+            "location" : {
+               "lat" : 41.805698,
+               "lng" : 123.431475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0172895,
+                  "lng" : 123.7459874
+               },
+               "southwest" : {
+                  "lat" : 41.5933726,
+                  "lng" : 123.1270087
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

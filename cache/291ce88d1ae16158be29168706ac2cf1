@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glostrup",
+               "short_name" : "Glostrup",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glostrup",
+               "short_name" : "Glostrup",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Capital Region of Denmark",
+               "short_name" : "Capital Region of Denmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2600",
+               "short_name" : "2600",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2600 Glostrup, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.70994719999999,
+                  "lng" : 12.432374
+               },
+               "southwest" : {
+                  "lat" : 55.6574709,
+                  "lng" : 12.3671048
+               }
+            },
+            "location" : {
+               "lat" : 55.669217,
+               "lng" : 12.402144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.70994719999999,
+                  "lng" : 12.432374
+               },
+               "southwest" : {
+                  "lat" : 55.6574709,
+                  "lng" : 12.3671048
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

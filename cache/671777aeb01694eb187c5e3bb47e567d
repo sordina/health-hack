@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Minnesota",
+               "short_name" : "University of Minnesota",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55455",
+               "short_name" : "55455",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Minnesota, Minneapolis, MN 55455, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9916145,
+                  "lng" : -93.175254
+               },
+               "southwest" : {
+                  "lat" : 44.9655047,
+                  "lng" : -93.25514219999999
+               }
+            },
+            "location" : {
+               "lat" : 44.97399,
+               "lng" : -93.2277285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9916145,
+                  "lng" : -93.21019439999999
+               },
+               "southwest" : {
+                  "lat" : 44.9655047,
+                  "lng" : -93.25514219999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

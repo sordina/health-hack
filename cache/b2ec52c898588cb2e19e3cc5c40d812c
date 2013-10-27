@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rowland Hill Street",
+               "short_name" : "Rowland Hill St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NW3",
+               "short_name" : "NW3",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Rowland Hill Street, London NW3, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5534468,
+                  "lng" : -0.1671621
+               },
+               "southwest" : {
+                  "lat" : 51.5524914,
+                  "lng" : -0.1676182
+               }
+            },
+            "location" : {
+               "lat" : 51.5529495,
+               "lng" : -0.1675974
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.55431808029149,
+                  "lng" : -0.1660411697084979
+               },
+               "southwest" : {
+                  "lat" : 51.5516201197085,
+                  "lng" : -0.168739130291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

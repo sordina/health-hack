@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "VU medisch centrum",
+               "short_name" : "VU medisch centrum",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1117",
+               "short_name" : "1117",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "De Boelelaan",
+               "short_name" : "De Boelelaan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Amsterdam-Zuid",
+               "short_name" : "Amsterdam-Zuid",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Amsterdam",
+               "short_name" : "Government of Amsterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1081 HZ",
+               "short_name" : "1081 HZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "VU medisch centrum, Free University Amsterdam, De Boelelaan 1117, 1081 HZ Amsterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3368499,
+                  "lng" : 4.8618105
+               },
+               "southwest" : {
+                  "lat" : 52.3334273,
+                  "lng" : 4.8581024
+               }
+            },
+            "location" : {
+               "lat" : 52.3351368,
+               "lng" : 4.8595247
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3368499,
+                  "lng" : 4.8618105
+               },
+               "southwest" : {
+                  "lat" : 52.3334273,
+                  "lng" : 4.8581024
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wormleysburg",
+               "short_name" : "Wormleysburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cumberland",
+               "short_name" : "Cumberland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wormleysburg, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2719379,
+                  "lng" : -76.89068399999999
+               },
+               "southwest" : {
+                  "lat" : 40.248852,
+                  "lng" : -76.9218989
+               }
+            },
+            "location" : {
+               "lat" : 40.2628669,
+               "lng" : -76.91386299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2719379,
+                  "lng" : -76.89068399999999
+               },
+               "southwest" : {
+                  "lat" : 40.248852,
+                  "lng" : -76.9218989
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

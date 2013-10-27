@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "96859",
+               "short_name" : "96859",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Moanalua",
+               "short_name" : "Moanalua",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "TRIPLER ARMY MEDICAL CENTER",
+               "short_name" : "TRIPLER ARMY MEDICAL CENTER",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "TRIPLER ARMY MEDICAL CENTER, HI 96859, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.3558377,
+               "lng" : -157.8940906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.35718668029151,
+                  "lng" : -157.8927416197085
+               },
+               "southwest" : {
+                  "lat" : 21.3544887197085,
+                  "lng" : -157.8954395802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

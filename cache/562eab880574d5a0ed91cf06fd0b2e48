@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Hospital of Lausanne",
+               "short_name" : "University Hospital of Lausanne",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue du Bugnon",
+               "short_name" : "Rue du Bugnon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lausanne",
+               "short_name" : "Lausanne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lausanne",
+               "short_name" : "Lausanne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1011",
+               "short_name" : "1011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University Hospital of Lausanne, Rue du Bugnon 46, 1011 Lausanne, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.52751,
+                  "lng" : 6.6454141
+               },
+               "southwest" : {
+                  "lat" : 46.5225534,
+                  "lng" : 6.6378284
+               }
+            },
+            "location" : {
+               "lat" : 46.52498079999999,
+               "lng" : 6.6426939
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.52751,
+                  "lng" : 6.6454141
+               },
+               "southwest" : {
+                  "lat" : 46.5225534,
+                  "lng" : 6.6378284
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

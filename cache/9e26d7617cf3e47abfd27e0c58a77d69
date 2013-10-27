@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veterans Affairs Medical Center",
+               "short_name" : "Veterans Affairs Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Astrodome",
+               "short_name" : "Astrodome",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris",
+               "short_name" : "Harris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77030",
+               "short_name" : "77030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Veterans Affairs Medical Center, Houston, TX 77030, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.70023,
+               "lng" : -95.38743900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7099217,
+                  "lng" : -95.37143159999999
+               },
+               "southwest" : {
+                  "lat" : 29.6905374,
+                  "lng" : -95.40344639999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

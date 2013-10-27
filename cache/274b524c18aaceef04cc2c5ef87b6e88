@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontifical Catholic University of Chile",
+               "short_name" : "Pontifical Catholic University of Chile",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "340",
+               "short_name" : "340",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Libertador Bernardo O Higgins",
+               "short_name" : "Avenida Libertador Bernardo O Higgins",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pontifical Catholic University of Chile - Avenida Libertador Bernardo O Higgins 340, Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4401842,
+                  "lng" : -70.6385092
+               },
+               "southwest" : {
+                  "lat" : -33.4431565,
+                  "lng" : -70.6426907
+               }
+            },
+            "location" : {
+               "lat" : -33.441075,
+               "lng" : -70.6408453
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4401842,
+                  "lng" : -70.6385092
+               },
+               "southwest" : {
+                  "lat" : -33.4431565,
+                  "lng" : -70.6426907
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontificia Universidad Católica de Chile",
+               "short_name" : "PUC",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4860",
+               "short_name" : "4860",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avendia Vicuna Mackenna",
+               "short_name" : "Avendia Vicuna Mackenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Macul",
+               "short_name" : "Macul",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macul",
+               "short_name" : "Macul",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pontificia Universidad Católica de Chile - Avendia Vicuna Mackenna 4860, Macul, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4955799,
+                  "lng" : -70.6058264
+               },
+               "southwest" : {
+                  "lat" : -33.5017173,
+                  "lng" : -70.6161903
+               }
+            },
+            "location" : {
+               "lat" : -33.4992063,
+               "lng" : -70.6154897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4955799,
+                  "lng" : -70.6058264
+               },
+               "southwest" : {
+                  "lat" : -33.5017173,
+                  "lng" : -70.6161903
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontificia Universidad Católica de Chile",
+               "short_name" : "Pontificia Universidad Católica de Chile",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Avenida Jaime Guzmán Errázuriz",
+               "short_name" : "Avenida Jaime Guzmán Errázuriz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Providencia",
+               "short_name" : "Providencia",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pontificia Universidad Católica de Chile - Avenida Jaime Guzmán Errázuriz, Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4443662,
+                  "lng" : -70.5916776
+               },
+               "southwest" : {
+                  "lat" : -33.447317,
+                  "lng" : -70.59522629999999
+               }
+            },
+            "location" : {
+               "lat" : -33.4468774,
+               "lng" : -70.59438729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4443662,
+                  "lng" : -70.5916776
+               },
+               "southwest" : {
+                  "lat" : -33.447317,
+                  "lng" : -70.59522629999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

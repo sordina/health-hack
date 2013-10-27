@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basel",
+               "short_name" : "Basel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basel-Stadt",
+               "short_name" : "Basel-Stadt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Basel-Stadt",
+               "short_name" : "BS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basel, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5899201,
+                  "lng" : 7.634099999999999
+               },
+               "southwest" : {
+                  "lat" : 47.51931,
+                  "lng" : 7.554819900000001
+               }
+            },
+            "location" : {
+               "lat" : 47.557421,
+               "lng" : 7.592572699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5899201,
+                  "lng" : 7.634099999999999
+               },
+               "southwest" : {
+                  "lat" : 47.51931,
+                  "lng" : 7.554819900000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

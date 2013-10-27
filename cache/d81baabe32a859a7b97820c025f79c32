@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penn State Wilkes-Barre",
+               "short_name" : "Penn State Wilkes-Barre",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Old Route 115",
+               "short_name" : "Old Route 115",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehman",
+               "short_name" : "Lehman",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Luzerne",
+               "short_name" : "Luzerne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18627",
+               "short_name" : "18627",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penn State Wilkes-Barre, Old Route 115, Dallas, PA 18627, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3084296,
+                  "lng" : -76.0087535
+               },
+               "southwest" : {
+                  "lat" : 41.3033064,
+                  "lng" : -76.0192351
+               }
+            },
+            "location" : {
+               "lat" : 41.3061346,
+               "lng" : -76.0136241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3084296,
+                  "lng" : -76.0087535
+               },
+               "southwest" : {
+                  "lat" : 41.3033064,
+                  "lng" : -76.0192351
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

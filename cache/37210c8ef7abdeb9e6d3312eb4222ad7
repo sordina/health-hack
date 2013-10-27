@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ignacio Chávez",
+               "short_name" : "Ignacio Chávez",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Tlalpan",
+               "short_name" : "Tlalpan",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexico City",
+               "short_name" : "Mexico City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ignacio Chávez, Tlalpan, Mexico City, Federal District, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2997936,
+                  "lng" : -99.10382389999999
+               },
+               "southwest" : {
+                  "lat" : 19.2939599,
+                  "lng" : -99.1049987
+               }
+            },
+            "location" : {
+               "lat" : 19.29676,
+               "lng" : -99.10446139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2997936,
+                  "lng" : -99.1030623197085
+               },
+               "southwest" : {
+                  "lat" : 19.2939599,
+                  "lng" : -99.10576028029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

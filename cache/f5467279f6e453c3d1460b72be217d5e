@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kütahya",
+               "short_name" : "Kütahya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kutahya",
+               "short_name" : "Kutahya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kütahya/Kütahya Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4486651,
+                  "lng" : 30.0530829
+               },
+               "southwest" : {
+                  "lat" : 39.383705,
+                  "lng" : 29.9209691
+               }
+            },
+            "location" : {
+               "lat" : 39.4166667,
+               "lng" : 29.9833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4486651,
+                  "lng" : 30.0530829
+               },
+               "southwest" : {
+                  "lat" : 39.383705,
+                  "lng" : 29.9209691
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

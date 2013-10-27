@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adana",
+               "short_name" : "Adana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Adana Province",
+               "short_name" : "Adana Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adana/Adana Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.065693,
+                  "lng" : 35.4720578
+               },
+               "southwest" : {
+                  "lat" : 36.9291371,
+                  "lng" : 35.104076
+               }
+            },
+            "location" : {
+               "lat" : 37,
+               "lng" : 35.3213333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.065693,
+                  "lng" : 35.4720578
+               },
+               "southwest" : {
+                  "lat" : 36.9291371,
+                  "lng" : 35.104076
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adana Şakirpaşa Airport",
+               "short_name" : "Adana Şakirpaşa Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Adana",
+               "short_name" : "Adana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seyhan",
+               "short_name" : "Seyhan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adana Province",
+               "short_name" : "Adana Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01000",
+               "short_name" : "01000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adana Şakirpaşa Airport (ADA), 01000 Adana/Adana Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9939059,
+                  "lng" : 35.298944
+               },
+               "southwest" : {
+                  "lat" : 36.970958,
+                  "lng" : 35.2639611
+               }
+            },
+            "location" : {
+               "lat" : 36.985576,
+               "lng" : 35.2973639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9939059,
+                  "lng" : 35.298944
+               },
+               "southwest" : {
+                  "lat" : 36.970958,
+                  "lng" : 35.2639611
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

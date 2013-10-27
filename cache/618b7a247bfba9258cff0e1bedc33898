@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "116011",
+               "short_name" : "116011",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xigang",
+               "short_name" : "Xigang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dalian",
+               "short_name" : "Dalian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xigang, Dalian, Liaoning, China, 116011",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9272486,
+                  "lng" : 121.6283097
+               },
+               "southwest" : {
+                  "lat" : 38.9047448,
+                  "lng" : 121.6054892
+               }
+            },
+            "location" : {
+               "lat" : 38.9148978,
+               "lng" : 121.6131663
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9272486,
+                  "lng" : 121.6283097
+               },
+               "southwest" : {
+                  "lat" : 38.9047448,
+                  "lng" : 121.6054892
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

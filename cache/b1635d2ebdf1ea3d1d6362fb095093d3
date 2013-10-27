@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "05403-000",
+               "short_name" : "05403-000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Jardim América",
+               "short_name" : "Jardim América",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jardim América, São Paulo, 05403-000, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.5539274,
+                  "lng" : -46.6669127
+               },
+               "southwest" : {
+                  "lat" : -23.5594695,
+                  "lng" : -46.6741554
+               }
+            },
+            "location" : {
+               "lat" : -23.5562813,
+               "lng" : -46.6699305
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.5550147197085,
+                  "lng" : -46.6673084
+               },
+               "southwest" : {
+                  "lat" : -23.5577126802915,
+                  "lng" : -46.6733685
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Euclid Avenue",
+               "short_name" : "Euclid Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44195",
+               "short_name" : "44195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH 44195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5022055,
+               "lng" : -81.6175875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5105615,
+                  "lng" : -81.60158009999999
+               },
+               "southwest" : {
+                  "lat" : 41.4938484,
+                  "lng" : -81.63359489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

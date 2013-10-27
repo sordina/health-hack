@@ -1,0 +1,311 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City University of Medicine and Biosciences",
+               "short_name" : "Kansas City University of Medicine and Biosciences",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1750",
+               "short_name" : "1750",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Independence Avenue",
+               "short_name" : "E Independence Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Kansas City",
+               "short_name" : "Northeast Kansas City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "KCMO",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaw",
+               "short_name" : "Kaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "Missouri",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64106",
+               "short_name" : "64106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kansas City University of Medicine and Biosciences, 1750 East Independence Avenue, KCMO, Missouri 64106, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1067416,
+               "lng" : -94.56019859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1153994,
+                  "lng" : -94.5441912
+               },
+               "southwest" : {
+                  "lat" : 39.0980828,
+                  "lng" : -94.576206
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine",
+               "short_name" : "School of Medicine",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "2411",
+               "short_name" : "2411",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Holmes Street",
+               "short_name" : "Holmes St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hospital Hill",
+               "short_name" : "Hospital Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaw",
+               "short_name" : "Kaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64108",
+               "short_name" : "64108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Medicine, 2411 Holmes Street, Kansas City, MO 64108, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0858267,
+                  "lng" : -94.5733197
+               },
+               "southwest" : {
+                  "lat" : 39.0831254,
+                  "lng" : -94.57576089999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0845178,
+               "lng" : -94.57517810000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0858267,
+                  "lng" : -94.5731913197085
+               },
+               "southwest" : {
+                  "lat" : 39.0831254,
+                  "lng" : -94.57588928029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research College of Nursing",
+               "short_name" : "Research College of Nursing",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2525",
+               "short_name" : "2525",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Meyer Boulevard",
+               "short_name" : "E Meyer Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Blenheim Square - Research Hospital",
+               "short_name" : "Blenheim Square - Research Hospital",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brooking",
+               "short_name" : "Brooking",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64132",
+               "short_name" : "64132",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1133",
+               "short_name" : "1133",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Research College of Nursing, 2525 East Meyer Boulevard, Kansas City, MO 64132, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.0067185,
+               "lng" : -94.55700569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0080674802915,
+                  "lng" : -94.55565671970849
+               },
+               "southwest" : {
+                  "lat" : 39.0053695197085,
+                  "lng" : -94.5583546802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Missouri-Kansas City: Health Sciences Library",
+               "short_name" : "University of Missouri-Kansas City: Health Sciences Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Missouri Kansas City: Hospital Hill Campus",
+               "short_name" : "University of Missouri Kansas City: Hospital Hill Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Hospital Hill",
+               "short_name" : "Hospital Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaw",
+               "short_name" : "Kaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "64108",
+               "short_name" : "64108",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Missouri-Kansas City: Health Sciences Library, Reid Conlee Smith, MD, University of Missouri Kansas City: Hospital Hill Campus, Kansas City, MO 64108, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.083455,
+               "lng" : -94.575322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0848039802915,
+                  "lng" : -94.57397301970849
+               },
+               "southwest" : {
+                  "lat" : 39.0821060197085,
+                  "lng" : -94.5766709802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "library", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

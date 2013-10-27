@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alkmaar, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6755412,
+                  "lng" : 4.8004604
+               },
+               "southwest" : {
+                  "lat" : 52.5916978,
+                  "lng" : 4.707893599999999
+               }
+            },
+            "location" : {
+               "lat" : 52.6323813,
+               "lng" : 4.753375399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6755412,
+                  "lng" : 4.8004604
+               },
+               "southwest" : {
+                  "lat" : 52.5916978,
+                  "lng" : 4.707893599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bergerweg",
+               "short_name" : "Bergerweg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1817",
+               "short_name" : "1817",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alkmaar, Bergerweg 201, 1817 Alkmaar, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.6421219,
+               "lng" : 4.723480299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6434708802915,
+                  "lng" : 4.724829280291502
+               },
+               "southwest" : {
+                  "lat" : 52.6407729197085,
+                  "lng" : 4.722131319708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "campground", "park", "lodging", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alkmaar",
+               "short_name" : "Alkmaar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1815",
+               "short_name" : "1815",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alkmaar, 1815 Alkmaar, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.637845,
+               "lng" : 4.7409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.63919398029149,
+                  "lng" : 4.742248980291502
+               },
+               "southwest" : {
+                  "lat" : 52.6364960197085,
+                  "lng" : 4.739551019708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

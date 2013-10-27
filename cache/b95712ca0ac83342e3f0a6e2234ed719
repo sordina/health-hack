@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manipal",
+               "short_name" : "Manipal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Udupi",
+               "short_name" : "Udupi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manipal, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.3739214,
+                  "lng" : 74.8053932
+               },
+               "southwest" : {
+                  "lat" : 13.3180933,
+                  "lng" : 74.77895730000002
+               }
+            },
+            "location" : {
+               "lat" : 13.3464069,
+               "lng" : 74.78857599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.3739214,
+                  "lng" : 74.8053932
+               },
+               "southwest" : {
+                  "lat" : 13.3180933,
+                  "lng" : 74.77895730000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

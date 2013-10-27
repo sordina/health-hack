@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baker IDI Heart and Diabetes Institute",
+               "short_name" : "Baker IDI Heart and Diabetes Institute",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Commercial Road",
+               "short_name" : "Commercial Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3004",
+               "short_name" : "3004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Baker IDI Heart and Diabetes Institute, 75 Commercial Road, Melbourne VIC 3004, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -37.8456431,
+               "lng" : 144.98355
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.8368315,
+                  "lng" : 144.9995574
+               },
+               "southwest" : {
+                  "lat" : -37.8544537,
+                  "lng" : 144.9675426
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

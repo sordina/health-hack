@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zhenjiang",
+               "short_name" : "Zhenjiang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Zhenjiang, Jiangsu, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.318916,
+                  "lng" : 119.9537243
+               },
+               "southwest" : {
+                  "lat" : 31.625209,
+                  "lng" : 118.9694489
+               }
+            },
+            "location" : {
+               "lat" : 32.187849,
+               "lng" : 119.425836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2913954,
+                  "lng" : 119.6043563
+               },
+               "southwest" : {
+                  "lat" : 32.059082,
+                  "lng" : 119.3143773
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

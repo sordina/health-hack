@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperial College London",
+               "short_name" : "Imperial College London",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "South Kensington Campus",
+               "short_name" : "South Kensington Campus",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Exhibition Road",
+               "short_name" : "Exhibition Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW7 2AZ",
+               "short_name" : "SW7 2AZ",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Imperial College London, South Kensington Campus, Exhibition Road, London SW7 2AZ, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.498766,
+               "lng" : -0.174522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5057117,
+                  "lng" : -0.1585146
+               },
+               "southwest" : {
+                  "lat" : 51.4918193,
+                  "lng" : -0.1905294
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperial College",
+               "short_name" : "Imperial College",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Imperial College London-St Mary's Campus",
+               "short_name" : "Imperial College London-St Mary's Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Norfolk Place",
+               "short_name" : "Norfolk Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W2 1PG",
+               "short_name" : "W2 1PG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Imperial College, Norfolk Place, Imperial College London-St Mary's Campus, London W2 1PG, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5177367,
+               "lng" : -0.1731784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5190856802915,
+                  "lng" : -0.171829419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5163877197085,
+                  "lng" : -0.174527380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperial College",
+               "short_name" : "Imperial College",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "28-32",
+               "short_name" : "28-32",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pembridge Gardens",
+               "short_name" : "Pembridge Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W2 4DX",
+               "short_name" : "W2 4DX",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Imperial College, 28-32 Pembridge Gardens, London W2 4DX, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.510489,
+               "lng" : -0.197016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5118379802915,
+                  "lng" : -0.195667019708498
+               },
+               "southwest" : {
+                  "lat" : 51.5091400197085,
+                  "lng" : -0.198364980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Imperial College London",
+               "short_name" : "Imperial College London",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "38-76",
+               "short_name" : "38-76",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Sussex Gardens",
+               "short_name" : "Sussex Gardens",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "W2 1UF",
+               "short_name" : "W2 1UF",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Imperial College London, 38-76 Sussex Gardens, London W2 1UF, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5170052,
+               "lng" : -0.1700944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5183541802915,
+                  "lng" : -0.168745419708498
+               },
+               "southwest" : {
+                  "lat" : 51.5156562197085,
+                  "lng" : -0.171443380291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

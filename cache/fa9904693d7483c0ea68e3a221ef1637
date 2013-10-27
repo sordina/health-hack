@@ -1,0 +1,264 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.3567927,
+                  "lng" : -46.3650521
+               },
+               "southwest" : {
+                  "lat" : -24.0088145,
+                  "lng" : -46.8260392
+               }
+            },
+            "location" : {
+               "lat" : -23.5489433,
+               "lng" : -46.6388182
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.3567927,
+                  "lng" : -46.3650521
+               },
+               "southwest" : {
+                  "lat" : -24.0088145,
+                  "lng" : -46.8260392
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - Bahia, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.45226,
+               "lng" : -40.888191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.4509110197085,
+                  "lng" : -40.8868420197085
+               },
+               "southwest" : {
+                  "lat" : -12.4536089802915,
+                  "lng" : -40.8895399802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bahia",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - Bahia, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -13.3,
+               "lng" : -39.883333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.2986510197085,
+                  "lng" : -39.8819840197085
+               },
+               "southwest" : {
+                  "lat" : -13.3013489802915,
+                  "lng" : -39.8846819802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belo Horizonte",
+               "short_name" : "Belo Horizonte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minas Gerais",
+               "short_name" : "MG",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo, Belo Horizonte - Minas Gerais, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -19.8032474,
+                  "lng" : -43.9184165
+               },
+               "southwest" : {
+                  "lat" : -19.8784939,
+                  "lng" : -43.9977629
+               }
+            },
+            "location" : {
+               "lat" : -19.8103949,
+               "lng" : -43.98538550000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.8032474,
+                  "lng" : -43.9798368
+               },
+               "southwest" : {
+                  "lat" : -19.8138154,
+                  "lng" : -43.9977629
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pernambuco",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - Pernambuco, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.916667,
+               "lng" : -37.616667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.915318019708498,
+                  "lng" : -37.6153180197085
+               },
+               "southwest" : {
+                  "lat" : -7.918015980291503,
+                  "lng" : -37.6180159802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "São Paulo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ceara",
+               "short_name" : "CE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Paulo - Ceará, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.174075999999999,
+               "lng" : -39.6647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.172727019708497,
+                  "lng" : -39.6633510197085
+               },
+               "southwest" : {
+                  "lat" : -6.175424980291502,
+                  "lng" : -39.6660489802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Athina",
+               "short_name" : "Athina",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Kentrikos Tomeas Athinon",
+               "short_name" : "Kentrikos Tomeas Athinon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Attica",
+               "short_name" : "Attica",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9837155,
+               "lng" : 23.7293097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

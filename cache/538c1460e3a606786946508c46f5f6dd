@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "252000",
+               "short_name" : "252000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Dongchangfu",
+               "short_name" : "Dongchangfu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Liaocheng",
+               "short_name" : "Liaocheng",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shandong",
+               "short_name" : "Shandong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dongchangfu, Liaocheng, Shandong, China, 252000",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.6736621,
+                  "lng" : 116.041389
+               },
+               "southwest" : {
+                  "lat" : 36.37327790000001,
+                  "lng" : 115.8566125
+               }
+            },
+            "location" : {
+               "lat" : 36.456981,
+               "lng" : 115.9854376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.5022594,
+                  "lng" : 116.041389
+               },
+               "southwest" : {
+                  "lat" : 36.37327790000001,
+                  "lng" : 115.9379302
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

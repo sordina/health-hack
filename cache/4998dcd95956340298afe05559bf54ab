@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Hadley",
+               "short_name" : "Hadley",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, Hadley, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8312491,
+                  "lng" : -90.12430689999999
+               },
+               "southwest" : {
+                  "lat" : 38.396902,
+                  "lng" : -90.513621
+               }
+            },
+            "location" : {
+               "lat" : 38.6105426,
+               "lng" : -90.3371889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8312491,
+                  "lng" : -90.12430689999999
+               },
+               "southwest" : {
+                  "lat" : 38.396902,
+                  "lng" : -90.513621
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

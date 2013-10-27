@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trent Drive",
+               "short_name" : "Trent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27710",
+               "short_name" : "27710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Trent Drive, Duke University West Campus, Duke University, Durham, NC 27710, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.007862,
+                  "lng" : -78.93378469999999
+               },
+               "southwest" : {
+                  "lat" : 36.0043247,
+                  "lng" : -78.93581709999999
+               }
+            },
+            "location" : {
+               "lat" : 36.0061712,
+               "lng" : -78.9346742
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.007862,
+                  "lng" : -78.93345191970849
+               },
+               "southwest" : {
+                  "lat" : 36.0043247,
+                  "lng" : -78.9361498802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

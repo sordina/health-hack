@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monash University Clayton Campus",
+               "short_name" : "Monash University Clayton Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Wellington Road",
+               "short_name" : "Wellington Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clayton",
+               "short_name" : "Clayton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3800",
+               "short_name" : "3800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Monash University Clayton Campus, Wellington Road, Clayton VIC 3800, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.9047989,
+                  "lng" : 145.1444918
+               },
+               "southwest" : {
+                  "lat" : -37.9166396,
+                  "lng" : 145.1280996
+               }
+            },
+            "location" : {
+               "lat" : -37.9152113,
+               "lng" : 145.134682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.9047989,
+                  "lng" : 145.1444918
+               },
+               "southwest" : {
+                  "lat" : -37.9166396,
+                  "lng" : 145.1280996
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

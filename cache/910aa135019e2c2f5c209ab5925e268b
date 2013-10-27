@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Maryland, Baltimore County",
+               "short_name" : "University of Maryland, Baltimore County",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hilltop Road",
+               "short_name" : "Hilltop Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baltimore",
+               "short_name" : "Baltimore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21250",
+               "short_name" : "21250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Maryland, Baltimore County, 1000 Hilltop Road, Baltimore, MD 21250, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2614725,
+                  "lng" : -76.69996759999999
+               },
+               "southwest" : {
+                  "lat" : 39.2328677,
+                  "lng" : -76.72022659999999
+               }
+            },
+            "location" : {
+               "lat" : 39.2533917,
+               "lng" : -76.71186449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2614725,
+                  "lng" : -76.69996759999999
+               },
+               "southwest" : {
+                  "lat" : 39.2471591,
+                  "lng" : -76.72022659999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

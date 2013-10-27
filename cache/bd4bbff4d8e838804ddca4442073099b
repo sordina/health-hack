@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Largo Francesco Vito",
+               "short_name" : "Largo Francesco Vito",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00168",
+               "short_name" : "00168",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Largo Francesco Vito, 1, 00168 Rome, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9331549,
+                  "lng" : 12.4263627
+               },
+               "southwest" : {
+                  "lat" : 41.9331412,
+                  "lng" : 12.4263619
+               }
+            },
+            "location" : {
+               "lat" : 41.9331549,
+               "lng" : 12.4263627
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9344970302915,
+                  "lng" : 12.4277112802915
+               },
+               "southwest" : {
+                  "lat" : 41.9317990697085,
+                  "lng" : 12.4250133197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

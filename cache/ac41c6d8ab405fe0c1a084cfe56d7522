@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wakayama",
+               "short_name" : "Wakayama",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wakayama Prefecture",
+               "short_name" : "Wakayama Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wakayama, Wakayama Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3157274,
+                  "lng" : 135.3148265
+               },
+               "southwest" : {
+                  "lat" : 34.1504328,
+                  "lng" : 134.9990786
+               }
+            },
+            "location" : {
+               "lat" : 34.2305113,
+               "lng" : 135.1708083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3157274,
+                  "lng" : 135.3148265
+               },
+               "southwest" : {
+                  "lat" : 34.1504328,
+                  "lng" : 134.9990786
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

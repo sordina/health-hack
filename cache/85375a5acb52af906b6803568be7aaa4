@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5020",
+               "short_name" : "5020",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Salzburg",
+               "short_name" : "Sbg.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "5020, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.8544134,
+                  "lng" : 13.1096604
+               },
+               "southwest" : {
+                  "lat" : 47.7512204,
+                  "lng" : 12.9823872
+               }
+            },
+            "location" : {
+               "lat" : 47.8051393,
+               "lng" : 13.0380686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.8544134,
+                  "lng" : 13.1096604
+               },
+               "southwest" : {
+                  "lat" : 47.7512204,
+                  "lng" : 12.9823872
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

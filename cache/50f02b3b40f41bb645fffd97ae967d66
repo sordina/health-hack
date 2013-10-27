@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ingelheim am Rhein",
+               "short_name" : "Ingelheim am Rhein",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mainz-Bingen",
+               "short_name" : "Mainz-Bingen",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ingelheim am Rhein, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.00917339999999,
+                  "lng" : 8.137757199999999
+               },
+               "southwest" : {
+                  "lat" : 49.92956969999999,
+                  "lng" : 7.976504899999999
+               }
+            },
+            "location" : {
+               "lat" : 49.9742689,
+               "lng" : 8.053034799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.00917339999999,
+                  "lng" : 8.137757199999999
+               },
+               "southwest" : {
+                  "lat" : 49.92956969999999,
+                  "lng" : 7.976504899999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

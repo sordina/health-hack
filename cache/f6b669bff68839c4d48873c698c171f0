@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stockholm",
+               "short_name" : "Stockholm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stockholm, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.42784089999999,
+                  "lng" : 18.198229
+               },
+               "southwest" : {
+                  "lat" : 59.224443,
+                  "lng" : 17.7768621
+               }
+            },
+            "location" : {
+               "lat" : 59.32893000000001,
+               "lng" : 18.06491
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.42784089999999,
+                  "lng" : 18.198229
+               },
+               "southwest" : {
+                  "lat" : 59.224443,
+                  "lng" : 17.7768621
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

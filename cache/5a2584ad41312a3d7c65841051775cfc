@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25-736",
+               "short_name" : "25-736",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kielce",
+               "short_name" : "Kielce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kielce County",
+               "short_name" : "Kielce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Swietokrzyskie",
+               "short_name" : "Swietokrzyskie",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "25-736 Kielce, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8775342,
+                  "lng" : 20.6104499
+               },
+               "southwest" : {
+                  "lat" : 50.87212539999999,
+                  "lng" : 20.5939905
+               }
+            },
+            "location" : {
+               "lat" : 50.8757667,
+               "lng" : 20.5977954
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8775342,
+                  "lng" : 20.6040486
+               },
+               "southwest" : {
+                  "lat" : 50.87228169999999,
+                  "lng" : 20.5939905
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

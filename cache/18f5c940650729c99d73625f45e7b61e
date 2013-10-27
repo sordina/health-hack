@@ -1,0 +1,231 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Changning",
+               "short_name" : "Changning",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200030",
+               "short_name" : "200030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jiaotong University, Changning, China, 200030",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.20207749999999,
+               "lng" : 121.4345634
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.20342648029149,
+                  "lng" : 121.4359123802915
+               },
+               "southwest" : {
+                  "lat" : 31.20072851970849,
+                  "lng" : 121.4332144197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shanghai Jiaotong University （West Gate）",
+               "short_name" : "Shanghai Jiaotong University （West Gate）",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "655号",
+               "short_name" : "655号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Panyu Road",
+               "short_name" : "Panyu Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui",
+               "short_name" : "Xuhui",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200030",
+               "short_name" : "200030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shanghai Jiaotong University （West Gate）, 655 Panyu Road, Jiaotong University, Xuhui, Shanghai, China, 200030",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.1993538,
+               "lng" : 121.4296032
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2007027802915,
+                  "lng" : 121.4309521802915
+               },
+               "southwest" : {
+                  "lat" : 31.1980048197085,
+                  "lng" : 121.4282542197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jiaotong University, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.2029011,
+                  "lng" : 121.4375363
+               },
+               "southwest" : {
+                  "lat" : 31.1919224,
+                  "lng" : 121.4274164
+               }
+            },
+            "location" : {
+               "lat" : 31.19884,
+               "lng" : 121.432567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2029011,
+                  "lng" : 121.4375363
+               },
+               "southwest" : {
+                  "lat" : 31.1919224,
+                  "lng" : 121.4274164
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Jiaotong University",
+               "short_name" : "Jiaotong University",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Xuhui",
+               "short_name" : "Xuhui",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200030",
+               "short_name" : "200030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jiaotong University, Xuhui, China, 200030",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.201541,
+               "lng" : 121.435852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2028899802915,
+                  "lng" : 121.4372009802915
+               },
+               "southwest" : {
+                  "lat" : 31.2001920197085,
+                  "lng" : 121.4345030197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milwaukee",
+               "short_name" : "Milwaukee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milwaukee, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1949671,
+                  "lng" : -87.8639841
+               },
+               "southwest" : {
+                  "lat" : 42.9208158,
+                  "lng" : -88.070876
+               }
+            },
+            "location" : {
+               "lat" : 43.0389025,
+               "lng" : -87.9064736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1949671,
+                  "lng" : -87.8639841
+               },
+               "southwest" : {
+                  "lat" : 42.9208158,
+                  "lng" : -88.070876
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

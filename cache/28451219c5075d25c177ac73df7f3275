@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hannover Medical School",
+               "short_name" : "Hannover Medical School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Carl-Neuberg-Straße",
+               "short_name" : "Carl-Neuberg-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Groß - Buchholz",
+               "short_name" : "Groß - Buchholz",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Buchholz-Kleefeld",
+               "short_name" : "Buchholz-Kleefeld",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hanover",
+               "short_name" : "Hanover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hanover Region",
+               "short_name" : "Hanover Region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30625",
+               "short_name" : "30625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carl-Neuberg-Straße 1, Hannover Medical School, 30625 Hanover, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.3842735,
+               "lng" : 9.806301000000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3856224802915,
+                  "lng" : 9.807649980291504
+               },
+               "southwest" : {
+                  "lat" : 52.3829245197085,
+                  "lng" : 9.8049520197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carl-Neuberg-Straße",
+               "short_name" : "Carl-Neuberg-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Groß - Buchholz",
+               "short_name" : "Groß - Buchholz",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Buchholz-Kleefeld",
+               "short_name" : "Buchholz-Kleefeld",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hannover-Groß Buchholz",
+               "short_name" : "Hannover-Groß Buchholz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hanover Region",
+               "short_name" : "Hanover Region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30625",
+               "short_name" : "30625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Carl-Neuberg-Straße 1, 30625 Hannover-Groß Buchholz, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.374413,
+               "lng" : 9.7924205
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3757619802915,
+                  "lng" : 9.793769480291504
+               },
+               "southwest" : {
+                  "lat" : 52.3730640197085,
+                  "lng" : 9.791071519708499
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

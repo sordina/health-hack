@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue Rockefeller",
+               "short_name" : "Av. Rockefeller",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lyon",
+               "short_name" : "Lyon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhône",
+               "short_name" : "69",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avenue Rockefeller, Lyon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.7429386,
+                  "lng" : 4.892149
+               },
+               "southwest" : {
+                  "lat" : 45.7386361,
+                  "lng" : 4.879118
+               }
+            },
+            "location" : {
+               "lat" : 45.74115399999999,
+               "lng" : 4.8855482
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.7429386,
+                  "lng" : 4.892149
+               },
+               "southwest" : {
+                  "lat" : 45.7386361,
+                  "lng" : 4.879118
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

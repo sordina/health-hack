@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "College of Medicine",
+               "short_name" : "College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Florida",
+               "short_name" : "University of Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Southwest Archer Road",
+               "short_name" : "SW Archer Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua",
+               "short_name" : "Alachua",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32603",
+               "short_name" : "32603",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "College of Medicine, University of Florida, 1600 Southwest Archer Road, Gainesville, FL 32603, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.6401345,
+               "lng" : -82.3441998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.649832,
+                  "lng" : -82.32819239999999
+               },
+               "southwest" : {
+                  "lat" : 29.6304361,
+                  "lng" : -82.36020719999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,334 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1470875
+               },
+               "southwest" : {
+                  "lat" : 53.39990299999999,
+                  "lng" : -2.3000969
+               }
+            },
+            "location" : {
+               "lat" : 53.479324,
+               "lng" : -2.2484851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5445879,
+                  "lng" : -2.1470875
+               },
+               "southwest" : {
+                  "lat" : 53.39990299999999,
+                  "lng" : -2.3000969
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coffee",
+               "short_name" : "Coffee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5090069,
+                  "lng" : -86.0066568
+               },
+               "southwest" : {
+                  "lat" : 35.4106149,
+                  "lng" : -86.13592779999999
+               }
+            },
+            "location" : {
+               "lat" : 35.4817431,
+               "lng" : -86.0885993
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5090069,
+                  "lng" : -86.0066568
+               },
+               "southwest" : {
+                  "lat" : 35.4106149,
+                  "lng" : -86.13592779999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queeny",
+               "short_name" : "Queeny",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.607651,
+                  "lng" : -90.47108489999999
+               },
+               "southwest" : {
+                  "lat" : 38.5628528,
+                  "lng" : -90.52969390000001
+               }
+            },
+            "location" : {
+               "lat" : 38.5969977,
+               "lng" : -90.5092882
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.607651,
+                  "lng" : -90.47108489999999
+               },
+               "southwest" : {
+                  "lat" : 38.5628528,
+                  "lng" : -90.52969390000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5943192,
+                  "lng" : -70.7148679
+               },
+               "southwest" : {
+                  "lat" : 42.5593265,
+                  "lng" : -70.7988989
+               }
+            },
+            "location" : {
+               "lat" : 42.577834,
+               "lng" : -70.7675967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5943192,
+                  "lng" : -70.7148679
+               },
+               "southwest" : {
+                  "lat" : 42.5593265,
+                  "lng" : -70.7988989
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bennington",
+               "short_name" : "Bennington",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.213817,
+                  "lng" : -73.00178679999999
+               },
+               "southwest" : {
+                  "lat" : 43.11714689999999,
+                  "lng" : -73.13495
+               }
+            },
+            "location" : {
+               "lat" : 43.1636197,
+               "lng" : -73.07228549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.213817,
+                  "lng" : -73.00178679999999
+               },
+               "southwest" : {
+                  "lat" : 43.11714689999999,
+                  "lng" : -73.13495
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough",
+               "short_name" : "Hillsborough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0514741,
+                  "lng" : -71.37540890000001
+               },
+               "southwest" : {
+                  "lat" : 42.889586,
+                  "lng" : -71.5127129
+               }
+            },
+            "location" : {
+               "lat" : 42.9956397,
+               "lng" : -71.4547891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0514741,
+                  "lng" : -71.37540890000001
+               },
+               "southwest" : {
+                  "lat" : 42.889586,
+                  "lng" : -71.5127129
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

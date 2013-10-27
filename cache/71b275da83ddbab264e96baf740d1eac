@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SSSUP",
+               "short_name" : "SSSUP",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Piazza Martiri della Libertà",
+               "short_name" : "Piazza Martiri della Libertà",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "SSSUP, Piazza Martiri della Libertà, Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.722562,
+                  "lng" : 10.4032535
+               },
+               "southwest" : {
+                  "lat" : 43.7201059,
+                  "lng" : 10.3999306
+               }
+            },
+            "location" : {
+               "lat" : 43.7207843,
+               "lng" : 10.4027318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7221333302915,
+                  "lng" : 10.4040808302915
+               },
+               "southwest" : {
+                  "lat" : 43.7194353697085,
+                  "lng" : 10.4013828697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

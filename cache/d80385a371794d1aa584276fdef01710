@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bucheon-si",
+               "short_name" : "Bucheon-si",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gyeonggi-do",
+               "short_name" : "Gyeonggi-do",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bucheon-si, Gyeonggi-do, South Korea",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5542723,
+                  "lng" : 126.8339469
+               },
+               "southwest" : {
+                  "lat" : 37.4583851,
+                  "lng" : 126.7411623
+               }
+            },
+            "location" : {
+               "lat" : 37.5034138,
+               "lng" : 126.7660309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5339,
+                  "lng" : 126.8243
+               },
+               "southwest" : {
+                  "lat" : 37.467,
+                  "lng" : 126.7457
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

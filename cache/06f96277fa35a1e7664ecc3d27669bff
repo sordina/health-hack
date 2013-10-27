@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "train_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Ljubljana, 1000 Ljubljana, Slovenia",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0581083,
+               "lng" : 14.5102778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0594572802915,
+                  "lng" : 14.5116267802915
+               },
+               "southwest" : {
+                  "lat" : 46.0567593197085,
+                  "lng" : 14.5089288197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "train_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "City Municipality of Ljubljana",
+               "short_name" : "City Municipality of Ljubljana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ljubljana",
+               "short_name" : "Ljubljana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Slovenia",
+               "short_name" : "SI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Center, 1000, Slovenia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.0598809,
+                  "lng" : 14.5328979
+               },
+               "southwest" : {
+                  "lat" : 46.0395013,
+                  "lng" : 14.4851684
+               }
+            },
+            "location" : {
+               "lat" : 46.047677,
+               "lng" : 14.515132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.0598809,
+                  "lng" : 14.5328979
+               },
+               "southwest" : {
+                  "lat" : 46.0395013,
+                  "lng" : 14.4851684
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

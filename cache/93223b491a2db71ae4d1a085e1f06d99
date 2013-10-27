@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Düsseldorf",
+               "short_name" : "University of Düsseldorf",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Universitätsstraße",
+               "short_name" : "Universitätsstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dusseldorf",
+               "short_name" : "Dusseldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "D",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40225",
+               "short_name" : "40225",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Düsseldorf, Universitätsstraße 1, 40225 Dusseldorf, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.19935779999999,
+                  "lng" : 6.8053947
+               },
+               "southwest" : {
+                  "lat" : 51.18207839999999,
+                  "lng" : 6.7826265
+               }
+            },
+            "location" : {
+               "lat" : 51.1924647,
+               "lng" : 6.793181199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.19935779999999,
+                  "lng" : 6.8053947
+               },
+               "southwest" : {
+                  "lat" : 51.18207839999999,
+                  "lng" : 6.7826265
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edirne",
+               "short_name" : "Edirne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Edirne",
+               "short_name" : "Edirne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Edirne Province",
+               "short_name" : "Edirne Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edirne/Edirne Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6958509,
+                  "lng" : 26.6036878
+               },
+               "southwest" : {
+                  "lat" : 41.6419001,
+                  "lng" : 26.542961
+               }
+            },
+            "location" : {
+               "lat" : 41.6818079,
+               "lng" : 26.562269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6958509,
+                  "lng" : 26.6036878
+               },
+               "southwest" : {
+                  "lat" : 41.6419001,
+                  "lng" : 26.542961
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

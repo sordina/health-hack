@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Texas Health Science Center",
+               "short_name" : "The University of Texas Health Science Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "7703",
+               "short_name" : "7703",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Floyd Curl Drive",
+               "short_name" : "Floyd Curl Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar",
+               "short_name" : "Bexar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "78229",
+               "short_name" : "78229",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3901",
+               "short_name" : "3901",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "The University of Texas Health Science Center, 7703 Floyd Curl Drive, San Antonio, TX 78229, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.5080334,
+               "lng" : -98.57402039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.5177436,
+                  "lng" : -98.558013
+               },
+               "southwest" : {
+                  "lat" : 29.4983223,
+                  "lng" : -98.5900278
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

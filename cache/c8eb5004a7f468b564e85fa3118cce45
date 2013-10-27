@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albinusdreef",
+               "short_name" : "Albinusdreef",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leiden",
+               "short_name" : "Leiden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2333 ZA",
+               "short_name" : "2333 ZA",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albinusdreef 2, 2333 ZA Leiden, The Netherlands",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1677096,
+               "lng" : 4.4774736
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.16905858029151,
+                  "lng" : 4.478822580291502
+               },
+               "southwest" : {
+                  "lat" : 52.16636061970851,
+                  "lng" : 4.476124619708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

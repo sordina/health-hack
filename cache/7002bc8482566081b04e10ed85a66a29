@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Homburg",
+               "short_name" : "Homburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saarpfalz-Kreis",
+               "short_name" : "Saarpfalz-Kreis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Saarland",
+               "short_name" : "SL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Homburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.3863773,
+                  "lng" : 7.404583799999999
+               },
+               "southwest" : {
+                  "lat" : 49.2475902,
+                  "lng" : 7.273708800000001
+               }
+            },
+            "location" : {
+               "lat" : 49.3295827,
+               "lng" : 7.3398428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.3863773,
+                  "lng" : 7.404583799999999
+               },
+               "southwest" : {
+                  "lat" : 49.2475902,
+                  "lng" : 7.273708800000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

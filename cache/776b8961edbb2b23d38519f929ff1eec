@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "IRCCS Multimedica",
+               "short_name" : "IRCCS Multimedica",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via San Barnaba",
+               "short_name" : "Via San Barnaba",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "20162",
+               "short_name" : "20162",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "Milan",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Milan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "IRCCS Multimedica, Via San Barnaba, 29, 20162 Milan, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.5374264,
+                  "lng" : 9.220018999999999
+               },
+               "southwest" : {
+                  "lat" : 45.5356095,
+                  "lng" : 9.2180275
+               }
+            },
+            "location" : {
+               "lat" : 45.536518,
+               "lng" : 9.219023199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5378669302915,
+                  "lng" : 9.220372230291503
+               },
+               "southwest" : {
+                  "lat" : 45.5351689697085,
+                  "lng" : 9.217674269708498
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

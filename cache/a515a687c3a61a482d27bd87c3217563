@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "São José do Rio Preto",
+               "short_name" : "São José do Rio Preto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São José do Rio Preto - São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.6352504,
+                  "lng" : -49.2549676
+               },
+               "southwest" : {
+                  "lat" : -20.9323264,
+                  "lng" : -49.4633686
+               }
+            },
+            "location" : {
+               "lat" : -20.820181,
+               "lng" : -49.37968129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.6352504,
+                  "lng" : -49.2549676
+               },
+               "southwest" : {
+                  "lat" : -20.9323264,
+                  "lng" : -49.4633686
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

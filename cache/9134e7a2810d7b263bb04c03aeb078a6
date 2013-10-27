@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46",
+               "short_name" : "46",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Grafton Street",
+               "short_name" : "Grafton St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Manchester",
+               "short_name" : "Gt Man",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M13",
+               "short_name" : "M13",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "46 Grafton Street, Manchester, Greater Manchester M13, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4632093,
+                  "lng" : -2.2293698
+               },
+               "southwest" : {
+                  "lat" : 53.4631997,
+                  "lng" : -2.2293787
+               }
+            },
+            "location" : {
+               "lat" : 53.4632093,
+               "lng" : -2.2293787
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4645534802915,
+                  "lng" : -2.228025269708498
+               },
+               "southwest" : {
+                  "lat" : 53.4618555197085,
+                  "lng" : -2.230723230291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

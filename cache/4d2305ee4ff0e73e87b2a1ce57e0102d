@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100101",
+               "short_name" : "100101",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chaoyang",
+               "short_name" : "Chaoyang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chaoyang, Beijing, China, 100101",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0099562,
+                  "lng" : 116.4193889
+               },
+               "southwest" : {
+                  "lat" : 39.9768057,
+                  "lng" : 116.372171
+               }
+            },
+            "location" : {
+               "lat" : 39.9942845,
+               "lng" : 116.4110864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0099562,
+                  "lng" : 116.4193889
+               },
+               "southwest" : {
+                  "lat" : 39.9768057,
+                  "lng" : 116.372171
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

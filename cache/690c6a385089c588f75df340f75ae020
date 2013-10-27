@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wuhan",
+               "short_name" : "Wuhan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hubei",
+               "short_name" : "Hubei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuhan, Hubei, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.3612603,
+                  "lng" : 115.0825728
+               },
+               "southwest" : {
+                  "lat" : 29.9690768,
+                  "lng" : 113.7022811
+               }
+            },
+            "location" : {
+               "lat" : 30.593099,
+               "lng" : 114.305393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.78745989999999,
+                  "lng" : 114.618988
+               },
+               "southwest" : {
+                  "lat" : 30.3487721,
+                  "lng" : 113.981781
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

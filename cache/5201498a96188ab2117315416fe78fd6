@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "650002",
+               "short_name" : "650002",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kemerovskaya oblast",
+               "short_name" : "Kemerovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kemerovo Oblast, Russia, 650002",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4178748,
+                  "lng" : 86.14951479999999
+               },
+               "southwest" : {
+                  "lat" : 55.3474746,
+                  "lng" : 86.0700155
+               }
+            },
+            "location" : {
+               "lat" : 55.39801199999999,
+               "lng" : 86.11433799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4178748,
+                  "lng" : 86.13635950000001
+               },
+               "southwest" : {
+                  "lat" : 55.3797718,
+                  "lng" : 86.0933455
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Leipzig",
+               "short_name" : "University of Leipzig",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10",
+               "short_name" : "10",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Augustusplatz",
+               "short_name" : "Augustusplatz",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mitte",
+               "short_name" : "Mitte",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leipzig",
+               "short_name" : "Leipzig",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04109",
+               "short_name" : "04109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Leipzig, Augustusplatz 10, 04109 Leipzig, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3397069,
+                  "lng" : 12.3796318
+               },
+               "southwest" : {
+                  "lat" : 51.337132,
+                  "lng" : 12.3775678
+               }
+            },
+            "location" : {
+               "lat" : 51.3385738,
+               "lng" : 12.3784615
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3397684302915,
+                  "lng" : 12.3799487802915
+               },
+               "southwest" : {
+                  "lat" : 51.3370704697085,
+                  "lng" : 12.3772508197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

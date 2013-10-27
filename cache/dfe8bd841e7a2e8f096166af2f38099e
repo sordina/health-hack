@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giuseppe Moruzzi",
+               "short_name" : "Via Giuseppe Moruzzi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "Pisa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pisa",
+               "short_name" : "PI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tuscany",
+               "short_name" : "Tuscany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56124",
+               "short_name" : "56124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuseppe Moruzzi, 1, 56124 Pisa, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7199779,
+                  "lng" : 10.4239574
+               },
+               "southwest" : {
+                  "lat" : 43.7171243,
+                  "lng" : 10.4204893
+               }
+            },
+            "location" : {
+               "lat" : 43.7194561,
+               "lng" : 10.421658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7199779,
+                  "lng" : 10.4239574
+               },
+               "southwest" : {
+                  "lat" : 43.7171243,
+                  "lng" : 10.4204893
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

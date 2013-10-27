@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nahariyya",
+               "short_name" : "Nahariyya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nahariya, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.043572,
+                  "lng" : 35.1916791
+               },
+               "southwest" : {
+                  "lat" : 32.987299,
+                  "lng" : 35.0818688
+               }
+            },
+            "location" : {
+               "lat" : 33.011352,
+               "lng" : 35.09467000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.043572,
+                  "lng" : 35.119612
+               },
+               "southwest" : {
+                  "lat" : 32.987299,
+                  "lng" : 35.0818688
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

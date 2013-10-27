@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University Of Miami - Miller School of Medicine",
+               "short_name" : "University Of Miami - Miller School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1140",
+               "short_name" : "1140",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northwest 10th Avenue",
+               "short_name" : "NW 10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Allapattah",
+               "short_name" : "Allapattah",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Miami",
+               "short_name" : "Miami",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miami-Dade",
+               "short_name" : "Miami-Dade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33136",
+               "short_name" : "33136",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1015",
+               "short_name" : "1015",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University Of Miami - Miller School of Medicine, 1600 Northwest 10th Avenue #1140, Miami, FL 33136, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7888975,
+               "lng" : -80.21407099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.7989438,
+                  "lng" : -80.1980636
+               },
+               "southwest" : {
+                  "lat" : 25.7788504,
+                  "lng" : -80.23007840000001
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

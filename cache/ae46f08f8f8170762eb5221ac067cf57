@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Warwick",
+               "short_name" : "University of Warwick",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Gibbet Hill Road",
+               "short_name" : "Gibbet Hill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CV4 7AL",
+               "short_name" : "CV4 7AL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Coventry",
+               "short_name" : "Coventry",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Warwick, Gibbet Hill Road, Coventry CV4 7AL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3918869,
+                  "lng" : -1.5542034
+               },
+               "southwest" : {
+                  "lat" : 52.3761869,
+                  "lng" : -1.5729882
+               }
+            },
+            "location" : {
+               "lat" : 52.3816146,
+               "lng" : -1.5642787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3918869,
+                  "lng" : -1.5542034
+               },
+               "southwest" : {
+                  "lat" : 52.3761869,
+                  "lng" : -1.5729882
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

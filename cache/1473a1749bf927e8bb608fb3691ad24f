@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8009179,
+                  "lng" : -86.13177589999999
+               },
+               "southwest" : {
+                  "lat" : 39.76040589999999,
+                  "lng" : -86.2004299
+               }
+            },
+            "location" : {
+               "lat" : 39.7794767,
+               "lng" : -86.17008939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8009179,
+                  "lng" : -86.13177589999999
+               },
+               "southwest" : {
+                  "lat" : 39.76040589999999,
+                  "lng" : -86.2004299
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

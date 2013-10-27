@@ -1,0 +1,184 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjing Medical University",
+               "short_name" : "Nanjing Medical University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "140号",
+               "short_name" : "140号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hanzhong Road",
+               "short_name" : "Hanzhong Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210029",
+               "short_name" : "210029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nanjing Medical University, 140 Hanzhong Road, Gulou, Nanjing, Jiangsu, China, 210029",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.043846,
+               "lng" : 118.774763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0533035,
+                  "lng" : 118.7907704
+               },
+               "southwest" : {
+                  "lat" : 32.0343875,
+                  "lng" : 118.7587556
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjing Medical University",
+               "short_name" : "Nanjing Medical University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "39号",
+               "short_name" : "39号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pailou Alley",
+               "short_name" : "Pailou Alley",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gulou",
+               "short_name" : "Gulou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "210000",
+               "short_name" : "210000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nanjing Medical University, 39 Pailou Alley, Gulou, Nanjing, Jiangsu, China, 210000",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.044012,
+               "lng" : 118.771386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.0453609802915,
+                  "lng" : 118.7727349802915
+               },
+               "southwest" : {
+                  "lat" : 32.0426630197085,
+                  "lng" : 118.7700370197085
+               }
+            }
+         },
+         "types" : [ "stadium", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanjing Medical University",
+               "short_name" : "Nanjing Medical University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3rd Road",
+               "short_name" : "3rd Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jiangning",
+               "short_name" : "Jiangning",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanjing Medical University, 3rd Road, Jiangning, Nanjing, Jiangsu, China",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.9398133,
+               "lng" : 118.8898475
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9411622802915,
+                  "lng" : 118.8911964802915
+               },
+               "southwest" : {
+                  "lat" : 31.9384643197085,
+                  "lng" : 118.8884985197085
+               }
+            }
+         },
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

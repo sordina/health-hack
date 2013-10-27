@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilthoven",
+               "short_name" : "Bilthoven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "De Bilt",
+               "short_name" : "De Bilt",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bilthoven, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1887515,
+                  "lng" : 5.2306336
+               },
+               "southwest" : {
+                  "lat" : 52.1093845,
+                  "lng" : 5.1742782
+               }
+            },
+            "location" : {
+               "lat" : 52.1365344,
+               "lng" : 5.2103806
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1887515,
+                  "lng" : 5.2306336
+               },
+               "southwest" : {
+                  "lat" : 52.1093845,
+                  "lng" : 5.1742782
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

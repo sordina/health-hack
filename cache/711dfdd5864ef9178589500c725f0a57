@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal United Hospital Bath",
+               "short_name" : "Royal United Hospital Bath",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Somerset",
+               "short_name" : "Somset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BA1 3NG",
+               "short_name" : "BA1 3NG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Royal United Hospital Bath, Bath, Somerset BA1 3NG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.39482959999999,
+                  "lng" : -2.3883964
+               },
+               "southwest" : {
+                  "lat" : 51.3888031,
+                  "lng" : -2.3945409
+               }
+            },
+            "location" : {
+               "lat" : 51.3919224,
+               "lng" : -2.3891401
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.39482959999999,
+                  "lng" : -2.3883964
+               },
+               "southwest" : {
+                  "lat" : 51.3888031,
+                  "lng" : -2.3945409
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

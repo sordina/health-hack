@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Center",
+               "short_name" : "Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medical Center, Rochester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1246115,
+                  "lng" : -77.6175259
+               },
+               "southwest" : {
+                  "lat" : 43.120239,
+                  "lng" : -77.63010179999999
+               }
+            },
+            "location" : {
+               "lat" : 43.1239569,
+               "lng" : -77.62317539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1246115,
+                  "lng" : -77.6175259
+               },
+               "southwest" : {
+                  "lat" : 43.120239,
+                  "lng" : -77.63010179999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strong Memorial Hospital",
+               "short_name" : "Strong Memorial Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "601",
+               "short_name" : "601",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elmwood Avenue",
+               "short_name" : "Elmwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Strong",
+               "short_name" : "Strong",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14642",
+               "short_name" : "14642",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Strong Memorial Hospital, 601 Elmwood Avenue, Rochester, NY 14642, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1244589,
+                  "lng" : -77.6213851
+               },
+               "southwest" : {
+                  "lat" : 43.11848699999999,
+                  "lng" : -77.62938590000002
+               }
+            },
+            "location" : {
+               "lat" : 43.1226626,
+               "lng" : -77.62360099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1244589,
+                  "lng" : -77.6213851
+               },
+               "southwest" : {
+                  "lat" : 43.11848699999999,
+                  "lng" : -77.62938590000002
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

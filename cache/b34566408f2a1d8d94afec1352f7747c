@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "NTNU - Norwegian University of Science and Technology",
+               "short_name" : "NTNU - Norwegian University of Science and Technology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Høgskoleringen",
+               "short_name" : "Høgskoleringen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sor-Trondelag",
+               "short_name" : "Sor-Trondelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7491",
+               "short_name" : "7491",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "NTNU - Norwegian University of Science and Technology, Høgskoleringen 1, 7491 Trondheim, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.42416970000001,
+                  "lng" : 10.4758885
+               },
+               "southwest" : {
+                  "lat" : 63.40583029999999,
+                  "lng" : 10.3981808
+               }
+            },
+            "location" : {
+               "lat" : 63.4153452,
+               "lng" : 10.4084191
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.42416970000001,
+                  "lng" : 10.4127888
+               },
+               "southwest" : {
+                  "lat" : 63.412107,
+                  "lng" : 10.3981808
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

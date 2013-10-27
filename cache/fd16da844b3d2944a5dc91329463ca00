@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blackpool",
+               "short_name" : "Blackpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blackpool, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8782396,
+                  "lng" : -2.9858799
+               },
+               "southwest" : {
+                  "lat" : 53.7725781,
+                  "lng" : -3.0624611
+               }
+            },
+            "location" : {
+               "lat" : 53.8175053,
+               "lng" : -3.0356748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8782396,
+                  "lng" : -2.9858799
+               },
+               "southwest" : {
+                  "lat" : 53.7725781,
+                  "lng" : -3.0624611
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blackpool International Airport",
+               "short_name" : "Blackpool International Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Squires Gate Lane",
+               "short_name" : "Squires Gate Ln",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Blackpool",
+               "short_name" : "Blackpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "FY4 2QY",
+               "short_name" : "FY4 2QY",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Blackpool International Airport (BLK), Squires Gate Lane, Blackpool, Lancashire FY4 2QY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.779982,
+                  "lng" : -3.0121404
+               },
+               "southwest" : {
+                  "lat" : 53.7661814,
+                  "lng" : -3.0481747
+               }
+            },
+            "location" : {
+               "lat" : 53.777679,
+               "lng" : -3.042767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.779982,
+                  "lng" : -3.0121404
+               },
+               "southwest" : {
+                  "lat" : 53.7661814,
+                  "lng" : -3.0481747
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

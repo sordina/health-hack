@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Amsterdam",
+               "short_name" : "Government of Amsterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Holland",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amsterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4311573,
+                  "lng" : 5.0683807
+               },
+               "southwest" : {
+                  "lat" : 52.3182742,
+                  "lng" : 4.7288558
+               }
+            },
+            "location" : {
+               "lat" : 52.3702157,
+               "lng" : 4.895167900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4311573,
+                  "lng" : 5.0683807
+               },
+               "southwest" : {
+                  "lat" : 52.3182742,
+                  "lng" : 4.7288558
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

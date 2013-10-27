@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "160-8582",
+               "short_name" : "160-8582",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Shinjuku",
+               "short_name" : "Shinjuku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shinjuku, Tokyo 160-8582, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6838833,
+                  "lng" : 139.7192223
+               },
+               "southwest" : {
+                  "lat" : 35.6804415,
+                  "lng" : 139.7166685
+               }
+            },
+            "location" : {
+               "lat" : 35.6814782,
+               "lng" : 139.7181345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6838833,
+                  "lng" : 139.7192943802915
+               },
+               "southwest" : {
+                  "lat" : 35.6804415,
+                  "lng" : 139.7165964197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

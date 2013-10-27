@@ -1,0 +1,63 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Pharmacy",
+               "short_name" : "School of Pharmacy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Wisconsin-Madison",
+               "short_name" : "University of Wisconsin-Madison",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dane",
+               "short_name" : "Dane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53705",
+               "short_name" : "53705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Pharmacy, University of Wisconsin-Madison, Madison, WI 53705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.07860549999999,
+               "lng" : -89.42802159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0867549,
+                  "lng" : -89.4120142
+               },
+               "southwest" : {
+                  "lat" : 43.070455,
+                  "lng" : -89.444029
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

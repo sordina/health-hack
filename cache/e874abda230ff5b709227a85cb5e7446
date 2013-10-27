@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Argenteuil",
+               "short_name" : "Argenteuil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Val-d'Oise",
+               "short_name" : "95",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Argenteuil, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.972417,
+                  "lng" : 2.2922589
+               },
+               "southwest" : {
+                  "lat" : 48.92772799999999,
+                  "lng" : 2.203301
+               }
+            },
+            "location" : {
+               "lat" : 48.947411,
+               "lng" : 2.2489499
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.972417,
+                  "lng" : 2.2922589
+               },
+               "southwest" : {
+                  "lat" : 48.92772799999999,
+                  "lng" : 2.203301
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

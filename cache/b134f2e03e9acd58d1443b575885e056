@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "960-1295",
+               "short_name" : "960-1295",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Hikarigaoka",
+               "short_name" : "Hikarigaoka",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Fukushima",
+               "short_name" : "Fukushima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fukushima Prefecture",
+               "short_name" : "Fukushima Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hikarigaoka, Fukushima, Fukushima Prefecture 960-1295, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6903413,
+                  "lng" : 140.471793
+               },
+               "southwest" : {
+                  "lat" : 37.6891528,
+                  "lng" : 140.4693531
+               }
+            },
+            "location" : {
+               "lat" : 37.6892777,
+               "lng" : 140.470454
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6910960302915,
+                  "lng" : 140.4719220302915
+               },
+               "southwest" : {
+                  "lat" : 37.6883980697085,
+                  "lng" : 140.4692240697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

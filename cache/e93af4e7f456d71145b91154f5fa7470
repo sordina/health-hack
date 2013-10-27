@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chongqing",
+               "short_name" : "Chongqing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chongqing, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.2011872,
+                  "lng" : 110.1998583
+               },
+               "southwest" : {
+                  "lat" : 28.1602253,
+                  "lng" : 105.2897606
+               }
+            },
+            "location" : {
+               "lat" : 29.56301,
+               "lng" : 106.551557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7401968,
+                  "lng" : 106.8138242
+               },
+               "southwest" : {
+                  "lat" : 29.3696283,
+                  "lng" : 106.2832832
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

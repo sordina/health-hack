@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "ZNA Koningin Paola Kinderziekenhuis",
+               "short_name" : "ZNA Koningin Paola Kinderziekenhuis",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lindendreef",
+               "short_name" : "Lindendreef",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Berchem",
+               "short_name" : "Berchem",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "Antwerp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "Antwerpen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2020",
+               "short_name" : "2020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ZNA Koningin Paola Kinderziekenhuis, Lindendreef 1, 2020 Antwerp, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1836588,
+                  "lng" : 4.4237228
+               },
+               "southwest" : {
+                  "lat" : 51.1793687,
+                  "lng" : 4.4188494
+               }
+            },
+            "location" : {
+               "lat" : 51.1821502,
+               "lng" : 4.4197986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1836588,
+                  "lng" : 4.4237228
+               },
+               "southwest" : {
+                  "lat" : 51.1793687,
+                  "lng" : 4.4188494
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

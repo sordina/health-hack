@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala University",
+               "short_name" : "Uppsala University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "10B",
+               "short_name" : "10B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "S:t Olofsgatan",
+               "short_name" : "S:t Olofsgatan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75312",
+               "short_name" : "75312",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Uppsala University, S:t Olofsgatan 10B, 753 12 Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.8629532,
+                  "lng" : 17.6519721
+               },
+               "southwest" : {
+                  "lat" : 59.836533,
+                  "lng" : 17.6174575
+               }
+            },
+            "location" : {
+               "lat" : 59.85758300000001,
+               "lng" : 17.629597
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.8629532,
+                  "lng" : 17.6519721
+               },
+               "southwest" : {
+                  "lat" : 59.836533,
+                  "lng" : 17.6174575
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

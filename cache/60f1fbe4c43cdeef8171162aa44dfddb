@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemerovo",
+               "short_name" : "Kemerovo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Kemerovo",
+               "short_name" : "g. Kemerovo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kemerovskaya oblast",
+               "short_name" : "Kemerovskaya oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kemerovo, Kemerovo Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.5365789,
+                  "lng" : 86.258252
+               },
+               "southwest" : {
+                  "lat" : 55.26002,
+                  "lng" : 85.91255489999999
+               }
+            },
+            "location" : {
+               "lat" : 55.3333333,
+               "lng" : 86.0666667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.5365789,
+                  "lng" : 86.258252
+               },
+               "southwest" : {
+                  "lat" : 55.26002,
+                  "lng" : 85.91255489999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

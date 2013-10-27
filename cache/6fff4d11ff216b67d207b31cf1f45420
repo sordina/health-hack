@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Hospital for Neurology and Neurosurgery",
+               "short_name" : "National Hospital for Neurology and Neurosurgery",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "33",
+               "short_name" : "33",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Queen Square",
+               "short_name" : "Queen Square",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "WC1N 3BG",
+               "short_name" : "WC1N 3BG",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "National Hospital for Neurology and Neurosurgery, 33 Queen Square, London WC1N 3BG, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5226838,
+                  "lng" : -0.1212621
+               },
+               "southwest" : {
+                  "lat" : 51.5216681,
+                  "lng" : -0.1225715
+               }
+            },
+            "location" : {
+               "lat" : 51.522222,
+               "lng" : -0.121944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52352493029149,
+                  "lng" : -0.120567819708498
+               },
+               "southwest" : {
+                  "lat" : 51.52082696970849,
+                  "lng" : -0.123265780291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

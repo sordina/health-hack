@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malaysia",
+               "short_name" : "MY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malaysia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.363468,
+                  "lng" : 119.2658119
+               },
+               "southwest" : {
+                  "lat" : 0.8538209,
+                  "lng" : 99.64057299999999
+               }
+            },
+            "location" : {
+               "lat" : 4.210484,
+               "lng" : 101.975766
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.819846999999999,
+                  "lng" : 119.813461
+               },
+               "southwest" : {
+                  "lat" : 0.461421,
+                  "lng" : 99.42283599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

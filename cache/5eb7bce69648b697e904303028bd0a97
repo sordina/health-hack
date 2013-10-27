@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jinan",
+               "short_name" : "Jinan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shandong",
+               "short_name" : "Shandong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jinan, Shandong, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5328857,
+                  "lng" : 117.7473066
+               },
+               "southwest" : {
+                  "lat" : 36.0311407,
+                  "lng" : 116.2260657
+               }
+            },
+            "location" : {
+               "lat" : 36.650997,
+               "lng" : 117.120497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.7988378,
+                  "lng" : 117.3010254
+               },
+               "southwest" : {
+                  "lat" : 36.4870049,
+                  "lng" : 116.7572021
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

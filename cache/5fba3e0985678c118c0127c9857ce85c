@@ -1,0 +1,88 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haukeland University Hospital",
+               "short_name" : "Haukeland University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jonas Lies vei",
+               "short_name" : "Jonas Lies vei",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Årstad",
+               "short_name" : "Årstad",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hordaland",
+               "short_name" : "Hordaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5021",
+               "short_name" : "5021",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Haukeland University Hospital, Jonas Lies vei 65, 5021 Bergen, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.3748637,
+                  "lng" : 5.360823
+               },
+               "southwest" : {
+                  "lat" : 60.3730315,
+                  "lng" : 5.3535936
+               }
+            },
+            "location" : {
+               "lat" : 60.37387500000001,
+               "lng" : 5.359243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.37529658029151,
+                  "lng" : 5.360823
+               },
+               "southwest" : {
+                  "lat" : 60.3725986197085,
+                  "lng" : 5.3535936
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

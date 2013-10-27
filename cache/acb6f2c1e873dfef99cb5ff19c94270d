@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Medicine",
+               "short_name" : "School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California Irvine",
+               "short_name" : "UCI",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "252",
+               "short_name" : "252",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Irvine Hall",
+               "short_name" : "Irvine Hall",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92697",
+               "short_name" : "92697",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3950",
+               "short_name" : "3950",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "School of Medicine, University of California Irvine, 252 Irvine Hall, Irvine, CA 92697, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.6450351,
+               "lng" : -117.8525163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6543235,
+                  "lng" : -117.8365089
+               },
+               "southwest" : {
+                  "lat" : 33.6357457,
+                  "lng" : -117.8685237
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

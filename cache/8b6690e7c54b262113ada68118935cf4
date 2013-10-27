@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universita Degli Studi Di Napoli Federico II - Facoltà di Medicina Veterinaria",
+               "short_name" : "Universita Degli Studi Di Napoli Federico II - Facoltà di Medicina Veterinaria",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Federico Delpino",
+               "short_name" : "Via Federico Delpino",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80137",
+               "short_name" : "80137",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universita Degli Studi Di Napoli Federico II - Facoltà di Medicina Veterinaria, Via Federico Delpino, 1, 80137 Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8623445,
+                  "lng" : 14.2607808
+               },
+               "southwest" : {
+                  "lat" : 40.8608021,
+                  "lng" : 14.2580462
+               }
+            },
+            "location" : {
+               "lat" : 40.8613522,
+               "lng" : 14.2598774
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8629222802915,
+                  "lng" : 14.2607808
+               },
+               "southwest" : {
+                  "lat" : 40.8602243197085,
+                  "lng" : 14.2580462
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

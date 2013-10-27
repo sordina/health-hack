@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "UFS - Universidade Federal de Sergipe",
+               "short_name" : "UFS - Universidade Federal de Sergipe",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "s/nº, Jardim Rosa Elze",
+               "short_name" : "s/nº, Jardim Rosa Elze",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Marechal Rondon",
+               "short_name" : "Av. Mal. Rondon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Cristóvão",
+               "short_name" : "São Cristóvão",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sergipe",
+               "short_name" : "SE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49100-000",
+               "short_name" : "49100-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "UFS - Universidade Federal de Sergipe - Avenida Marechal Rondon, s/nº, Jardim Rosa Elze, São Cristóvão - Sergipe, 49100-000, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -10.9213017,
+                  "lng" : -37.0996988
+               },
+               "southwest" : {
+                  "lat" : -10.9310048,
+                  "lng" : -37.1051547
+               }
+            },
+            "location" : {
+               "lat" : -10.925712,
+               "lng" : -37.102976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -10.9213017,
+                  "lng" : -37.0996988
+               },
+               "southwest" : {
+                  "lat" : -10.9310048,
+                  "lng" : -37.1051547
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

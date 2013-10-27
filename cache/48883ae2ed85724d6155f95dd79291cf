@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rostov-on-Don",
+               "short_name" : "Rostov-on-Don",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Rostov-na-Donu",
+               "short_name" : "g. Rostov-na-Donu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rostov Oblast",
+               "short_name" : "Rostov Oblast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rostov-on-Don, Rostov Oblast, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.36868,
+                  "lng" : 39.8514601
+               },
+               "southwest" : {
+                  "lat" : 47.153337,
+                  "lng" : 39.40453979999999
+               }
+            },
+            "location" : {
+               "lat" : 47.2166667,
+               "lng" : 39.7
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.36868,
+                  "lng" : 39.8514601
+               },
+               "southwest" : {
+                  "lat" : 47.153337,
+                  "lng" : 39.40453979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

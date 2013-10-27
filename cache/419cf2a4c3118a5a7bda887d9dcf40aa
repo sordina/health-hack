@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandeis University",
+               "short_name" : "Brandeis University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "415",
+               "short_name" : "415",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South Street",
+               "short_name" : "South St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waltham",
+               "short_name" : "Waltham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Middlesex",
+               "short_name" : "Middlesex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02453",
+               "short_name" : "02453",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brandeis University, 415 South Street, Waltham, MA 02453, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3712121,
+                  "lng" : -71.2522005
+               },
+               "southwest" : {
+                  "lat" : 42.3589819,
+                  "lng" : -71.26556479999999
+               }
+            },
+            "location" : {
+               "lat" : 42.3654347,
+               "lng" : -71.258595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3712121,
+                  "lng" : -71.2522005
+               },
+               "southwest" : {
+                  "lat" : 42.3589819,
+                  "lng" : -71.26556479999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

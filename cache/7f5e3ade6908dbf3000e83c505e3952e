@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "515041",
+               "short_name" : "515041",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Longhu",
+               "short_name" : "Longhu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shantou",
+               "short_name" : "Shantou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangdong",
+               "short_name" : "Guangdong",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longhu, Shantou, Guangdong, China, 515041",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4083433,
+                  "lng" : 116.7746892
+               },
+               "southwest" : {
+                  "lat" : 23.3402614,
+                  "lng" : 116.6656521
+               }
+            },
+            "location" : {
+               "lat" : 23.3699787,
+               "lng" : 116.7217642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4083433,
+                  "lng" : 116.7746892
+               },
+               "southwest" : {
+                  "lat" : 23.3402614,
+                  "lng" : 116.6656521
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

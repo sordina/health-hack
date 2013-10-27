@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical University of Vienna",
+               "short_name" : "Medical University of Vienna",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spitalgasse",
+               "short_name" : "Spitalg.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Michelbeuern",
+               "short_name" : "Michelbeuern",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Alsergrund",
+               "short_name" : "Alsergrund",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vienna",
+               "short_name" : "Vienna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vienna",
+               "short_name" : "Vienna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1090",
+               "short_name" : "1090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medical University of Vienna, Spitalgasse 23, 1090 Vienna, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.22311639999999,
+                  "lng" : 16.3617883
+               },
+               "southwest" : {
+                  "lat" : 48.2151946,
+                  "lng" : 16.3413707
+               }
+            },
+            "location" : {
+               "lat" : 48.21965729999999,
+               "lng" : 16.3517188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.22311639999999,
+                  "lng" : 16.3617883
+               },
+               "southwest" : {
+                  "lat" : 48.2151946,
+                  "lng" : 16.3413707
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

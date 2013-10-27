@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75006",
+               "short_name" : "75006",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "75",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "75006 Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.85933439999999,
+                  "lng" : 2.3446568
+               },
+               "southwest" : {
+                  "lat" : 48.8396999,
+                  "lng" : 2.3167127
+               }
+            },
+            "location" : {
+               "lat" : 48.8488576,
+               "lng" : 2.3354223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.85933439999999,
+                  "lng" : 2.3446568
+               },
+               "southwest" : {
+                  "lat" : 48.8396999,
+                  "lng" : 2.3167127
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "6th arrondissement of Paris",
+               "short_name" : "6th arrondissement of Paris",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "75",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "6th arrondissement of Paris, Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8593331,
+                  "lng" : 2.344615
+               },
+               "southwest" : {
+                  "lat" : 48.8396631,
+                  "lng" : 2.3167041
+               }
+            },
+            "location" : {
+               "lat" : 48.8505306,
+               "lng" : 2.3322333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8593331,
+                  "lng" : 2.344615
+               },
+               "southwest" : {
+                  "lat" : 48.8396631,
+                  "lng" : 2.3167041
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

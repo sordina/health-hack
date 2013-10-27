@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100034",
+               "short_name" : "100034",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Xicheng",
+               "short_name" : "Xicheng",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Xicheng, Beijing, China, 100034",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9351674,
+                  "lng" : 116.3884032
+               },
+               "southwest" : {
+                  "lat" : 39.9016339,
+                  "lng" : 116.3323236
+               }
+            },
+            "location" : {
+               "lat" : 39.9242703,
+               "lng" : 116.3752539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9351674,
+                  "lng" : 116.3884032
+               },
+               "southwest" : {
+                  "lat" : 39.9145642,
+                  "lng" : 116.3500346
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

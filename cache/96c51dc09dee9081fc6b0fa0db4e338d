@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumamoto University",
+               "short_name" : "Kumamoto University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "sublocality_level_5", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "sublocality_level_4", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "2 Chome",
+               "short_name" : "2 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kurokami",
+               "short_name" : "Kurokami",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chuo Ward",
+               "short_name" : "Chuo Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto",
+               "short_name" : "Kumamoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto Prefecture",
+               "short_name" : "Kumamoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "860-0862",
+               "short_name" : "860-0862",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kumamoto University, 2 Chome-2-39-1 Kurokami, Chuo Ward, Kumamoto, Kumamoto Prefecture 860-0862, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8128305,
+               "lng" : 130.7279202
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.82220770000001,
+                  "lng" : 130.7439276
+               },
+               "southwest" : {
+                  "lat" : 32.8034523,
+                  "lng" : 130.7119128
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumamoto University",
+               "short_name" : "Kumamoto University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "2 Chome",
+               "short_name" : "2 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Honjo",
+               "short_name" : "Honjo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chuo Ward",
+               "short_name" : "Chuo Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto",
+               "short_name" : "Kumamoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto Prefecture",
+               "short_name" : "Kumamoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "860-0811",
+               "short_name" : "860-0811",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kumamoto University, 2 Chome-2 Honjo, Chuo Ward, Kumamoto, Kumamoto Prefecture 860-0811, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7944404,
+               "lng" : 130.7125607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7957893802915,
+                  "lng" : 130.7139096802915
+               },
+               "southwest" : {
+                  "lat" : 32.7930914197085,
+                  "lng" : 130.7112117197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kumamoto University",
+               "short_name" : "Kumamoto University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "sublocality_level_3", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "4 Chome",
+               "short_name" : "4 Chome",
+               "types" : [ "sublocality_level_2", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kuhonji",
+               "short_name" : "Kuhonji",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chuo Ward",
+               "short_name" : "Chuo Ward",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto",
+               "short_name" : "Kumamoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kumamoto Prefecture",
+               "short_name" : "Kumamoto Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "862-0976",
+               "short_name" : "862-0976",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kumamoto University, 4 Chome-24 Kuhonji, Chuo Ward, Kumamoto, Kumamoto Prefecture 862-0976, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.7923921,
+               "lng" : 130.714663
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7937410802915,
+                  "lng" : 130.7160119802915
+               },
+               "southwest" : {
+                  "lat" : 32.7910431197085,
+                  "lng" : 130.7133140197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

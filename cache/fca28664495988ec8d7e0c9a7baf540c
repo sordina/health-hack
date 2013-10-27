@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "SS16 5NL",
+               "short_name" : "SS16 5NL",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "Basildon",
+               "short_name" : "Basildon",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Basildon, Essex SS16 5NL, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.5590239,
+                  "lng" : 0.4535580999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5542891,
+                  "lng" : 0.4473139
+               }
+            },
+            "location" : {
+               "lat" : 51.5576861,
+               "lng" : 0.4505573
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5590239,
+                  "lng" : 0.4535580999999999
+               },
+               "southwest" : {
+                  "lat" : 51.5542891,
+                  "lng" : 0.4473139
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

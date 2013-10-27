@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3584 CX",
+               "short_name" : "3584 CX",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oost",
+               "short_name" : "Oost",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3584 CX Utrecht, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0909374,
+                  "lng" : 5.1856472
+               },
+               "southwest" : {
+                  "lat" : 52.0828851,
+                  "lng" : 5.1743267
+               }
+            },
+            "location" : {
+               "lat" : 52.0857988,
+               "lng" : 5.1788155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0909374,
+                  "lng" : 5.1856472
+               },
+               "southwest" : {
+                  "lat" : 52.0828851,
+                  "lng" : 5.1743267
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3584",
+               "short_name" : "3584",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "Utrecht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3584 Utrecht, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0984217,
+                  "lng" : 5.1952072
+               },
+               "southwest" : {
+                  "lat" : 52.0761951,
+                  "lng" : 5.1413519
+               }
+            },
+            "location" : {
+               "lat" : 52.086241,
+               "lng" : 5.164979199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0984217,
+                  "lng" : 5.1952072
+               },
+               "southwest" : {
+                  "lat" : 52.0761951,
+                  "lng" : 5.1413519
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Agostino Gemelli University Polyclinic",
+               "short_name" : "Agostino Gemelli University Polyclinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "8",
+               "short_name" : "8",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Largo Agostino Gemelli",
+               "short_name" : "Largo Agostino Gemelli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rome",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00168",
+               "short_name" : "00168",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Agostino Gemelli University Polyclinic, Largo Agostino Gemelli, 8, 00168 Rome, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.932342,
+                  "lng" : 12.4314863
+               },
+               "southwest" : {
+                  "lat" : 41.9283352,
+                  "lng" : 12.427183
+               }
+            },
+            "location" : {
+               "lat" : 41.9293816,
+               "lng" : 12.4294215
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.932342,
+                  "lng" : 12.4314863
+               },
+               "southwest" : {
+                  "lat" : 41.9283352,
+                  "lng" : 12.427183
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

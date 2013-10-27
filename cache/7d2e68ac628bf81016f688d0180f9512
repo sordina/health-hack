@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Psychiatry",
+               "short_name" : "Dept of Psychiatry",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of California - San Diego",
+               "short_name" : "University of California - San Diego",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gilman Drive",
+               "short_name" : "Gilman Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Torrey Pines",
+               "short_name" : "Torrey Pines",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "La Jolla",
+               "short_name" : "La Jolla",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92093",
+               "short_name" : "92093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Psychiatry, University of California - San Diego, School of Medicine, 9500 Gilman Drive, La Jolla, CA 92093, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8755658,
+               "lng" : -117.2360755
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8849364,
+                  "lng" : -117.2200681
+               },
+               "southwest" : {
+                  "lat" : 32.8661943,
+                  "lng" : -117.2520829
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

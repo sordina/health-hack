@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Victoria Hospital",
+               "short_name" : "Royal Victoria Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "687",
+               "short_name" : "687",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pine Avenue West",
+               "short_name" : "Pine Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 1A1",
+               "short_name" : "H3A 1A1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Royal Victoria Hospital, 687 Pine Avenue West, Montreal, QC H3A 1A1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5077885,
+               "lng" : -73.58074209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5156076,
+                  "lng" : -73.5647347
+               },
+               "southwest" : {
+                  "lat" : 45.4999683,
+                  "lng" : -73.5967495
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Victoria Hospital",
+               "short_name" : "Royal Victoria Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Golden Square Mile",
+               "short_name" : "Golden Square Mile",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ville-Marie",
+               "short_name" : "Ville-Marie",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montreal",
+               "short_name" : "Montreal",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "H3A 1A1",
+               "short_name" : "H3A 1A1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Royal Victoria Hospital, Montreal, QC H3A 1A1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.5081308,
+               "lng" : -73.581402
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.5094797802915,
+                  "lng" : -73.5800530197085
+               },
+               "southwest" : {
+                  "lat" : 45.5067818197085,
+                  "lng" : -73.58275098029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

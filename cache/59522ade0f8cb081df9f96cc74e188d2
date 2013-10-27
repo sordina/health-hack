@@ -1,0 +1,499 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "130",
+               "short_name" : "130",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Mason Farm Road",
+               "short_name" : "Mason Farm Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chapel Hill",
+               "short_name" : "Chapel Hill",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27514",
+               "short_name" : "27514",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, 130 Mason Farm Road, Chapel Hill, NC 27514, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.90547129999999,
+               "lng" : -79.0525452
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.9145086,
+                  "lng" : -79.03653779999999
+               },
+               "southwest" : {
+                  "lat" : 35.896433,
+                  "lng" : -79.06855259999999
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Central West End",
+               "short_name" : "Central West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63110",
+               "short_name" : "63110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, St. Louis, MO 63110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.6376876,
+               "lng" : -90.2649045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6390365802915,
+                  "lng" : -90.26355551970849
+               },
+               "southwest" : {
+                  "lat" : 38.6363386197085,
+                  "lng" : -90.26625348029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "North Central",
+               "short_name" : "North Central",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Wichita",
+               "short_name" : "Wichita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sedgwick",
+               "short_name" : "Sedgwick",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67214",
+               "short_name" : "67214",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, Wichita, KS 67214, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7017737,
+               "lng" : -97.3159702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.70312268029151,
+                  "lng" : -97.31462121970849
+               },
+               "southwest" : {
+                  "lat" : 37.70042471970851,
+                  "lng" : -97.31731918029149
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Stanford University",
+               "short_name" : "Stanford University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "300",
+               "short_name" : "300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Palo Alto",
+               "short_name" : "Palo Alto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94304",
+               "short_name" : "94304",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, Stanford University, 300, Palo Alto, CA 94304, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4330923,
+               "lng" : -122.175016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.4344412802915,
+                  "lng" : -122.1736670197085
+               },
+               "southwest" : {
+                  "lat" : 37.4317433197085,
+                  "lng" : -122.1763649802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Wisconsin-Madison",
+               "short_name" : "University of Wisconsin-Madison",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Shorewood Hills",
+               "short_name" : "Shorewood Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dane",
+               "short_name" : "Dane",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53705",
+               "short_name" : "53705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, University of Wisconsin-Madison, Shorewood Hills, WI 53705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0762229,
+               "lng" : -89.43258299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.07757188029149,
+                  "lng" : -89.43123401970848
+               },
+               "southwest" : {
+                  "lat" : 43.07487391970849,
+                  "lng" : -89.4339319802915
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "French Quarter - CBD",
+               "short_name" : "French Quarter - CBD",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Orleans",
+               "short_name" : "New Orleans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans",
+               "short_name" : "Orleans",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70112",
+               "short_name" : "70112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, New Orleans, LA 70112, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9552016,
+               "lng" : -90.0770318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.9565505802915,
+                  "lng" : -90.0756828197085
+               },
+               "southwest" : {
+                  "lat" : 29.9538526197085,
+                  "lng" : -90.07838078029151
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division of Pediatrics Cardiology",
+               "short_name" : "Division of Pediatrics Cardiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "D3215",
+               "short_name" : "D3215",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Medical Center Drive",
+               "short_name" : "E Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angell",
+               "short_name" : "Angell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Division of Pediatrics Cardiology, 1500 East Medical Center Drive D3215, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2843246,
+               "lng" : -83.72767159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.28567358029149,
+                  "lng" : -83.7263226197085
+               },
+               "southwest" : {
+                  "lat" : 42.28297561970849,
+                  "lng" : -83.7290205802915
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emory University",
+               "short_name" : "Emory University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Druid Hills",
+               "short_name" : "Druid Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "Dekalb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30307",
+               "short_name" : "30307",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, Emory University, Druid Hills, GA 30307, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.7935722,
+               "lng" : -84.31863439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7949211802915,
+                  "lng" : -84.31728541970848
+               },
+               "southwest" : {
+                  "lat" : 33.7922232197085,
+                  "lng" : -84.3199833802915
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

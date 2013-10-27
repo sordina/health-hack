@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indiana University School Medical",
+               "short_name" : "Indiana University School Medical",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "975",
+               "short_name" : "975",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Walnut Street",
+               "short_name" : "W Walnut St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indiana University School Medical, 975 West Walnut Street, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.77692589999999,
+               "lng" : -86.1765922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7855007,
+                  "lng" : -86.1605848
+               },
+               "southwest" : {
+                  "lat" : 39.76835,
+                  "lng" : -86.19259959999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

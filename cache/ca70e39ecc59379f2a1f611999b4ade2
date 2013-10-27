@@ -1,0 +1,38 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cardiovascular Innovation Institute",
+               "short_name" : "Cardiovascular Innovation Institute",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cardiovascular Innovation Institute, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.2498154,
+               "lng" : -85.7483302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2511643802915,
+                  "lng" : -85.7469812197085
+               },
+               "southwest" : {
+                  "lat" : 38.2484664197085,
+                  "lng" : -85.74967918029151
+               }
+            }
+         },
+         "types" : [ "subpremise" ]
+      }
+   ],
+   "status" : "OK"
+}

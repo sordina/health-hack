@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia University Division Of Cardiology At Mount Sinai Medical Center",
+               "short_name" : "Columbia University Division Of Cardiology At Mount Sinai Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4300",
+               "short_name" : "4300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alton Road",
+               "short_name" : "Alton Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nautilus",
+               "short_name" : "Nautilus",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Miami Beach",
+               "short_name" : "Miami Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miami-Dade",
+               "short_name" : "Miami-Dade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33140",
+               "short_name" : "33140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Columbia University Division Of Cardiology At Mount Sinai Medical Center, 4300 Alton Road, Miami Beach, FL 33140, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 25.8130579,
+               "lng" : -80.14036039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8231021,
+                  "lng" : -80.124353
+               },
+               "southwest" : {
+                  "lat" : 25.8030128,
+                  "lng" : -80.1563678
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

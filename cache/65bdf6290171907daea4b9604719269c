@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Università degli Studi di Palermo",
+               "short_name" : "Università degli Studi di Palermo",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "0",
+               "short_name" : "0",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via delle Scienze",
+               "short_name" : "Via delle Scienze",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "Palermo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Palermo",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sicilia",
+               "short_name" : "Sicilia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "90128",
+               "short_name" : "90128",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Università degli Studi di Palermo, Via delle Scienze, 0, 90128 Palermo, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.1187309,
+                  "lng" : 13.3739404
+               },
+               "southwest" : {
+                  "lat" : 38.0968416,
+                  "lng" : 13.3427016
+               }
+            },
+            "location" : {
+               "lat" : 38.10380869999999,
+               "lng" : 13.3474468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.1089239,
+                  "lng" : 13.3539735
+               },
+               "southwest" : {
+                  "lat" : 38.0968416,
+                  "lng" : 13.3427016
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

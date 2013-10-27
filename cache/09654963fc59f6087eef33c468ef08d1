@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Green Lane",
+               "short_name" : "Green Lane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18054",
+               "short_name" : "18054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Green Lane, PA 18054, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.342064,
+                  "lng" : -75.4610929
+               },
+               "southwest" : {
+                  "lat" : 40.331169,
+                  "lng" : -75.4780621
+               }
+            },
+            "location" : {
+               "lat" : 40.3367674,
+               "lng" : -75.4690674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.342064,
+                  "lng" : -75.4610929
+               },
+               "southwest" : {
+                  "lat" : 40.331169,
+                  "lng" : -75.4780621
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

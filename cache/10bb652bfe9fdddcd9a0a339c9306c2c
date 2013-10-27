@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eindhoven University of Technology",
+               "short_name" : "Eindhoven University of Technology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Den Dolech",
+               "short_name" : "Den Dolech",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eindhoven",
+               "short_name" : "Eindhoven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eindhoven",
+               "short_name" : "Eindhoven",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5612 AZ",
+               "short_name" : "5612 AZ",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eindhoven University of Technology, Den Dolech 2, 5612 AZ Eindhoven, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4525206,
+                  "lng" : 5.499763199999999
+               },
+               "southwest" : {
+                  "lat" : 51.4450681,
+                  "lng" : 5.4789195
+               }
+            },
+            "location" : {
+               "lat" : 51.4484502,
+               "lng" : 5.490595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4525206,
+                  "lng" : 5.499763199999999
+               },
+               "southwest" : {
+                  "lat" : 51.4450681,
+                  "lng" : 5.4789195
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

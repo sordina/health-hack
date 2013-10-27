@@ -1,0 +1,216 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aalst",
+               "short_name" : "Aalst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Flanders",
+               "short_name" : "OV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aalst, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9948401,
+                  "lng" : 4.16388
+               },
+               "southwest" : {
+                  "lat" : 50.8993501,
+                  "lng" : 3.982340099999999
+               }
+            },
+            "location" : {
+               "lat" : 50.9378101,
+               "lng" : 4.0409517
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9948401,
+                  "lng" : 4.16388
+               },
+               "southwest" : {
+                  "lat" : 50.8993501,
+                  "lng" : 3.982340099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aalst",
+               "short_name" : "Aalst",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Aalst",
+               "short_name" : "Aalst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Flanders",
+               "short_name" : "OV",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "9300",
+               "short_name" : "9300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aalst, 9300 Aalst, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.937793,
+               "lng" : 4.0409133
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9391419802915,
+                  "lng" : 4.042262280291502
+               },
+               "southwest" : {
+                  "lat" : 50.9364440197085,
+                  "lng" : 4.039564319708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aalst",
+               "short_name" : "Aalst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flemish Brabant",
+               "short_name" : "VB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3320",
+               "short_name" : "3320",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3320 Aalst, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.77006,
+               "lng" : 4.86502
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7714089802915,
+                  "lng" : 4.866368980291503
+               },
+               "southwest" : {
+                  "lat" : 50.7687110197085,
+                  "lng" : 4.863671019708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aalst",
+               "short_name" : "Aalst",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sint-Truiden",
+               "short_name" : "Sint-Truiden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3800",
+               "short_name" : "3800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aalst, 3800 Sint-Truiden, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.78166,
+               "lng" : 5.208979999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.78300898029149,
+                  "lng" : 5.210328980291502
+               },
+               "southwest" : {
+                  "lat" : 50.7803110197085,
+                  "lng" : 5.207631019708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

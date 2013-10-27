@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Deutsches Herzzentrum München",
+               "short_name" : "Deutsches Herzzentrum München",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "36",
+               "short_name" : "36",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lazarettstraße",
+               "short_name" : "Lazarettstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Neuhausen",
+               "short_name" : "Neuhausen",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Munich",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Upper Bavaria",
+               "short_name" : "Upper Bavaria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80636",
+               "short_name" : "80636",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deutsches Herzzentrum München, Lazarettstraße 36, 80636 Munich, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.15273639999999,
+               "lng" : 11.5483289
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1601799,
+                  "lng" : 11.5643363
+               },
+               "southwest" : {
+                  "lat" : 48.1452918,
+                  "lng" : 11.5323215
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

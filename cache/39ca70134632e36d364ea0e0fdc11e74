@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erasmus MC",
+               "short_name" : "Erasmus MC",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "50-60",
+               "short_name" : "50-60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Doctor Molewaterplein",
+               "short_name" : "Doctor Molewaterplein",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centrum",
+               "short_name" : "Centrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Rotterdam",
+               "short_name" : "Government of Rotterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3015",
+               "short_name" : "3015",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Erasmus MC, Doctor Molewaterplein 50-60, 3015 Rotterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.91221239999999,
+                  "lng" : 4.4726061
+               },
+               "southwest" : {
+                  "lat" : 51.9084756,
+                  "lng" : 4.463843
+               }
+            },
+            "location" : {
+               "lat" : 51.9098061,
+               "lng" : 4.4669199
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.91221239999999,
+                  "lng" : 4.4726061
+               },
+               "southwest" : {
+                  "lat" : 51.9084756,
+                  "lng" : 4.463843
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

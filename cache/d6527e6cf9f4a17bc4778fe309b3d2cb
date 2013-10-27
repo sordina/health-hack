@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vitoria",
+               "short_name" : "Vitoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Espirito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vitoria - Espirito Santo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2353869,
+                  "lng" : -40.2226805
+               },
+               "southwest" : {
+                  "lat" : -20.3246511,
+                  "lng" : -40.3616207
+               }
+            },
+            "location" : {
+               "lat" : -20.3153602,
+               "lng" : -40.3017673
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2353869,
+                  "lng" : -40.2226805
+               },
+               "southwest" : {
+                  "lat" : -20.3246511,
+                  "lng" : -40.3616207
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

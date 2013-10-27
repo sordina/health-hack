@@ -1,0 +1,591 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Centre",
+               "short_name" : "Research Centre",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Central Saint Boniface",
+               "short_name" : "Central Saint Boniface",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Winnipeg",
+               "short_name" : "Winnipeg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "R2H",
+               "short_name" : "R2H",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Research Centre, Winnipeg, MB R2H, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.882931,
+               "lng" : -97.126397
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8901201,
+                  "lng" : -97.11038959999999
+               },
+               "southwest" : {
+                  "lat" : 49.8757408,
+                  "lng" : -97.14240439999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Center Drive",
+               "short_name" : "Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gaithersburg",
+               "short_name" : "Gaithersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20878",
+               "short_name" : "20878",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Center Drive & Research Drive, Gaithersburg, MD 20878, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1351941,
+               "lng" : -77.2189724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1365430802915,
+                  "lng" : -77.2176234197085
+               },
+               "southwest" : {
+                  "lat" : 39.1338451197085,
+                  "lng" : -77.22032138029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Road",
+               "short_name" : "Research Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "New Mexico State University",
+               "short_name" : "New Mexico State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Las Cruces",
+               "short_name" : "Las Cruces",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dona Ana",
+               "short_name" : "Dona Ana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88001",
+               "short_name" : "88001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Research Road & Center Drive, New Mexico State University, Las Cruces, NM 88001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.2725522,
+               "lng" : -106.7469765
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.2739011802915,
+                  "lng" : -106.7456275197085
+               },
+               "southwest" : {
+                  "lat" : 32.2712032197085,
+                  "lng" : -106.7483254802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medical Research & Library",
+               "short_name" : "Medical Research & Library",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medical Research & Library, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7767319,
+               "lng" : -86.1768324
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7780808802915,
+                  "lng" : -86.17548341970848
+               },
+               "southwest" : {
+                  "lat" : 39.7753829197085,
+                  "lng" : -86.17818138029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Betts House",
+               "short_name" : "The Betts House",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "416",
+               "short_name" : "416",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Clark Street",
+               "short_name" : "Clark St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45203",
+               "short_name" : "45203",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1423",
+               "short_name" : "1423",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "The Betts House, 416 Clark Street, Cincinnati, OH 45203, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1077466,
+               "lng" : -84.52214570000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.10909558029149,
+                  "lng" : -84.52079671970851
+               },
+               "southwest" : {
+                  "lat" : 39.1063976197085,
+                  "lng" : -84.52349468029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Center Drive",
+               "short_name" : "Research Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Blacksburg",
+               "short_name" : "Blacksburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "E-01",
+               "short_name" : "E-01",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24060",
+               "short_name" : "24060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Research Center Drive, Blacksburg, VA 24060, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2056367,
+                  "lng" : -80.403947
+               },
+               "southwest" : {
+                  "lat" : 37.1947831,
+                  "lng" : -80.40696729999999
+               }
+            },
+            "location" : {
+               "lat" : 37.2001289,
+               "lng" : -80.4054034
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2056367,
+                  "lng" : -80.403947
+               },
+               "southwest" : {
+                  "lat" : 37.1947831,
+                  "lng" : -80.40696729999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Center Road",
+               "short_name" : "Research Center Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort Pierce",
+               "short_name" : "Fort Pierce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Lucie",
+               "short_name" : "St Lucie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34945",
+               "short_name" : "34945",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Research Center Road, Fort Pierce, FL 34945, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4330061,
+                  "lng" : -80.3990986
+               },
+               "southwest" : {
+                  "lat" : 27.424107,
+                  "lng" : -80.4104595
+               }
+            },
+            "location" : {
+               "lat" : 27.4257085,
+               "lng" : -80.4033893
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4330061,
+                  "lng" : -80.3990986
+               },
+               "southwest" : {
+                  "lat" : 27.424107,
+                  "lng" : -80.4104595
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indiana University Research & Technology Corporation",
+               "short_name" : "Indiana University Research & Technology Corporation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "351",
+               "short_name" : "351",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "W 10th St # 200",
+               "short_name" : "W 10th St # 200",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Canal",
+               "short_name" : "Upper Canal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4119",
+               "short_name" : "4119",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Indiana University Research & Technology Corporation, 351 W 10th St # 200, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7805212,
+               "lng" : -86.1649522
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.78187018029149,
+                  "lng" : -86.16360321970851
+               },
+               "southwest" : {
+                  "lat" : 39.77917221970849,
+                  "lng" : -86.16630118029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Research Center Drive",
+               "short_name" : "Research Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Flagstaff",
+               "short_name" : "Flagstaff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coconino",
+               "short_name" : "Coconino",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86001",
+               "short_name" : "86001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Research Center Drive, Flagstaff, AZ 86001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2348465,
+                  "lng" : -111.6577547
+               },
+               "southwest" : {
+                  "lat" : 35.2331432,
+                  "lng" : -111.6602619
+               }
+            },
+            "location" : {
+               "lat" : 35.2344078,
+               "lng" : -111.6583846
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.23534383029149,
+                  "lng" : -111.6576593197085
+               },
+               "southwest" : {
+                  "lat" : 35.2326458697085,
+                  "lng" : -111.6603572802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

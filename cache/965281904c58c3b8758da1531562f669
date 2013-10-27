@@ -1,0 +1,162 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuo",
+               "short_name" : "Chuo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yamanashi Prefecture",
+               "short_name" : "Yamanashi Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuo, Yamanashi Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6235306,
+                  "lng" : 138.5842548
+               },
+               "southwest" : {
+                  "lat" : 35.5453652,
+                  "lng" : 138.4958172
+               }
+            },
+            "location" : {
+               "lat" : 35.5996289,
+               "lng" : 138.5172718
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6235306,
+                  "lng" : 138.5842548
+               },
+               "southwest" : {
+                  "lat" : 35.5453652,
+                  "lng" : 138.4958172
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuo",
+               "short_name" : "Chuo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kofu",
+               "short_name" : "Kofu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yamanashi Prefecture",
+               "short_name" : "Yamanashi Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuo, Kofu, Yamanashi Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.6662499,
+                  "lng" : 138.5786851
+               },
+               "southwest" : {
+                  "lat" : 35.6560012,
+                  "lng" : 138.5667885
+               }
+            },
+            "location" : {
+               "lat" : 35.6594803,
+               "lng" : 138.5697987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6662499,
+                  "lng" : 138.5786851
+               },
+               "southwest" : {
+                  "lat" : 35.6560012,
+                  "lng" : 138.5667885
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chuo",
+               "short_name" : "Chuo",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tsuru",
+               "short_name" : "Tsuru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yamanashi Prefecture",
+               "short_name" : "Yamanashi Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chuo, Tsuru, Yamanashi Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5572629,
+                  "lng" : 138.9122812
+               },
+               "southwest" : {
+                  "lat" : 35.55047649999999,
+                  "lng" : 138.9062364
+               }
+            },
+            "location" : {
+               "lat" : 35.5552743,
+               "lng" : 138.9099943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5572629,
+                  "lng" : 138.9122812
+               },
+               "southwest" : {
+                  "lat" : 35.55047649999999,
+                  "lng" : 138.9062364
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

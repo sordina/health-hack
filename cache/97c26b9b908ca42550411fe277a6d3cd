@@ -1,0 +1,222 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston University School of Medicine",
+               "short_name" : "Boston University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "72",
+               "short_name" : "72",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Concord Street",
+               "short_name" : "E Concord St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02118",
+               "short_name" : "02118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston University School of Medicine, 72 East Concord Street, Boston, MA 02118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3362379,
+               "lng" : -71.07232859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3444854,
+                  "lng" : -71.0563212
+               },
+               "southwest" : {
+                  "lat" : 42.3279893,
+                  "lng" : -71.088336
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston University School of Medicine",
+               "short_name" : "Boston University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "85",
+               "short_name" : "85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Newton Street",
+               "short_name" : "E Newton St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02118",
+               "short_name" : "02118",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Boston University School of Medicine, 85 East Newton Street, Boston, MA 02118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.335629,
+               "lng" : -71.0701663
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3369779802915,
+                  "lng" : -71.06881731970849
+               },
+               "southwest" : {
+                  "lat" : 42.3342800197085,
+                  "lng" : -71.07151528029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boston University School of Medicine",
+               "short_name" : "Boston University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "761",
+               "short_name" : "761",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Harrison Avenue",
+               "short_name" : "Harrison Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South End",
+               "short_name" : "South End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02118",
+               "short_name" : "02118",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2370",
+               "short_name" : "2370",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Boston University School of Medicine, 761 Harrison Avenue, Boston, MA 02118, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.33635049999999,
+               "lng" : -71.07220359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3376994802915,
+                  "lng" : -71.07085461970848
+               },
+               "southwest" : {
+                  "lat" : 42.3350015197085,
+                  "lng" : -71.07355258029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

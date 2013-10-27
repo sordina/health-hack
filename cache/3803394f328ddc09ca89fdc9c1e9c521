@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "School of Public Health 2",
+               "short_name" : "School of Public Health 2",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Harvard University Longwood Campus",
+               "short_name" : "Harvard University Longwood Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "655",
+               "short_name" : "655",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Huntington Avenue",
+               "short_name" : "Huntington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center Area",
+               "short_name" : "Medical Center Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02115",
+               "short_name" : "02115",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "School of Public Health 2, 655 Huntington Avenue, Harvard University Longwood Campus, Boston, MA 02115, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.33597719999999,
+                  "lng" : -71.1013191
+               },
+               "southwest" : {
+                  "lat" : 42.3352775,
+                  "lng" : -71.1022983
+               }
+            },
+            "location" : {
+               "lat" : 42.3356545,
+               "lng" : -71.1018258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3369763302915,
+                  "lng" : -71.1004597197085
+               },
+               "southwest" : {
+                  "lat" : 42.3342783697085,
+                  "lng" : -71.1031576802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

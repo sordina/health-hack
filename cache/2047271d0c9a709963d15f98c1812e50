@@ -1,0 +1,325 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Saskatchewan - Management Area",
+               "short_name" : "University of Saskatchewan - Management Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S7N",
+               "short_name" : "S7N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Saskatchewan - Management Area, Saskatoon, SK S7N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1532421,
+                  "lng" : -106.6065119
+               },
+               "southwest" : {
+                  "lat" : 52.1287841,
+                  "lng" : -106.6472161
+               }
+            },
+            "location" : {
+               "lat" : 52.138997,
+               "lng" : -106.6236777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1532421,
+                  "lng" : -106.6065119
+               },
+               "southwest" : {
+                  "lat" : 52.1287841,
+                  "lng" : -106.6472161
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Saskatchewan",
+               "short_name" : "University of Saskatchewan",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Administration Place",
+               "short_name" : "Administration Place",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S7N 5A1",
+               "short_name" : "S7N 5A1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Saskatchewan, 105 Administration Place, Saskatoon, SK S7N 5A1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1448948,
+                  "lng" : -106.6103931
+               },
+               "southwest" : {
+                  "lat" : 52.1218077,
+                  "lng" : -106.6476897
+               }
+            },
+            "location" : {
+               "lat" : 52.1383416,
+               "lng" : -106.6239696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1448948,
+                  "lng" : -106.6103931
+               },
+               "southwest" : {
+                  "lat" : 52.1218077,
+                  "lng" : -106.6476897
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Saskatchewan",
+               "short_name" : "U of S Campus",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Saskatchewan",
+               "short_name" : "University of Saskatchewan",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "University Heights Planning Area",
+               "short_name" : "University Heights Planning Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S7N",
+               "short_name" : "S7N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "U of S Campus, Saskatoon, SK S7N, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.1296994,
+               "lng" : -106.6359917
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1310483802915,
+                  "lng" : -106.6346427197085
+               },
+               "southwest" : {
+                  "lat" : 52.1283504197085,
+                  "lng" : -106.6373406802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Saskatchewan - South Management Area",
+               "short_name" : "University of Saskatchewan - South Management Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Saskatchewan - South Management Area, Saskatoon, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.129862,
+                  "lng" : -106.6041331
+               },
+               "southwest" : {
+                  "lat" : 52.121775,
+                  "lng" : -106.6338859
+               }
+            },
+            "location" : {
+               "lat" : 52.124956,
+               "lng" : -106.6170487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.129862,
+                  "lng" : -106.6041331
+               },
+               "southwest" : {
+                  "lat" : 52.121775,
+                  "lng" : -106.6338859
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Saskatchewan - North Management Area",
+               "short_name" : "University of Saskatchewan - North Management Area",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Saskatchewan - North Management Area, Saskatoon, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.17300299999999,
+                  "lng" : -106.5987191
+               },
+               "southwest" : {
+                  "lat" : 52.1466161,
+                  "lng" : -106.6328843
+               }
+            },
+            "location" : {
+               "lat" : 52.1562612,
+               "lng" : -106.6080399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.17300299999999,
+                  "lng" : -106.5987191
+               },
+               "southwest" : {
+                  "lat" : 52.1466161,
+                  "lng" : -106.6328843
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

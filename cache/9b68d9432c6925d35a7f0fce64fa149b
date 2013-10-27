@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medway Maritime Hospital",
+               "short_name" : "Medway Maritime Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Windmill Road",
+               "short_name" : "Windmill Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medway",
+               "short_name" : "Medway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "ME7 5NY",
+               "short_name" : "ME7 5NY",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Gillingham",
+               "short_name" : "Gillingham",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Medway Maritime Hospital, Windmill Road, Gillingham, Medway ME7 5NY, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3818944,
+                  "lng" : 0.5453321999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3770525,
+                  "lng" : 0.5377731
+               }
+            },
+            "location" : {
+               "lat" : 51.3794465,
+               "lng" : 0.5400458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3818944,
+                  "lng" : 0.5453321999999999
+               },
+               "southwest" : {
+                  "lat" : 51.3770525,
+                  "lng" : 0.5377731
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

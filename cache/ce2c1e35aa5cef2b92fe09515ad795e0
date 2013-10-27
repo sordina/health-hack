@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salpêtrière",
+               "short_name" : "Salpêtrière",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "75",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salpêtrière, Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.846086,
+                  "lng" : 2.3750531
+               },
+               "southwest" : {
+                  "lat" : 48.831413,
+                  "lng" : 2.351828
+               }
+            },
+            "location" : {
+               "lat" : 48.836953,
+               "lng" : 2.3639331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.846086,
+                  "lng" : 2.3750531
+               },
+               "southwest" : {
+                  "lat" : 48.831413,
+                  "lng" : 2.351828
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

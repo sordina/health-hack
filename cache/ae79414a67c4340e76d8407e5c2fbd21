@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University at Buffalo",
+               "short_name" : "University at Buffalo",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3435",
+               "short_name" : "3435",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Main Street",
+               "short_name" : "Main St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14214",
+               "short_name" : "14214",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University at Buffalo, 3435 Main Street, Buffalo, NY 14214, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9586053,
+                  "lng" : -78.8137086
+               },
+               "southwest" : {
+                  "lat" : 42.9489537,
+                  "lng" : -78.8251772
+               }
+            },
+            "location" : {
+               "lat" : 42.953672,
+               "lng" : -78.81702729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9586053,
+                  "lng" : -78.8137086
+               },
+               "southwest" : {
+                  "lat" : 42.9489537,
+                  "lng" : -78.8251772
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University at Buffalo",
+               "short_name" : "University at Buffalo",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14260",
+               "short_name" : "14260",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University at Buffalo, Buffalo, NY 14260, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0126303,
+                  "lng" : -78.7723548
+               },
+               "southwest" : {
+                  "lat" : 42.9908334,
+                  "lng" : -78.8028638
+               }
+            },
+            "location" : {
+               "lat" : 43.0008093,
+               "lng" : -78.7889697
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0126303,
+                  "lng" : -78.7723548
+               },
+               "southwest" : {
+                  "lat" : 42.9908334,
+                  "lng" : -78.8028638
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charles B. Sears Law Library",
+               "short_name" : "Charles B. Sears Law Library",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "211",
+               "short_name" : "211",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Putnam Way",
+               "short_name" : "Putnam Way",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amherst",
+               "short_name" : "Amherst",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14260",
+               "short_name" : "14260-1110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1110",
+               "short_name" : "1110",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Charles B. Sears Law Library, 211 Putnam Way, Buffalo, NY 14260, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0005808,
+                  "lng" : -78.78755360000001
+               },
+               "southwest" : {
+                  "lat" : 43.0002375,
+                  "lng" : -78.78839859999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0003967,
+               "lng" : -78.7879707
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00175813029151,
+                  "lng" : -78.7866271197085
+               },
+               "southwest" : {
+                  "lat" : 42.99906016970851,
+                  "lng" : -78.78932508029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

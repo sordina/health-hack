@@ -1,0 +1,359 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kaw",
+               "short_name" : "Kaw",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            },
+            "location" : {
+               "lat" : 39.0997265,
+               "lng" : -94.5785667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "Kansas City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wyandotte",
+               "short_name" : "Wyandotte",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            },
+            "location" : {
+               "lat" : 39.114053,
+               "lng" : -94.6274636
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.202911,
+                  "lng" : -94.588387
+               },
+               "southwest" : {
+                  "lat" : 39.0435589,
+                  "lng" : -94.90846499999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas",
+               "short_name" : "Kansas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "Delaware",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74347",
+               "short_name" : "74347",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kansas, OK 74347, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.214018,
+                  "lng" : -94.76599
+               },
+               "southwest" : {
+                  "lat" : 36.1894699,
+                  "lng" : -94.80943099999999
+               }
+            },
+            "location" : {
+               "lat" : 36.2050851,
+               "lng" : -94.7977277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.214018,
+                  "lng" : -94.76599
+               },
+               "southwest" : {
+                  "lat" : 36.1894699,
+                  "lng" : -94.80943099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas",
+               "short_name" : "Kansas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "Kansas",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Edgar",
+               "short_name" : "Edgar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61933",
+               "short_name" : "61933",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kansas, IL 61933, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.5618039,
+                  "lng" : -87.9297749
+               },
+               "southwest" : {
+                  "lat" : 39.547094,
+                  "lng" : -87.94913099999999
+               }
+            },
+            "location" : {
+               "lat" : 39.5528129,
+               "lng" : -87.9394779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.5618039,
+                  "lng" : -87.9297749
+               },
+               "southwest" : {
+                  "lat" : 39.547094,
+                  "lng" : -87.94913099999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas",
+               "short_name" : "Kansas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liberty",
+               "short_name" : "Liberty",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Seneca",
+               "short_name" : "Seneca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44841",
+               "short_name" : "44841",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kansas, OH 44841, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.250561,
+                  "lng" : -83.276911
+               },
+               "southwest" : {
+                  "lat" : 41.239305,
+                  "lng" : -83.2918371
+               }
+            },
+            "location" : {
+               "lat" : 41.2450075,
+               "lng" : -83.28369789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.250561,
+                  "lng" : -83.276911
+               },
+               "southwest" : {
+                  "lat" : 41.239305,
+                  "lng" : -83.2918371
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas",
+               "short_name" : "Kansas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walker",
+               "short_name" : "Walker",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.911967,
+                  "lng" : -87.544634
+               },
+               "southwest" : {
+                  "lat" : 33.896833,
+                  "lng" : -87.57576879999999
+               }
+            },
+            "location" : {
+               "lat" : 33.9017737,
+               "lng" : -87.5519582
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.911967,
+                  "lng" : -87.544634
+               },
+               "southwest" : {
+                  "lat" : 33.896833,
+                  "lng" : -87.57576879999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

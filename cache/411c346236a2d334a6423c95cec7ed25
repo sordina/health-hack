@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Würzburg",
+               "short_name" : "WÜ",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Franconia",
+               "short_name" : "Lower Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Würzburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.8454619,
+                  "lng" : 10.0144287
+               },
+               "southwest" : {
+                  "lat" : 49.7106843,
+                  "lng" : 9.8716285
+               }
+            },
+            "location" : {
+               "lat" : 49.7915953,
+               "lng" : 9.953571499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.8454619,
+                  "lng" : 10.0144287
+               },
+               "southwest" : {
+                  "lat" : 49.7106843,
+                  "lng" : 9.8716285
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

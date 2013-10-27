@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St George's Hospital",
+               "short_name" : "St George's Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Blackshaw Road",
+               "short_name" : "Blackshaw Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tooting",
+               "short_name" : "Tooting",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Gt Lon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SW17 0QT",
+               "short_name" : "SW17 0QT",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "St George's Hospital, Blackshaw Road, Tooting, London SW17 0QT, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4287275,
+                  "lng" : -0.171508
+               },
+               "southwest" : {
+                  "lat" : 51.4240562,
+                  "lng" : -0.1793399
+               }
+            },
+            "location" : {
+               "lat" : 51.4266941,
+               "lng" : -0.1740147
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4287275,
+                  "lng" : -0.171508
+               },
+               "southwest" : {
+                  "lat" : 51.4240562,
+                  "lng" : -0.1793399
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

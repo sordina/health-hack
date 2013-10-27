@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Ioannina",
+               "short_name" : "University of Ioannina",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "political" ]
+            },
+            {
+               "long_name" : "Ioannina",
+               "short_name" : "Ioannina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ipiros",
+               "short_name" : "Ipiros",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ipiros Ditiki Makedonia",
+               "short_name" : "Ipiros Ditiki Makedonia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Ioannina, Ioannina, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6240445,
+                  "lng" : 20.8481131
+               },
+               "southwest" : {
+                  "lat" : 39.6105263,
+                  "lng" : 20.8364032
+               }
+            },
+            "location" : {
+               "lat" : 39.6129372,
+               "lng" : 20.8424049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6240445,
+                  "lng" : 20.8481131
+               },
+               "southwest" : {
+                  "lat" : 39.6105263,
+                  "lng" : 20.8364032
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

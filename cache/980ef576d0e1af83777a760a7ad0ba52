@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New York Methodist Hospital",
+               "short_name" : "New York Methodist Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "506",
+               "short_name" : "506",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "6th Street",
+               "short_name" : "6th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Park Slope",
+               "short_name" : "Park Slope",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings",
+               "short_name" : "Kings",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11215",
+               "short_name" : "11215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New York Methodist Hospital, 506 6th Street, Brooklyn, NY 11215, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6687008,
+                  "lng" : -73.97772359999999
+               },
+               "southwest" : {
+                  "lat" : 40.66696779999999,
+                  "lng" : -73.9805571
+               }
+            },
+            "location" : {
+               "lat" : 40.6676107,
+               "lng" : -73.97850219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66918328029149,
+                  "lng" : -73.97772359999999
+               },
+               "southwest" : {
+                  "lat" : 40.66648531970849,
+                  "lng" : -73.9805571
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

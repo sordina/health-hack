@@ -1,0 +1,287 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Nebraska Medical Center",
+               "short_name" : "University of Nebraska Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Emile Street",
+               "short_name" : "Emile St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center",
+               "short_name" : "Medical Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Douglas",
+               "short_name" : "Douglas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68198",
+               "short_name" : "68198",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Nebraska Medical Center, Emile Street, Omaha, NE 68198, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2547389,
+               "lng" : -95.97502469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.26312679999999,
+                  "lng" : -95.9590173
+               },
+               "southwest" : {
+                  "lat" : 41.2463499,
+                  "lng" : -95.9910321
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Nebraska Medical Center",
+               "short_name" : "University of Nebraska Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Southeast Omaha",
+               "short_name" : "Southeast Omaha",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas",
+               "short_name" : "Douglas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68105",
+               "short_name" : "68105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Nebraska Medical Center, Omaha, NE 68105, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2418116,
+               "lng" : -95.96739669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.24316058029149,
+                  "lng" : -95.96604771970848
+               },
+               "southwest" : {
+                  "lat" : 41.2404626197085,
+                  "lng" : -95.96874568029149
+               }
+            }
+         },
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eppley Institute-Research-Cancer",
+               "short_name" : "Eppley Institute-Research-Cancer",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2603",
+               "short_name" : "2603",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "600",
+               "short_name" : "600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 42nd Street",
+               "short_name" : "S 42nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Medical Center",
+               "short_name" : "Medical Center",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas",
+               "short_name" : "Douglas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68198",
+               "short_name" : "68198",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Eppley Institute-Research-Cancer, 600 South 42nd Street #2603, Omaha, NE 68198, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2558434,
+               "lng" : -95.9766322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.25719238029149,
+                  "lng" : -95.97528321970849
+               },
+               "southwest" : {
+                  "lat" : 41.25449441970849,
+                  "lng" : -95.97798118029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Nebraska Medical Center",
+               "short_name" : "University of Nebraska Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "13708",
+               "short_name" : "13708",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Maple Road",
+               "short_name" : "W Maple Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hillsborough",
+               "short_name" : "Hillsborough",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas",
+               "short_name" : "Douglas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "68164",
+               "short_name" : "68164",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2426",
+               "short_name" : "2426",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "University of Nebraska Medical Center, 13708 West Maple Road, Omaha, NE 68164, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.292736,
+               "lng" : -96.12653499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2940849802915,
+                  "lng" : -96.12518601970848
+               },
+               "southwest" : {
+                  "lat" : 41.2913870197085,
+                  "lng" : -96.1278839802915
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

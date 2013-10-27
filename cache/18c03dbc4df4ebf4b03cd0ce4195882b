@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Central Florida",
+               "short_name" : "University of Central Florida",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4000",
+               "short_name" : "4000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Central Florida Boulevard",
+               "short_name" : "Central Florida Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Orlando",
+               "short_name" : "Orlando",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange",
+               "short_name" : "Orange",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32816",
+               "short_name" : "32816",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Central Florida, 4000 Central Florida Boulevard, Orlando, FL 32816, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6119168,
+                  "lng" : -81.1873736
+               },
+               "southwest" : {
+                  "lat" : 28.3667457,
+                  "lng" : -81.4438545
+               }
+            },
+            "location" : {
+               "lat" : 28.6024276,
+               "lng" : -81.2000599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6119168,
+                  "lng" : -81.1873736
+               },
+               "southwest" : {
+                  "lat" : 28.5841191,
+                  "lng" : -81.20897149999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

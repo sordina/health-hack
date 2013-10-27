@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "100037",
+               "short_name" : "100037",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Haidian",
+               "short_name" : "Haidian",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beijing",
+               "short_name" : "Beijing",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haidian, Beijing, China, 100037",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9494364,
+                  "lng" : 116.3706955
+               },
+               "southwest" : {
+                  "lat" : 39.9090662,
+                  "lng" : 116.2998507
+               }
+            },
+            "location" : {
+               "lat" : 39.9286292,
+               "lng" : 116.3293232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9384176,
+                  "lng" : 116.3706955
+               },
+               "southwest" : {
+                  "lat" : 39.9090662,
+                  "lng" : 116.2998507
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

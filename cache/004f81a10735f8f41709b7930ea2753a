@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Botucatu",
+               "short_name" : "Botucatu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Botucatu - São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5995423,
+                  "lng" : -48.2432664
+               },
+               "southwest" : {
+                  "lat" : -23.0822834,
+                  "lng" : -48.8515415
+               }
+            },
+            "location" : {
+               "lat" : -22.8903167,
+               "lng" : -48.4551637
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5995423,
+                  "lng" : -48.2432664
+               },
+               "southwest" : {
+                  "lat" : -23.0822834,
+                  "lng" : -48.8515415
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

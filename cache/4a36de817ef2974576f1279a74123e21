@@ -1,0 +1,720 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sergio Pansini, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8673671,
+               "lng" : 14.2224104
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86871608029149,
+                  "lng" : 14.2237593802915
+               },
+               "southwest" : {
+                  "lat" : 40.8660181197085,
+                  "lng" : 14.2210614197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Università degli Studi di Napoli - Facoltà di Medicina e Chirurgia",
+               "short_name" : "Università degli Studi di Napoli - Facoltà di Medicina e Chirurgia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "NA",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Università degli Studi di Napoli - Facoltà di Medicina e Chirurgia, Azienda Ospedaliera Universitaria Policlinico Federico II, Via Sergio Pansini, 5, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866473,
+               "lng" : 14.219189
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8678219802915,
+                  "lng" : 14.2205379802915
+               },
+               "southwest" : {
+                  "lat" : 40.8651240197085,
+                  "lng" : 14.2178400197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento di pediatria dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento di pediatria dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento di pediatria dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8667492,
+               "lng" : 14.2201563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680981802915,
+                  "lng" : 14.2215052802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654002197085,
+                  "lng" : 14.2188073197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca interdipartimentale G. Quagliariello dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca interdipartimentale G. Quagliariello dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca interdipartimentale G. Quagliariello dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8667491,
+               "lng" : 14.2201554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680980802915,
+                  "lng" : 14.2215043802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654001197085,
+                  "lng" : 14.2188064197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento di malattie infettive dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento di malattie infettive dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento di malattie infettive dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86674989999999,
+               "lng" : 14.2201551
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680988802915,
+                  "lng" : 14.2215040802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654009197085,
+                  "lng" : 14.2188061197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento di scienze neurologiche dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento di scienze neurologiche dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento di scienze neurologiche dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.866749,
+               "lng" : 14.2201554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86809798029149,
+                  "lng" : 14.2215043802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654000197085,
+                  "lng" : 14.2188064197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento di neuroscienze e scienze del comportamento dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento di neuroscienze e scienze del comportamento dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento di neuroscienze e scienze del comportamento dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8667491,
+               "lng" : 14.2201547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680980802915,
+                  "lng" : 14.2215036802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654001197085,
+                  "lng" : 14.2188057197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca centrale della Facoltà di medicina e chirurgia dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca centrale della Facoltà di medicina e chirurgia dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca centrale della Facoltà di medicina e chirurgia dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8667488,
+               "lng" : 14.2201556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.86809778029149,
+                  "lng" : 14.2215045802915
+               },
+               "southwest" : {
+                  "lat" : 40.86539981970849,
+                  "lng" : 14.2188066197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento di patologia sistematica. Sezione di dermatologia dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento di patologia sistematica. Sezione di dermatologia dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento di patologia sistematica. Sezione di dermatologia dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8667493,
+               "lng" : 14.2201558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680982802915,
+                  "lng" : 14.2215047802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654003197085,
+                  "lng" : 14.2188068197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biblioteca del Dipartimento assistenziale di anestesiologia e rianimazione toracica dell'Università degli studi di Napoli Federico II",
+               "short_name" : "Biblioteca del Dipartimento assistenziale di anestesiologia e rianimazione toracica dell'Università degli studi di Napoli Federico II",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "short_name" : "Azienda Ospedaliera Universitaria Policlinico Federico II",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Sergio Pansini",
+               "short_name" : "Via Sergio Pansini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Biblioteca del Dipartimento assistenziale di anestesiologia e rianimazione toracica dell'Università degli studi di Napoli Federico II, Via Sergio Pansini, 5, Azienda Ospedaliera Universitaria Policlinico Federico II, 80131 Naples, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.86674989999999,
+               "lng" : 14.220155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8680988802915,
+                  "lng" : 14.2215039802915
+               },
+               "southwest" : {
+                  "lat" : 40.8654009197085,
+                  "lng" : 14.2188060197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

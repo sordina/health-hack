@@ -1,0 +1,237 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein College of Medicine",
+               "short_name" : "Albert Einstein College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "short_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1510",
+               "short_name" : "1510",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Waters Place",
+               "short_name" : "Waters Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Bronx",
+               "short_name" : "East Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2700",
+               "short_name" : "2700",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein College of Medicine, Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus, Yeshiva University - Jack and Pearl Resnick Campus, 1510 Waters Place, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8514889,
+               "lng" : -73.84562699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8599284,
+                  "lng" : -73.8296196
+               },
+               "southwest" : {
+                  "lat" : 40.8430484,
+                  "lng" : -73.8616344
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein College of Medicine",
+               "short_name" : "Albert Einstein College of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Concourse Plaza",
+               "short_name" : "Concourse Plaza",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "260",
+               "short_name" : "260",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "E 161st St # 9",
+               "short_name" : "E 161st St # 9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fleetwood - Concourse Village",
+               "short_name" : "Fleetwood - Concourse Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10451",
+               "short_name" : "10451",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3512",
+               "short_name" : "3512",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Albert Einstein College of Medicine, Concourse Plaza, 260 E 161st St # 9, Bronx, NY 10451, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.82609679999999,
+               "lng" : -73.9202418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8274457802915,
+                  "lng" : -73.9188928197085
+               },
+               "southwest" : {
+                  "lat" : 40.8247478197085,
+                  "lng" : -73.92159078029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein College",
+               "short_name" : "Albert Einstein College",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "short_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Morris Park Avenue",
+               "short_name" : "Morris Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Bronx",
+               "short_name" : "East Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albert Einstein College, Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus, Yeshiva University - Jack and Pearl Resnick Campus, 1300 Morris Park Avenue, Bronx, NY 10461, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8509946,
+               "lng" : -73.84582639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8523435802915,
+                  "lng" : -73.8444774197085
+               },
+               "southwest" : {
+                  "lat" : 40.8496456197085,
+                  "lng" : -73.8471753802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jinzhou",
+               "short_name" : "Jinzhou",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dalian",
+               "short_name" : "Dalian",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jinzhou, Dalian, Liaoning, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3847217,
+                  "lng" : 122.3065674
+               },
+               "southwest" : {
+                  "lat" : 38.943568,
+                  "lng" : 121.4451299
+               }
+            },
+            "location" : {
+               "lat" : 39.05046,
+               "lng" : 121.782769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3847217,
+                  "lng" : 122.3065674
+               },
+               "southwest" : {
+                  "lat" : 38.943568,
+                  "lng" : 121.4451299
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jinzhou",
+               "short_name" : "Jinzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jinzhou, Liaoning, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1290268,
+                  "lng" : 122.5999818
+               },
+               "southwest" : {
+                  "lat" : 40.7971498,
+                  "lng" : 120.7168067
+               }
+            },
+            "location" : {
+               "lat" : 41.09512,
+               "lng" : 121.127004
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1873504,
+                  "lng" : 121.2568331
+               },
+               "southwest" : {
+                  "lat" : 41.0500602,
+                  "lng" : 121.0241783
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

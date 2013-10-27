@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10207",
+               "short_name" : "10207",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Vilnius",
+               "short_name" : "Vilnius",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vilniaus miesto savivaldybė",
+               "short_name" : "Vilniaus m. sav.",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vilnius County",
+               "short_name" : "Vilnius County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lithuania",
+               "short_name" : "LT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vilnius 10207, Lithuania",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.71385369999999,
+                  "lng" : 25.3168447
+               },
+               "southwest" : {
+                  "lat" : 54.70912089999999,
+                  "lng" : 25.313815
+               }
+            },
+            "location" : {
+               "lat" : 54.71028829999999,
+               "lng" : 25.3154777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.71385369999999,
+                  "lng" : 25.3168447
+               },
+               "southwest" : {
+                  "lat" : 54.70912089999999,
+                  "lng" : 25.313815
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northeast Ohio Medical University (NEOMED)",
+               "short_name" : "Northeast Ohio Medical University (NEOMED)",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "4209",
+               "short_name" : "4209",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highway 44",
+               "short_name" : "OH-44",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rootstown",
+               "short_name" : "Rootstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rootstown",
+               "short_name" : "Rootstown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Portage",
+               "short_name" : "Portage",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44272",
+               "short_name" : "44272",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "9698",
+               "short_name" : "9698",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Northeast Ohio Medical University (NEOMED), 4209 Ohio 44, Rootstown, OH 44272, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.1052582,
+                  "lng" : -81.2425489
+               },
+               "southwest" : {
+                  "lat" : 41.1012215,
+                  "lng" : -81.2484711
+               }
+            },
+            "location" : {
+               "lat" : 41.1027327,
+               "lng" : -81.24425069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.1052582,
+                  "lng" : -81.2425489
+               },
+               "southwest" : {
+                  "lat" : 41.1012215,
+                  "lng" : -81.2484711
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

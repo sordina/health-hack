@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Cellular Biology",
+               "short_name" : "Department of Cellular Biology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "The University of Georgia",
+               "short_name" : "The University of Georgia",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1000",
+               "short_name" : "1000",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cedar Street",
+               "short_name" : "Cedar St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clarke",
+               "short_name" : "Clarke",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30602",
+               "short_name" : "30602",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1544",
+               "short_name" : "1544",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Department of Cellular Biology, The University of Georgia, 1000 Cedar Street, Athens, GA 30602, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9482322,
+               "lng" : -83.37287769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9574877,
+                  "lng" : -83.3568703
+               },
+               "southwest" : {
+                  "lat" : 33.93897570000001,
+                  "lng" : -83.3888851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

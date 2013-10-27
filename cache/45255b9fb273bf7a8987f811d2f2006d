@@ -1,0 +1,355 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "HealthPartners Como Clinic",
+               "short_name" : "HealthPartners Como Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Como Avenue",
+               "short_name" : "Como Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Anthony Park",
+               "short_name" : "St. Anthony Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey",
+               "short_name" : "Ramsey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55108",
+               "short_name" : "55108",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1491",
+               "short_name" : "1491",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "HealthPartners Como Clinic, 2500 Como Avenue, Saint Paul, MN 55108, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9865732,
+               "lng" : -93.2019274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9944644,
+                  "lng" : -93.18592
+               },
+               "southwest" : {
+                  "lat" : 44.9786809,
+                  "lng" : -93.21793479999999
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HealthPartners Riverside Clinic",
+               "short_name" : "HealthPartners Riverside Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University of Minnesota",
+               "short_name" : "University of Minnesota",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2220",
+               "short_name" : "2220",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Riverside Avenue",
+               "short_name" : "Riverside Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedar-Riverside",
+               "short_name" : "Cedar-Riverside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55454",
+               "short_name" : "55454",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "1347",
+               "short_name" : "1347",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "HealthPartners Riverside Clinic, University of Minnesota, 2220 Riverside Avenue, Minneapolis, MN 55454, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.9680068,
+               "lng" : -93.2402536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9693557802915,
+                  "lng" : -93.23890461970851
+               },
+               "southwest" : {
+                  "lat" : 44.9666578197085,
+                  "lng" : -93.24160258029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Healthpartners",
+               "short_name" : "Healthpartners",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1430",
+               "short_name" : "1430",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Highway 96 East",
+               "short_name" : "Hwy 96 E",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "White Bear Lake",
+               "short_name" : "White Bear Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey",
+               "short_name" : "Ramsey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55110",
+               "short_name" : "55110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Healthpartners, 1430 Highway 96 East, White Bear Lake, MN 55110, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.078404,
+               "lng" : -93.03990999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0797529802915,
+                  "lng" : -93.03856101970848
+               },
+               "southwest" : {
+                  "lat" : 45.0770550197085,
+                  "lng" : -93.04125898029149
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HealthPartners Brooklyn Center Pharmacy",
+               "short_name" : "HealthPartners Brooklyn Center Pharmacy",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6845",
+               "short_name" : "6845",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lee Avenue North",
+               "short_name" : "Lee Ave N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brooklyn Center",
+               "short_name" : "Brooklyn Center",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55429",
+               "short_name" : "55429",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "HealthPartners Brooklyn Center Pharmacy, 6845 Lee Avenue North, Brooklyn Center, MN 55429, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.0791449,
+               "lng" : -93.33995499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.08049388029149,
+                  "lng" : -93.33860601970849
+               },
+               "southwest" : {
+                  "lat" : 45.07779591970849,
+                  "lng" : -93.3413039802915
+               }
+            }
+         },
+         "types" : [ "pharmacy", "store", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HealthPartners",
+               "short_name" : "HealthPartners",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "435",
+               "short_name" : "435",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Phalen Boulevard",
+               "short_name" : "Phalen Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Payne - Phalen",
+               "short_name" : "Payne - Phalen",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey",
+               "short_name" : "Ramsey",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55130",
+               "short_name" : "55130",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5302",
+               "short_name" : "5302",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "HealthPartners, 435 Phalen Boulevard, Saint Paul, MN 55130, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.965134,
+               "lng" : -93.084727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9664829802915,
+                  "lng" : -93.08337801970849
+               },
+               "southwest" : {
+                  "lat" : 44.9637850197085,
+                  "lng" : -93.08607598029151
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

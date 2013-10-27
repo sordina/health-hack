@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "121001",
+               "short_name" : "121001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Guta",
+               "short_name" : "Guta",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jinzhou",
+               "short_name" : "Jinzhou",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liaoning",
+               "short_name" : "Liaoning",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guta, Jinzhou, Liaoning, China, 121001",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.147052,
+                  "lng" : 121.1622784
+               },
+               "southwest" : {
+                  "lat" : 41.0898487,
+                  "lng" : 121.0991325
+               }
+            },
+            "location" : {
+               "lat" : 41.1275494,
+               "lng" : 121.113742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.147052,
+                  "lng" : 121.1622784
+               },
+               "southwest" : {
+                  "lat" : 41.0898487,
+                  "lng" : 121.0991325
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medizinische Universität Innsbruck",
+               "short_name" : "Medizinische Universität Innsbruck",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Innsbruck",
+               "short_name" : "Innsbruck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Innsbruck",
+               "short_name" : "Innsbruck",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tyrol",
+               "short_name" : "Tir.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6020",
+               "short_name" : "6020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Medizinische Universität Innsbruck, 6020 Innsbruck, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.2639785,
+                  "lng" : 11.3892624
+               },
+               "southwest" : {
+                  "lat" : 47.2592935,
+                  "lng" : 11.3840651
+               }
+            },
+            "location" : {
+               "lat" : 47.2626944,
+               "lng" : 11.3849579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2639785,
+                  "lng" : 11.3892624
+               },
+               "southwest" : {
+                  "lat" : 47.2592935,
+                  "lng" : 11.3840651
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

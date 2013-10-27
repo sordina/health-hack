@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kaohsiung City",
+               "short_name" : "Kaohsiung City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kaohsiung City, Taiwan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.4717267,
+                  "lng" : 121.0490147
+               },
+               "southwest" : {
+                  "lat" : 22.4755962,
+                  "lng" : 120.1746925
+               }
+            },
+            "location" : {
+               "lat" : 23.0108714,
+               "lng" : 120.6660044
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.4717267,
+                  "lng" : 121.0490147
+               },
+               "southwest" : {
+                  "lat" : 22.4755962,
+                  "lng" : 120.1746925
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

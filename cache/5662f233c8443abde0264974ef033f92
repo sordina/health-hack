@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johannes Gutenberg University Mainz",
+               "short_name" : "Johannes Gutenberg University Mainz",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Saarstraße",
+               "short_name" : "Saarstraße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mainz",
+               "short_name" : "MZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55122",
+               "short_name" : "55122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Johannes Gutenberg University Mainz, Saarstraße 21, 55122 Mainz, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9966704,
+                  "lng" : 8.2644913
+               },
+               "southwest" : {
+                  "lat" : 49.9874658,
+                  "lng" : 8.226999599999999
+               }
+            },
+            "location" : {
+               "lat" : 49.99592,
+               "lng" : 8.2464
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9966704,
+                  "lng" : 8.2471344
+               },
+               "southwest" : {
+                  "lat" : 49.9874658,
+                  "lng" : 8.226999599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

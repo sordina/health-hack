@@ -1,0 +1,138 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Queensland",
+               "short_name" : "The University of Queensland",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Brisbane",
+               "short_name" : "Brisbane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St Lucia",
+               "short_name" : "St Lucia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4072",
+               "short_name" : "4072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "The University of Queensland, Brisbane, St Lucia QLD 4072, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.4914228,
+                  "lng" : 153.0206123
+               },
+               "southwest" : {
+                  "lat" : -27.5037027,
+                  "lng" : 153.0057926
+               }
+            },
+            "location" : {
+               "lat" : -27.4954306,
+               "lng" : 153.0120301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.4914228,
+                  "lng" : 153.0206123
+               },
+               "southwest" : {
+                  "lat" : -27.5037027,
+                  "lng" : 153.0057926
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "The University of Queensland Ipswich Campus",
+               "short_name" : "The University of Queensland Ipswich Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Salisbury Road",
+               "short_name" : "Salisbury Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4305",
+               "short_name" : "4305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Queensland, 11 Salisbury Road, Ipswich QLD 4305, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.6249098,
+                  "lng" : 152.7580959
+               },
+               "southwest" : {
+                  "lat" : -27.6317336,
+                  "lng" : 152.7515167
+               }
+            },
+            "location" : {
+               "lat" : -27.6283247,
+               "lng" : 152.7551508
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.6249098,
+                  "lng" : 152.7580959
+               },
+               "southwest" : {
+                  "lat" : -27.6317336,
+                  "lng" : 152.7515167
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

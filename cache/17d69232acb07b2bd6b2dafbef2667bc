@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "210019",
+               "short_name" : "210019",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Jianye",
+               "short_name" : "Jianye",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Nanjing",
+               "short_name" : "Nanjing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jiangsu",
+               "short_name" : "Jiangsu",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jianye, Nanjing, Jiangsu, China, 210019",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.044175,
+                  "lng" : 118.7664409
+               },
+               "southwest" : {
+                  "lat" : 31.9984267,
+                  "lng" : 118.7110539
+               }
+            },
+            "location" : {
+               "lat" : 32.0109196,
+               "lng" : 118.7346888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.044175,
+                  "lng" : 118.7664409
+               },
+               "southwest" : {
+                  "lat" : 31.9984267,
+                  "lng" : 118.7110539
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

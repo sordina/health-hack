@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "37203",
+               "short_name" : "37203",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson",
+               "short_name" : "Davidson",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nashville, TN 37203, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.17134,
+                  "lng" : -86.75935489999999
+               },
+               "southwest" : {
+                  "lat" : 36.1315059,
+                  "lng" : -86.823078
+               }
+            },
+            "location" : {
+               "lat" : 36.1523805,
+               "lng" : -86.78938890000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.17134,
+                  "lng" : -86.75935489999999
+               },
+               "southwest" : {
+                  "lat" : 36.1315059,
+                  "lng" : -86.823078
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

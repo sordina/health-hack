@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Universite Laval",
+               "short_name" : "UL",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2325",
+               "short_name" : "2325",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rue de l'Université",
+               "short_name" : "Rue de l'Université",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cité-Universitaire",
+               "short_name" : "Cité-Universitaire",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "short_name" : "Sainte-Foy-Sillery-Cap-Rouge",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "Quebec",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Communauté-Urbaine-de-Québec",
+               "short_name" : "Communauté-Urbaine-de-Québec",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quebec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "G1V 0A6",
+               "short_name" : "G1V 0A6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Universite Laval, 2325 Rue de l'Université, Quebec City, QC G1V 0A6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.788461,
+                  "lng" : -71.26462739999999
+               },
+               "southwest" : {
+                  "lat" : 46.7740005,
+                  "lng" : -71.28552069999999
+               }
+            },
+            "location" : {
+               "lat" : 46.7793412,
+               "lng" : -71.27262209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.788461,
+                  "lng" : -71.26462739999999
+               },
+               "southwest" : {
+                  "lat" : 46.7740005,
+                  "lng" : -71.28552069999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

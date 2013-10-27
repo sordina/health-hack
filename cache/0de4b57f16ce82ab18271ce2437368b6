@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellvitge",
+               "short_name" : "Bellvitge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Hospitalet de Llobregat",
+               "short_name" : "Hospitalet de Llobregat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08907",
+               "short_name" : "08907",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bellvitge, 08907 Hospitalet de Llobregat, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.357149,
+                  "lng" : 2.11477
+               },
+               "southwest" : {
+                  "lat" : 41.346393,
+                  "lng" : 2.10707
+               }
+            },
+            "location" : {
+               "lat" : 41.3520453,
+               "lng" : 2.1087691
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.357149,
+                  "lng" : 2.11477
+               },
+               "southwest" : {
+                  "lat" : 41.346393,
+                  "lng" : 2.10707
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "neighborhood", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellvitge",
+               "short_name" : "Bellvitge",
+               "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+            },
+            {
+               "long_name" : "Hospitalet de Llobregat",
+               "short_name" : "Hospitalet de Llobregat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08907",
+               "short_name" : "08907",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bellvitge, 08907 Hospitalet de Llobregat, Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.3512017,
+               "lng" : 2.1108343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3525506802915,
+                  "lng" : 2.112183280291502
+               },
+               "southwest" : {
+                  "lat" : 41.3498527197085,
+                  "lng" : 2.109485319708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "subway_station", "transit_station", "train_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

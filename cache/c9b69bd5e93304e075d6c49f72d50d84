@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanning",
+               "short_name" : "Nanning",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guangxi",
+               "short_name" : "Guangxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanning, Guangxi, China",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.0329435,
+                  "lng" : 109.6216461
+               },
+               "southwest" : {
+                  "lat" : 22.2041839,
+                  "lng" : 107.3293229
+               }
+            },
+            "location" : {
+               "lat" : 22.817239,
+               "lng" : 108.366129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.9946779,
+                  "lng" : 108.5449219
+               },
+               "southwest" : {
+                  "lat" : 22.6490502,
+                  "lng" : 108.0271912
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

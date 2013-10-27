@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Michigan Medical Center",
+               "short_name" : "University of Michigan Medical Center",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Medical Center Drive",
+               "short_name" : "E Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Michigan Medical Center, 1500 East Medical Center Drive, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.28941450000001,
+                  "lng" : -83.72549570000001
+               },
+               "southwest" : {
+                  "lat" : 42.2812813,
+                  "lng" : -83.739744
+               }
+            },
+            "location" : {
+               "lat" : 42.2838748,
+               "lng" : -83.72960209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2860614,
+                  "lng" : -83.72549570000001
+               },
+               "southwest" : {
+                  "lat" : 42.2812813,
+                  "lng" : -83.7389711
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

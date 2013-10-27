@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "80131",
+               "short_name" : "80131",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "80131 Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8848929,
+                  "lng" : 14.264007
+               },
+               "southwest" : {
+                  "lat" : 40.8517249,
+                  "lng" : 14.184813
+               }
+            },
+            "location" : {
+               "lat" : 40.864297,
+               "lng" : 14.1989038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8848929,
+                  "lng" : 14.264007
+               },
+               "southwest" : {
+                  "lat" : 40.8517249,
+                  "lng" : 14.184813
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

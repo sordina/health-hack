@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Policlínica Gipuzkoa",
+               "short_name" : "Policlínica Gipuzkoa",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "174",
+               "short_name" : "174",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Paseo Miramón",
+               "short_name" : "Paseo Miramón",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Sebastián",
+               "short_name" : "San Sebastián",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gipuzkoa",
+               "short_name" : "SS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guipúzcoa",
+               "short_name" : "Guipúzcoa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20014,",
+               "short_name" : "20014,",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Policlínica Gipuzkoa, Paseo Miramón, 174, 20014, San Sebastián, Gipuzkoa, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.290966,
+                  "lng" : -1.979978
+               },
+               "southwest" : {
+                  "lat" : 43.289055,
+                  "lng" : -1.9830119
+               }
+            },
+            "location" : {
+               "lat" : 43.289897,
+               "lng" : -1.981068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2913594802915,
+                  "lng" : -1.979978
+               },
+               "southwest" : {
+                  "lat" : 43.2886615197085,
+                  "lng" : -1.9830119
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

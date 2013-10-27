@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "430060",
+               "short_name" : "430060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Wuchang",
+               "short_name" : "Wuchang",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Wuhan",
+               "short_name" : "Wuhan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hubei",
+               "short_name" : "Hubei",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wuchang, Wuhan, Hubei, China, 430060",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.564102,
+                  "lng" : 114.3341433
+               },
+               "southwest" : {
+                  "lat" : 30.523669,
+                  "lng" : 114.286599
+               }
+            },
+            "location" : {
+               "lat" : 30.5396179,
+               "lng" : 114.3072212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.564102,
+                  "lng" : 114.3341433
+               },
+               "southwest" : {
+                  "lat" : 30.523669,
+                  "lng" : 114.286599
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

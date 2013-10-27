@@ -1,0 +1,93 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Bergen",
+               "short_name" : "University of Bergen",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Muséplassen",
+               "short_name" : "Muséplassen",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nygårdshøyden",
+               "short_name" : "Nygårdshøyden",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bergenhus",
+               "short_name" : "Bergenhus",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hordaland",
+               "short_name" : "Hordaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5006",
+               "short_name" : "5006",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "University of Bergen, Muséplassen 1, 5006 Bergen, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.39055009999999,
+                  "lng" : 5.3342049
+               },
+               "southwest" : {
+                  "lat" : 60.3801841,
+                  "lng" : 5.3131331
+               }
+            },
+            "location" : {
+               "lat" : 60.3880754,
+               "lng" : 5.3228542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.39055009999999,
+                  "lng" : 5.3342049
+               },
+               "southwest" : {
+                  "lat" : 60.3801841,
+                  "lng" : 5.3131331
+               }
+            }
+         },
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Zuwe Hofpoort Ziekenhuis",
+               "short_name" : "Zuwe Hofpoort Ziekenhuis",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Polanerbaan",
+               "short_name" : "Polanerbaan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woerden",
+               "short_name" : "Woerden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woerden",
+               "short_name" : "Woerden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utrecht",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3447 GN",
+               "short_name" : "3447 GN",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Zuwe Hofpoort Ziekenhuis, Middelland, Polanerbaan 2, 3447 GN Woerden, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0810271,
+                  "lng" : 4.8940519
+               },
+               "southwest" : {
+                  "lat" : 52.0778209,
+                  "lng" : 4.888675
+               }
+            },
+            "location" : {
+               "lat" : 52.07944329999999,
+               "lng" : 4.8922792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0810271,
+                  "lng" : 4.8940519
+               },
+               "southwest" : {
+                  "lat" : 52.0778209,
+                  "lng" : 4.888675
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

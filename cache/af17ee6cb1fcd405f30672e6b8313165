@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "PinnacleHealth",
+               "short_name" : "PinnacleHealth",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2501",
+               "short_name" : "2501",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "North 3rd Street",
+               "short_name" : "N 3rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harrisburg",
+               "short_name" : "Harrisburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dauphin",
+               "short_name" : "Dauphin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17110",
+               "short_name" : "17110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "PinnacleHealth, 2501 North 3rd Street, Harrisburg, PA 17110, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2891463,
+                  "lng" : -76.8971253
+               },
+               "southwest" : {
+                  "lat" : 40.285584,
+                  "lng" : -76.9001335
+               }
+            },
+            "location" : {
+               "lat" : 40.2856167,
+               "lng" : -76.89863749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2891463,
+                  "lng" : -76.8971253
+               },
+               "southwest" : {
+                  "lat" : 40.285584,
+                  "lng" : -76.9001335
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "PINNACLEHEALTH SYSTEM",
+               "short_name" : "Pinnaclehealth System",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1a",
+               "short_name" : "1a",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "409",
+               "short_name" : "409",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "South 2nd Street",
+               "short_name" : "S 2nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harrisburg",
+               "short_name" : "Harrisburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dauphin",
+               "short_name" : "Dauphin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17105",
+               "short_name" : "17105",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8700",
+               "short_name" : "8700",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "PINNACLEHEALTH SYSTEM, 409 South 2nd Street #1a, Harrisburg, PA 17105, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2578718,
+                  "lng" : -76.87398449999999
+               },
+               "southwest" : {
+                  "lat" : 40.2557942,
+                  "lng" : -76.876469
+               }
+            },
+            "location" : {
+               "lat" : 40.2566052,
+               "lng" : -76.8757181
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2581819802915,
+                  "lng" : -76.87387776970849
+               },
+               "southwest" : {
+                  "lat" : 40.2554840197085,
+                  "lng" : -76.87657573029149
+               }
+            }
+         },
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byblos",
+               "short_name" : "Byblos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jbeil",
+               "short_name" : "Jbeil",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jbeil",
+               "short_name" : "Jbeil",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mount Lebanon",
+               "short_name" : "Mount Lebanon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Byblos, Lebanon",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1230022,
+               "lng" : 35.6519282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.13223869999999,
+                  "lng" : 35.6679356
+               },
+               "southwest" : {
+                  "lat" : 34.1137647,
+                  "lng" : 35.6359208
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byblos",
+               "short_name" : "Byblos",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Jbeil",
+               "short_name" : "Jbeil",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Jbeil",
+               "short_name" : "Jbeil",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mount Lebanon",
+               "short_name" : "Mount Lebanon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Lebanon",
+               "short_name" : "LB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Byblos, Lebanon",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1219,
+               "lng" : 35.6497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.12324898029149,
+                  "lng" : 35.65104898029151
+               },
+               "southwest" : {
+                  "lat" : 34.1205510197085,
+                  "lng" : 35.64835101970851
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

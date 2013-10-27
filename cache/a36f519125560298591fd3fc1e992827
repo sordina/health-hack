@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pozzilli",
+               "short_name" : "Pozzilli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pozzilli",
+               "short_name" : "Pozzilli",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Isernia",
+               "short_name" : "IS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Molise",
+               "short_name" : "Molise",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "86077",
+               "short_name" : "86077",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "86077 Pozzilli Isernia, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5157531,
+                  "lng" : 14.0678981
+               },
+               "southwest" : {
+                  "lat" : 41.5066163,
+                  "lng" : 14.0540469
+               }
+            },
+            "location" : {
+               "lat" : 41.5110422,
+               "lng" : 14.0636381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5157531,
+                  "lng" : 14.0678981
+               },
+               "southwest" : {
+                  "lat" : 41.5066163,
+                  "lng" : 14.0540469
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

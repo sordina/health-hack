@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.17506659999999
+               },
+               "southwest" : {
+                  "lat" : 38.533064,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Louis",
+               "short_name" : "Saint Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint-Louis",
+               "short_name" : "Saint-Louis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint-Louis",
+               "short_name" : "Saint-Louis",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Senegal",
+               "short_name" : "SN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Louis, Senegal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 16.0760986,
+                  "lng" : -16.403041
+               },
+               "southwest" : {
+                  "lat" : 15.964341,
+                  "lng" : -16.5135574
+               }
+            },
+            "location" : {
+               "lat" : 16.0246299,
+               "lng" : -16.489531
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 16.0760986,
+                  "lng" : -16.403041
+               },
+               "southwest" : {
+                  "lat" : 15.964341,
+                  "lng" : -16.5135574
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

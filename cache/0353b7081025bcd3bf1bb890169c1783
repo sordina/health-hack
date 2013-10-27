@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Verona",
+               "short_name" : "Verona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Verona",
+               "short_name" : "Verona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Verona",
+               "short_name" : "VR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Verona, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4812978,
+                  "lng" : 11.0703201
+               },
+               "southwest" : {
+                  "lat" : 45.3742342,
+                  "lng" : 10.9147425
+               }
+            },
+            "location" : {
+               "lat" : 45.4383563,
+               "lng" : 10.9916578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4812978,
+                  "lng" : 11.0703201
+               },
+               "southwest" : {
+                  "lat" : 45.3742342,
+                  "lng" : 10.9147425
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "National Yang Ming University",
+               "short_name" : "National Yang Ming University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "155號",
+               "short_name" : "155號",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "立農街二段",
+               "short_name" : "立農街二段",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beitou District",
+               "short_name" : "Beitou District",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taipei City",
+               "short_name" : "北市",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taiwan",
+               "short_name" : "TW",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "112",
+               "short_name" : "112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "National Yang Ming University, No. 155號立農街二段 Beitou District, Taipei City, Taiwan 112",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.1258056,
+                  "lng" : 121.5171814
+               },
+               "southwest" : {
+                  "lat" : 25.1194524,
+                  "lng" : 121.5092131
+               }
+            },
+            "location" : {
+               "lat" : 25.119953,
+               "lng" : 121.514497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.1258056,
+                  "lng" : 121.5171814
+               },
+               "southwest" : {
+                  "lat" : 25.1194524,
+                  "lng" : 121.5092131
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

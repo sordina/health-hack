@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitakyushu",
+               "short_name" : "Kitakyushu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fukuoka Prefecture",
+               "short_name" : "Fukuoka Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitakyushu, Fukuoka Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0222853,
+                  "lng" : 131.0388606
+               },
+               "southwest" : {
+                  "lat" : 33.7209413,
+                  "lng" : 130.673468
+               }
+            },
+            "location" : {
+               "lat" : 33.8834093,
+               "lng" : 130.8752161
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0222853,
+                  "lng" : 131.0388606
+               },
+               "southwest" : {
+                  "lat" : 33.7209413,
+                  "lng" : 130.673468
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Australian National University",
+               "short_name" : "Australian National University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Barry Dr",
+               "short_name" : "Barry Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Acton",
+               "short_name" : "Acton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Australian Capital Territory",
+               "short_name" : "ACT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0200",
+               "short_name" : "0200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Australian National University, Barry Dr, Acton ACT 0200, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.272586,
+                  "lng" : 149.1267414
+               },
+               "southwest" : {
+                  "lat" : -35.2946002,
+                  "lng" : 149.1105974
+               }
+            },
+            "location" : {
+               "lat" : -35.2776999,
+               "lng" : 149.118527
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.272586,
+                  "lng" : 149.1267414
+               },
+               "southwest" : {
+                  "lat" : -35.2946002,
+                  "lng" : 149.1105974
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

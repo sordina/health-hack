@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke Orthopaedic Surgery Residency Training Program",
+               "short_name" : "Duke Orthopaedic Surgery Residency Training Program",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Trent Drive",
+               "short_name" : "Trent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27710",
+               "short_name" : "27710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke Orthopaedic Surgery Residency Training Program, Duke University West Campus, Duke University, 200 Trent Drive, Durham, NC 27710, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0034312,
+               "lng" : -78.93671859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0124573,
+                  "lng" : -78.9207112
+               },
+               "southwest" : {
+                  "lat" : 35.9944041,
+                  "lng" : -78.952726
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke University Medical Center",
+               "short_name" : "Duke University Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2301",
+               "short_name" : "2301",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Erwin Road",
+               "short_name" : "Erwin Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27710",
+               "short_name" : "27710",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke University Medical Center, Duke University West Campus, Duke University, 2301 Erwin Road, Durham, NC 27710, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0075829,
+               "lng" : -78.93763249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0089318802915,
+                  "lng" : -78.93628351970848
+               },
+               "southwest" : {
+                  "lat" : 36.0062339197085,
+                  "lng" : -78.9389814802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duke University Medical Center: Morgenlander Joel C MD",
+               "short_name" : "Duke University Medical Center: Morgenlander Joel C MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Duke University West Campus",
+               "short_name" : "Duke University West Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "200",
+               "short_name" : "200",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Trent Drive",
+               "short_name" : "Trent Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27705",
+               "short_name" : "27705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Duke University Medical Center: Morgenlander Joel C MD, Duke University West Campus, Duke University, 200 Trent Drive, Durham, NC 27705, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0045358,
+               "lng" : -78.9362799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0058847802915,
+                  "lng" : -78.93493091970849
+               },
+               "southwest" : {
+                  "lat" : 36.0031868197085,
+                  "lng" : -78.93762888029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

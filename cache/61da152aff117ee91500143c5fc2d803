@@ -1,0 +1,231 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ranga Reddy",
+               "short_name" : "R.R. District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Andhra Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.579448,
+                  "lng" : 78.6913581
+               },
+               "southwest" : {
+                  "lat" : 17.2383708,
+                  "lng" : 78.2401412
+               }
+            },
+            "location" : {
+               "lat" : 17.385044,
+               "lng" : 78.486671
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.579448,
+                  "lng" : 78.6913581
+               },
+               "southwest" : {
+                  "lat" : 17.2383708,
+                  "lng" : 78.2401412
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medak",
+               "short_name" : "Medak",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andhra Pradesh",
+               "short_name" : "AP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "502220",
+               "short_name" : "502220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Andhra Pradesh 502220, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.6954699,
+                  "lng" : 77.6326699
+               },
+               "southwest" : {
+                  "lat" : 17.6587501,
+                  "lng" : 77.58011979999999
+               }
+            },
+            "location" : {
+               "lat" : 17.6740832,
+               "lng" : 77.6049218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.6954699,
+                  "lng" : 77.6326699
+               },
+               "southwest" : {
+                  "lat" : 17.6587501,
+                  "lng" : 77.58011979999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyderabad",
+               "short_name" : "Hyderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lakhimpur Kheri",
+               "short_name" : "Lakhimpur Kheri",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "262802",
+               "short_name" : "262802",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hyderabad, Uttar Pradesh 262802, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0584232,
+                  "lng" : 80.4184628
+               },
+               "southwest" : {
+                  "lat" : 28.051,
+                  "lng" : 80.40575989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.0556147,
+               "lng" : 80.4117869
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0584232,
+                  "lng" : 80.4184628
+               },
+               "southwest" : {
+                  "lat" : 28.051,
+                  "lng" : 80.40575989999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haiderabad",
+               "short_name" : "Haiderabad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "209870",
+               "short_name" : "209870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Haiderabad, Uttar Pradesh 209870, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.8297199,
+                  "lng" : 80.5112501
+               },
+               "southwest" : {
+                  "lat" : 26.80688,
+                  "lng" : 80.47865
+               }
+            },
+            "location" : {
+               "lat" : 26.8210554,
+               "lng" : 80.4966062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8297199,
+                  "lng" : 80.5112501
+               },
+               "southwest" : {
+                  "lat" : 26.80688,
+                  "lng" : 80.47865
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

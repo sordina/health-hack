@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Konya Province",
+               "short_name" : "Konya Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42000",
+               "short_name" : "42000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42000 Konya/Konya Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.034311,
+                  "lng" : 32.647959
+               },
+               "southwest" : {
+                  "lat" : 37.722702,
+                  "lng" : 32.3650059
+               }
+            },
+            "location" : {
+               "lat" : 37.8666667,
+               "lng" : 32.4833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.034311,
+                  "lng" : 32.647959
+               },
+               "southwest" : {
+                  "lat" : 37.722702,
+                  "lng" : 32.3650059
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Konya Airport",
+               "short_name" : "Konya Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Selçuklu",
+               "short_name" : "Selçuklu",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Konya Province",
+               "short_name" : "Konya Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42000",
+               "short_name" : "42000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Konya Airport (KYA), 42000 Konya Province, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.999694,
+                  "lng" : 32.582024
+               },
+               "southwest" : {
+                  "lat" : 37.961028,
+                  "lng" : 32.546834
+               }
+            },
+            "location" : {
+               "lat" : 37.9836,
+               "lng" : 32.5769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.999694,
+                  "lng" : 32.582024
+               },
+               "southwest" : {
+                  "lat" : 37.961028,
+                  "lng" : 32.546834
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

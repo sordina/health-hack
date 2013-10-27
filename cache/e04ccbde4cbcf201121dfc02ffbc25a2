@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "710061",
+               "short_name" : "710061",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Yanta",
+               "short_name" : "Yanta",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Xi'an",
+               "short_name" : "Xi'an",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shaanxi",
+               "short_name" : "Shaanxi",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yanta, Xi'an, Shaanxi, China, 710061",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2356473,
+                  "lng" : 108.9903396
+               },
+               "southwest" : {
+                  "lat" : 34.1933945,
+                  "lng" : 108.9457662
+               }
+            },
+            "location" : {
+               "lat" : 34.2071003,
+               "lng" : 108.9733579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2356473,
+                  "lng" : 108.9799387
+               },
+               "southwest" : {
+                  "lat" : 34.1933945,
+                  "lng" : 108.9457662
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

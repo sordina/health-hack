@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fudan University",
+               "short_name" : "Fudan University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "220号",
+               "short_name" : "220号",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Handan Road",
+               "short_name" : "Handan Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wujiaochang",
+               "short_name" : "Wujiaochang",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Yangpu",
+               "short_name" : "Yangpu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shanghai",
+               "short_name" : "Shanghai",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "China",
+               "short_name" : "CN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "200433",
+               "short_name" : "200433",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fudan University, 220 Handan Road, Wujiaochang, Yangpu, Shanghai, China, 200433",
+         "geometry" : {
+            "location" : {
+               "lat" : 31.2974197,
+               "lng" : 121.5036178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.3069535,
+                  "lng" : 121.5196252
+               },
+               "southwest" : {
+                  "lat" : 31.2878849,
+                  "lng" : 121.4876104
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

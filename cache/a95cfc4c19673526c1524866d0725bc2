@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plzen",
+               "short_name" : "Plzen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plzeň-City District",
+               "short_name" : "Plzeň-City District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Plzeň Region",
+               "short_name" : "Plzeň Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Czech Republic",
+               "short_name" : "CZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plzen, Czech Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.805786,
+                  "lng" : 13.4758465
+               },
+               "southwest" : {
+                  "lat" : 49.6776084,
+                  "lng" : 13.2680001
+               }
+            },
+            "location" : {
+               "lat" : 49.73842519999999,
+               "lng" : 13.37362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.805786,
+                  "lng" : 13.4758465
+               },
+               "southwest" : {
+                  "lat" : 49.6776084,
+                  "lng" : 13.2680001
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

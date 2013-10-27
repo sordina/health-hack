@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Symphonieorchester der Medizinischen Hochschule Hannover",
+               "short_name" : "Symphonieorchester der Medizinischen Hochschule Hannover",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Hannover Medical School",
+               "short_name" : "Hannover Medical School",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Carl-Neuberg-Straße",
+               "short_name" : "Carl-Neuberg-Straße",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Heideviertel",
+               "short_name" : "Heideviertel",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Buchholz-Kleefeld",
+               "short_name" : "Buchholz-Kleefeld",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hanover",
+               "short_name" : "Hanover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hanover Region",
+               "short_name" : "Hanover Region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "30625",
+               "short_name" : "30625",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Symphonieorchester der Medizinischen Hochschule Hannover, Hannover Medical School, Carl-Neuberg-Straße 1, 30625 Hanover, Germany",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.384604,
+               "lng" : 9.804364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3914138,
+                  "lng" : 9.820371399999999
+               },
+               "southwest" : {
+                  "lat" : 52.3777931,
+                  "lng" : 9.7883566
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

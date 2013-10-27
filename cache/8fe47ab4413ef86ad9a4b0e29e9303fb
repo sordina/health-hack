@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tel Aviv University",
+               "short_name" : "Tel Aviv University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Haim Levanon",
+               "short_name" : "Haim Levanon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tel Aviv",
+               "short_name" : "Tel Aviv",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tel Aviv University, Haim Levanon 55, Tel Aviv, Israel",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.1134982,
+               "lng" : 34.8035584
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.1229485,
+                  "lng" : 34.8195658
+               },
+               "southwest" : {
+                  "lat" : 32.1040469,
+                  "lng" : 34.787551
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

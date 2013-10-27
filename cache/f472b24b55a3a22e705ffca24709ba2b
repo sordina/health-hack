@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Royal Brisbane and Womens Hospital",
+               "short_name" : "Royal Brisbane and Womens Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Butterfield Street",
+               "short_name" : "Butterfield St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Herston",
+               "short_name" : "Herston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4006",
+               "short_name" : "4006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Royal Brisbane and Womens Hospital, Butterfield Street, Herston QLD 4006, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.4455978,
+                  "lng" : 153.0295159
+               },
+               "southwest" : {
+                  "lat" : -27.4503047,
+                  "lng" : 153.0243517
+               }
+            },
+            "location" : {
+               "lat" : -27.4468393,
+               "lng" : 153.028315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.4455978,
+                  "lng" : 153.0295159
+               },
+               "southwest" : {
+                  "lat" : -27.4503047,
+                  "lng" : 153.0243517
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

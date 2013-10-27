@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Massachusetts General Hospital",
+               "short_name" : "Massachusetts General Hospital",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Fruit Street",
+               "short_name" : "Fruit St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West End",
+               "short_name" : "West End",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02114",
+               "short_name" : "02114",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Massachusetts General Hospital, 55 Fruit Street, Boston, MA 02114, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3629682,
+               "lng" : -71.0686975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3712122,
+                  "lng" : -71.05269009999999
+               },
+               "southwest" : {
+                  "lat" : 42.3547231,
+                  "lng" : -71.08470489999999
+               }
+            }
+         },
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physical Medicine and Rehabilitation",
+               "short_name" : "Department of Physical Medicine and Rehabilitation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Tufts University Boston Campus",
+               "short_name" : "Tufts University Boston Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Boston",
+               "short_name" : "Boston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "02111",
+               "short_name" : "02111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physical Medicine and Rehabilitation, Tufts University Boston Campus, Boston, MA 02111, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3493237,
+               "lng" : -71.06352609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3575695,
+                  "lng" : -71.0475187
+               },
+               "southwest" : {
+                  "lat" : 42.3410768,
+                  "lng" : -71.0795335
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Physical Medicine and Rehabilitation",
+               "short_name" : "Department of Physical Medicine and Rehabilitation",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Thottapalayam",
+               "short_name" : "Thottapalayam",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vellore",
+               "short_name" : "Vellore",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "632004",
+               "short_name" : "632004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Physical Medicine and Rehabilitation, Thottapalayam, Vellore, Tamil Nadu 632004, India",
+         "geometry" : {
+            "location" : {
+               "lat" : 12.9249891,
+               "lng" : 79.13466579999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9263380802915,
+                  "lng" : 79.1360147802915
+               },
+               "southwest" : {
+                  "lat" : 12.9236401197085,
+                  "lng" : 79.13331681970848
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

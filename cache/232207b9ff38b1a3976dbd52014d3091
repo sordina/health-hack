@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tsuchiura",
+               "short_name" : "Tsuchiura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ibaraki Prefecture",
+               "short_name" : "Ibaraki Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tsuchiura, Ibaraki Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1753777,
+                  "lng" : 140.2844838
+               },
+               "southwest" : {
+                  "lat" : 36.0147392,
+                  "lng" : 140.1244752
+               }
+            },
+            "location" : {
+               "lat" : 36.0718812,
+               "lng" : 140.1960233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1753777,
+                  "lng" : 140.2844838
+               },
+               "southwest" : {
+                  "lat" : 36.0147392,
+                  "lng" : 140.1244752
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

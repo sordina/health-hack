@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Division of Pediatrics Cardiology",
+               "short_name" : "Division of Pediatrics Cardiology",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "D3215",
+               "short_name" : "D3215",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "1500",
+               "short_name" : "1500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East Medical Center Drive",
+               "short_name" : "E Medical Center Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Angell",
+               "short_name" : "Angell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Ann Arbor",
+               "short_name" : "Ann Arbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washtenaw",
+               "short_name" : "Washtenaw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48109",
+               "short_name" : "48109",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Division of Pediatrics Cardiology, 1500 East Medical Center Drive D3215, Ann Arbor, MI 48109, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.2843246,
+               "lng" : -83.72767159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2925789,
+                  "lng" : -83.7116642
+               },
+               "southwest" : {
+                  "lat" : 42.27606919999999,
+                  "lng" : -83.743679
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Department of Pediatrics",
+               "short_name" : "Department of Pediatrics",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Wayne State University",
+               "short_name" : "Wayne State University",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne",
+               "short_name" : "Wayne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48201",
+               "short_name" : "48201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Department of Pediatrics, Wayne State University, Wayne State University School of Medicine, Wayne State University, Detroit, MI 48201, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3512825,
+               "lng" : -83.05480659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35263148029149,
+                  "lng" : -83.0534576197085
+               },
+               "southwest" : {
+                  "lat" : 42.34993351970849,
+                  "lng" : -83.0561555802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

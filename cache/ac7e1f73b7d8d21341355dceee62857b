@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Villejuif",
+               "short_name" : "Villejuif",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Val-de-Marne",
+               "short_name" : "94",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Villejuif, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8080541,
+                  "lng" : 2.376832
+               },
+               "southwest" : {
+                  "lat" : 48.77868309999999,
+                  "lng" : 2.3430949
+               }
+            },
+            "location" : {
+               "lat" : 48.792716,
+               "lng" : 2.359279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8080541,
+                  "lng" : 2.376832
+               },
+               "southwest" : {
+                  "lat" : 48.77868309999999,
+                  "lng" : 2.3430949
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

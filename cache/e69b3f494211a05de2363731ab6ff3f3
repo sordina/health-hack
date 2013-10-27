@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumberland Hospital East Campus",
+               "short_name" : "Cumberland Hospital East Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hainsworth Street",
+               "short_name" : "Hainsworth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westmead",
+               "short_name" : "Westmead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2145",
+               "short_name" : "2145",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cumberland Hospital East Campus, 1/11 Hainsworth Street, Westmead NSW 2145, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.7985635,
+                  "lng" : 151.0018338
+               },
+               "southwest" : {
+                  "lat" : -33.8041064,
+                  "lng" : 150.9962225
+               }
+            },
+            "location" : {
+               "lat" : -33.802633,
+               "lng" : 150.998712
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.7985635,
+                  "lng" : 151.0018338
+               },
+               "southwest" : {
+                  "lat" : -33.8041064,
+                  "lng" : 150.9962225
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

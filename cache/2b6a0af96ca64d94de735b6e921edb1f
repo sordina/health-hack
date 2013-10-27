@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pusan National University",
+               "short_name" : "Pusan National University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Busandaehak-ro 63beon-gil",
+               "short_name" : "Busandaehak-ro 63beon-gil",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Jangjeon-dong",
+               "short_name" : "Jangjeon-dong",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Geumjeong-gu",
+               "short_name" : "Geumjeong-gu",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Busan",
+               "short_name" : "Busan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Korea",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "609-390",
+               "short_name" : "609-390",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pusan National University, Busandaehak-ro 63beon-gil, Jangjeon-dong, Geumjeong-gu, Busan, South Korea",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.2336843,
+               "lng" : 129.0829611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2427977,
+                  "lng" : 129.0989685
+               },
+               "southwest" : {
+                  "lat" : 35.2245699,
+                  "lng" : 129.0669537
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Versailles",
+               "short_name" : "Versailles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "78",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "IDF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Versailles, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.828575,
+                  "lng" : 2.1684639
+               },
+               "southwest" : {
+                  "lat" : 48.77916099999999,
+                  "lng" : 2.0698931
+               }
+            },
+            "location" : {
+               "lat" : 48.801408,
+               "lng" : 2.130122
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.828575,
+                  "lng" : 2.1684639
+               },
+               "southwest" : {
+                  "lat" : 48.77916099999999,
+                  "lng" : 2.0698931
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

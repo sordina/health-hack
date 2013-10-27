@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3015 GE",
+               "short_name" : "3015 GE",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Centrum",
+               "short_name" : "Centrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Rotterdam",
+               "short_name" : "Government of Rotterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3015 GE Rotterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9117501,
+                  "lng" : 4.469657
+               },
+               "southwest" : {
+                  "lat" : 51.9103724,
+                  "lng" : 4.4678321
+               }
+            },
+            "location" : {
+               "lat" : 51.9107729,
+               "lng" : 4.4684784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9124102302915,
+                  "lng" : 4.470093530291502
+               },
+               "southwest" : {
+                  "lat" : 51.9097122697085,
+                  "lng" : 4.467395569708498
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3015",
+               "short_name" : "3015",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            },
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Rotterdam",
+               "short_name" : "Government of Rotterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "3015 Rotterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9170647,
+                  "lng" : 4.4776063
+               },
+               "southwest" : {
+                  "lat" : 51.9079004,
+                  "lng" : 4.4576764
+               }
+            },
+            "location" : {
+               "lat" : 51.9117502,
+               "lng" : 4.4680441
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9170647,
+                  "lng" : 4.4776063
+               },
+               "southwest" : {
+                  "lat" : 51.9079004,
+                  "lng" : 4.4576764
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code_prefix", "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

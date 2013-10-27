@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erzurum",
+               "short_name" : "Erzurum",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erzurum",
+               "short_name" : "Erzurum",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erzurum, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.955924,
+                  "lng" : 41.3105771
+               },
+               "southwest" : {
+                  "lat" : 39.867876,
+                  "lng" : 41.216456
+               }
+            },
+            "location" : {
+               "lat" : 39.9,
+               "lng" : 41.27
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.955924,
+                  "lng" : 41.3105771
+               },
+               "southwest" : {
+                  "lat" : 39.867876,
+                  "lng" : 41.216456
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erzurum Airport",
+               "short_name" : "Erzurum Airport",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Yakutiye",
+               "short_name" : "Yakutiye",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Erzurum",
+               "short_name" : "Erzurum",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25060",
+               "short_name" : "25060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Erzurum Airport (ERZ), 25060 Erzurum, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.965562,
+                  "lng" : 41.19653
+               },
+               "southwest" : {
+                  "lat" : 39.948235,
+                  "lng" : 41.143013
+               }
+            },
+            "location" : {
+               "lat" : 39.9641,
+               "lng" : 41.17599999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.965562,
+                  "lng" : 41.19653
+               },
+               "southwest" : {
+                  "lat" : 39.948235,
+                  "lng" : 41.143013
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "airport", "transit_station", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "192-0392",
+               "short_name" : "192-0392",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Horinouchi",
+               "short_name" : "Horinouchi",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Hachioji",
+               "short_name" : "Hachioji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tokyo",
+               "short_name" : "Tokyo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Horinouchi, Hachioji, Tokyo 192-0392, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6381245,
+               "lng" : 139.3849428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.6394734802915,
+                  "lng" : 139.3862917802915
+               },
+               "southwest" : {
+                  "lat" : 35.6367755197085,
+                  "lng" : 139.3835938197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "postal_code" ]
+      }
+   ],
+   "status" : "OK"
+}

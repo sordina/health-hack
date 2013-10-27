@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sendai",
+               "short_name" : "Sendai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miyagi Prefecture",
+               "short_name" : "Miyagi Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sendai, Miyagi Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4546625,
+                  "lng" : 141.0469133
+               },
+               "southwest" : {
+                  "lat" : 38.1724961,
+                  "lng" : 140.4694181
+               }
+            },
+            "location" : {
+               "lat" : 38.268215,
+               "lng" : 140.8693558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3188,
+                  "lng" : 140.9419
+               },
+               "southwest" : {
+                  "lat" : 38.2217,
+                  "lng" : 140.7919
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

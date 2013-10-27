@@ -8,9 +8,10 @@ require 'pp'
 def cache url
   filename = 'cache/' + Digest::MD5.hexdigest( url )
   if File.exists? filename
+    puts "cache hit #{url}"
     open(filename).read
   else
-    puts "caching #{url}"
+    puts "cache miss #{url}"
     text = open(url).read
     File.open(filename,'w') do |f|
       f.write text
@@ -20,9 +21,8 @@ def cache url
 end
 
 def geocode institution
-  # https://developers.google.com/maps/documentation/geocoding/
+  # https://developers.google.com/maps/documentation/geocoding/ - Docs
   text = cache "https://maps.googleapis.com/maps/api/geocode/json?sensor=false&address=#{URI.encode institution}"
-  puts text
   JSON.parse text
 end
 
@@ -48,7 +48,7 @@ def citations pubmed_id, page = 0
 end
 
 def meta_search term
-  query_result = cache "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=0&usehistory=y&term=#{term}"
+  query_result = open( "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&retmax=0&usehistory=y&term=#{term}" ).read
   parse1       = Nokogiri::XML.parse query_result
   webenv       = parse1.css("WebEnv").text
   querykey     = parse1.css("QueryKey").text
@@ -61,7 +61,12 @@ def info_search pubmed_id
   doc = Nokogiri::HTML.parse text
   institution = doc.css('.aff p').text
   abstract = doc.css('.abstr p').text
-  result = {:institution => institution, :abstract => abstract, :location => geocode(institution.lines.first) }
+  first_institution = institution.lines.first
+  if first_institution && first_institution.length < 400
+    {:institution => institution, :abstract => abstract, :location => geocode(first_institution) }
+  else
+    nil
+  end
 end
 
 def search webenv, querykey, results_max

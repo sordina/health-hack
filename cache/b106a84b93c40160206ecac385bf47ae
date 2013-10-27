@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indiana University School of Medicine",
+               "short_name" : "Indiana University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "6200",
+               "short_name" : "6200",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "340",
+               "short_name" : "340",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 10th Street",
+               "short_name" : "W 10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Canal",
+               "short_name" : "Upper Canal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3082",
+               "short_name" : "3082",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Indiana University School of Medicine, 340 West 10th Street #6200, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7816823,
+               "lng" : -86.16518979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7902565,
+                  "lng" : -86.1491824
+               },
+               "southwest" : {
+                  "lat" : 39.773107,
+                  "lng" : -86.1811972
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indiana University Medicine",
+               "short_name" : "Indiana University Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Upper Canal",
+               "short_name" : "Upper Canal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indiana University Medicine, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7772137,
+               "lng" : -86.16364910000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.77856268029149,
+                  "lng" : -86.16230011970852
+               },
+               "southwest" : {
+                  "lat" : 39.77586471970849,
+                  "lng" : -86.16499808029153
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indiana University School of Medicine",
+               "short_name" : "Indiana University School of Medicine",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1110",
+               "short_name" : "1110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West Michigan Street",
+               "short_name" : "West Michigan Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Canal",
+               "short_name" : "Upper Canal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indianapolis",
+               "short_name" : "Indianapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center",
+               "short_name" : "Center",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Marion",
+               "short_name" : "Marion",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46202",
+               "short_name" : "46202",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indiana University School of Medicine, 1110 West Michigan Street, Indianapolis, IN 46202, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7816834,
+               "lng" : -86.1651866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.78303238029149,
+                  "lng" : -86.16383761970849
+               },
+               "southwest" : {
+                  "lat" : 39.7803344197085,
+                  "lng" : -86.16653558029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

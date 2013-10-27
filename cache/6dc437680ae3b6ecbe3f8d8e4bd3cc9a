@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dr. Stephen F. Gunther, MD",
+               "short_name" : "Dr. Stephen F. Gunther, MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "3B28",
+               "short_name" : "3B28",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Irving Street Northwest",
+               "short_name" : "Irving St NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20010",
+               "short_name" : "20010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3017",
+               "short_name" : "3017",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Dr. Stephen F. Gunther, MD, 110 Irving Street Northwest #3B28, Washington, DC 20010, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.929442,
+               "lng" : -77.01473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9381215,
+                  "lng" : -76.99872259999999
+               },
+               "southwest" : {
+                  "lat" : 38.9207614,
+                  "lng" : -77.03073739999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

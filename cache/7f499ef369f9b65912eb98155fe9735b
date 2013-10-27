@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ullevål University Hospital",
+               "short_name" : "Ullevål University Hospital",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "166",
+               "short_name" : "166",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kirkeveien",
+               "short_name" : "Kirkeveien",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ullevål",
+               "short_name" : "Ullevål",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0450",
+               "short_name" : "0450",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Oslo",
+               "short_name" : "Oslo",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Ullevål University Hospital, Kirkeveien 166, 0450 Oslo, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.9421951,
+                  "lng" : 10.7465977
+               },
+               "southwest" : {
+                  "lat" : 59.9358017,
+                  "lng" : 10.7333185
+               }
+            },
+            "location" : {
+               "lat" : 59.9382297,
+               "lng" : 10.7421758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.9421951,
+                  "lng" : 10.7465977
+               },
+               "southwest" : {
+                  "lat" : 59.9358017,
+                  "lng" : 10.7333185
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

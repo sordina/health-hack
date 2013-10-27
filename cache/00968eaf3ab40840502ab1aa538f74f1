@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Utah",
+               "short_name" : "University of Utah",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "201",
+               "short_name" : "201",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Presidents Circle",
+               "short_name" : "Presidents Cir",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Salt Lake City",
+               "short_name" : "Salt Lake City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake City",
+               "short_name" : "Salt Lake City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84112",
+               "short_name" : "84112",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Utah, 201 Presidents Circle, Salt Lake City, UT 84112, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7749149,
+                  "lng" : -111.8168417
+               },
+               "southwest" : {
+                  "lat" : 40.7507672,
+                  "lng" : -111.8533074
+               }
+            },
+            "location" : {
+               "lat" : 40.765023,
+               "lng" : -111.848931
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7749149,
+                  "lng" : -111.8168417
+               },
+               "southwest" : {
+                  "lat" : 40.7507672,
+                  "lng" : -111.8533074
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,227 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Belgrade, Faculty of Philology",
+               "short_name" : "University of Belgrade, Faculty of Philology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Studentski trg",
+               "short_name" : "Studentski trg",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stari Grad",
+               "short_name" : "Stari Grad",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belgrade",
+               "short_name" : "Belgrade",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Belgrade",
+               "short_name" : "City of Belgrade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Belgrade, Faculty of Philology, 3 Studentski trg, Belgrade 11000, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8192139,
+                  "lng" : 20.4574227
+               },
+               "southwest" : {
+                  "lat" : 44.8185251,
+                  "lng" : 20.4563606
+               }
+            },
+            "location" : {
+               "lat" : 44.8188807,
+               "lng" : 20.4567932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8202184802915,
+                  "lng" : 20.4582406302915
+               },
+               "southwest" : {
+                  "lat" : 44.8175205197085,
+                  "lng" : 20.4555426697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Belgrade - Faculty of Mathematics",
+               "short_name" : "University of Belgrade - Faculty of Mathematics",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Vojvode Šupljikca",
+               "short_name" : "Vojvode Šupljikca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Zvezdara",
+               "short_name" : "Zvezdara",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Belgrade",
+               "short_name" : "Belgrade",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Belgrade",
+               "short_name" : "City of Belgrade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Serbia",
+               "short_name" : "Central Serbia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Belgrade - Faculty of Mathematics, Vojvode Šupljikca, Belgrade 11000, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8002344,
+                  "lng" : 20.4851809
+               },
+               "southwest" : {
+                  "lat" : 44.7998766,
+                  "lng" : 20.4846981
+               }
+            },
+            "location" : {
+               "lat" : 44.8000681,
+               "lng" : 20.4848965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8014044802915,
+                  "lng" : 20.4862884802915
+               },
+               "southwest" : {
+                  "lat" : 44.7987065197085,
+                  "lng" : 20.4835905197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Belgrade Faculty of Orthodox Theology",
+               "short_name" : "University of Belgrade Faculty of Orthodox Theology",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "11б/B",
+               "short_name" : "11б/B",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Palilula",
+               "short_name" : "Palilula",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Belgrade",
+               "short_name" : "Belgrade",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "City of Belgrade",
+               "short_name" : "City of Belgrade",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Serbia",
+               "short_name" : "Central Serbia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Serbia",
+               "short_name" : "RS",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Belgrade Faculty of Orthodox Theology, 11б/B, Belgrade 11000, Serbia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8163561,
+                  "lng" : 20.4923667
+               },
+               "southwest" : {
+                  "lat" : 44.8155381,
+                  "lng" : 20.4914573
+               }
+            },
+            "location" : {
+               "lat" : 44.8159655,
+               "lng" : 20.4918462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8172960802915,
+                  "lng" : 20.4932609802915
+               },
+               "southwest" : {
+                  "lat" : 44.8145981197085,
+                  "lng" : 20.4905630197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

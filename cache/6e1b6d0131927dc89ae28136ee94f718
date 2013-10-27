@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bologna",
+               "short_name" : "BO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bologna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5561987,
+                  "lng" : 11.4337169
+               },
+               "southwest" : {
+                  "lat" : 44.4420377,
+                  "lng" : 11.2296541
+               }
+            },
+            "location" : {
+               "lat" : 44.494887,
+               "lng" : 11.3426163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5561987,
+                  "lng" : 11.4337169
+               },
+               "southwest" : {
+                  "lat" : 44.4420377,
+                  "lng" : 11.2296541
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jolanda di Savoia",
+               "short_name" : "Jolanda di Savoia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ferrara",
+               "short_name" : "FE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44037",
+               "short_name" : "44037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44037 Bologna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.897796,
+                  "lng" : 11.9858575
+               },
+               "southwest" : {
+                  "lat" : 44.8956524,
+                  "lng" : 11.9845574
+               }
+            },
+            "location" : {
+               "lat" : 44.8969136,
+               "lng" : 11.9853414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8980731802915,
+                  "lng" : 11.9865564302915
+               },
+               "southwest" : {
+                  "lat" : 44.8953752197085,
+                  "lng" : 11.9838584697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Agliano",
+               "short_name" : "Agliano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Asti",
+               "short_name" : "AT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14041",
+               "short_name" : "14041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14041 Bologna, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8022623,
+                  "lng" : 8.271485900000002
+               },
+               "southwest" : {
+                  "lat" : 44.7990769,
+                  "lng" : 8.2673369
+               }
+            },
+            "location" : {
+               "lat" : 44.8006628,
+               "lng" : 8.269218799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8022623,
+                  "lng" : 8.271485900000002
+               },
+               "southwest" : {
+                  "lat" : 44.7990769,
+                  "lng" : 8.2673369
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bologna",
+               "short_name" : "Bologna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perledo",
+               "short_name" : "Perledo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lecco",
+               "short_name" : "LC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lombardy",
+               "short_name" : "Lombardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23828",
+               "short_name" : "23828",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23828 Bologna, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.0172512,
+               "lng" : 9.3000972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.01860018029149,
+                  "lng" : 9.301446180291501
+               },
+               "southwest" : {
+                  "lat" : 46.0159022197085,
+                  "lng" : 9.298748219708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,414 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "2049",
+               "short_name" : "2049",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 100th Street",
+               "short_name" : "E 100th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44106",
+               "short_name" : "44106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 2049 East 100th Street, Cleveland, OH 44106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5057178,
+                  "lng" : -81.6124609
+               },
+               "southwest" : {
+                  "lat" : 41.4992881,
+                  "lng" : -81.6270998
+               }
+            },
+            "location" : {
+               "lat" : 41.5023186,
+               "lng" : -81.61758859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5057178,
+                  "lng" : -81.6124609
+               },
+               "southwest" : {
+                  "lat" : 41.4992881,
+                  "lng" : -81.6270998
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "9500",
+               "short_name" : "9500",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Euclid Avenue",
+               "short_name" : "Euclid Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairfax",
+               "short_name" : "Fairfax",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44195",
+               "short_name" : "44195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 9500 Euclid Avenue, Cleveland, OH 44195, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5022055,
+               "lng" : -81.6175875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.50355448029149,
+                  "lng" : -81.6162385197085
+               },
+               "southwest" : {
+                  "lat" : 41.50085651970849,
+                  "lng" : -81.61893648029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "306",
+               "short_name" : "306",
+               "types" : [ "subpremise" ]
+            },
+            {
+               "long_name" : "26900",
+               "short_name" : "26900",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cedar Road",
+               "short_name" : "Cedar Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beachwood",
+               "short_name" : "Beachwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44122",
+               "short_name" : "44122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 26900 Cedar Road #306, Beachwood, OH 44122, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5007826,
+               "lng" : -81.4889864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5021315802915,
+                  "lng" : -81.48763741970849
+               },
+               "southwest" : {
+                  "lat" : 41.4994336197085,
+                  "lng" : -81.4903353802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland Clinic",
+               "short_name" : "Cleveland Clinic",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "29800",
+               "short_name" : "29800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bainbridge Road",
+               "short_name" : "Bainbridge Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solon",
+               "short_name" : "Solon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44139",
+               "short_name" : "44139",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cleveland Clinic, 29800 Bainbridge Road, Solon, OH 44139, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4024674,
+               "lng" : -81.4673038
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4038163802915,
+                  "lng" : -81.4659548197085
+               },
+               "southwest" : {
+                  "lat" : 41.4011184197085,
+                  "lng" : -81.46865278029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Richard E. Jacobs Health Center",
+               "short_name" : "Richard E. Jacobs Health Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Avon",
+               "short_name" : "Avon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lorain",
+               "short_name" : "Lorain",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44011",
+               "short_name" : "44011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Richard E. Jacobs Health Center, Avon, OH 44011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.4685985,
+               "lng" : -81.9816847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4699474802915,
+                  "lng" : -81.98033571970851
+               },
+               "southwest" : {
+                  "lat" : 41.4672495197085,
+                  "lng" : -81.98303368029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ohio Clinic For Aesthetic and Plastic Surgery: Wojtanowski Michael H MD",
+               "short_name" : "Ohio Clinic For Aesthetic and Plastic Surgery: Wojtanowski Michael H MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2237",
+               "short_name" : "2237",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Crocker Road",
+               "short_name" : "Crocker Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga",
+               "short_name" : "Cuyahoga",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44145",
+               "short_name" : "44145",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "7606",
+               "short_name" : "7606",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Ohio Clinic For Aesthetic and Plastic Surgery: Wojtanowski Michael H MD, 2237 Crocker Road, Cleveland, OH 44145, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.455644,
+               "lng" : -81.94759999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4569929802915,
+                  "lng" : -81.94625101970848
+               },
+               "southwest" : {
+                  "lat" : 41.4542950197085,
+                  "lng" : -81.9489489802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

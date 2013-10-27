@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Limerick",
+               "short_name" : "University of Limerick",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Park Road",
+               "short_name" : "Park Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castletroy",
+               "short_name" : "Castletroy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limerick",
+               "short_name" : "Limerick",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "University of Limerick, Park Road, Castletroy, Co. Limerick, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6813922,
+                  "lng" : -8.556066399999999
+               },
+               "southwest" : {
+                  "lat" : 52.6670147,
+                  "lng" : -8.585066599999999
+               }
+            },
+            "location" : {
+               "lat" : 52.66855690000001,
+               "lng" : -8.574481499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6813922,
+                  "lng" : -8.556066399999999
+               },
+               "southwest" : {
+                  "lat" : 52.6670147,
+                  "lng" : -8.585066599999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

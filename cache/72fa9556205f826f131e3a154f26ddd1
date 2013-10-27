@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albuquerque",
+               "short_name" : "Albuquerque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bernalillo",
+               "short_name" : "Bernalillo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albuquerque, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            },
+            "location" : {
+               "lat" : 35.110703,
+               "lng" : -106.609991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

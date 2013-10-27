@@ -1,0 +1,661 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest University Baptist Medical Center",
+               "short_name" : "Wake Forest University Baptist Medical Center",
+               "types" : [ "bus_station", "transit_station", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27103",
+               "short_name" : "27103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wake Forest University Baptist Medical Center, Bowman Gray Campus, Winston-Salem, NC 27103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.08843,
+               "lng" : -80.26837159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.08977898029149,
+                  "lng" : -80.26702261970848
+               },
+               "southwest" : {
+                  "lat" : 36.0870810197085,
+                  "lng" : -80.26972058029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "bus_station", "transit_station", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest University: Cuciniello Jodi MD",
+               "short_name" : "Wake Forest University: Cuciniello Jodi MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27157",
+               "short_name" : "27157",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Wake Forest University: Cuciniello Jodi MD, Bowman Gray Campus, 1 Medical Center Boulevard, Winston-Salem, NC 27157, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0906122,
+               "lng" : -80.2714659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.09196118029151,
+                  "lng" : -80.27011691970849
+               },
+               "southwest" : {
+                  "lat" : 36.08926321970851,
+                  "lng" : -80.27281488029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest University: Ciacci Joseph DO",
+               "short_name" : "Wake Forest University: Ciacci Joseph DO",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27157",
+               "short_name" : "27157",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Wake Forest University: Ciacci Joseph DO, Bowman Gray Campus, 1 Medical Center Boulevard, Winston-Salem, NC 27157, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0905943,
+               "lng" : -80.27147239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0919432802915,
+                  "lng" : -80.27012341970848
+               },
+               "southwest" : {
+                  "lat" : 36.0892453197085,
+                  "lng" : -80.2728213802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest Baptist Health: Wofford Marcia MD",
+               "short_name" : "Wake Forest Baptist Health: Wofford Marcia MD",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27157",
+               "short_name" : "27157",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wake Forest Baptist Health: Wofford Marcia MD, Wake Forest University Baptist Medical Center: Nc Center For Cleft and Craniofacial Deformities, Bowman Gray Campus, Medical Center Boulevard, Winston-Salem, NC 27157, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0894685,
+               "lng" : -80.26600329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0908174802915,
+                  "lng" : -80.2646543197085
+               },
+               "southwest" : {
+                  "lat" : 36.0881195197085,
+                  "lng" : -80.2673522802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest Baptist Medical Center",
+               "short_name" : "WFBMC",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27103",
+               "short_name" : "27103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wake Forest Baptist Medical Center, 1 Medical Center Boulevard, Winston-Salem, NC 27103, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.092771,
+                  "lng" : -80.2652841
+               },
+               "southwest" : {
+                  "lat" : 36.0883208,
+                  "lng" : -80.2739663
+               }
+            },
+            "location" : {
+               "lat" : 36.0905397,
+               "lng" : -80.27143410000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.092771,
+                  "lng" : -80.2652841
+               },
+               "southwest" : {
+                  "lat" : 36.0883208,
+                  "lng" : -80.2739663
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest Baptist Health",
+               "short_name" : "Wake Forest Baptist Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27103",
+               "short_name" : "27103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wake Forest Baptist Health, Bowman Gray Campus, Medical Center Boulevard, Winston-Salem, NC 27103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0901686,
+               "lng" : -80.270709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.09151758029149,
+                  "lng" : -80.26936001970849
+               },
+               "southwest" : {
+                  "lat" : 36.0888196197085,
+                  "lng" : -80.27205798029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Center for Integrative Medicine - Wake Forest Baptist Health",
+               "short_name" : "Center for Integrative Medicine - Wake Forest Baptist Health",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27103",
+               "short_name" : "27103",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Center for Integrative Medicine - Wake Forest Baptist Health, 1 Medical Center Boulevard, Winston-Salem, NC 27103, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0901149,
+               "lng" : -80.2719487
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0914638802915,
+                  "lng" : -80.27059971970849
+               },
+               "southwest" : {
+                  "lat" : 36.0887659197085,
+                  "lng" : -80.27329768029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wake Forest Baptist Medical Center: Cancer Center",
+               "short_name" : "Wake Forest Baptist Medical Center: Cancer Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27157",
+               "short_name" : "27157",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0001",
+               "short_name" : "0001",
+               "types" : []
+            }
+         ],
+         "formatted_address" : "Wake Forest Baptist Medical Center: Cancer Center, Bowman Gray Campus, 1 Medical Center Boulevard, Winston-Salem, NC 27157, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0899298,
+               "lng" : -80.2691514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0912787802915,
+                  "lng" : -80.26780241970849
+               },
+               "southwest" : {
+                  "lat" : 36.0885808197085,
+                  "lng" : -80.27050038029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Robert J. Applegate, MD - Wake Forest Baptist Medical Center",
+               "short_name" : "Robert J. Applegate, MD - Wake Forest Baptist Medical Center",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Bowman Gray Campus",
+               "short_name" : "Bowman Gray Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "Medical Center Boulevard",
+               "short_name" : "Medical Center Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Winston-Salem",
+               "short_name" : "Winston-Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Winston",
+               "short_name" : "Winston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Forsyth",
+               "short_name" : "Forsyth",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27157",
+               "short_name" : "27157",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Robert J. Applegate, MD - Wake Forest Baptist Medical Center, Bowman Gray Campus, Medical Center Boulevard, Winston-Salem, NC 27157, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0906549,
+               "lng" : -80.2715051
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.09200388029149,
+                  "lng" : -80.2701561197085
+               },
+               "southwest" : {
+                  "lat" : 36.0893059197085,
+                  "lng" : -80.27285408029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "doctor", "point_of_interest", "health", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

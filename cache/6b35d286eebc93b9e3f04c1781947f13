@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queen's University Belfast",
+               "short_name" : "Queen's University Belfast",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "University Road",
+               "short_name" : "University Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT7 1NN",
+               "short_name" : "BT7 1NN",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Queen's University Belfast, University Road, Belfast BT7 1NN, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5844482,
+               "lng" : -5.9345016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5909138,
+                  "lng" : -5.9184942
+               },
+               "southwest" : {
+                  "lat" : 54.57798159999999,
+                  "lng" : -5.950508999999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Queens University",
+               "short_name" : "Queens University",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "BT9 5NB",
+               "short_name" : "BT9 5NB",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Belfast",
+               "short_name" : "Belfast",
+               "types" : [ "postal_town" ]
+            }
+         ],
+         "formatted_address" : "Queens University, Belfast BT9 5NB, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 54.5537538,
+               "lng" : -5.9666672
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5551027802915,
+                  "lng" : -5.965318219708498
+               },
+               "southwest" : {
+                  "lat" : 54.5524048197085,
+                  "lng" : -5.968016180291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

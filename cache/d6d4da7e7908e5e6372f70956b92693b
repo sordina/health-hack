@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "University of Amsterdam",
+               "short_name" : "University of Amsterdam",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "21",
+               "short_name" : "21",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Spuistraat",
+               "short_name" : "Spuistraat",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Burgwallen-Nieuwe Zijde",
+               "short_name" : "Burgwallen-Nieuwe Zijde",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Centrum",
+               "short_name" : "Centrum",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amsterdam",
+               "short_name" : "Amsterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Noord-Holland",
+               "short_name" : "Noord-Holland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "The Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "1012 WX",
+               "short_name" : "1012 WX",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "University of Amsterdam, Spuistraat 21, 1012 WX Amsterdam, The Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3713917,
+                  "lng" : 4.9605731
+               },
+               "southwest" : {
+                  "lat" : 52.3524287,
+                  "lng" : 4.8888456
+               }
+            },
+            "location" : {
+               "lat" : 52.357046,
+               "lng" : 4.9501243
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.35799549999999,
+                  "lng" : 4.9605731
+               },
+               "southwest" : {
+                  "lat" : 52.3524287,
+                  "lng" : 4.9461909
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Riverside, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.01951409999999,
+                  "lng" : -117.275174
+               },
+               "southwest" : {
+                  "lat" : 33.872517,
+                  "lng" : -117.523882
+               }
+            },
+            "location" : {
+               "lat" : 33.9533487,
+               "lng" : -117.3961564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.01951409999999,
+                  "lng" : -117.275174
+               },
+               "southwest" : {
+                  "lat" : 33.872517,
+                  "lng" : -117.523882
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

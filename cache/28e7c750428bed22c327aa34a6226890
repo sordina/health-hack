@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "short_name" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus",
+               "types" : [ "establishment" ]
+            },
+            {
+               "long_name" : "1300",
+               "short_name" : "1300",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Morris Park Avenue",
+               "short_name" : "Morris Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Morris Park",
+               "short_name" : "Morris Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10461",
+               "short_name" : "10461",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albert Einstein College of Medicine of Yeshiva University - Jack and Pearl Resnick Campus, 1300 Morris Park Avenue, Bronx, NY 10461, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8575132,
+                  "lng" : -73.83914659999999
+               },
+               "southwest" : {
+                  "lat" : 40.8475151,
+                  "lng" : -73.85012309999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8508265,
+               "lng" : -73.8456233
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8575132,
+                  "lng" : -73.83914659999999
+               },
+               "southwest" : {
+                  "lat" : 40.8475151,
+                  "lng" : -73.85012309999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "university", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

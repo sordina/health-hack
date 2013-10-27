@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mymensingh",
+               "short_name" : "Mymensingh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mymensingh",
+               "short_name" : "Mymensingh",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dhaka Division",
+               "short_name" : "Dhaka Division",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Bangladesh",
+               "short_name" : "BD",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mymensingh, Bangladesh",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.7827605,
+                  "lng" : 90.4485512
+               },
+               "southwest" : {
+                  "lat" : 24.7142056,
+                  "lng" : 90.344696
+               }
+            },
+            "location" : {
+               "lat" : 24.749201,
+               "lng" : 90.40261799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.7827605,
+                  "lng" : 90.4485512
+               },
+               "southwest" : {
+                  "lat" : 24.7142056,
+                  "lng" : 90.344696
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Haifa",
+               "short_name" : "Haifa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Israel",
+               "short_name" : "IL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Haifa, Israel",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.842681,
+                  "lng" : 35.079493
+               },
+               "southwest" : {
+                  "lat" : 32.75775,
+                  "lng" : 34.954059
+               }
+            },
+            "location" : {
+               "lat" : 32.830361,
+               "lng" : 34.974338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.842681,
+                  "lng" : 35.079493
+               },
+               "southwest" : {
+                  "lat" : 32.75775,
+                  "lng" : 34.954059
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
