@@ -113,10 +113,14 @@ if (Meteor.isClient) {
   }
 }
 
+papers = new Meteor.Collection("papers")
+
 if (Meteor.isServer) {
   Meteor.startup(function () {
-    // code to run on server at startup
+    console.log(["export length", papers_export_json.length])
+    // for(var i = 0; i < papers_export_json.length; i++) {
+    //   var p = papers_export_json[i]
+    //   papers.upsert({"Title": p["Title"]}, p)
+    // }
   });
 }
-
-papers = new Meteor.Collection("papers")
