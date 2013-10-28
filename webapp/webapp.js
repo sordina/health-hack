@@ -119,6 +119,8 @@ if (Meteor.isClient) {
 if (Meteor.isServer) {
   Meteor.startup(function () {
 
+    // TODO - Replace with migration style
+    /*
     papers.remove({})
 
     console.log(["export length", papers_export_json.length])
@@ -141,5 +143,6 @@ if (Meteor.isServer) {
 
     if(inserted > 0) { console.log("Inserted papers:  " + inserted) }
     if(updated  > 0) { console.log("Updated  papers:  " + updated ) }
+    */
   });
 }
