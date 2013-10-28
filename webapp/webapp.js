@@ -118,11 +118,28 @@ if (Meteor.isClient) {
 
 if (Meteor.isServer) {
   Meteor.startup(function () {
-    // console.log(["export length", papers_export_json.length])
-    // for(var i = 0; i < papers_export_json.length; i++) {
-    //   var p = papers_export_json[i]
-    //   console.log(papers.findOne())
-    //   papers.upsert({"Title": p["Title"]}, p)
-    // }
+
+    papers.remove({})
+
+    console.log(["export length", papers_export_json.length])
+
+    var inserted = 0
+    var updated = 0
+
+    for(var i = 0; i < papers_export_json.length; i++) {
+      var p = papers_export_json[i]
+
+      if( item = papers.findOne({"Title" : p["Title"]}) ) {
+          updated++;
+          papers.update(item._id, {$set: p})
+      }
+      else {
+          inserted++;
+          item = papers.insert(p)
+      }
+    }
+
+    if(inserted > 0) { console.log("Inserted papers:  " + inserted) }
+    if(updated  > 0) { console.log("Updated  papers:  " + updated ) }
   });
 }
